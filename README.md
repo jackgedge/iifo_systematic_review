@@ -17,3 +17,7 @@ The goal of this project is to track my final year MSc Emergency and Resuscitati
 
 ### Output (op)
 - This file is used to store outputs from python notebooks.
+
+### Requirements
+SerpAPI google scholar web scraping
+`conda install google-search-results`
