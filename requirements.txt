@@ -1,1 +1,5 @@
-google-search-results
+pandas
+serpapi
+dotenv
+json
+os
