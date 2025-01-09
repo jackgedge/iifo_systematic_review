@@ -36,10 +36,10 @@ The abstract will be written as per PRISMA (2020) Abstract Checklist (Page et al
 
 ### 3 - Aims and Outcomes	
 -   Primary
-    1.	To determine the rates of endoscopic and surgical interventions for intentional ingestion of foreign object in people who ingest foreign objects.
+    1. To determine the rates of endoscopic and surgical interventions for intentional ingestion of foreign object in people who ingest foreign objects.
 - Secondary
-    2.	To evaluate how, demographics, motivations (e.g. protest, suicidal/self-harm) influence the need for invasive interventions.
-    3.	To analyse how the type of object ingested impacts clinical outcomes, including intervention rates and complications.
+    2. To evaluate how, demographics, motivations (e.g. protest, suicidal/self-harm) influence the need for invasive interventions.
+    3. To analyse how the type of object ingested impacts clinical outcomes, including intervention rates and complications.
 
 ### 4 - Timeline
 (See Gantt Chart)
