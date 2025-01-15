@@ -6,13 +6,13 @@
 
 The global displacement crisis has reached unprecedented levels, with over 100 million forcibly displaced individuals reported by the United Nations High Commissioner for Refugees (UNHCR) as of May 2024 (UNHCR 2022). Refugees and asylum seekers often endure extreme hardships, compelling them to seek asylum in foreign countries (UNHCR 2010; Amnesty International 2024). This vulnerable population frequently faces compounded mental health challenges due to traumatic pre-migration experiences, hazardous journeys, and difficult post-migration realities, including detention and instability of legal status (Athwal 2015; Sundvall et al. 2015; Nickerson et al. 2019; Bevione et al. 2024).
 
-Self-harm, encompassing various behaviours where individuals inflict harm on themselves, is a particularly alarming manifestation of these mental health challenges. Rates of self-harm are significantly elevated among asylum seekers and refugees compared to general populations, especially among those who are detained, with rates up to 216 times higher in offshore detention facilities than in the general population (von Werthern et al. 2018; Hedrick et al. 2019; Global Detention Project 2024).
+Self-harm, encompassing various behaviours where individuals inflict harm on themselves, is a particularly alarming manifestation of these mental health challenges. Rates of self-harm are significantly elevated among asylum seekers and refugees compared to general populations, especially among those who are detained, with rates up to 216 times higher in offshore detention facilities - where medical facilties are limited - than in the general population (von Werthern et al. 2018; Hedrick et al. 2019; Global Detention Project 2024).
 
-Method of suicide and self-harm among refugees differ based on available means, cultural factors, and motivating factors (Ajdacic-Gross et al. 2008). Common methods include cutting, self-battery, attempted hanging, self-poisoning by medication or chemicals, and ingestion of foreign objects (Hedrick et al. 2019).
+Methods of suicide and self-harm among refugees differ based on available means, cultural factors, and motivating factors (Ajdacic-Gross et al. 2008). Common methods include cutting, self-battery, attempted hanging, self-poisoning by medication or chemicals, and ingestion of foreign objects (Hedrick et al. 2019).
 
-Globally, rates of foreign object ingestion are increasing. In the United States, rates doubled in 2017, with 14% of cases deemed (Hsieh et al. 2020). Rates are likely much higher among refugees and asylum seekers, with one review finding intentional ingestion in up to 92% of adult foreign body ingestion presentations in a lower socioeconomic population (Palta et al. 2009).
+Globally, rates of foreign object ingestion are increasing. In the United States, rates doubled in 2017, with 14% of cases deemed intentional (Hsieh et al. 2020). A review of IIFO presentations in 2009 found intentional ingestions in up to 92% of adults from lower socioeconomic populations, indicating that rates are likely much higher among refugees and asylum seekrs than the general population (Palta et al. 2009).
 
-Most ingested foreign bodies (80–90%) pass spontaneously. However, approximately 10–20% require endoscopic removal, and less than 1% need surgery to extract the foreign body or treat complications. Guidelines emphasise prompt assessment and intervention to prevent serious outcomes (Ikenberry et al. 2011; Birk et al. 2016). Applying these standards in refugee settings poses significant challenges due to geographical isolation and limited access to tertiary medical facilities, which can lead to delayed care and increased morbidity and mortality (Vujkovic 2019).
+Most ingested foreign bodies (80–90%) pass spontaneously. However, approximately 10–20% of all cases require endoscopic removal, and less than 1% need surgery to extract the foreign body or treat complications. Guidelines emphasise prompt assessment and intervention to prevent serious outcomes (Ikenberry et al. 2011; Birk et al. 2016). Applying these standards in refugee settings poses significant challenges due to geographical isolation and limited access to tertiary medical facilities, which can lead to delayed care and increased morbidity and mortality (Vujkovic 2019).
 
 Despite the rising prevalence of intentional ingestion of foreign objects (IIFO) and associated risks, there is a significant lack of focused research on how motivations differ among various vulnerable populations and how these motivations influence clinical outcomes (Bhugra et al. 2010; Haase et al. 2022; Hedrick and Borschmann 2023). Current literature largely addresses IIFO in prison and psychiatric settings, with limited exploration within displaced and asylum-seeking populations, especially in detention centres where power dynamics are pronounced. In such environments, self-harm can serve as a form of communication or protest when other avenues for expression are obstructed (Puggioni 2014). Conversely, in psychiatric or prison populations, motivations may stem from underlying mental health conditions or other factors (Karp et al. 1991; Losanoff and Kjossev 1996; O’Sullivan et al. 1996; Abraham and Alao 2005; Robertson 2019; Tromans et al. 2019; Al-Faham and Al-Hakkak 2020; Pantazopoulos et al. 2022; Aitchison and Essex 2024). These differing motivations may lead to variations in clinical management, potentially influencing the rates of endoscopic and surgical interventions required. Surely if one’s motivation is protest against perceived mistreatment, the goal isn’t laparotomy?
 
@@ -26,18 +26,16 @@ The abstract will be written as per PRISMA (2020) Abstract Checklist (Page et al
 ## Planning 
 
 ### 2a - Research Question
-“What are the rates of endoscopic and surgical interventions for intentional foreign body ingestion in people who intentionally ingest foreign bodies?”
+“What are the rates of endoscopic and surgical interventions following intentional ingestion of foreign object in the global population of humans who intentionally ingest foreign objects?”
 
 ### 2b - Hypothesis
-“Motivations behind intentional foreign body ingestion and the type of object ingested significantly influence the rates of endoscopic and surgical interventions in vulnerable populations.”
+“Motivations behind intentional ingestion of foreign objects and the type of object ingested significantly influence the rates of endoscopic and surgical interventions in vulnerable populations.”
 
 ### 2c - Null hypothesis
 “There is no significant association between the motivations behind intentional foreign body ingestion or the type of object ingested and the rates of endoscopic and surgical interventions in vulnerable populations.”
 
 ### 3 - Aims and Outcomes	
--   Primary
     1. To determine the rates of endoscopic and surgical interventions for intentional ingestion of foreign object in people who ingest foreign objects.
-- Secondary
     2. To evaluate how, demographics, motivations (e.g. protest, suicidal/self-harm) influence the need for invasive interventions.
     3. To analyse how the type of object ingested impacts clinical outcomes, including intervention rates and complications.
 
