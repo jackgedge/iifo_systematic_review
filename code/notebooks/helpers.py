@@ -1,4 +1,5 @@
 import pandas as pd
+from serpapi.google_search import GoogleSearch
 
 def track_duplicate_removal(stage, end_count, start_count=None, tracking_dict=None):
     """
@@ -85,46 +86,46 @@ def dataframe_to_ris(df, ris_file):
                         file.write(f"{ris_field}  - {row[df_col]}\n")
             file.write("ER  -\n\n")  # End of record
 
-# define a function to query google scholar
-def query_google_scholar(google_scholar_query, api_key, max_results=300):
-
+# Define Function to Search Google Scholar
+def search_google_scholar(query, api_key, max_results=300):
     """
-    Query google scholar using SerpAPI
-    
-    Parameters: 
-        - google_scholar_query: a string search query
-        - api_key = SerpAPI key, available at: https://serpapi.com/
-        - max_results = 300. Set at this level as single author and some evidence says that this is suitable limit.
-    
-    - Sets language to english
+    A function that performs a google scholar search and returns as pandas dataframe.
+
+    Parameters:
+    - query: a string google scholar query
+    - api_key: SerpAPI key, available at: https://serpapi.com/
+    - max_results. Maximum number of results to be returned.
     
     """
 
     all_results = []  # store all results here
     start = 0         # start with the first page
 
+    print(f"Searching Google Scholar: {query}")
+
+    # While the length of all_results is less than the maximum permitted:
     while len(all_results) < max_results:
-        # define parameters for searching google scholar
+    # Define parameters for searching google scholar
         params = {
-          "api_key": api_key,  # SerpAPI key
-          "engine": "google_scholar", # google_scholar engine
-          "q": google_scholar_query, # define query
-          "start": start,
-          "num": 20,
-          "hl": "en" # set language to english
+        "api_key": api_key,  # SerpAPI key
+        "engine": "google_scholar", # google_scholar engine
+        "q": query, # define query
+        "start": start,
+        "num": 20,
+        "hl": "en" # set language to english
         }
 
-        # search google scholar
+        # Search google scholar
         search = GoogleSearch(params)
         results = search.get_dict() # get results as dictionary
 
-        # get organic results
+        # Get organic results
         organic_results = results.get("organic_results", []) # retrieve organic list of results from results
 
-        # add results to the list
+        # Add results to the list
         all_results.extend(organic_results)
 
-        # check if there are no more results
+        # Check if there are no more results
         if len(organic_results) < 20:
             print("No more results to fetch.")
             break  # exit the loop
@@ -136,28 +137,15 @@ def query_google_scholar(google_scholar_query, api_key, max_results=300):
         if len(all_results) == max_results:
             print(f"Maximum number of {max_results} results reached.")
 
-    return all_results[:max_results]
+    organic_results = all_results[:max_results]
 
-# define function to retun google scholar results as pandas dataframe
-def scholar_to_df(organic_results, all_results_dict):
-
-    """
-    A function to transform dictionary output of SerpAPI Google Scholar Query into a
-    pandas dataframe.
-
-    Requirements:
-        - Pandas
-
-    Usage: 
-        - Takes input from query_google_scholar function.
-        - Outputs a pandas DataFrame
-    """
-# convert organic results to dictionary
+    # convert organic results to dictionary
     organic_results_dict = {}
 
     for item in organic_results:
         organic_results_dict[len(organic_results_dict)] = item
 
+    # Create organic results dataframe with predefined columns
     organic_results_df = pd.DataFrame(columns=[
     'Publication Year', 'First Author', 'Summary', 'Authors', 'Publication Title',
     'Title', 'Abstract', 'URL', 'Database', 'Exclude', 'Reason ID',
@@ -207,8 +195,38 @@ def scholar_to_df(organic_results, all_results_dict):
 
     return organic_results_df
 
+def create_search_query_summary(results):
+    
+    if not isinstance(results, dict):
+        try:
+            results = dict()
+        except TypeError as e:
+            print(f"{e} expected a dictionary, given {type(results)}")
+
+    # Create results dataframe with "Query" and "Num Results" columns
+    results_df = pd.DataFrame(columns=["Query", "Num Results"])
+
+    # Initialise list to store rows in 
+    rows = []
+
+    # iterate through results dictionary that contains queries and results dataframes from query
+    for item in results.values():
+        query = item.get('query') # get query
+        num_results = len(item.get('results')) # get number of results - max is 300.
+        # append row as dictionary
+        rows.append({
+            "Query": query,
+            "Num Results": num_results
+            })
+    # create dataframe from rows
+    results_df = pd.DataFrame(rows)
+
+    # return the results dataframe
+    return results_df
+
+
 # append to all google scholar results dictionary
-def append_results(query, df, results_dict):
+def append_google_scholar_results_to_dictionary(query, df, results_dict):
 
     """
     A function that appends query and the resultant dataframe to a dictionary.
@@ -223,7 +241,7 @@ def append_results(query, df, results_dict):
         "results": df}
     return results_dict
 
-def all_results_to_csv(results, output_path):
+def export_search_results_to_csvs(results, output_path):
     """
     For use in google_scholar_search
     Function that exports dataframes from queries to CSV.
@@ -242,7 +260,7 @@ def all_results_to_csv(results, output_path):
         df.to_csv(output_file, index=False)
 
 # define query to export results from all_results_dict as csv files.
-def results_to_csv(results, output_path):
+def export_search_result_summary_to_csv(results, output_path):
     """
     For use in google_scholar_search
     Export query and query counts to a CSV file.
