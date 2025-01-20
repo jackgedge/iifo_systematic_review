@@ -1,6 +1,7 @@
 import pandas as pd
 from serpapi.google_search import GoogleSearch
 
+
 def track_duplicate_removal(stage, end_count, start_count=None, tracking_dict=None):
     """
     Tracks duplicate removal process by adding a record to the tracking dictionary.
@@ -85,6 +86,7 @@ def dataframe_to_ris(df, ris_file):
                         # Write other RIS fields
                         file.write(f"{ris_field}  - {row[df_col]}\n")
             file.write("ER  -\n\n")  # End of record
+
 
 # Define Function to Search Google Scholar
 def search_google_scholar(query, api_key, max_results=300):
@@ -195,6 +197,7 @@ def search_google_scholar(query, api_key, max_results=300):
 
     return organic_results_df
 
+
 def create_search_query_summary(results):
     
     if not isinstance(results, dict):
@@ -241,6 +244,7 @@ def append_google_scholar_results_to_dictionary(query, df, results_dict):
         "results": df}
     return results_dict
 
+
 def export_search_results_to_csvs(results, output_path):
     """
     For use in google_scholar_search
@@ -258,6 +262,7 @@ def export_search_results_to_csvs(results, output_path):
         df = value['results']
         output_file = f"{output_path}/google_scholar_results_{n}.csv"
         df.to_csv(output_file, index=False)
+
 
 # define query to export results from all_results_dict as csv files.
 def export_search_result_summary_to_csv(results, output_path):
@@ -280,3 +285,39 @@ def export_search_result_summary_to_csv(results, output_path):
 
     # Save the DataFrame to CSV
     results.to_csv(output_file, index=False)
+
+
+# Create 10% sample for review by second author
+def create_results_sample(df, sample_pct_size=0.05, random_state=42):
+
+    """
+    Creates sample of given dataframe based on a percentage.
+
+    Parameters:
+    - df (pd.DataFrame): Results dataframe
+    - sample_pct_size (float): A percentage as a decimal value between 0 and 1.
+
+    Returns:
+    - pd.DataFrame: A DataFrame containing the sampled rows.
+    """
+    
+    # Validate that a dataframe was given
+    if not isinstance(df, pd.DataFrame):
+        return TypeError(f"Expected DataFrame, was given {type(df)}")
+    
+    # Validate that percentage given as decimal
+    if not sample_pct_size > 0 or not sample_pct_size < 1:
+        return ValueError(f"Sample percentage must be a decimal between 0 and 1.")
+    
+    sample_size = len(df) # Calculate size of given dataframe
+    print(f"Given sample size: {sample_size}")  # Print result
+    new_sample_size = int(round(sample_size * sample_pct_size)) # Calculate desired sample size.
+    
+    desired_percentage = int(sample_pct_size * 100) # Calculate desired percentage to display
+    print(f"Calculating desired sample size... {desired_percentage}% of {sample_size} = {new_sample_size}") # Print information
+
+    # Create the sample DataFrame
+    print("Creating Sample Dataframe")
+    sample_df = df.sample(n=new_sample_size, random_state=random_state)  # Use n instead of frac for precise row count
+    
+    return sample_df
