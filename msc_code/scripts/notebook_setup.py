@@ -1,17 +1,15 @@
 # Import libraries
-import os   # For operating system functions
-import sys  # For file management
-from dotenv import load_dotenv  # For environment variables
+import os
+import sys
+from dotenv import load_dotenv
 import pandas as pd # For data manipulation
 from matplotlib import pyplot as plt    # For plots
 from matplotlib import rcParams # For standardised plot layouts
 from serpapi.google_search import GoogleSearch  # Google Search Module from SerpAPI
-from code.notebooks.helpers import *   # Custom helper functions
-
-# Load environment variables from .env file
-load_dotenv()
+from msc_code.scripts.helpers import *   # Custom helper functions
 
 # Define key environment variables
+load_dotenv()
 
 # SerpAPI key, for Google Scholar querying
 SERP_API_KEY = os.getenv('SERP_API_KEY')
@@ -54,7 +52,7 @@ if SCRIPTS_DIR and os.path.exists(SCRIPTS_DIR) and SCRIPTS_DIR not in sys.path:
 
 # Import custom helper functions (if needed)
 try:
-    import code.notebooks.helpers as helpers
+    import msc_code.scripts.helpers as helpers
 except ImportError:
     raise ImportError(f"Unable to import 'helpers' from {SCRIPTS_DIR}. Ensure the directory is correct.")
 
