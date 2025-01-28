@@ -3,6 +3,7 @@ import os
 import sys
 from dotenv import load_dotenv
 import pandas as pd # For data manipulation
+import numpy as np # for c
 from matplotlib import pyplot as plt    # For plots
 from matplotlib import rcParams # For standardised plot layouts
 from serpapi.google_search import GoogleSearch  # Google Search Module from SerpAPI

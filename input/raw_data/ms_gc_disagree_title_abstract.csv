@@ -1,0 +1,8 @@
+id,Exclude_MS,Reason ID_MS,Exclude_GC,Reason ID_GC,Review_GC,Comments_GC
+73,True,3.0,False,,Unclear,No abstract - would need to see full paper
+55,True,3.0,False,,Unclear,"Likely to be accidental , but might include some intentional foreign objects"
+287,True,3.0,False,,Unclear,"Likely to be accidental , but might include some intentional "
+77,True,3.0,False,,Unclear,Could well include intentional coin ingestion
+438,True,3.0,False,,Unclear,Could well include intentional foreign object ingestion
+33,True,3.0,False,,Unclear,Could well include intentional coin ingestion
+331,True,3.0,False,,Unclear,Likely to include intentional ingestion
