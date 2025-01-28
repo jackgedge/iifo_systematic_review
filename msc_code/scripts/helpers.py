@@ -281,7 +281,7 @@ def export_search_result_summary_to_csv(results, output_path):
     # strip out \n from all cells in the dataframe
     results = results.apply(lambda col: col.map(lambda x: x.replace('\n', '') if isinstance(x, str) else x))
     
-    output_file = f"{output_path}/google_scholar_search_google_query_results_counts.csv"
+    output_file = f"{output_path}/google_scholar_query_results_counts.csv"
 
     # Save the DataFrame to CSV
     results.to_csv(output_file, index=False)
