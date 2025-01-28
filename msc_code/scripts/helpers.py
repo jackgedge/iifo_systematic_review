@@ -30,13 +30,21 @@ def track_duplicate_removal(stage, end_count, start_count=None, tracking_dict=No
     start_count = int(start_count) if start_count is not None else 0
     end_count = int(end_count) if end_count is not None else 0
 
-    # define new dictionary to output
+    # Define new dictionary to output
+    removed = start_count - end_count
+
+    # If removed is negative, set it to 0 or handle it gracefully
+    if removed < 0:
+        print(f"Warning: Removed count is negative at stage '{stage}'. Check the logic.")
+        removed = 0
+
     new_dict = {
         "Stage": stage,
         "Count": {
             "Start": start_count,
             "End": end_count,
-            "Removed": start_count - end_count
+            # Handle the "Start" stage or invalid cases
+            "Removed": 0 if stage == "Start" or start_count == 0 else start_count - end_count
         }
     }
 
