@@ -8,3 +8,5 @@ Exclusion Criteria
 6.	Duplicate publications or studies with overlapping data sets (the most comprehensive or recent study will be included).
 7.	Studies focusing on ingestion of substances (e.g. poisons, medications) rather than physical foreign objects.
 8.	Ingestions undertaken in controlled environment as part of voluntary study.
+9.	Ingestions not explicitly stated to be intentional.
+10.	Duplicate
