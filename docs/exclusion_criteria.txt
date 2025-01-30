@@ -1,5 +1,4 @@
 Exclusion Criteria
-
 1.	Full text not available in English.
 2.	Studies not focusing on intentional ingestion of foreign object via the oral cavity (mouth).
 3.	Studies focussing solely on accidental ingestion.
