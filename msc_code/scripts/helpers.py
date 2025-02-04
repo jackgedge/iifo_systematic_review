@@ -1,5 +1,6 @@
 import pandas as pd
 from serpapi.google_search import GoogleSearch
+import requests
 
 
 def track_duplicate_removal(stage, end_count, start_count=None, tracking_dict=None):
@@ -329,3 +330,26 @@ def create_results_sample(df, sample_pct_size=0.05, random_state=42):
     sample_df = df.sample(n=new_sample_size, random_state=random_state)  # Use n instead of frac for precise row count
     
     return sample_df
+
+
+def check_doi_valid(doi):
+    """
+    Check if a DOI is valid using the Semantic Scholar API.
+    
+    Returns a tuple (is_valid, title). If the DOI is valid, is_valid is True and title contains the paper title.
+    Otherwise, is_valid is False.
+    """
+    # Construct the API URL. Note the "DOI:" prefix.
+    url = f"https://api.semanticscholar.org/graph/v1/paper/DOI:{doi}?fields=title"
+    try:
+        response = requests.get(url)
+        if response.status_code == 200:
+            data = response.json()
+            # If title, assume it's valid.
+            return True, data.get("title", "No title available")
+        else:
+            print(f"DOI {doi} returned status code: {response.status_code}")
+            return False, None
+    except Exception as e:
+        print(f"Error checking DOI {doi}: {e}")
+        return False, None

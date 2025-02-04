@@ -50,7 +50,7 @@ The abstract will be written as per PRISMA (2020) Abstract Checklist (Page et al
     - Seek peer review or supervisory input where possible.
 - Access to full-text articles	
     - Use institutional access.
-    - Use Scihub where this fails.
+    - Use Sci-Hub where this fails.
     - Contact authors directly.
 - Time constraints.	
     - Adhere strictly to the timeline, prioritise tasks, and adjust as needed.
@@ -94,7 +94,7 @@ The abstract will be written as per PRISMA (2020) Abstract Checklist (Page et al
 - Interventions or exposures	
     - Humans that have:
         - Intentionally 
-        - ingested a foreign object through the oral cavity (mouth).
+        - Ingested a foreign object through the oral cavity (mouth).
 
 - Comparisons or control group	
     - Motivation/reason for ingestion:
@@ -168,8 +168,8 @@ The abstract will be written as per PRISMA (2020) Abstract Checklist (Page et al
         - Calculate pooled estimates (odds ratios, risk ratios, proportions).
         - Use mixed or random-effects model.
     - Heterogeneity Assessment:
-    - Use the I² test to evaluate heterogeneity.   
-    - Perform subgroup analyses based on variables like population type, motivation, object type, or study quality if heterogeneity is high.
+        - Use the I² test to evaluate heterogeneity.   
+        - Perform subgroup analyses based on variables like population type, motivation, object type, or study quality if heterogeneity is high.
 
 - Software	
     - Primarily Python libraries (meta-analysis, pandas, numpy, matplotlib, plotly). 
