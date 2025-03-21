@@ -1,0 +1,72 @@
+Patient_ID,Study_ID,Year,Age_Years,Gender,Patient_Location_Long,Patient_Residence_Long,Presentation_Time_Hrs,Medical_History,Medical_History_Long,Surgical_History,Surgical_History_Long,Psychiatric_History,Psychiatric_Diagnosis,DSH_History,DSH_History_Long,Learning_Disability,Previous_Ingestion,N_Previous_Items_Ingested,Previous_Endoscopy,N_Previous_Endoscopy,Previous_Surgery,N_Previous_Surgery
+3-001,3,1602,,Unknown,"""Prague""",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3-002,3,1635,,Unknown,"""Königsburg""",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3-003,3,1692,16.0,Male,"""Halle""",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3-004,3,1720,,Female,"""Rastemberg""",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3-005,3,1786,,Unknown,"""Toulouse""",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3-006,3,1819,24.0,Female,Location Not Reported,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3-007,3,1822,,Unknown,Location Not Reported,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3-008,3,1823,,Male,"""Grénoble""",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3-009,3,1836,50.0,Female,"""Riva""",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3-010,3,1848,32.0,Female,"""Leiden""",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Yes,"""Insane""",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3-011,3,1855,,Male,Location Not Reported,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3-012,3,1858,,Unknown,"""Wodkinsk""",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3-013,3,1875,18.0,Male,Location Not Reported,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3-014,3,1882,,Unknown,Location Not Reported,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3-015,3,1883,19.0,Male,"""Prague""",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3-016,3,1883,30.0,Male,"""Bourgueil""",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3-017,3,1886,40.0,Male,"""St. Louis""",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+39-001,39,1993,31.0,Male,China,"""Hospital for handicapped""",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-001,46,Unknown,,Female,Ireland,Unknown,Unknown,No,,Unknown,Unknown,Yes,Personality Disorder,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-002,46,Unknown,,Female,Ireland,Unknown,Unknown,No,,Unknown,Unknown,Yes,Personality Disorder,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-003,46,Unknown,,Female,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-004,46,Unknown,,Female,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-005,46,Unknown,,Female,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-006,46,Unknown,,Female,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-007,46,Unknown,,Female,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-008,46,Unknown,,Female,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-009,46,Unknown,,Female,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-010,46,Unknown,,Female,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-011,46,Unknown,,Female,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-012,46,Unknown,,Male,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-013,46,Unknown,,Male,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-014,46,Unknown,,Male,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-015,46,Unknown,,Male,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-016,46,Unknown,,Male,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-017,46,Unknown,,Male,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-018,46,Unknown,,Male,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-019,46,Unknown,,Male,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-020,46,Unknown,,Male,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-021,46,Unknown,,Male,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-022,46,Unknown,,Male,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-023,46,Unknown,,Male,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-024,46,Unknown,,Male,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-025,46,Unknown,,Male,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-026,46,Unknown,,Male,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-027,46,Unknown,,Male,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-028,46,Unknown,,Male,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-029,46,Unknown,,Male,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-030,46,Unknown,,Male,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-031,46,Unknown,,Male,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-032,46,Unknown,,Male,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-033,46,Unknown,,Male,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-034,46,Unknown,,Male,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-035,46,Unknown,,Male,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46-036,46,Unknown,,Male,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+51-001,51,1994,20.0,Male,Bulgaria,Prison,22,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+51-002,51,1994,20.0,Male,Bulgaria,Prison,9,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+51-003,51,1994,19.0,Male,Bulgaria,Prison,11,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+51-004,51,1994,21.0,Male,Bulgaria,Prison,10,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+51-005,51,1994,29.0,Male,Bulgaria,Prison,12,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+51-001,54,1996,23.0,Male,Bulgaria,Prison,16,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+60-001,60,1997,16.0,Female,Israel,Home,Unknown,Yes,glucose-6-phosphate dehydrogenase defficiency;,No,,No,No,Yes,"""wounded himself with a knife on his extremities and inflicted, through the abdominal wall, a penetrating dagger injury a few years previously"";",No,No,No,No,No,No,No
+61-001,61,1998,22.0,Male,Hungary,Home,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+85-001,85,2004,22.0,Female,USA,Home,Unknown,Yes,Hepatitis C; Current Smoker,Yes,Colposcopy without complication 1 year before presentation; Liver biopsy 9 months before presentation,No,No,No,No,No,No,No,No,No,No,No
+92-001,92,2006,30.0,Male,USA,Prison,Unknown,Yes,Seizure Disorder; Hepatitis C; Smoker; Alcohol Consumption,Yes,Laparoscopic removal of sewing needles,Yes,Depression; Paranoid Schizophrenia,Yes,Intentional Ingestion of Sewing Needles 4 years earlier; Multiple Suicide Attempts; Attempted Suicide (Overdose) Aged 19; Multiple Psychiatric Admissions,Unknown,Yes,6,No,0,Yes,1
+99-001,99,2007,44.0,Female,UK,Unknown,8days,No,,Unknown,Unknown,Yes,Deliberate Self Harm; Extensive Psychiatric History,Yes,"""Deliberate Self Harm""",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+101-001,101,2007,28.0,Female,USA,Acute inpatient psychiatric facility,,Unknown,Unknown,Unknown,Unknown,Yes,Extensive Psychiatric History; Borderline Personality Disorder; Post-Traumatic Stress Disorder; Major Depression; Over 100 Previous Psychiatric Admissions,Yes,"""6 days earlier, having cut her forearm extensively, creating several deep lacerations requiring multiple sutures""",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+101-002,101,2007,27.0,Female,USA,Residential Treatment Programme,Unknown,Unknown,Unknown,Unknown,Unknown,Yes,Post-Traumatic Stress Disorder; Borderline Personality Disorder; Suicide Attempts; Deliberate Self-Harm; Multiple Psychiatric Addmissions; Intention Ingestion of Foreign Object; Placing Sharp Objects in Vagina;,Yes,Intentional Ingestion of Foreign Objects; Placing Sharp Objects in Vagina; Deliberate Self-Harm,Unknown,Yes,Unknown,Unknown,Unknown,Unknown,Unknown
+101-003,101,2007,31.0,Male,USA,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Yes,Polysubstance Dependence; Major Depression; Antisocial Personality Disorder; Multiple Incarcerations; Repeated Psychiatric Admission; Repeated Suicide Attempts,Yes,Multiple Suicide Attempts; Intentional Ingestion of Foreign Objects for last 15 years.,Unknown,Yes,Unknown,Unknown,Unknown,Unknown,Unknown
+101-004,101,2007,53.0,Female,USA,Unknown,Unknown,Yes,Kleinfelter's Syndrome,Yes,Gender Change Surgery 20 years ago;,Yes,Borderline Personality Disorder; Opioid Dependence,Yes,Intentional Ingestion of Foreign Objects (multiple),Unknown,Yes,Multiple,Yes,Multiple,Unknown,Unknown
+101-005,101,2007,34.0,Female,USA,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Yes,Bipolar Disorder; Borderline Personality Disorder; Cocaine Dependence; Multiple Suicide Attempts; Chronic Self-Injurous Behaviour; Multiple Psychiatric Admissions,Yes,Repeated Arm-Cutting,Unknown,Yes,7,Yes,Multiple,Unknown,Unknown
+113-001,113,2007,39.0,Female,Greece,Unknown,Unknown,Unknown,Unknown,Yes,"""multiple admissions and laparotomies""",Yes,Drug Addiction; Depression,Yes,"""after suicide attempts with swallowed thermometers in the last 3 years.""",Unknown,Yes,Multiple,Unknown,Unknown,Yes,Unknown

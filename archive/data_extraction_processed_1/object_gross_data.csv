@@ -1,0 +1,13 @@
+Study_ID,N_Single_Obj_Ingestion,N_Multi_Object_Ingestion,N_No_Object_Found,N_Object_Size_Unknown,N_Food_Bolus,N_Object_<5cm_Diameter,N_Object_5-10cm_Diameter,N_Object_>10cm_Diameter,N_Object_Above_Pylorus,N_Object_Below_Pylorus
+3,,,,,,,,,,
+39,,,,,,,,,,
+46,27.0,9.0,,,,30,4,2,,
+51,0.0,5.0,,,,20,0,0,,
+54,1.0,0.0,,,,1,0,0,,
+60,0.0,1.0,,,,0,1,0,,
+61,1.0,0.0,,,,0,1,0,,
+85,1.0,0.0,,,,1,0,0,,
+92,1.0,0.0,,,,Unknown,Unknown,Unknown,,
+99,0.0,1.0,,,,4,0,0,,
+101,,,,,,,,,,
+113,,,,,,,,,,

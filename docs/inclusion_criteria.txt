@@ -1,0 +1,46 @@
+### 8a - Inclusion Criteria
+
+- Population, or participants and conditions of interest
+	- Any human.
+    - Any age group.
+- Interventions or exposures	
+    - Humans that have:
+        - Intentionally 
+        - Ingested a foreign object through the oral cavity (mouth).
+
+- Comparisons or control group	
+    - Motivation/reason for ingestion:
+        - Protest, suicidal intent, self-harm and other documented motivations.
+    - Intervention details:
+        - Number of ingestions
+        - Management strategies (Conservative, Endoscopic, Surgical)
+        - Time to intervention
+    - Object characteristics:
+        -	Multiple objects
+        -	Blunt objects
+        -	Sharp-pointed objects
+        -	Long objects
+        -	Food bolus
+        -	Object dimensions
+    - Radiological findings:
+        - Location of foreign object (i.e. Oesophagus, stomach, ileo-caecal region)
+    - Setting/location.
+
+- Outcomes of interest
+    - Rates of endoscopic intervention, defined as: 
+        - undergoing a minimally invasive medical procedure that involves inserting a flexible tube equipped with a light and camera—called an endoscope—into the body to visually examine internal organs or tissues (Goyal & Neumann 2020).
+    - Rates of surgical intervention, defined as:
+        - any operative intervention involving an incision to access internal organs with the goal of retrieving intentionally ingested foreign objects or managing complications resulting from such ingestion (Smith et al. 2019).
+    - Success of conservative management.
+    - Complications.
+    - Mortality.
+    - Recurrence rates.
+
+- Setting	
+    - Any setting.
+
+- Study designs	
+    - Observational studies (cohort, case-control, cross-sectional).
+    - Case series.
+    - Clinical trials.
+    - Case reports providing unique data on vulnerable populations.

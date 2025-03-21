@@ -1,0 +1,196 @@
+Study_ID,Study_ID,Exclude_JGE,Reason_ID_JGE,Unclear_JGE,Comments_JGE,Exclude_MS,Reason_ID_MS,Unclear_MS,Comments_MS,Exclude_GC,Reason_ID_GC,Comments_GC,Exclude_FINAL,Reason_ID_Final
+4,4,True,1.0,,"Pay wall, unable to access via QMUL or Sci-Hub.",,,,,,,,True,1.0
+7,7,True,9.0,,"Case series in 'Oesophagus' Section. Intention not explicitly intentional. All appear to be accidental. Chidlren swallowing coins, adults for food bolus impaction and dental implants.",,,,,,,,True,9.0
+15,15,True,9.0,,Case series. All children. All appear to be coins and pins. Age <4. Intention not explicitly intentional. ,,,,,,,,True,9.0
+21,21,True,5.0,,,,,,,,,,True,5.0
+22,22,True,5.0,,Cool case of baby that swallowed a .38 bullet in utero after obtaining facial gunshot wound.,True,2.0,False,,,,,True,5.0
+23,23,True,5.0,,,,,,,,,,True,5.0
+24,24,True,5.0,,Textbook on paediatric facial injuries.,,,,,,,,True,5.0
+25,25,True,2.0,,Focusses on pulmonary aspiration with case studies.,,,,,,,,True,2.0
+26,26,True,1.0,,"Pay wall, unable to access via QMUL or Sci-Hub.",True,2.0,False,Paywall,,,,True,1.0
+27,27,True,1.0,,"Pay wall, unable to access via QMUL or Sci-Hub.",,,,,,,,True,1.0
+32,32,True,1.0,,"Pay wall, unable to access via QMUL or Sci-Hub.",,,,,,,,True,1.0
+33,33,True,9.0,,Paediatric study. Intention not mentioned.,,,,,,,,True,9.0
+38,38,True,5.0,,"Review Article. Some cases, but no empirical evidence.",,,,,,,,True,5.0
+40,40,True,1.0,,"Pay wall, unable to access via QMUL or Sci-Hub.",,,,,,,,True,1.0
+41,41,True,2.0,,Aspiration focus.,,,,,,,,True,2.0
+50,50,True,9.0,,Paediatric study. Not explicitly intentional. Intention not recorded.,,,,,,,,True,9.0
+52,52,True,6.0,,Duplicate study,,,,,,,,True,6.0
+53,53,True,9.0,,"Paediatric study. Intention explicitly not recorded. Contians cases of retained foreign objects requiring thoracotomy, with retention lengths 2 months to 2 years. All patients didn't undergo a chest x-ray at the time of ingestion.",,,,,,,,True,9.0
+55,55,True,3.0,,Paper states: All cases of intentional injury (self inflicted or interpersonal violence) were excluded.,,,,,,,,True,3.0
+57,57,True,9.0,,Paediatric study. Intention not recorded. Study analysing eficacy of folley balloon catheter for the removal of smooth foreign objects in children.,,,,,,,,True,9.0
+58,58,True,9.0,,Paediatric study. Intention not mentioned. All patients less than 2 years of age.,True,3.0,False,,,,,True,9.0
+59,59,True,2.0,,Study looking at radiopacity of dental implants. Non-human also.,,,,,,,,True,2.0
+64,64,True,9.0,,Paediatric study. Intention not mentioned.,,,,,,,,True,9.0
+65,65,True,9.0,,"Paediatric study. Intention not mentioned. Mostly coins, food items ingested.",,,,,,,,True,9.0
+66,66,True,9.0,,Not explicitly intentional ingestion,,,,,,,,True,9.0
+71,71,True,9.0,,15 month old with TEF 'presumably after eating rocks',,,,,,,,True,9.0
+73,73,True,9.0,,Paediatric study. Intention not mentioned. Both cases involved children <32 months. ,True,2.0,False,,,,,True,9.0
+77,77,True,9.0,,Paediatric study. Intention not mentioned. Age 11-38 months.,,,,,,,,True,9.0
+78,78,True,9.0,,AEF after swallowing fishbone. Intention not explictly intentional.,,,,,,,,True,9.0
+81,81,True,9.0,,CT findings in ingested foreign objects. Intention not recorded. Includes only cases of fish bone or chicken bone impaction.,,,,,,,,True,9.0
+82,82,True,9.0,,"Paediatric study. Intention not mentioned. Population 7.5month mean age, in a culture that where blue beads pinned to baby clothing to protect from evil.",,,,,,,,True,9.0
+84,84,True,1.0,,Article in spanish. Abstract in English.,,,,,,,,True,1.0
+87,87,True,5.0,,Review. No empirical evidence.,,,,,,,,True,5.0
+88,88,True,,,Paediatric study. Intention not mentioned. Mean Age 4.6years for witnessed ingestions and 2.3years for witnessed.,,,,,,,,True,
+89,89,True,6.0,,Duplicate,,,,,,,,True,6.0
+90,90,True,9.0,,32YOM AEF following swallwed fishbone. No mention of intention.,,,,,,,,True,9.0
+93,93,True,9.0,,"Mixed cohort of accidental ingestion, deliberate insertion and deliberate ingestion of objects. Deliberate ""ingestion in 11"" patients. The study does not clearly distinguish between intentional and non-intentional ingestion, leading to mixed outcome reporting. Due to the inability to stratify results based on motivation, the findings are not directly applicable to our research question.",True,,False,,,,,True,9.0
+95,95,True,9.0,,Paediatric study. Intention not mentioned. All aged <47 months.,,,,,,,,True,9.0
+96,96,True,9.0,,"Reports of 9 x swallowed wires and 28 ""other"". But intentional not explicitly intentional.",,,,,,,,True,9.0
+97,97,True,5.0,,Review article.,,,,,,,,True,5.0
+98,98,True,,,Paediatric study. Intention not mentioned.,,,,,,,,True,
+100,100,True,,,Paediatric study. Intention not mentioned.,,,,,,,,True,
+108,108,True,9.0,,Paediatric study. Intention not reported.,,,,,,,,True,9.0
+114,114,True,1.0,,Title in English. Article in German.,True,2.0,False,,,,,True,1.0
+122,122,True,1.0,,"Pay wall, unable to access via QMUL or Sci-Hub.",True,2.0,False,,,,,True,1.0
+123,123,True,1.0,,"Pay wall, unable to access via QMUL or Sci-Hub.",,,,,,,,True,1.0
+124,124,True,9.0,,Paediatric study. Intention not mentioned.,,,,,,,,True,9.0
+130,130,True,1.0,,Article in German. Abstract in English.,True,2.0,False,,,,,True,1.0
+133,133,True,9.0,,All foreign bodies ingested were food items.,,,,,,,,True,9.0
+141,141,True,,,"Author not sure if ingested or inserted. No explicit mention of ingestion, but possible.",,,,,,,,True,
+142,142,True,9.0,,15 month old boy with TOF following button battery ingestion.,,,,,,,,True,9.0
+144,144,True,2.0,,Aspiration focus.,,,,,,,,True,2.0
+145,145,True,3.0,,Case study of male in chair that jolted when his phone rang whilst in dental chair and accidentally swallowed orthodontic key,,,,,,,,True,3.0
+146,146,True,3.0,,32-year-old male presented to the emergency room with the complaint of inadvertent swallowing of his own dental prosthesis while sleeping,,,,,,,,True,3.0
+147,147,True,2.0,,Looks at medications for use in endoscopy. Not intentional ingestion of foreign objects.,True,2.0,False,,,,,True,2.0
+151,151,True,9.0,,18-month-old male peritonitis and laparotomy after swallowing decorative crystal ball,True,3.0,False,,,,,True,9.0
+152,152,True,9.0,,Retrospective chart review to establish whether initial location of foreign body affected spontaneous passage after ingestion of foreign object. Intention not specified.,,,,,,,,True,9.0
+155,155,True,6.0,,Duplicate,,,,,,,,True,6.0
+157,157,True,9.0,,Cost analysis. No mention of intention.,,,,,,,,True,9.0
+160,160,True,5.0,,Book review.,,,,,,,,True,5.0
+162,162,True,9.0,,Not explicitly intentional. Perianal abscess with sepsis after ingestion of pig bone.,,,,,,,,True,9.0
+164,164,True,7.0,,"Ingestion of cyanoacrylate. Chemical or substance, not object.",,,,,,,,True,7.0
+166,166,True,5.0,,Review. No empirical evidence.,,,,,,,,True,5.0
+169,169,True,2.0,,"""Insertion of Foreign Bodies (polyembolokoilamania)""",,,,,,,,True,2.0
+176,176,True,1.0,,Abstract in English. Article in French.,,,,,,,,True,1.0
+179,179,True,,,Paediatric study. Intention not mentioned.,,,,,,,,True,
+181,181,True,5.0,,Survey?,True,5.0,False,Survey,,,,True,5.0
+184,184,True,9.0,,"Mixed population. Record of 15 patients swallowed miscellaneous items. No mention of intention, but intro talks about accidental ingestion.",,,,,,,,True,9.0
+185,185,True,9.0,,Paediatric study. Intention not mentioned.,,,,,,,,True,9.0
+189,189,True,9.0,,"Reports of ""metallic foreign bodies (two cases)"", but ingestion not explicitly intentional.",,,,,,,,True,9.0
+190,190,True,5.0,,Corresepondence. No original empirical data.,,,,,,,,True,5.0
+194,194,True,9.0,,Paediatric study. Intention not mentioned.,,,,,,,,True,9.0
+197,197,True,9.0,,Fish bone. Not explicitly intentional.,True,2.0,False,,,,,True,9.0
+199,199,True,5.0,,Review article.,,,,,,,,True,5.0
+200,200,True,9.0,,Compares rigid and flexible endoscopy. No mention of intention.,,,,,,,,True,9.0
+201,201,True,9.0,,"Compares techniques of TEF repair, mention of battery ingestion and foreign body ingestion. No mention of intention. ",,,,,,,,True,9.0
+202,202,True,6.0,,Duplicate,True,2.0,False,,,,,True,6.0
+203,203,True,9.0,,Fish bone. Implies unintentional.,,,,,,,,True,9.0
+205,205,True,5.0,,Clinical guideline for use imaging ingested foreign bodies. No focus on intentional ingestion.,,,,,,,,True,5.0
+210,210,True,1.0,,Title in English. Article in Spanish.,,,,,,,,True,1.0
+211,211,True,1.0,,Abstract in English. Article in French.,,,,,,,,True,1.0
+212,212,True,1.0,,"Pay wall, unable to access via QMUL or Sci-Hub.",True,,False,,,,,True,1.0
+213,213,True,9.0,,11 year old presenting 8 years after possible ingestion.,,,,,,,,True,9.0
+216,216,True,5.0,,Review article. No empirical evidence.,,,,,,,,True,5.0
+220,220,True,9.0,,Intention not recorded.,,,,,,,,True,9.0
+221,221,True,9.0,,Paediatric study. Intention not mentioned. All objects ingested were coins.,,,,,,,,True,9.0
+223,223,True,1.0,,Abstract in English. Article in French.,,,,,,,,True,1.0
+224,224,True,9.0,,"Includes intention as outcome measure, but not used in multivariate analysis",,,,,,,,True,9.0
+225,225,True,9.0,,All fish bone. Implies unintentional.,,,,,,,,True,9.0
+230,230,True,,,Paediatric study. Intention not mentioned.,,,,,,,,True,
+232,232,True,1.0,,Title in English. Article in Spanish.,,,,,,,,True,1.0
+233,233,True,5.0,,Review article. No original empirical data.,,,,,,,,True,5.0
+235,235,True,1.0,,"Pay wall, unable to access via QMUL or Sci-Hub.",,,,,,,,True,1.0
+236,236,True,2.0,,Presents two cases of polyembolokoilamania (insertion).,,,,,,,,True,2.0
+237,237,True,5.0,,Review article. Partial case reports.,,,,,,,,True,5.0
+239,239,True,9.0,,No mention of intention.Only mentions 'accident',,,,,,,,True,9.0
+240,240,True,9.0,,"Foreign body ingestion reported as cause of TEF, but not explicitly intentional.",,,,,,,,True,9.0
+241,241,True,9.0,,No mention of intention.,True,2.0,False,,,,,True,9.0
+246,246,True,6.0,,Duplicate,,,,,,,,True,6.0
+247,247,True,9.0,,Paediatric study. Intention not mentioned.,,,,,,,,True,9.0
+248,248,True,6.0,,Duplicate,,,,,,,,True,6.0
+251,251,True,1.0,,Title in English. Article in German.,,,,,,,,True,1.0
+252,252,True,5.0,,Review article. No original empirical data.,,,,,,,,True,5.0
+253,253,True,3.0,,Single case of unitentional ingestion of barbecue grill brush with food causing halitosis.,,,,,,,,True,3.0
+254,254,True,2.0,,Review of sealing procedures following premature prelabour rumpture of membranes.,,,,,,,,True,2.0
+255,255,True,5.0,,Consensus statement. No empirical data.,,,,,,,,True,5.0
+257,257,True,9.0,,Accidental wire brush ingestion reported.,,,,,,,,True,9.0
+258,258,True,5.0,,"Review of epidimology and management of caustic, foreign body, coin, button, magnet ingestion with empirical data.",,,,,,,,True,5.0
+262,262,True,9.0,,Paediatric Study no mention of intention.,,,,,,,,True,9.0
+269,269,True,,,Some figures on concurrent psychiatric diagnosis.,,,,,,,,True,
+270,270,True,9.0,,Retrospective chinese study of 1058 patients. No record of intention.,,,,,,,,True,9.0
+275,275,True,9.0,,"Review of epidemiology, pathophysiology, diagnosis and management of ingested button batteries. No record of intention.",,,,,,,,True,9.0
+276,276,True,9.0,,"Reports of 5. 4 chemical, 1 button battery. completed the Childrens Picky Eating Questionnaire CPEQ in children. No record of intention. ",,,,,,,,True,9.0
+279,279,True,2.0,,"Focus on ""Self-Embedding Behavior in Adults""",,,,,,,,True,2.0
+280,280,True,3.0,,"""A 33-year-old man presented to our hospital with progressive abdominal pain following accidental ingestion of a toothpick 4 days prior to presentation.""",,,,,,,,True,3.0
+283,283,True,1.0,,"Pay wall, unable to access via QMUL or Sci-Hub.",,,,,,,,True,1.0
+284,284,True,9.0,,"""EFB was defined as a FB that was accidentally or deliberately swallowed into the esophagus, unable to pass spontaneously or be vomited consciously, and must be extracted by endoscopy or surgical procedure"", but no empirical data on how many were intentional and outcomes not measured.",True,3.0,False,,,,,True,9.0
+287,287,True,9.0,,Baby death.,,,,,,,,True,9.0
+289,289,True,9.0,,Paediatric study. Intention not mentioned.,,,,,,,,True,9.0
+290,290,True,2.0,,"Includes 'inhalation and aspiration of foreign bodies or food', but no intention ingestion of foreign object.",,,,,,,,True,2.0
+291,291,True,9.0,,Paediatric study. Intention not mentioned. All objects batteries.,True,3.0,False,,,,,True,9.0
+295,295,True,9.0,,Paediatric study. Intention not mentioned.,,,,,,,,True,9.0
+297,297,True,9.0,,Paediatric study. Intention not mentioned.,,,,,,,,True,9.0
+299,299,True,1.0,,"Pay wall, unable to access via QMUL or Sci-Hub.",,,,,,,,True,1.0
+303,303,True,5.0,,Opinion piece that doesn't present empirical evidence.,,,,,,,,True,5.0
+304,304,True,1.0,,"Pay wall, unable to access via QMUL or Sci-Hub.",,,,,,,,True,1.0
+308,308,True,2.0,,"Refers to reaction to bactroban ointment which ""contains polyethylene glycol, which is reported to cause a foreign body reaction when injected""",True,2.0,False,,,,,True,2.0
+310,310,True,9.0,,Case of 27M with down syndrome and two previous laparotomies for FB removal. Unclear if intentional this time.,,,,,,,,True,9.0
+313,313,True,9.0,,Interesting epidimiological review of Turkish Syrian-border hospital with paediatric surgical emergencies. No mention of intentional ingestion. ,,,,,,,,True,9.0
+316,316,True,2.0,,Compare's scoring systems for Oesophageal Perforation. No mention if foreign body ingestion.,,,,,,,,True,2.0
+317,317,True,3.0,,"""All foreign body ingestions were accidental""",,,,,,,,True,3.0
+323,323,True,5.0,,Review article. Likely accidental ingestion. Intention not specified.,,,,,,,,True,5.0
+324,324,True,9.0,,Presumed accidental. Fish bones only. ,,,,,,,,True,9.0
+330,330,True,9.0,,Two children with rectal abscesses post. Not explicitly intentional.,,,,,,,,True,9.0
+331,331,True,5.0,,Position paper / review. Doesn't present empirical data.,,,,,,,,True,5.0
+334,334,True,3.0,,"4M ""accidentally ingested an unknown toy, as witnessed by his elder brother""",,,,,,,,True,3.0
+335,335,True,1.0,,Full text not available.,,,,,,,,True,1.0
+337,337,True,9.0,,Records serial MRI findings after button battery ingestion.,,,,,,,,True,9.0
+339,339,True,9.0,,Not explicitly intentional. 77M Illiac artery pseudo-aneurysm after toothpick ingestion.,,,,,,,,True,9.0
+340,340,True,2.0,,Not self ingestion. Homocidal intent. 4-month female with 4 open safety pins and midthoracic coin.,True,3.0,False,,,,,True,2.0
+341,341,True,9.0,,Not explicitly intentional. Objects ingested 2 fish bones and 1 duck bone.,,,,,,,,True,9.0
+343,343,True,2.0,,Foreign body sensation after palatal pillar implants.,,,,,,,,True,2.0
+351,351,True,9.0,,Case report. 42M toothpick ingestion. Not explictly intentional.,,,,,,,,True,9.0
+355,355,True,9.0,,Paediatric case series. No mention of intention.,,,,,,,,True,9.0
+358,358,True,2.0,,Studies conservative management of soft food bolus impaction.,,,,,,,,True,2.0
+361,361,True,9.0,,No empirical data on deliberate ingestions. ,,,,,,,,True,9.0
+362,362,True,5.0,,"Review article. ""The purpose of this article is to familiarize radiologists with CT esophagography"" techniques and imaging findings of emergent esophageal conditions.",,,,,,,,True,5.0
+363,363,True,9.0,,"Not explicitly intentional - ""doesn't remember"" swallowing foreign object..",,,,,,,,True,9.0
+365,365,True,9.0,,Paediatric study. Intention not mentioned.,,,,,,,,True,9.0
+366,366,True,5.0,,Review of evidence and proposed management of food bolus and oesophageal foreign body.,,,,,,,,True,5.0
+367,367,True,5.0,,Pictoral review. Doesn't present original empirical evidence. ,,,,,,,,True,5.0
+368,368,True,9.0,,Study of neonates.,,,,,,,,True,9.0
+371,371,True,2.0,,Giant phytobezoar. Unintentional. ,,,,,,,,True,2.0
+372,372,True,9.0,,No mention of intention.,,,,,,,,True,9.0
+374,374,True,9.0,,Retrospective analysis of single Indian surgeon's experience of ingested foreign bodies. Some intentional ingestions mentioned. But no empirical data on explictly intentional ingestions.,,,,,,,,True,9.0
+378,378,True,9.0,,2month male ingested large ear ring.,,,,,,,,True,9.0
+379,379,True,9.0,,Paediatric study. Intention not mentioned.,,,,,,,,True,9.0
+381,381,True,5.0,,Review. Looks at magnet ingestion in children. No mention of intention. ,,,,,,,,True,5.0
+383,383,True,9.0,,Paediatric study. Case series. Intention not mentioned.,,,,,,,,True,9.0
+385,385,True,7.0,,Case report. 25M Potassium tablet ingestion.,,,,,,,,True,7.0
+388,388,True,5.0,,Review article. No original empirical evidence.,,,,,,,,True,5.0
+389,389,True,5.0,,Reivew article. No original empirical evidence.,,,,,,,,True,5.0
+390,390,True,7.0,,Case report. 18F intentional ingestion of multiple objects and caustic chemical.,,,,,,,,True,7.0
+392,392,True,9.0,,Case series. All food products ingested. No mention of intention.,,,,,,,,True,9.0
+394,394,True,5.0,,Review article. Interesting part about pre-hospital administration of honey to reduce tissue injury post button battery ingestion. ,True,7.0,False,,,,,True,5.0
+395,395,True,2.0,,"Paediatric study. Case report. 12M ""He recalled accidentally swallowing a needle he was using while holding it between his lips a year prior to presentation.""",,,,,,,,True,2.0
+396,396,True,9.0,,Retrospective study of cases of foreign body aspiration and ingestion. No record of intention.,,,,,,,,True,9.0
+397,397,True,1.0,,"Pay wall, unable to access via QMUL or Sci-Hub.",,,,,,,,True,1.0
+403,403,True,3.0,,"Accidental ingestion of foreign objects in australian dental schools. ""Accidental foreign body ingestion occurred more frequently in this study (13.9%)""",,,,,,,,True,3.0
+404,404,True,9.0,,Single-centre 3 year retrospective review of oesphageal foreign bodies in china. Intention not recorded.,,,,,,,,True,9.0
+410,410,True,9.0,,"Compares RE and FE for ingested foreign objects. Reports of metal and sharp objects ingested, but intention not explicitly intentional. ",,,,,,,,True,9.0
+412,412,True,9.0,,"Single centre egyptian study looking at children admitted for foreign body removal. Intention not mentioned, but cerebral palsy and 'mental retardation' were characateristics of interest.",,,,,,,,True,9.0
+415,415,True,9.0,,Single centre retrospective study of pre- and post- NASPGHAN EBBI guidelien introduction periods.,,,,,,,,True,9.0
+417,417,True,3.0,,Case report. 43M accidentally swallowed a screw.,,,,,,,,True,3.0
+418,418,True,1.0,,"Pay wall, unable to access via QMUL or Sci-Hub.",,,,,,,,True,1.0
+423,423,True,9.0,,Paediatric study. Intention not recorded.,,,,,,,,True,9.0
+430,430,True,5.0,,Review article of button battery and cannabis ingestion. No mention of intentional ingestion.,,,,,,,,True,5.0
+433,433,True,9.0,,"Age under 21 Single centre retrospective study of button battery ingestion examining predictive factors for severe injury. Mentions data is collected on whether witnessed or intentional, but does not present data on intention. Perhaps because not significant.",,,,,,,,True,9.0
+434,434,True,5.0,,,,,,,,,,True,5.0
+435,435,True,9.0,,Narrative review of POCUS for identifying intentional ingestion of foreign object. No mention of intention. ,,,,,,,,True,9.0
+437,437,True,9.0,,Retrospective chart review of impacted foreign bodies in children. No mention of intention. ,,,,,,,,True,9.0
+448,448,True,3.0,,Non-intentional.,,,,,,,,True,3.0
+454,454,True,9.0,,Paediatric study. Not explicitly intentional. Intention not recorded. Refers to 'this type of accident'.,,,,,,,,True,9.0
+459,459,True,9.0,,"Paediatric study. Not explicitly intentional. Intention not recorded. Refers to 'kids accidentally accidentally grasp and ingest foreign objects""",True,2.0,False,,,,,True,9.0
+466,466,True,5.0,,Response to game theoretic solution proposed by another author. Doesn't present empirical data,,,,,,,,True,5.0
+467,467,True,5.0,,Review article. Clinical practice guideline. Doesn't present empirical evidence. Does not mention intention. ,True,,False,,,,,True,5.0
+470,470,True,4.0,,Animal study. Catfish.,,,,,,,,True,4.0
+474,474,True,9.0,,Retrospective chart review to evaluate effect of protocol for management of disk battery ingestion. Intention not mentioned. Not explictly intentional. ,,,,,,,,True,9.0
+477,477,True,5.0,,"Pictorial review of imaging findings after self-harm, suicide and brain death. Doesn't present empirical evidence. ",,,,,,,,True,5.0
+478,478,True,5.0,,Survey. Report on internationally distributed survey that assesses prevelance of paediatric repetitive foreign body ingestion.,,,,,,,,True,5.0
+480,480,True,5.0,,Opinion piece that doesn't present empirical evidence.,,,,,,,,True,5.0
+486,486,True,3.0,,Case series. All accidental cases.,,,,,,,,True,3.0
+487,487,True,9.0,,Case series. Age < 21 inclusion. But all casess age < 14 year. Neodyneum magnet ingestion. Intention not mentioned.,True,2.0,False,,,,,True,9.0
+488,488,True,3.0,,"Case report. 21M. Accidental chicken bone ingestion. ""patient did not recall eating it and therefore did not inform the clinicians""",,,,,,,,True,3.0
+489,489,True,9.0,,Single-centre retrospective chart review of foreign body ingestion which looks at evaluating FB-Intestinal canal angle as a predictive imaging marker for surgical intervention.,,,,,,,,True,9.0

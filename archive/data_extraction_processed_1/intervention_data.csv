@@ -1,0 +1,111 @@
+Intervention_ID,Study_ID,Patient_ID,Indication_Long,Indication_Type,Object_Long,Intervention_Long,Intervention_Type,Object_Removed,True_Ingestion,Time_Ingestion_To_Intervention_Long,Time_Ingestion_To_Intervention_Hrs
+1,3,3-001,,,,"""After the application of plasters, the point of the knifeblade penetrated the pyloric end of the stomach, and was there found and removed.""",Surgical,Yes,Yes,51days,1224.0
+2,3,3-002,,,,"""A cut was made on the left side beneath the short ribs, the stomach was pierced with curved needles, and the knife drawn out through a cut made upon the knife blade, which could be felt through the walls. The wound in the stomach was left to take care of itself, and the abdominal wound united with five stitches""",Surgical,Yes,Yes,41days,984.0
+3,3,3-003,,,,"""the knife projected from the wound; its point was fastened to the abdominal wall with silk threads. Two weeks later it was entirely removed.""",Surgical,Yes,Yes,"7months, 9weeks, 6days",5113.92
+4,3,3-004,,,,"""incision was made in the left hypochondrium""",Surgical,Yes,Yes,11days,264.0
+5,3,3-005,,,,"""An incision was made in the epigastrium, parallel to the linea alba, through which the point of the blade of the knife could be felt, and which had already pierced the stomach wall. The point was grasped with forceps, the opening in the stomach enlarged, and the knife extracted. Two stitches were put in the stomach wound, and one quill suture in the abdominal wound.",Surgical,Yes,Yes,Unknown,
+6,3,3-006,,,,"""An incision five centimeters long was made over the tumor from above downwards, the rectus abdominus was drawn to one side, and the stomach was opened.""",Surgical,Yes,Yes,229days,5496.0
+7,3,3-007,,,,"""Gastrotomy was done on the right side of the abdomen, where the foreign body could be felt.""",Surgical,Yes,Yes,31days,744.0
+8,3,3-008,,,,"""The cut was enlarged, and the spoon withdrawn with forceps. The stomach and abdominal surfaces everywhere adherent. Simple dressing.""",Surgical,Yes,Yes,7days,168.0
+9,3,3-009,,,,"""the first time the opening of the abscess was enlarged, and the fork removed.""",Surgical,Yes,Yes,2.5years,21915.0
+10,3,3-010,,,,"""Patient etherized. An incision eight centimeters long, along the linea alba, from a point three centimeters below the ensiform cartilage, was made. The stomach could not be seen, but it could be felt along the left border of the wound. It was drawn forward and fixed with two forceps. An incision two centimeters long was made through the anterior wall of the stomach, and was accompanied by emite severe haemorrhage. After prolonged efforts, the fork, as well as the piece of earthen ware, was discovered and removed. The wound in the stomach was closed with five sutures, the ends of which were left sticking out of the lower angle of the wound. The abdominal wound was closed with simple sutures, and adhesive plaster placed over all.""",Surgical,Yes,Yes,Unknown,
+11,3,3-011,,,,"""an incision four inches long was made from the umbilicus to the false ribs, two inches to the left of the median line. An incision was made into the stomach just long enoughjto get the bar out. No sutures were put into the stomach itself, the contraction of its walls being sufficient to bring the edges of the wound together. The abdominal wound was closed with sutures.""",Surgical,Yes,Yes,10days,240.0
+12,3,3-012,,,,"""An incision was made at this point, and the fork extracted.""",Surgical,Yes,Yes,Unknown,
+13,3,3-013,,,,"""Caustics were first applied to make the stomach adhere to the abdominal wall, without success.""",Conservative,No,Yes,Unknown,
+14,3,3-013,,,,"""an incision was made, and by the aid of forceps, a part of the stomach was drawn through the opening. The fold thus formed was held by a thread. With eight sutures the stomach was fastened to the circumference of the wound. The wall of the stomach was then opened, and with a little manipulation, the fork was removed.""",Surgical,Yes,Yes,10days,240.0
+15,3,3-014,,,,"""He advised opening the stomach. A cross cut was made, and the stomach laid bare It was taken out, and both wounds deftly sewn up.""",Surgical,Yes,Yes,5days,120.0
+16,3,3-015,,,,"""Emetics""",Conservative,No,Yes,Unknown,
+17,3,3-015,,,,"""suspending by the feet""",Conservative,No,Yes,Unknown,
+18,3,3-015,,,,"""After cutting through the abdominal wall, the point of the sword could be felt wholly in the cavity of the stomach, lying obliquely from above down to the left. After cutting through the stomach wall, the body was removed with little trouble.""",Surgical,Yes,Yes,Unknown,
+19,3,3-016,,,,"""purgative were used without success""",Conservative,No,Yes,Unknown,
+20,3,3-016,,,,"""Six weeks later an abscess appeared four centimeters under the border of the ribs, which was opened, and in the bottom of it the foreign body could be felt. Ten centimeters of it was cut off and removed."" ",Surgical,Yes,Yes,Unknown,
+21,3,3-016,,,,"""""He gave forty grammes of castor oil, and the rest of the piece came with the stool on the following morning.""""",Conservative,No,Yes,Unknown,
+22,3,3-017,,,,"""gastrotomy""",Surgical,Yes,Yes,Unknown,
+23,39,39-001,Failure to Progress,,,"""made it move under fluoroscope from the terminal ileum to the cecum""",Conservative,No,Yes,Unknown,
+24,39,39-001,Failure to Progress,,,"""colonoscopic removal of the battery""",Endoscopic,Yes,Yes,Unknown,
+25,39,39-001,Failure to Progress,,,"""observation of the course of the battery with contrast media of amidotrizoic acid""",Conservative,No,Yes,Unknown,
+26,46,Unknown,Intra-gastric foreign body,,,Upper gastro-intestinal endoscopy,Endoscopic,Yes,Yes,Unknown,
+27,46,Unknown,Intra-gastric foreign body,,,Upper gastro-intestinal endoscopy,Endoscopic,Yes,Yes,Unknown,
+28,46,Unknown,Unknown,,,Upper gastro-intestinal endoscopy,Endoscopic,No,No,Unknown,
+29,46,Unknown,Unknown,,,Upper gastro-intestinal endoscopy,Endoscopic,No,No,Unknown,
+30,46,Unknown,Empyaema,,Unknown,Bronchoscopy,Endoscopic,Unknown,Yes,Unknown,
+31,46,Unknown,Broncho-pleural fistula,,Unknown,Bronchoscopy,Endoscopic,Unknown,Yes,Unknown,
+32,46,Unknown,"""unresolving pyloric obstructmn by a large crucifix (previously observed at endoscopy) necessitated laparotomy.""",Obstruction,Large Crucifix,Laparotomy,Surgical,Yes,Yes,Unknown,
+33,46,Unknown,"""unresolwng mechamcal small bowel obstructmn with associated haemodynamtcally non-significant upper gastro-mtestinal baemorrhage was the indicatmn for surgery.""",Obstruction,Coin,Laparotomy,Surgical,Yes,Yes,Unknown,
+34,46,Unknown,Not Indicated,No Indication,Unknown,Conservative,Conservative,No,Unknown,No Intervention,
+35,46,Unknown,Not Indicated,No Indication,Unknown,Conservative,Conservative,No,Unknown,No Intervention,
+36,46,Unknown,Not Indicated,No Indication,Unknown,Conservative,Conservative,No,Unknown,No Intervention,
+37,46,Unknown,Not Indicated,No Indication,Unknown,Conservative,Conservative,No,Unknown,No Intervention,
+38,46,Unknown,Not Indicated,No Indication,Unknown,Conservative,Conservative,No,Unknown,No Intervention,
+39,46,Unknown,Not Indicated,No Indication,Unknown,Conservative,Conservative,No,Unknown,No Intervention,
+40,46,Unknown,Not Indicated,No Indication,Unknown,Conservative,Conservative,No,Unknown,No Intervention,
+41,46,Unknown,Not Indicated,No Indication,Unknown,Conservative,Conservative,No,Unknown,No Intervention,
+42,46,Unknown,Not Indicated,No Indication,Unknown,Conservative,Conservative,No,Unknown,No Intervention,
+43,46,Unknown,Not Indicated,No Indication,Unknown,Conservative,Conservative,No,Unknown,No Intervention,
+44,46,Unknown,Not Indicated,No Indication,Unknown,Conservative,Conservative,No,Unknown,No Intervention,
+45,46,Unknown,Not Indicated,No Indication,Unknown,Conservative,Conservative,No,Unknown,No Intervention,
+46,46,Unknown,Not Indicated,No Indication,Unknown,Conservative,Conservative,No,Unknown,No Intervention,
+47,46,Unknown,Not Indicated,No Indication,Unknown,Conservative,Conservative,No,Unknown,No Intervention,
+48,46,Unknown,Not Indicated,No Indication,Unknown,Conservative,Conservative,No,Unknown,No Intervention,
+49,46,Unknown,Not Indicated,No Indication,Unknown,Conservative,Conservative,No,Unknown,No Intervention,
+50,46,Unknown,Not Indicated,No Indication,Unknown,Conservative,Conservative,No,Unknown,No Intervention,
+51,46,Unknown,Not Indicated,No Indication,Unknown,Conservative,Conservative,No,Unknown,No Intervention,
+52,46,Unknown,Not Indicated,No Indication,Unknown,Conservative,Conservative,No,Unknown,No Intervention,
+53,46,Unknown,Not Indicated,No Indication,Unknown,Conservative,Conservative,No,Unknown,No Intervention,
+54,46,Unknown,Not Indicated,No Indication,Unknown,Conservative,Conservative,No,Unknown,No Intervention,
+55,46,Unknown,Not Indicated,No Indication,Unknown,Conservative,Conservative,No,Unknown,No Intervention,
+56,46,Unknown,Not Indicated,No Indication,Unknown,Conservative,Conservative,No,Unknown,No Intervention,
+57,46,Unknown,Not Indicated,No Indication,Unknown,Conservative,Conservative,No,Unknown,No Intervention,
+58,46,Unknown,Not Indicated,No Indication,Unknown,Conservative,Conservative,No,Unknown,No Intervention,
+59,46,Unknown,Not Indicated,No Indication,Unknown,Conservative,Conservative,No,Unknown,No Intervention,
+60,46,Unknown,Not Indicated,No Indication,Unknown,Conservative,Conservative,No,Unknown,No Intervention,
+61,46,Unknown,Not Indicated,No Indication,Unknown,Conservative,Conservative,No,Unknown,No Intervention,
+62,51,51-001,Peritoneal Signs,,Gastrointestinal Cross,Immediate laparotomy - xyphopubic laparotomies; the foreign objects were removed through longitudinal incisions that were subsequently closed transversely,Surgical,Yes,Yes,22hours,22.0
+63,51,51-002,"""all gastric crosses descended and impacted at the duodenojejunal junction""",Failure to Progress,Gastrointestinal Cross,Laparotomy after 18hr observation - xyphopubic laparotomies; the foreign objects were removed through longitudinal incisions that were subsequently closed transversely,Surgical,Yes,Yes,27hours,27.0
+64,51,51-003,"""During 8 hours of observation, the prepyloric single branch moved distally and another cross disjointed spontaneously. Thus, only 2V2 crosses re¬ mained in the prepyloric area""",Failure to Progress,Gastrointestinal Cross,"Laparotomy after 8hr observation, three single small jejunotomies - xyphopubic laparotomies; the foreign objects were removed through longitudinal incisions that were subsequently closed transversely",Surgical,Yes,Yes,19hours,19.0
+65,51,51-004,"""barium con¬ trast study confirmed the presence of perforations in both patients""",,Gastrointestinal Cross,Immediate laparotomy - xyphopubic laparotomies; the foreign objects were removed through longitudinal incisions that were subsequently closed transversely,Surgical,Yes,Yes,12hours,12.0
+66,51,51-005,"""barium con¬ trast study confirmed the presence of perforations in both patients""",,Gastrointestinal Cross,Immediate laparotomy - xyphopubic laparotomies; the foreign objects were removed through longitudinal incisions that were subsequently closed transversely,Surgical,Yes,Yes,14hours,14.0
+67,51,51-001,Perforated Viscous,Perforation,Gastrointestinal Cross,Peritoneal Lavage,Post-operative,No,Yes,Unknown,
+68,51,51-002,Perforated Viscous,Perforation,Gastrointestinal Cross,Peritoneal Lavage,Post-operative,No,Yes,Unknown,
+69,51,51-003,Perforated Viscous,Perforation,Gastrointestinal Cross,Peritoneal Lavage,Post-operative,No,Yes,Unknown,
+70,51,51-004,Perforated Viscous,Perforation,Gastrointestinal Cross,Peritoneal Lavage,Post-operative,No,Yes,Unknown,
+71,51,51-005,Perforated Viscous,Perforation,Gastrointestinal Cross,Peritoneal Lavage,Post-operative,No,Yes,Unknown,
+72,51,51-001,Perforated Viscous,Perforation,Gastrointestinal Cross,Drainage,Post-operative,No,Yes,Unknown,
+73,51,51-002,Perforated Viscous,Perforation,Gastrointestinal Cross,Drainage,Post-operative,No,Yes,Unknown,
+74,51,51-003,Perforated Viscous,Perforation,Gastrointestinal Cross,Drainage,Post-operative,No,Yes,Unknown,
+75,51,51-004,Perforated Viscous,Perforation,Gastrointestinal Cross,Drainage,Post-operative,No,Yes,Unknown,
+76,51,51-005,Perforated Viscous,Perforation,Gastrointestinal Cross,Drainage,Post-operative,No,Yes,Unknown,
+77,51,51-001,Perforated Viscous,Perforation,Gastrointestinal Cross,Post-operative nasogastric suction,Post-operative,No,Yes,Unknown,
+78,51,51-002,Perforated Viscous,Perforation,Gastrointestinal Cross,Post-operative nasogastric suction,Post-operative,No,Yes,Unknown,
+79,51,51-003,Perforated Viscous,Perforation,Gastrointestinal Cross,Post-operative nasogastric suction,Post-operative,No,Yes,Unknown,
+80,51,51-004,Perforated Viscous,Perforation,Gastrointestinal Cross,Post-operative nasogastric suction,Post-operative,No,Yes,Unknown,
+81,51,51-005,Perforated Viscous,Perforation,Gastrointestinal Cross,Post-operative nasogastric suction,Post-operative,No,Yes,Unknown,
+82,54,54-001,Object Type Gastrointestinal Cross,Perforation,Gastrointestinal Cross,"""uncomplicated surgical removal,""",Surgical,Yes,Yes,Unknown,
+83,60,60-001,Colonic Obstruction,Obstruction,Toilet Paper Balls,"""Gastrografin was administered through the nasogastric tube""",Conservative,Yes,Yes,Unknown,
+84,60,60-001,Colonic Obstruction,Obstruction,Toilet Paper Balls,"""Gastrografin was administered by enema""",Conservative,Yes,Yes,Unknown,
+85,60,60-001,Colonic Obstruction,Obstruction,Toilet Paper Balls,"""stools were monitored for excretion of paper balls;""",Conservative,No,Yes,Unknown,
+86,61,61-001,"""Peritonitis due to duodenal perforation could not be excluded""",,Pocket-knife blade,Analgesics,Conservative,No,Yes,Unknown,
+87,61,61-001,"""Peritonitis due to duodenal perforation could not be excluded""",,Pocket-knife blade,Spasmolytics,Conservative,No,Yes,Unknown,
+88,61,61-001,"""Peritonitis due to duodenal perforation could not be excluded""",,Pocket-knife blade,Sedatives,Conservative,No,Yes,Unknown,
+89,61,61-001,"""Peritonitis due to duodenal perforation could not be excluded""",,Pocket-knife blade,Prophylaxis with antibiotics,Conservative,No,Yes,Unknown,
+90,61,61-001,"""Peritonitis due to duodenal perforation could not be excluded""",,Pocket-knife blade,"""general endotracheal anaesthesia urger laparoscopic exploration""",Surgical,Yes,Yes,Unknown,
+91,61,61-001,Perforated Viscous,Perforation,Pocket-knife blade,"""abdominal cavity washed with physiological saline""",Post-operative,No,Yes,Unknown,
+92,85,85-001,Small Bowel Obstruction,Obstruction,United States penny coin,"""1-L bolus of D5LR""",Conservative,No,Yes,3weeks,504.0
+93,85,85-001,Small Bowel Obstruction,Obstruction,United States penny coin,25mg Promethazine IV,Conservative,No,Yes,3weeks,504.0
+94,85,85-001,Small Bowel Obstruction,Obstruction,United States penny coin,"""nasogastric tube placed""",Pre-operative,No,Yes,3weeks,504.0
+95,85,85-001,"Stricture, Perforation, Fibrotic Bowel Wall",,United States penny coin,"""Resection of 25 cm of the distal ileum was done.""",Surgical,Yes,Yes,3weeks,504.0
+96,85,85-001,Cystitis,,,Amoxicillin 1 week from different hospital prior to presentation.,Conservative,No,Yes,2weeks,336.0
+97,92,92-001,Indication Not Stated,,Rolled Metal Tuna Can Lid,"""Exploratory laparotomy enterotomy""",Surgical,Yes,Yes,Unknown,
+98,99,99-001,Indication Not Stated,,Razor blade,"""oesogastroscopy""",Endoscopic,Yes,Yes,8days,192.0
+99,99,99-001,Indication Not Stated,,Razor blade,"""oesogastroscopy""",Endoscopic,Yes,Yes,8days,192.0
+100,99,99-001,"""3-day period of observation, the patient remained stable, pain-free and generally well""",,Razor blade,"""Following a 3-day period of observation, the patient remained stable, pain-free and generally well, and was discharged with no further surgical intervention planned.""",Conservative,No,Yes,11days,264.0
+101,99,99-001,Signs of Shock / Cardiac Arrest,,Razor blade,"""aggressive fluid resuscitation""",Resucitation,No,Yes,"12days, 6hours",288.0
+102,99,99-001,Signs of Shock / Cardiac Arrest,,Razor blade,"""increasing doses of adrenaline""",Resucitation,No,Yes,"12days, 6hours",288.0
+103,99,99-001,Preperation for surgery,,Razor blade,"""right intercostal drain""",Surgical,No,Yes,"12days, 6hours",288.0
+104,99,99-001,"""tamponading haemothorax""",,Razor blade,"""right posterolateral thoracotomy to relief the tamponading haemothorax""",Surgical,No,Yes,"12days, 6hours",288.0
+105,99,99-001,Signs of Shock / Cardiac Arrest,,Razor blade,Fluid Resuscitation,Resucitation,No,Yes,"12days, 6hours",288.0
+106,99,99-001,Signs of Shock / Cardiac Arrest,,Razor blade,Blood Product Resuscitation,Resucitation,No,Yes,"12days, 6hours",288.0
+107,99,99-001,Signs of Shock / Cardiac Arrest,,Razor blade,Adrenaline,Resucitation,No,Yes,"12days, 6hours",288.0
+108,101,101-003,Indication Not Stated,,Uncappped Razor blade,Endoscopic retrieval of razor blade,Endoscopic,Yes,Yes,Unknown,
+109,113,113-001,Indication Not Stated,,Thermometer,Rigid endoscopy was unrevealing,Endoscopic,No,Yes,Unknown,
+110,113,113-001,Indication Not Stated,,Thermometer,Rigid endoscopy was unrevealing,Endoscopic,No,Yes,Unknown,

@@ -1,0 +1,32 @@
+Hi Giles,
+
+If you could please review these full texts and decide whether or not you should exlude them based on the following criteria.
+    1: "Full text not available in English.",
+    2: "Studies not focusing on intentional ingestion of foreign object via the oral cavity (mouth).",
+    3: "Studies focussing solely on accidental ingestion.",
+    4: "Non-Human/Animal studies.",
+    5: "Reviews, editorials, commentaries, and opinion pieces without original empirical data.",
+    6: "Duplicate publications or studies with overlapping data sets (the most comprehensive or recent study will be included).",
+    7: "Studies focusing on ingestion of substances (e.g. poisons, medications) rather than physical foreign objects.",
+    8: "Ingestions undertaken in controlled environment as part of voluntary study.",
+    9: "Ingestions not explicitly stated to be intentional."
+
+Steps to take in preperation for reviewing:
+    1. Download Zotero to your computer.
+    2. Import the accompanying .ris file to Zotero. This will have the accompanying PDFs for the paper.
+
+Steps to take when reviewing:
+    1. Read full text.
+    2. Record True in the "Exclude" column if you wish to exclude a paper according to the exclusion criteria (above), False if not.
+    3. Record Reason for exclusion in "Reason ID" column. The numbering should correspond to that given in the list of exclusion criteria.
+    4. Record True in the "Paediatric" column if the population of the study is <18 years of age, False if not.
+    5. Record True in the "Intention Reported" column if an intention is reported, False otherwise.
+    6. Record True in the "Deliberate Intention" column if the recorded intention is deliberate, False if not deliberate.
+    7. Record True in the "Unclear" column if you're not clear wheter to include of exclude.
+    8. Record the date you accessed the paper in the "Accessed" column (YYYY-MM-DD).
+    9. Record any comments in the "Comments" column.
+    10. If you are unsure to exclude, please include and mark True in the "Unclear" column.
+
+Cheers,
+
+Jack
