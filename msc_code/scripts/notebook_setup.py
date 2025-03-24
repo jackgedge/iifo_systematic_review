@@ -13,6 +13,7 @@ import gc
 import csv
 from habanero import Crossref
 import seaborn as sns
+from matplotlib.patches import FancyBboxPatch
 from serpapi.google_search import GoogleSearch  # Google Search Module from SerpAPI
 from msc_code.scripts.helpers import *   # Custom helper functions
 from msc_code.scripts.data_extraction_helpers import * 
