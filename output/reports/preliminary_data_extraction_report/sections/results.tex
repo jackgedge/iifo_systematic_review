@@ -1,0 +1,103 @@
+\input{stats.tex}
+
+\subsection{Study Data}
+Study design data for papers where data extraction is complete.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/study_design_plot.pdf}
+    \caption{Bar plot showing the distribution of study design characteristics where data has been extracted.}
+    \label{fig:study-design}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/publications_per_year_plot.pdf}
+    \caption{Histogram showing the distribution of publication dates of papers data collected from.}
+    \label{fig:publication-years}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/cases_per_year_plot.pdf}
+    \caption{Histogram showing the distribution of case dates.}
+    \label{fig:case-years}
+\end{figure}
+
+\FloatBarrier
+\newpage
+
+\subsection{Age and Gender}
+
+The mean age of included cases was \AgeMean{} years (range: \AgeMin{}–\AgeMax{} years). The median was \AgeMedian{} years.
+
+\begin{table}[H]
+    \centering
+    \input{tables/gender_table.tex}
+    \caption{Gender distribution of included cases.}
+    \label{tab:gender-distribution}
+\end{table}
+
+\begin{table}[H]
+    \centering
+    \input{tables/age_summary_table.tex}
+    \caption{Summary statistics for age of included cases.}
+    \label{tab:age-summary}
+\end{table}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/age_kde_plot.pdf}
+    \caption{Kernel density estimate (KDE) plot showing the distribution of age among included cases.}
+    \label{fig:age-kde}
+\end{figure}
+
+\FloatBarrier
+\newpage
+
+\subsection{Population Characteristics}
+
+\begin{table}[H]
+    \centering
+    \input{tables/population_summary_table.tex}
+    \caption{Summary of population characteristics (where recorded).}
+    \label{tab:population-summary}
+\end{table}
+
+\FloatBarrier
+\newpage
+
+\subsection{Object Characteristics}
+
+\begin{table}[H]
+    \centering
+    \input{tables/object_summary_table.tex}
+    \caption{Summary of object characteristics (where recorded).}
+    \label{tab:object-summary}
+\end{table}
+
+\FloatBarrier
+\newpage
+
+\subsection{Ingestion Motivation}
+
+\begin{table}[H]
+    \centering
+    \input{tables/motivation_summary_table.tex}
+    \caption{Summary of motivations for ingestions (where recorded).}
+    \label{tab:motivation-summary}
+\end{table}
+
+\FloatBarrier
+\newpage
+
+\subsection{Outcomes}
+
+\begin{table}[H]
+    \centering
+    \input{tables/outcome_summary_table.tex}
+    \caption{Summary of outcomes (where recorded).}
+    \label{tab:outcome-summary}
+\end{table}
+
+\FloatBarrier

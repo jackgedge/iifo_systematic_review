@@ -1,0 +1,6 @@
+\contentsline {subsection}{\numberline {0.1}Study Data}{2}{subsection.0.1}%
+\contentsline {subsection}{\numberline {0.2}Age and Gender}{4}{subsection.0.2}%
+\contentsline {subsection}{\numberline {0.3}Population Characteristics}{5}{subsection.0.3}%
+\contentsline {subsection}{\numberline {0.4}Object Characteristics}{6}{subsection.0.4}%
+\contentsline {subsection}{\numberline {0.5}Ingestion Motivation}{7}{subsection.0.5}%
+\contentsline {subsection}{\numberline {0.6}Outcomes}{8}{subsection.0.6}%
