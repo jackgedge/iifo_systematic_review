@@ -1,103 +1,198 @@
 \input{stats.tex}
 
 \subsection{Study Data}
-Study design data for papers where data extraction is complete.
+
+\subsubsection{Study Types}
+Currently, the majority of data comes from case reports, with some data coming from case series and a minority coming from cases that are reported in reviews.
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.8\textwidth]{figures/study_design_plot.pdf}
+    \includegraphics[width=0.8\columnwidth]{figures/study_design_plot.pdf}
     \caption{Bar plot showing the distribution of study design characteristics where data has been extracted.}
     \label{fig:study-design}
 \end{figure}
 
+\subsubsection{Publication Dates and Case Counts}
+Although most of the data were collected from studies published after 1990, one large historical case series (n = 19) from 1886, which exclusively reports on surgical management of ingested foreign objects, currently skews the overall surgical intervention rate.
+
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.8\textwidth]{figures/publications_per_year_plot.pdf}
+    \includegraphics[width=0.8\columnwidth]{figures/historic_publications_per_year_plot.pdf}
     \caption{Histogram showing the distribution of publication dates of papers data collected from.}
+    \label{fig:historic-publication-years}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\columnwidth]{figures/historic_cases_per_year_plot.pdf}
+    \caption{Histogram showing the distribution of case dates.}
+    \label{fig:historic-case-years}
+\end{figure}
+
+With this in mind, this historical paper was excluded from this analysis. The plots from above are now shown below, with historical data excluded.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\columnwidth]{figures/publications_per_year_plot.pdf}
+    \caption{Histogram showing the distribution of publication dates of papers data collected from after exclusion of historic study.}
     \label{fig:publication-years}
 \end{figure}
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.8\textwidth]{figures/cases_per_year_plot.pdf}
-    \caption{Histogram showing the distribution of case dates.}
+    \includegraphics[width=0.8\columnwidth]{figures/cases_per_year_plot.pdf}
+    \caption{Histogram showing the distribution of case dates after exclusion of historic study.}
     \label{fig:case-years}
 \end{figure}
 
-\FloatBarrier
-\newpage
 
-\subsection{Age and Gender}
+\FloatBarrier
+
+\subsection{Population Characteristics}
+
+\subsubsection{Age}
 
 The mean age of included cases was \AgeMean{} years (range: \AgeMin{}–\AgeMax{} years). The median was \AgeMedian{} years.
 
 \begin{table}[H]
     \centering
-    \input{tables/gender_table.tex}
-    \caption{Gender distribution of included cases.}
-    \label{tab:gender-distribution}
-\end{table}
-
-\begin{table}[H]
-    \centering
-    \input{tables/age_summary_table.tex}
-    \caption{Summary statistics for age of included cases.}
+    \resizebox{\columnwidth}{!}{\input{tables/age_summary_table.tex}}
+    \caption{Descriptive statistics for patient age (in years).}
     \label{tab:age-summary}
 \end{table}
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.8\textwidth]{figures/age_kde_plot.pdf}
+    \includegraphics[width=0.8\columnwidth]{figures/age_kde_plot.pdf}
     \caption{Kernel density estimate (KDE) plot showing the distribution of age among included cases.}
     \label{fig:age-kde}
 \end{figure}
 
-\FloatBarrier
-\newpage
-
-\subsection{Population Characteristics}
+\subsubsection{Gender}
 
 \begin{table}[H]
     \centering
-    \input{tables/population_summary_table.tex}
+    \resizebox{\columnwidth}{!}{\input{tables/case_gender_table.tex}}
+    \caption{Summary of reported gender across cases of intentional foreign body ingestion in the first 30 extracted studies.}
+    \label{tab:gender-summary}
+\end{table}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\columnwidth]{figures/gender_distribution_plot.pdf}
+    \caption{Gender Distribution as percentage of total cases.}
+    \label{fig:gender-distribution-bar}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\columnwidth]{figures/gender_plot.pdf}
+    \caption{Gender breakdown per study.}
+    \label{fig:gender-distribution}
+\end{figure}
+
+\subsubsection{Population Subgroups}
+
+\begin{table}[H]
+    \centering
+    \resizebox{\columnwidth}{!}{\input{tables/population_summary_table.tex}}
     \caption{Summary of population characteristics (where recorded).}
     \label{tab:population-summary}
 \end{table}
 
+Here we can see that the most common population subgroup is people with a record of psychiatric illness. This category encompasses the full bredth of psychiatric illnes, including Depression to Personality and adjustment disorders.
+Alcohol and substance misuse disorders are also categorised herein.
+
+Prisoners are the second most common subgroup. Of course, these can be broken down into Prisoners with and without psychiatric disorder, but that is not elaborated on here.
+
+Also, here we can see the percentage of cases with a history of previous ingestion, psychiatric inpatients and displaced persons.
+
 \FloatBarrier
-\newpage
 
 \subsection{Object Characteristics}
 
+\subsubsection{Summary}
+
 \begin{table}[H]
     \centering
-    \input{tables/object_summary_table.tex}
+    \resizebox{\columnwidth}{!}{\input{tables/object_summary_table.tex}}
     \caption{Summary of object characteristics (where recorded).}
     \label{tab:object-summary}
 \end{table}
 
+Here we can see that more than half of cases involved ingestion of multiple onjects.
+Objects were most often sharp (predominantly short sharp), defined as object <6cm length.
+There are no cases involving button battery ingestion, and few with magnets and long-sharp objects.
+
 \FloatBarrier
-\newpage
 
 \subsection{Ingestion Motivation}
 
+\subsubsection{Summary}
+
 \begin{table}[H]
     \centering
-    \input{tables/motivation_summary_table.tex}
+    \resizebox{\columnwidth}{!}{\input{tables/motivation_summary_table.tex}}
     \caption{Summary of motivations for ingestions (where recorded).}
     \label{tab:motivation-summary}
 \end{table}
 
-\FloatBarrier
-\newpage
-
-\subsection{Outcomes}
+We see here that the most common motivation for ingeston is 'Other'.
+We can explore this in more detail by looking at those with 'Other' as a motivation in specific subgroups (i.e. psychiatric history, or prisoner status, or similar).
 
 \begin{table}[H]
     \centering
-    \input{tables/outcome_summary_table.tex}
+    \resizebox{\columnwidth}{!}{\input{tables/motivation_subgroup_summary_table.tex}}
+    \caption{Summary of motivations for ingestions (where recorded) with additional information to breakdown possible motivations for 'Other'.}
+    \label{tab:motivation-subgroup-summary}
+\end{table}
+
+We see here that 20 percents of cases have a motivation of 'Other' and No Psychiatric history, where as nearly 30 percent have a motivation of 'Other' have a psychiatric history.
+
+Motivation is unknown in nearly 40 percent of cases and motivation is other in nearly 50 percent. Suggesting motivation is poorly reported in the literature, or poorly categorised in data extraction.
+
+Below, I have created a table of motivations with subgroup data alongside to explore this further.
+
+
+\subsubsection{Population Subgroup Motivation}
+
+\begin{table}[H]
+    \centering
+    \resizebox{\columnwidth}{!}{\input{tables/subgroup_motivation_table.tex}}
+    \caption{Summary of motivations for ingestions (where recorded) for each subgroup.}
+    \label{tab:subgroup-motivation-summary}
+\end{table}
+
+Here we can see motivations for each subgroup. 
+Displaced persons seem to be motivated by 'Protest' and other. Other, in this case, was a Syrian refugee who ingested 1000 dollars for safekeeping. 
+People who have previously ingested foreign objects appear to be motivated by an intention to cause harm to themselves, whilst 45 percent ingest for 'Other' and 'Unknown' reasons.
+Prisoners appear to be motivated by intent to harm and protest (for betterment of conditions of movement from prison).
+People with a psychiatric history often do not have a motivation recorded (in over half of cases), the siutation is similar for psychiatric inpatients.
+
+
+\FloatBarrier
+
+\subsection{Outcomes}
+
+\subsubsection{Summary}
+
+\begin{table}[H]
+    \centering
+    \resizebox{\columnwidth}{!}{\input{tables/outcome_summary_table.tex}}
     \caption{Summary of outcomes (where recorded).}
     \label{tab:outcome-summary}
 \end{table}
 
+It's commonly cited that only 1 percent of foreign body ingestions result in surgery. In this data, the rate is nearly 60 percent. Endoscopy in all foreign body ingestion occurs in 10-20 percent of cases, where in most cases conservative management suffices. Conservative management was only undertaken in 15.4 percent of these cases. 
+
 \FloatBarrier
+
+\subsection{Conclusion}
+
+This preliminary descriptive analysis summarises data from the first 29 studies extracted for a systematic review of intentional foreign body ingestion. The majority of available literature consists of case reports, with a smaller number of case series and review-based reports. Most studies have been published in the last three decades, with one large historical case series excluded due to its disproportionate impact on surgical intervention rates.
+
+The findings suggest that intentional ingestion is most frequently reported among individuals with psychiatric illness and among incarcerated populations. Sharp and multiple foreign objects are the most commonly ingested, with motivations often poorly reported or categorised as 'Other' or 'Unknown'. Where motivations are recorded, they range from self-harm and protest to more ambiguous or situational causes.
+
+Outcomes vary significantly across cases, but conservative management is common. However, a substantial number of patients undergo endoscopic or surgical intervention, and complications are not infrequent.
+
+In the next phase of this project, a meta-analysis will be conducted to estimate pooled rates of endoscopic and surgical interventions, and to evaluate how motivations, object types, and subgroup characteristics influence clinical outcomes. This will involve subgroup analyses and potentially meta-regression to assess the relationships between ingestion characteristics and rates of intervention, complications, and mortality. The goal is to produce clinically meaningful insights to inform future care pathways for vulnerable populations who intentionally ingest foreign objects.
