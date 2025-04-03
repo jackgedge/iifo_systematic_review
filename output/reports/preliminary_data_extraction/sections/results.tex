@@ -1,0 +1,40 @@
+\section{Results}
+
+\subsection{Age and Gender}
+\input{tables/age_summary.tex}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/kde_age_plot.png}
+    \caption{Kernel density estimate (KDE) plot showing the distribution of age among included cases.}
+    \label{fig:age-kde}
+\end{figure}
+
+\input{tables/gender_summary.tex}
+
+
+
+\FloatBarrier
+\newpage
+
+\subsection{Subgroup Data}
+\input{tables/population_summary.tex}
+\input{tables/motivation_summary.tex}
+\input{tables/object_summary.tex}
+\input{tables/outcome_summary.tex}
+
+\FloatBarrier
+\newpage
+
+\subsection{Correlations}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/correlation_matrix.png}
+    \caption{Correlation matrix showing correlation between variables.}
+    \label{fig:correlation-matrix}
+\end{figure}
+
+\FloatBarrier
+
+\input{tables/top_correlations.tex}
