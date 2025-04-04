@@ -1,17 +1,15 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'main.blg'
-[37] biber-darwin:340> INFO - === Thu Apr  3, 2025, 19:36:24
-[48] Biber.pm:420> INFO - Reading 'main.bcf'
-[89] Biber.pm:994> INFO - Found 3 citekeys in bib section 0
-[97] Biber.pm:4463> INFO - Processing section 0
-[103] Biber.pm:4654> INFO - Looking for bibtex file 'msc_dissertation.bib' for section 0
-[201] bibtex.pm:1713> INFO - LaTeX decoding ...
-[968] bibtex.pm:1519> INFO - Found BibTeX data source 'msc_dissertation.bib'
-[1069] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1069] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1069] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
-[1069] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[1071] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[1073] bbl.pm:779> INFO - Output to main.bbl
-[1073] Biber.pm:131> WARN - I didn't find a database entry for 'ThePandasDevelopmentTeam_2020a' (section 0)
-[1073] Biber.pm:133> INFO - WARNINGS: 1
+[36] biber-darwin:340> INFO - === Fri Apr  4, 2025, 17:15:01
+[47] Biber.pm:420> INFO - Reading 'main.bcf'
+[90] Biber.pm:994> INFO - Found 7 citekeys in bib section 0
+[98] Biber.pm:4463> INFO - Processing section 0
+[105] Biber.pm:4654> INFO - Looking for bibtex file 'msc_dissertation.bib' for section 0
+[199] bibtex.pm:1713> INFO - LaTeX decoding ...
+[943] bibtex.pm:1519> INFO - Found BibTeX data source 'msc_dissertation.bib'
+[1060] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1061] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1061] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
+[1061] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[1068] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1072] bbl.pm:779> INFO - Output to main.bbl

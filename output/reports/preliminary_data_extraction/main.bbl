@@ -184,6 +184,176 @@
       \verb /Users/jackgedge/Zotero/storage/HQDJMPY3/Page et al. - 2021 - The PRISMA 2020 statement an updated guideline fo.pdf
       \endverb
     \endentry
+    \entry{ThePandasDevelopmentTeam_2020}{software}{}{}
+      \name{author}{1}{}{%
+        {{hash=d850c852b9f625e446a32cef4a26cb3c}{%
+           family={{The Pandas Development Team}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Zenodo}%
+      }
+      \strng{namehash}{d850c852b9f625e446a32cef4a26cb3c}
+      \strng{fullhash}{d850c852b9f625e446a32cef4a26cb3c}
+      \strng{fullhashraw}{d850c852b9f625e446a32cef4a26cb3c}
+      \strng{bibnamehash}{d850c852b9f625e446a32cef4a26cb3c}
+      \strng{authorbibnamehash}{d850c852b9f625e446a32cef4a26cb3c}
+      \strng{authornamehash}{d850c852b9f625e446a32cef4a26cb3c}
+      \strng{authorfullhash}{d850c852b9f625e446a32cef4a26cb3c}
+      \strng{authorfullhashraw}{d850c852b9f625e446a32cef4a26cb3c}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Pandas is a powerful data structures for data analysis, time series, and statistics.}
+      \field{month}{3}
+      \field{shorttitle}{Pandas-Dev/Pandas}
+      \field{title}{Pandas-Dev/Pandas: {{Pandas}}}
+      \field{urlday}{3}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{version}{v2.2.3}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.5281/zenodo.13819579
+      \endverb
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/YD5VSWTZ/13819579.html
+      \endverb
+      \verb{urlraw}
+      \verb https://zenodo.org/records/13819579
+      \endverb
+      \verb{url}
+      \verb https://zenodo.org/records/13819579
+      \endverb
+      \keyw{data science,python}
+    \endentry
+    \entry{scikit-learn}{article}{}{}
+      \name{author}{16}{}{%
+        {{hash=6e96fec0d63277626bb324bd28cdecb7}{%
+           family={Pedregosa},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b99c2df2144dc5ee09317a7833dea42d}{%
+           family={Varoquaux},
+           familyi={V\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=955f19cea89ae97bb7936078898e6255}{%
+           family={Gramfort},
+           familyi={G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2787869c9954c1d4e9891098995feb75}{%
+           family={Michel},
+           familyi={M\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=86d47ab9ca1a9dae108b4d4a0418c679}{%
+           family={Thirion},
+           familyi={T\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=d42f9e9cec95da1dad2232eac74982ab}{%
+           family={Grisel},
+           familyi={G\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=8bd8ef25258dd2311f92df23fe71ecf7}{%
+           family={Blondel},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a5ee41fa92b9e425806e1773853f1932}{%
+           family={Prettenhofer},
+           familyi={P\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=0c808557734e8929976d1f06f99c4ff2}{%
+           family={Weiss},
+           familyi={W\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9662a6ea01596c6dd450817ccac81c4a}{%
+           family={Dubourg},
+           familyi={D\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=39e81a3e2193b954680a0ab847a0bb55}{%
+           family={Vanderplas},
+           familyi={V\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=14c4a498c032f77d0b83f86c710dd50e}{%
+           family={Passos},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=dc075b18fb4710a1a37b258804c57efe}{%
+           family={Cournapeau},
+           familyi={C\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=67ec0e8add781665a43010c9559111e9}{%
+           family={Brucher},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=dcb3918f09eb8785e6b212a907cc37cf}{%
+           family={Perrot},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ab20fcf381cd45daa82417c6fc595051}{%
+           family={Duchesnay},
+           familyi={D\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{3a097aa3ebf2b8c2acf988341dde9710}
+      \strng{fullhash}{7a67607c66e4af944b5f16461d6d0a87}
+      \strng{fullhashraw}{7a67607c66e4af944b5f16461d6d0a87}
+      \strng{bibnamehash}{3a097aa3ebf2b8c2acf988341dde9710}
+      \strng{authorbibnamehash}{3a097aa3ebf2b8c2acf988341dde9710}
+      \strng{authornamehash}{3a097aa3ebf2b8c2acf988341dde9710}
+      \strng{authorfullhash}{7a67607c66e4af944b5f16461d6d0a87}
+      \strng{authorfullhashraw}{7a67607c66e4af944b5f16461d6d0a87}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Machine Learning Research}
+      \field{title}{Scikit-learn: Machine Learning in {P}ython}
+      \field{volume}{12}
+      \field{year}{2011}
+      \field{pages}{2825\bibrangedash 2830}
+      \range{pages}{6}
+    \endentry
+    \entry{AmericanPsychiatricAssociation_2013}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=ce2c470a69e9b189664512d02dc6f03c}{%
+           family={{American Psychiatric Association}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ce2c470a69e9b189664512d02dc6f03c}
+      \strng{fullhash}{ce2c470a69e9b189664512d02dc6f03c}
+      \strng{fullhashraw}{ce2c470a69e9b189664512d02dc6f03c}
+      \strng{bibnamehash}{ce2c470a69e9b189664512d02dc6f03c}
+      \strng{authorbibnamehash}{ce2c470a69e9b189664512d02dc6f03c}
+      \strng{authornamehash}{ce2c470a69e9b189664512d02dc6f03c}
+      \strng{authorfullhash}{ce2c470a69e9b189664512d02dc6f03c}
+      \strng{authorfullhashraw}{ce2c470a69e9b189664512d02dc6f03c}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Diagnostic and Statistical Manual of Mental Disorders (5th Ed.)}
+      \field{year}{2013}
+      \field{dateera}{ce}
+    \endentry
     \entry{Deng_1998}{report}{}{}
       \name{author}{3}{}{%
         {{hash=77b6b118813e6da91216ff739c1ecba3}{%
@@ -213,8 +383,8 @@
       \strng{authornamehash}{bd99f91f04b58e3b1ddfdc756fda9da6}
       \strng{authorfullhash}{bd99f91f04b58e3b1ddfdc756fda9da6}
       \strng{authorfullhashraw}{bd99f91f04b58e3b1ddfdc756fda9da6}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The Guiding Principles define displacement as the movement of persons forced or obliged to flee due to conflict, violence, disasters, or rights violations.}
@@ -233,8 +403,146 @@
       \verb /Users/jackgedge/Zotero/storage/NVDK52XE/guiding_principles_on_internal_displacement_english.pdf;/Users/jackgedge/Zotero/storage/W4DCR2BH/Deng et al. - 2004 - Guiding Principles on Internal Displacement.pdf
       \endverb
     \endentry
+    \entry{Martikainen_2002}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=6f33ad441ea453636d1b5bc405a6c021}{%
+           family={Martikainen},
+           familyi={M\bibinitperiod},
+           given={Pekka},
+           giveni={P\bibinitperiod}}}%
+        {{hash=92d5fc84b081e89193900306dd59e938}{%
+           family={Bartley},
+           familyi={B\bibinitperiod},
+           given={Mel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c3cf28d0892daa74dfe0eee7115fd2f7}{%
+           family={Lahelma},
+           familyi={L\bibinitperiod},
+           given={Eero},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{ebb0d908f0d1e74bc5afe7fd2096ead3}
+      \strng{fullhash}{ebb0d908f0d1e74bc5afe7fd2096ead3}
+      \strng{fullhashraw}{ebb0d908f0d1e74bc5afe7fd2096ead3}
+      \strng{bibnamehash}{ebb0d908f0d1e74bc5afe7fd2096ead3}
+      \strng{authorbibnamehash}{ebb0d908f0d1e74bc5afe7fd2096ead3}
+      \strng{authornamehash}{ebb0d908f0d1e74bc5afe7fd2096ead3}
+      \strng{authorfullhash}{ebb0d908f0d1e74bc5afe7fd2096ead3}
+      \strng{authorfullhashraw}{ebb0d908f0d1e74bc5afe7fd2096ead3}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{pmid}
+      \field{issn}{0300-5771}
+      \field{journaltitle}{International Journal of Epidemiology}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{6}
+      \field{shortjournal}{Int J Epidemiol}
+      \field{title}{Psychosocial Determinants of Health in Social Epidemiology}
+      \field{volume}{31}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{pages}{1091\bibrangedash 1093}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1093/ije/31.6.1091
+      \endverb
+      \verb{eprint}
+      \verb 12540696
+      \endverb
+      \keyw{Epidemiologic Methods,Health Status,Humans,Psychology,Risk Factors,Sociology Medical,Terminology as Topic}
+    \endentry
+    \entry{Birk_2016}{article}{}{}
+      \name{author}{10}{}{%
+        {{hash=ba582e6f47d266b98fdd17ca5981f3f9}{%
+           family={Birk},
+           familyi={B\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5227196ac4e50af808cd3165e5e77eb1}{%
+           family={Bauerfeind},
+           familyi={B\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=bacac4dfb1d66f06ae137478115f21f2}{%
+           family={Deprez},
+           familyi={D\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+        {{hash=82a1c9703b22358bf80e3d350de1c6c5}{%
+           family={Häfner},
+           familyi={H\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c7f460c72fa499371b60a97bfe8ae55b}{%
+           family={Hartmann},
+           familyi={H\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod}}}%
+        {{hash=10e27cbd669e786f2978f8572be0b568}{%
+           family={Hassan},
+           familyi={H\bibinitperiod},
+           given={Cesare},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f669a0f16461b9f626902427c17add01}{%
+           family={Hucl},
+           familyi={H\bibinitperiod},
+           given={Tomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=3f96949cebc3ee145d3ca5ceff07ac19}{%
+           family={Lesur},
+           familyi={L\bibinitperiod},
+           given={Gilles},
+           giveni={G\bibinitperiod}}}%
+        {{hash=c50094b863fffb2f6567460fa1c1a241}{%
+           family={Aabakken},
+           familyi={A\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod}}}%
+        {{hash=1c68cd46d765086cbd005f252d4aab65}{%
+           family={Meining},
+           familyi={M\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{544206de6fe4aface1cf1ec06d9ef6dc}
+      \strng{fullhash}{3c23aba433925223021ce6f59cd63e7e}
+      \strng{fullhashraw}{3c23aba433925223021ce6f59cd63e7e}
+      \strng{bibnamehash}{544206de6fe4aface1cf1ec06d9ef6dc}
+      \strng{authorbibnamehash}{544206de6fe4aface1cf1ec06d9ef6dc}
+      \strng{authornamehash}{544206de6fe4aface1cf1ec06d9ef6dc}
+      \strng{authorfullhash}{3c23aba433925223021ce6f59cd63e7e}
+      \strng{authorfullhashraw}{3c23aba433925223021ce6f59cd63e7e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0013-726X, 1438-8812}
+      \field{journaltitle}{Endoscopy}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{05}
+      \field{shorttitle}{Removal of Foreign Bodies in the Upper Gastrointestinal Tract in Adults}
+      \field{title}{Removal of Foreign Bodies in the Upper Gastrointestinal Tract in Adults: {{European Society}} of {{Gastrointestinal Endoscopy}} ({{ESGE}}) {{Clinical Guideline}}}
+      \field{urlday}{8}
+      \field{urlmonth}{11}
+      \field{urlyear}{2024}
+      \field{volume}{48}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{489\bibrangedash 496}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1055/s-0042-100456
+      \endverb
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/W77JISWD/birk2016.pdf.pdf;/Users/jackgedge/Zotero/storage/ZXSHQY3W/Birk et al. - 2016 - Removal of foreign bodies in the upper gastrointes.pdf
+      \endverb
+      \keyw{endoscopy,foreign body,ingestion,self-harm}
+    \endentry
   \enddatalist
-  \missing{ThePandasDevelopmentTeam_2020a}
 \endrefsection
 \endinput
 

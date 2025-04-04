@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.31)  3 APR 2025 23:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.31)  4 APR 2025 17:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -815,15 +815,7 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
 
-(./main.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                ThePandasDevelopmentTeam_2020a
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
+(./main.bbl)
 Package biblatex Info: Reference section=0 on input line 62.
 Package biblatex Info: Reference segment=0 on input line 62.
 
@@ -845,38 +837,62 @@ been already used, duplicate ignored
 l.66 \newpage
               [1
 
-] (./sections/methods.tex
-<figures/prisma_diagram.png, id=123, 844.8363pt x 597.6729pt>
+] (./sections/introduction.tex) (./sections/methods.tex
+<figures/prisma_diagram.png, id=133, 844.8363pt x 597.6729pt>
 File: figures/prisma_diagram.png Graphic file (type png)
 <use figures/prisma_diagram.png>
 Package pdftex.def Info: figures/prisma_diagram.png  used on input line 22.
 (pdftex.def)             Requested size: 525.23788pt x 371.5839pt.
 
 
-LaTeX Warning: Citation 'ThePandasDevelopmentTeam_2020a' on page 2 undefined on
- input line 27.
+[2]
 
+[3 <./figures/prisma_diagram.png>]
 
-
-[2 <./figures/prisma_diagram.png>]
-
-[3]
-
-[4]) (./sections/sources.tex
+[4{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+}]
 
 [5]
-<figures/study_design_plot.png, id=178, 722.7pt x 361.35pt>
+! Undefined control sequence.
+<argument> ...Href {section*.22}Object - Short (\<
+                                                  5\text { cm}\) \textit {(O...
+l.115 ...\<5\text{ cm}\) \textit{(Object\_Short)}}
+                                                  
+? 
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.115 ...\<5\text{ cm}\) \textit{(Object\_Short)}}
+                                                  
+? 
+! Undefined control sequence.
+<argument> ...on\endcsname }\fi Object - Short (\<
+                                                  5\text { cm}\) \textit {(O...
+l.115 ...\<5\text{ cm}\) \textit{(Object\_Short)}}
+                                                  
+? 
+
+
+[6]) (./sections/sources.tex
+<figures/study_design_plot.png, id=205, 722.7pt x 361.35pt>
 File: figures/study_design_plot.png Graphic file (type png)
 <use figures/study_design_plot.png>
 Package pdftex.def Info: figures/study_design_plot.png  used on input line 7.
 (pdftex.def)             Requested size: 420.19191pt x 210.09592pt.
-<figures/publications_per_year_plot.png, id=180, 722.7pt x 361.35pt>
+
+
+[7]
+<figures/publications_per_year_plot.png, id=217, 722.7pt x 361.35pt>
 File: figures/publications_per_year_plot.png Graphic file (type png)
 <use figures/publications_per_year_plot.png>
 Package pdftex.def Info: figures/publications_per_year_plot.png  used on input 
 line 24.
 (pdftex.def)             Requested size: 420.19191pt x 210.09592pt.
-<figures/cases_per_year_plot.png, id=181, 722.7pt x 361.35pt>
+<figures/cases_per_year_plot.png, id=218, 722.7pt x 361.35pt>
 File: figures/cases_per_year_plot.png Graphic file (type png)
 <use figures/cases_per_year_plot.png>
 Package pdftex.def Info: figures/cases_per_year_plot.png  used on input line 34
@@ -884,36 +900,70 @@ Package pdftex.def Info: figures/cases_per_year_plot.png  used on input line 34
 (pdftex.def)             Requested size: 420.19191pt x 210.09592pt.
 
 
-[6 <./figures/study_design_plot.png> <./figures/publications_per_year_plot.png>
+[8 <./figures/study_design_plot.png> <./figures/publications_per_year_plot.png>
 ]
 
-[7 <./figures/cases_per_year_plot.png>]) (./sections/results.tex
+[9 <./figures/cases_per_year_plot.png>]) (./sections/results.tex
 (./tables/age_summary.tex)
-<figures/kde_age_plot.png, id=200, 722.7pt x 361.35pt>
+<figures/kde_age_plot.png, id=235, 722.7pt x 361.35pt>
 File: figures/kde_age_plot.png Graphic file (type png)
 <use figures/kde_age_plot.png>
 Package pdftex.def Info: figures/kde_age_plot.png  used on input line 8.
 (pdftex.def)             Requested size: 420.19191pt x 210.09592pt.
  (./tables/gender_summary.tex)
 
-[8 <./figures/kde_age_plot.png>] (./tables/population_summary.tex)
+[10 <./figures/kde_age_plot.png>] (./tables/population_summary.tex)
 (./tables/motivation_summary.tex) (./tables/object_summary.tex)
-(./tables/outcome_summary.tex)
+(./tables/outcome_summary.tex) (./tables/motivation_other_long_table.tex
+! Missing $ inserted.
+<inserted text> 
+                $
+l.4 ...er_Long where Motivation_Other marked 'Y'.}
+                                                  
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.4 ...er_Long where Motivation_Other marked 'Y'.}
+                                                  
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.4 ...er_Long where Motivation_Other marked 'Y'.}
+                                                  
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.4 ...er_Long where Motivation_Other marked 'Y'.}
+                                                  
+? 
 
-[9]
-<figures/correlation_matrix.png, id=217, 722.7pt x 578.16pt>
+Overfull \hbox (982.58708pt too wide) in paragraph at lines 6--19
+ [][] 
+ []
+
+
+
+[11])
+
+[12]
+<figures/correlation_matrix.png, id=264, 722.7pt x 578.16pt>
 File: figures/correlation_matrix.png Graphic file (type png)
 <use figures/correlation_matrix.png>
-Package pdftex.def Info: figures/correlation_matrix.png  used on input line 33.
+Package pdftex.def Info: figures/correlation_matrix.png  used on input line 44.
 
 (pdftex.def)             Requested size: 420.19191pt x 336.15347pt.
  (./tables/top_correlations.tex
 
-[10 <./figures/correlation_matrix.png>]))
+[13 <./figures/correlation_matrix.png>])) (./sections/key_findings.tex
 
-[11]
+[14])
 
-[12
+[15]
+
+[16
 
 ] (./sections/appendix_a.tex
 Overfull \hbox (7.76846pt too wide) in paragraph at lines 31--34
@@ -927,7 +977,7 @@ Overfull \hbox (43.37961pt too wide) in paragraph at lines 52--58
 
 
 
-[13]
+[17]
 Overfull \hbox (3.29622pt too wide) in paragraph at lines 161--164
 [][]| 
  []
@@ -939,46 +989,51 @@ Overfull \hbox (36.9629pt too wide) in paragraph at lines 181--187
 
 
 
-[14]
+[18]
 Overfull \hbox (12.10179pt too wide) in paragraph at lines 355--358
 [][]| 
  []
 
 
 
-[15]
+[19]
 
-[16]) (./main.aux)
+[20]) (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 3E751916A6B13FC15B606FB0B13FB48A;2917.
+(rerunfilecheck)             Checksum: 13ED1F8EC7AC166741C931B260F5168F;3132.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19683 strings out of 473190
- 347458 string characters out of 5715800
- 1179109 words of memory out of 5000000
- 42617 multiletter control sequences out of 15000+600000
- 566248 words of font info for 62 fonts, out of 8000000 for 9000
+ 19771 strings out of 473190
+ 349810 string characters out of 5715800
+ 1185576 words of memory out of 5000000
+ 42670 multiletter control sequences out of 15000+600000
+ 567561 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,16n,81p,752b,1514s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,16n,81p,1081b,1514s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
-sr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
-/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
-local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (17 pages, 2166344 bytes).
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
+></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
+></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></
+usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
+r/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
+local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
+ocal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/loc
+al/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/loca
+l/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local
+/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on main.pdf (21 pages, 2330864 bytes).
 PDF statistics:
- 319 PDF objects out of 1000 (max. 8388607)
- 268 compressed objects within 3 object streams
- 90 named destinations out of 1000 (max. 500000)
- 199 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 414 PDF objects out of 1000 (max. 8388607)
+ 348 compressed objects within 4 object streams
+ 111 named destinations out of 1000 (max. 500000)
+ 215 words of extra memory for PDF output out of 10000 (max. 10000000)
 
