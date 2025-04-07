@@ -1,0 +1,82 @@
+\documentclass[a4paper,10pt]{report}
+
+\usepackage[utf8]{inputenc}
+\usepackage{csquotes}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{amsmath}
+\usepackage{geometry}
+\usepackage{longtable}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{lineno}
+\usepackage{placeins}
+\usepackage{booktabs}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{titling}  % in the preamble
+\usepackage[style=numeric,sorting=none, backend=biber]{biblatex} %Imports biblatex package
+\addbibresource{msc_dissertation.bib} %Import the bibliography file
+
+\geometry{margin=0.5in}
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Preliminary Report}
+\lhead{Intentional Ingestion Data}
+\rfoot{\thepage}
+
+\title{\textbf{Does motivation matter? A systematic review and meta-analysis of outcomes following intentional foreign object ingestion.}}
+
+
+\author{
+    \fontsize{11}{13}\selectfont 
+    Jack Galbraith-Edge\\
+    \fontsize{10}{11}\selectfont 
+    Queen Mary, University of London\\
+    \fontsize{10}{11}\selectfont 
+    London, United Kingdom\\
+    \fontsize{10}{11}\selectfont
+    ha201591@qmul.ac.uk\\
+    \and
+    \fontsize{11}{13}\selectfont 
+    Mark Stanton\\
+    \fontsize{10}{11}\selectfont
+    Critical Care Paramedic\\
+    \fontsize{10}{11}\selectfont 
+    Johannesburg, South Africa\\
+    \fontsize{10}{11}\selectfont
+    trauma.1@mweb.co.za\\
+     \and
+    \fontsize{11}{13}\selectfont 
+    Giles Cattermole\\
+    \fontsize{10}{11}
+    \selectfont Queen Mary, University of London\\
+    \fontsize{10}{11}\selectfont 
+    London, United Kingdom\\
+    \fontsize{10}{11}\selectfont
+    g.cattermole@qmul.ac.uk\\
+}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+\newpage
+\input{sections/introduction.tex}
+\input{sections/methods.tex}
+\input{sections/sources.tex}
+\input{sections/results.tex}
+\input{sections/key_findings.tex}       % Optional
+
+\newpage
+\printbibliography
+
+\newpage
+\appendix
+\input{sections/appendix_a.tex}
+
+\end{document}
