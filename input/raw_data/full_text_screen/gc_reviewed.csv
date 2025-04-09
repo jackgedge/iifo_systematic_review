@@ -1,2 +1,4 @@
 Study_ID,Exclude_JGE,Reason_ID_JGE,Unclear_JGE,Comments_JGE,Exclude_MS,Reason_ID_MS,Unclear_MS,Comments_MS,Exclude_GC,Reason_ID_GC,Comments_GC
 471,FALSE,,,Case report. 58F intentional ingestion of table cloth.,TRUE,2,FALSE,,FALSE,,Not bezoar.
+384,TRUE,11,,"Case report. 35F, 20 year history of IIFO. No empirical data relating objects to motivations and outcomes. Psychiatric case history review. Exclude.",FALSE,,FALSE,,TRUE,11,Psychiatric case review without empirical data.
+447,TRUE,7,,"Case report. 18F BPD, deliberate ingestion. With co-ingestion of medications. Exclude. Also does not give individual outcomes for each item ingested during admission. ",FALSE,,FALSE,,TRUE,7,Co-ingestion.
