@@ -18,7 +18,6 @@ from serpapi.google_search import GoogleSearch  # Google Search Module from Serp
 from msc_code.scripts.helpers import *   # Custom helper functions
 from msc_code.scripts.data_extraction_helpers import * 
 
-# Define key environment variables
 load_dotenv()
 
 # SerpAPI key, for Google Scholar querying
