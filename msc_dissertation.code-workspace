@@ -1,11 +1,12 @@
 {
 	"folders": [
 	  {
-		"path": "iifo_motivation"
+		"path": "."
 	  }
 	],
 	"settings": {
 	  "python.defaultInterpreterPath": "/opt/anaconda3/envs/msc-dissertation/bin/python",
+	  "jupyter.python.defaultInterpreterPath": "/opt/anaconda3/envs/msc-dissertation/bin/python",
 	  "python.envFile": "${workspaceFolder}/.env",
 	  "python.dataScience.notebookFileRoot": "${workspaceFolder}/msc_code/notebooks",
 	  "python.dataScience.useNotebookEditor": true,

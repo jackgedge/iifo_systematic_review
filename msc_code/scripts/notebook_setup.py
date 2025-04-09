@@ -47,13 +47,25 @@ WOS_API_KEY = os.getenv('WOS_API_KEY')
 if not WOS_API_KEY:
     raise ValueError("WOS API Key is not found in environment variables.")
 
+# Expand any env var relative to home directory
+def expand_env_path(var_name):
+    value = os.getenv(var_name)
+    if value and not value.startswith("/"):
+        return os.path.join(os.path.expanduser("~"), value)
+    return value
+
 # Directories
-INPUT_DIR = os.getenv('INPUT_DIR') # parent input directory
-OUTPUT_DIR = os.getenv('OUTPUT_DIR') # parent output directory
-RAW_DATA_DIR = os.getenv('RAW_DATA_DIR') # directory for raw data
-PROC_DATA_DIR = os.getenv('PROC_DATA_DIR') # directory for processed data
-FIG_DIR = os.getenv('FIG_DIR') # directory for figures
-SCRIPTS_DIR = os.getenv('SCRIPTS_DIR') # directory for scripts
+PROJ_ROOT_DIR = expand_env_path("PROJ_ROOT_DIR")  # project root
+INPUT_DIR = expand_env_path("INPUT_DIR")  # parent input directory
+OUTPUT_DIR = expand_env_path("OUTPUT_DIR")  # parent output directory
+RAW_DATA_DIR = expand_env_path("RAW_DATA_DIR")  # directory for raw data
+PROC_DATA_DIR = expand_env_path("PROC_DATA_DIR")  # directory for processed data
+FIG_DIR = expand_env_path("FIG_DIR")  # directory for figures
+SCRIPTS_DIR = expand_env_path("SCRIPTS_DIR")  # directory for scripts
+
+# Patch sys.path so msc_code is always importable
+if PROJ_ROOT_DIR and PROJ_ROOT_DIR not in sys.path:
+    sys.path.insert(0, PROJ_ROOT_DIR)
 
 # Add the 'scripts' directory to sys.path if it exists
 if SCRIPTS_DIR and os.path.exists(SCRIPTS_DIR) and SCRIPTS_DIR not in sys.path:
