@@ -66,6 +66,7 @@ The abstract will be written as per PRISMA (2020) Abstract Checklist (Page et al
     - BMC Emergency Medicine.
     - Journal of Refugee Studies.
     - Emergency Medicine Journal.
+    - International Journal of High Risk Behaviour
 - Conferences	
     - European Society for Emergency Medicine Conferences.
     - International Association for Suicide Prevention Congress.
@@ -92,7 +93,6 @@ The abstract will be written as per PRISMA (2020) Abstract Checklist (Page et al
 	- Any human.
     - Any age group.
 
-sdf
 - Interventions or exposures	
     - Humans that have:
         - Intentionally 
@@ -100,7 +100,7 @@ sdf
 
 - Comparisons or control group	
     - Motivation/reason for ingestion:
-        - Protest, suicidal intent, self-harm and other documented motivations.
+        - Protest, suicidal intent, self-harm, psychiatric and other documented motivations.
     - Intervention details:
         - Number of ingestions
         - Management strategies (Conservative, Endoscopic, Surgical)
@@ -111,7 +111,8 @@ sdf
         -	Sharp-pointed objects
         -	Long objects
         -	Food bolus
-        -	Object dimensions
+        -	Long objects (>6cm)
+        -   Short objects (<6cm)
     - Radiological findings:
         - Location of foreign object (i.e. Oesophagus, stomach, ileo-caecal region)
     - Setting/location.
@@ -121,10 +122,10 @@ sdf
         - undergoing a minimally invasive medical procedure that involves inserting a flexible tube equipped with a light and camera—called an endoscope—into the body to visually examine internal organs or tissues (Goyal & Neumann 2020).
     - Rates of surgical intervention, defined as:
         - any operative intervention involving an incision to access internal organs with the goal of retrieving intentionally ingested foreign objects or managing complications resulting from such ingestion (Smith et al. 2019).
-    - Success of conservative management.
-    - Complications.
-    - Mortality.
-    - Recurrence rates.
+    - Rates of conservative management, defined as:
+        - Any case not undergoing endoscopic or surgical intervention, as defined above.
+    - Complication Rates.
+    - Mortality Rates.
 
 - Setting	
     - Any setting.
@@ -133,17 +134,21 @@ sdf
     - Observational studies (cohort, case-control, cross-sectional).
     - Case series.
     - Clinical trials.
-    - Case reports providing unique data on vulnerable populations.
+    - Case reports.
 
 ### 8b - Exclusion Criteria
+Exclusion Criteria
 1.	Full text not available in English.
-2.	Studies not focusing on intentional ingestion of foreign object via the oral cavity (mouth).
+2.	Studies not focusing on intentional self-ingestion (into the gastrointestinal tract) of foreign object via the oral cavity (mouth) or where unclear if ingested.
 3.	Studies focussing solely on accidental ingestion.
 4.	Non-Human/ animal studies.
 5.	Reviews, editorials, commentaries, and opinion pieces without original empirical data.
 6.	Duplicate publications or studies with overlapping data sets (the most comprehensive or recent study will be included).
-7.	Studies focusing on ingestion of substances (e.g. poisons, medications) rather than physical foreign objects.
+7.	Studies focusing on ingestion or co-ingestion of substances (e.g. poisons, medications) rather than physical foreign objects.
 8.	Ingestions undertaken in controlled environment as part of voluntary study.
+9.	Ingestions not explicitly stated to be intentional and history not suggestive of deliberate ingestion (i.e. Age < 8, no history of previous ingestions, no psychiatric co-morbidities, not a prisoner/detainee/vulnerable group).
+10.	Does not meet inclusion criteria.
+11. Ingestions where death resulted from other means (i.e. suicide)
 
 ### 9 - Data Collection
 

@@ -13,20 +13,22 @@ exclusion_criteria = {
 7:	"Studies focusing on ingestion or co-ingestion of substances (e.g. poisons, medications) rather than physical foreign objects.",
 8:	"Ingestions undertaken in controlled environment as part of voluntary study.",
 9:	"Ingestions not explicitly stated to be intentional and history not suggestive of deliberate ingestion (i.e. Age < 8, no history of previous ingestions, no psychiatric co-morbidities, not a prisoner/detainee/vulnerable group).",
-10:	"Does not meet inclusion criteria."
+10:	"Does not meet inclusion criteria.",
+11: "Ingestions where death resulted from other means (i.e. suicide)"
 }
 
 exclusion_criteria_short = {
 1:	"Full text not available in English.",
-2:	"Studies not focusing on intentional self-ingestion.",
-3:	"Studies focussing solely on accidental ingestion.",
-4:	"Non-Human/ animal studies.",
-5:	"Reviews, editorials, commentaries, and opinion pieces without original empirical data.",
-6:	"Duplicate publications or studies with overlapping data sets.",
-7:	"Studies focusing on ingestion or co-ingestion of substances.",
-8:	"Ingestions undertaken in controlled environment as part of voluntary study.",
-9:	"Ingestions not explicitly stated to be intentional.",
-10:	"Does not meet inclusion criteria."
+2:	"No focus on intentional self-ingestion.",
+3:	"Sole accidental ingestion focus.",
+4:	"Non-Human studies.",
+5:	"Reviews, commenteries, etc. without original empirical data.",
+6:	"Duplicate publications or overlapping datasets.",
+7:	"Ingestion or co-ingestion of substances.",
+8:	"Ingested in controlled study.",
+9:	"Not explicitly intentional ingestions.",
+10:	"Inclusion criteria not met.",
+11: "Death occured from by other means (i.e. suicide)."
 }
 
 def track_duplicate_removal(stage, end_count, start_count=None, tracking_dict=None):

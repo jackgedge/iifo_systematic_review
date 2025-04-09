@@ -19,6 +19,11 @@
 \usepackage[style=numeric,sorting=none, backend=biber]{biblatex} %Imports biblatex package
 \addbibresource{msc_dissertation.bib} %Import the bibliography file
 
+\usepackage{array} % Centre all tables
+\let\oldtabular\tabular
+\let\endoldtabular\endtabular
+\renewenvironment{tabular}{\begin{center}\oldtabular}{\endoldtabular\end{center}}
+
 \geometry{margin=0.5in}
 \pagestyle{fancy}
 \fancyhf{}
@@ -26,7 +31,7 @@
 \lhead{Intentional Ingestion Data}
 \rfoot{\thepage}
 
-\title{\textbf{Preliminary Data Extraction Report}}
+\title{\textbf{Does motivation matter? A systematic review and meta-analysis of outcomes following intentional foreign object ingestion.}}
 
 \author{
     \fontsize{11}{13}\selectfont 
