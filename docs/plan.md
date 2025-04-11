@@ -67,6 +67,7 @@ The abstract will be written as per PRISMA (2020) Abstract Checklist (Page et al
     - Journal of Refugee Studies.
     - Emergency Medicine Journal.
     - International Journal of High Risk Behaviour
+    - Suicide and Life-Threatening Behavior - The American Association of Suicidology
 - Conferences	
     - European Society for Emergency Medicine Conferences.
     - International Association for Suicide Prevention Congress.
