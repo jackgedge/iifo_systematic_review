@@ -40,6 +40,8 @@
 \contentsline {subsubsection}{Outcome – Obstruction \textit {(Outcome\_Obstruction)}}{7}{section*.36}%
 \contentsline {subsubsection}{Outcome – Injury Requiring Intervention \textit {(Outcome\_Injury\_Needing\_Intervention)}}{7}{section*.37}%
 \contentsline {subsubsection}{Outcome – Other \textit {(Outcome\_Other)}}{8}{section*.38}%
+\contentsline {subsection}{\numberline {0.2.6}Aggregate Outcomes}{8}{subsection.0.2.6}%
+\contentsline {subsubsection}{Object Characteristics}{8}{section*.39}%
 \contentsline {section}{\numberline {0.3}Sources}{8}{section.0.3}%
 \contentsline {subsection}{\numberline {0.3.1}Sample Study Designs}{8}{subsection.0.3.1}%
 \contentsline {subsection}{\numberline {0.3.2}Sample Publication/Case Years}{9}{subsection.0.3.2}%
