@@ -1,5 +1,4 @@
 Study_ID,Exclude_JGE,Reason_ID_JGE,Unclear_JGE,Comments_JGE,Exclude_MS,Reason_ID_MS,Unclear_MS,Comments_MS,Exclude_GC,Reason_ID_GC,Comments_GC,Exclude_FINAL,Reason_ID_FINAL
-3,False,,,Record of first gastrotomy for intention ingestion. Timeline of further historical ingestions.,,,,,,,,False,
 39,False,,,Case report of endoscopic management of multiple ingestions. Severe mental and physical impairment.,,,,,,,,False,
 46,False,,,Case series or 36 prisoners who intentionally ingested objects.,,,,,,,,False,
 51,False,,,Case series. Gastrointestinal crosses causing multiple perforation in a prison in one week,,,,,,,,False,
@@ -60,7 +59,6 @@ Study_ID,Exclude_JGE,Reason_ID_JGE,Unclear_JGE,Comments_JGE,Exclude_MS,Reason_ID
 369,False,,,Case report. 30M Intentional Ingestion of 20cm wire.,,,,,,,,False,
 370,False,,,"28F Intentional ingestion of needle, found in left atria.",,,,,,,,False,
 373,False,,,"Case report. 32M, Deliberate foreign body ingestion. ",,,,,,,,False,
-375,False,,,Case report. 23M recurrent intentional ingestion cases.,,,,,,,,False,
 377,False,,,"25 cases if foreign body ingestion with 4 intentional. Empirical data on individual cases extracted into case report data, but motivations not recorded. ",,,,,,,,False,
 380,False,,,Paediatric study. Case report. 15F ingested knife blade.,,,,,,,,False,
 382,False,,,Letter that includes multiple case reports of deliberate ingestion. ,,,,,,,,False,
@@ -74,7 +72,6 @@ Study_ID,Exclude_JGE,Reason_ID_JGE,Unclear_JGE,Comments_JGE,Exclude_MS,Reason_ID
 414,False,,,Case report. 35M prisoner intentionally ingested mobile phone 40 days prior.,,,,,,,,False,
 416,False,,,Case report. 26F intentionally swallowed two sewing needles.,,,,,,,,False,
 421,False,,,Retrospective case series of deliberate and accidental whole or patial toothbrush ingestion. Deliberate case histories specifically recorded.,,,,,,,,False,
-428,False,,True,"Single centre, retrospective database study. Studies all foreign bodies in the GI tract, regardless of whether ingested orally or inserted rectally. Does not report outcomes for separate cohorts, but does examine motivations for these pathologies and surgical and endoscopic outcomes. ?Exclude",,,,,,,,False,
 431,False,,,,,,,,,,,False,
 432,False,,True,"Retrospective, single-centra australian study of management and complications following ingestion of foreign object. Some intentional ingestions included, but does not report rates of intentional ingestion in this mixed population. ",,,,,,,,False,
 439,False,,,Case report . 30M intentional ingestion of 216 metal objects.,,,,,,,,False,

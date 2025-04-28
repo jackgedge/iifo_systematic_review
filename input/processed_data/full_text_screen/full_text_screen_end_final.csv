@@ -1,5 +1,5 @@
 Study_ID,Exclude_JGE,Reason_ID_JGE,Unclear_JGE,Comments_JGE,Exclude_MS,Reason_ID_MS,Unclear_MS,Comments_MS,Exclude_GC,Reason_ID_GC,Comments_GC,Exclude_FINAL,Reason_ID_FINAL
-3,False,,,Record of first gastrotomy for intention ingestion. Timeline of further historical ingestions.,,,,,,,,False,
+3,True,12.0,,Record of first gastrotomy for intention ingestion. Timeline of further historical ingestions.,,,,,,,,True,12.0
 4,True,1.0,,"Pay wall, unable to access via QMUL or Sci-Hub.",,,,,,,,True,1.0
 7,True,9.0,,"Case series in 'Oesophagus' Section. Intention not explicitly intentional. All appear to be accidental. Chidlren swallowing coins, adults for food bolus impaction and dental implants.",,,,,,,,True,9.0
 15,True,9.0,,Case series. All children. All appear to be coins and pins. Age <4. Intention not explicitly intentional. ,,,,,,,,True,9.0
@@ -238,7 +238,7 @@ Study_ID,Exclude_JGE,Reason_ID_JGE,Unclear_JGE,Comments_JGE,Exclude_MS,Reason_ID
 372,True,9.0,,No mention of intention.,,,,,,,,True,9.0
 373,False,,,"Case report. 32M, Deliberate foreign body ingestion. ",,,,,,,,False,
 374,True,9.0,,Retrospective analysis of single Indian surgeon's experience of ingested foreign bodies. Some intentional ingestions mentioned. But no empirical data on explictly intentional ingestions.,,,,,,,,True,9.0
-375,False,,,Case report. 23M recurrent intentional ingestion cases.,,,,,,,,False,
+375,True,10.0,,Case report. 23M recurrent intentional ingestion cases. Unable to separate outcomes for individual ingestions. Exclude,,,,,,,,True,10.0
 377,False,,,"25 cases if foreign body ingestion with 4 intentional. Empirical data on individual cases extracted into case report data, but motivations not recorded. ",,,,,,,,False,
 378,True,9.0,,2month male ingested large ear ring.,,,,,,,,True,9.0
 379,True,9.0,,Paediatric study. Intention not mentioned.,,,,,,,,True,9.0
@@ -274,7 +274,7 @@ Study_ID,Exclude_JGE,Reason_ID_JGE,Unclear_JGE,Comments_JGE,Exclude_MS,Reason_ID
 418,True,1.0,,"Pay wall, unable to access via QMUL or Sci-Hub.",,,,,,,,True,1.0
 421,False,,,Retrospective case series of deliberate and accidental whole or patial toothbrush ingestion. Deliberate case histories specifically recorded.,,,,,,,,False,
 423,True,9.0,,Paediatric study. Intention not recorded.,,,,,,,,True,9.0
-428,False,,True,"Single centre, retrospective database study. Studies all foreign bodies in the GI tract, regardless of whether ingested orally or inserted rectally. Does not report outcomes for separate cohorts, but does examine motivations for these pathologies and surgical and endoscopic outcomes. ?Exclude",,,,,,,,False,
+428,True,10.0,,"Single centre, retrospective database study. Studies all foreign bodies in the GI tract, regardless of whether ingested orally or inserted rectally. Does not report outcomes for separate cohorts, but does examine motivations for these pathologies and surgical and endoscopic outcomes. ?Exclude",,,,,,,,True,10.0
 429,True,11.0,True,Single centre atudy of foreign body algorithm for reduction of out of hours endoscopy rats. Includes only patients that underwent OGD. Contains 82/358 cases of intentional ingestion that underwent endoscopy. Mix of oesophaegeal food impaction and IIFO. Motivation and type of object not elaborated on. Exclude. Review with supervisor.,,,,,,,,True,11.0
 430,True,5.0,,Review article of button battery and cannabis ingestion. No mention of intentional ingestion.,,,,,,,,True,5.0
 431,False,,,,,,,,,,,False,
