@@ -1,7 +1,0 @@
-id,Exclude_MS,Reason ID_MS,Exclude_GC,Reason ID_GC,Review_GC,Comments_GC
-204,True,3.0,True,2.0,Exclude,"1. Not oral ingestion, 2. Not clearly intentional (likely to be accidental) - could check with full paper"
-248,True,3.0,True,3.0,Exclude,Not intentional  
-448,True,3.0,True,3.0,Exclude,Not intentional
-72,True,2.0,True,2.0,Exclude,"Not intentional, food bolus"
-182,False,,False,,Unclear,"This appears to be a review rather than new data, but would need to check full text"
-459,True,2.0,True,5.0,Exclude,Review

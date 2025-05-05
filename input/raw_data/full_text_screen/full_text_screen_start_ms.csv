@@ -1,4 +1,4 @@
-id,Publication Year,Authors,Title,Publication Title,Database,Exclude,Reason ID,Paediatric,Intention Reported,Deliberate Intention,Unclear,Accessed,Comments
+Study_ID,Publication Year,Authors,Title,Publication Title,Database,Exclude,Reason ID,Paediatric,Intention Reported,Deliberate Intention,Unclear,Accessed,Comments
 22,1976,Pk Kottmeier,What The Pediatrician Should Know About Pediatric Trauma,Current Problems In Pediatrics,Google Scholar,,,,,,,,
 26,1983,"Lr Goodman, Sk Teplick",Computed Tomography In Acute Cardiopulmonary Disease,Radiologic Clinics Of North America,Google Scholar,,,,,,,,
 58,1998,Ah Messner,Pitfalls In The Diagnosis Of Aerodigestive Tract Foreign Bodies,Clinical Pediatrics,Google Scholar,,,,,,,,

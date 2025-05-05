@@ -20,3 +20,4 @@ dependencies:
       - google-search-results
       - openpyxl
       - Jinja2
+      - xlrd
