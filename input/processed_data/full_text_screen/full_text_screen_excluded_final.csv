@@ -208,6 +208,7 @@ Study_ID,Exclude_JGE,Reason_ID_JGE,Unclear_JGE,Comments_JGE,Exclude_MS,Reason_ID
 434,True,5.0,,,,,,,,,,True,5.0
 435,True,9.0,,Narrative review of POCUS for identifying intentional ingestion of foreign object. No mention of intention. ,,,,,,,,True,9.0
 437,True,9.0,,Retrospective chart review of impacted foreign bodies in children. No mention of intention. ,,,,,,,,True,9.0
+444,True,10.0,True,"Prolonged case report. 18F repeated intentional ingestions in one case. Documentation of one hospital course with repeated ingestions during. Difficult to get data on individual ingestions, so statistics used to average characteristics across each ingestion. ",,,,,,,,True,10.0
 445,True,11.0,True,"Single Centre UK review of deliberate foreign body ingestion. Primary aim was to: aim was to identify the timeframes and barriers in escalation and management of these high-risk patients from the point of presentation, with a view to highlighting new strategies to improve clinical outcomes and reduce prolonged admissions. Exclude. Review with supervisor.",,,,,,,,True,11.0
 447,True,7.0,,"Case report. 18F BPD, deliberate ingestion. With co-ingestion of medications. Exclude. Also does not give individual outcomes for each item ingested during admission. ",False,,False,,True,7.0,Co-ingestion.,True,7.0
 454,True,9.0,,Paediatric study. Not explicitly intentional. Intention not recorded. Refers to 'this type of accident'.,,,,,,,,True,9.0
