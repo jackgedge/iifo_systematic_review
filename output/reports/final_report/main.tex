@@ -1,0 +1,80 @@
+\documentclass[twocolumn,10pt]{IEEEtran}
+
+\usepackage[utf8]{inputenc}
+\usepackage{array}
+\usepackage{ragged2e}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{amsmath}
+\usepackage{geometry}
+\usepackage{longtable}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{placeins}
+\usepackage{multicol}
+\usepackage{titling}
+\usepackage{tabularx}
+
+\usepackage[style=numeric,sorting=none, backend=biber]{biblatex} %Imports biblatex package
+\addbibresource{msc_dissertation.bib} %Import the bibliography file
+
+\geometry{margin=0.5in}
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Preliminary Report}
+\lhead{Intentional Ingestion Data}
+\rfoot{\thepage}
+
+\title{\textbf{Does motivation matter? A systematic review and meta-analysis of outcomes following intentional foreign object ingestion.}}
+
+\author{
+    \IEEEauthorblockN{Jack Galbraith-Edge\\}
+    \IEEEauthorblockA{
+        Queen Mary, University of London\\
+        London, United Kingdom\\
+        ha201591@qmul.ac.uk\\
+    }
+    \and
+    \IEEEauthorblockN{Mark Stanton\\}
+    \IEEEauthorblockA{
+        Critical Care Paramedic\\
+        Johannesburg, South Africa\\
+        trauma.1@mweb.co.za\\
+    }
+    \and
+    \IEEEauthorblockN{Giles Cattermole\\}
+    \IEEEauthorblockA{
+        Queen Mary, University of London\\
+        London, United Kingdom\\
+        g.cattermole@qmul.ac.uk\\
+    }
+}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+\input{sections/02-abstract.tex}
+
+\section{Introduction}
+
+\input{sections/03-rationale.tex}
+\input{sections/04-objectives.tex}
+
+\section{Methods}
+\input{sections/05-eligibility_criteria.tex}
+\FloatBarrier
+\input{sections/06-information_sources.tex}
+\input{sections/07-search_strategy.tex}       
+
+\newpage
+\printbibliography
+
+\newpage
+\onecolumn
+\appendix
+\input{sections/appendix_a.tex}
+
+\end{document}
