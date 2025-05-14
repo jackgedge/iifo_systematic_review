@@ -1,0 +1,150 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{ThePandasDevelopmentTeam_2020}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=d850c852b9f625e446a32cef4a26cb3c}{%
+           family={{The Pandas Development Team}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{d850c852b9f625e446a32cef4a26cb3c}
+      \strng{fullhash}{d850c852b9f625e446a32cef4a26cb3c}
+      \strng{fullhashraw}{d850c852b9f625e446a32cef4a26cb3c}
+      \strng{bibnamehash}{d850c852b9f625e446a32cef4a26cb3c}
+      \strng{authorbibnamehash}{d850c852b9f625e446a32cef4a26cb3c}
+      \strng{authornamehash}{d850c852b9f625e446a32cef4a26cb3c}
+      \strng{authorfullhash}{d850c852b9f625e446a32cef4a26cb3c}
+      \strng{authorfullhashraw}{d850c852b9f625e446a32cef4a26cb3c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Pandas is a powerful data structures for data analysis, time series, and statistics.}
+      \field{howpublished}{Zenodo}
+      \field{month}{3}
+      \field{shorttitle}{Pandas-Dev/Pandas}
+      \field{title}{Pandas-Dev/Pandas: {{Pandas}}}
+      \field{urlday}{3}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.5281/zenodo.13819579
+      \endverb
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/YD5VSWTZ/13819579.html
+      \endverb
+      \keyw{data science,python}
+    \endentry
+    \entry{Moola_2020}{incollection}{}{}
+      \name{author}{11}{}{%
+        {{hash=1ba9d48f817e3c04853f6bca5858823b}{%
+           family={Moola},
+           familyi={M\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5f540b460bf60a40d7629c2638aaaa2d}{%
+           family={Munn},
+           familyi={M\bibinitperiod},
+           given={Z},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=c8913ce7e7adaae711fbf4c47c4dffa3}{%
+           family={Tufanaru},
+           familyi={T\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=93f81b9621f49b07b4218615009220ce}{%
+           family={Aromataris},
+           familyi={A\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=e9274748233f42ac5cf6ae625b041282}{%
+           family={Sears},
+           familyi={S\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+        {{hash=cc39be4089beb6958a05f1790ada40af}{%
+           family={Sfetcu},
+           familyi={S\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=267b986a1ea8c1b1a48888a05d5c2129}{%
+           family={Sfetcu},
+           familyi={S\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=072e2b784d9c9cbff0f74a5048bc3bf7}{%
+           family={Lisy},
+           familyi={L\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9fbf9cad471d9fe632b84ef4424bc8c2}{%
+           family={Qureshi},
+           familyi={Q\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e516bc61a42284e9517d0955abddc647}{%
+           family={Mattis},
+           familyi={M\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=42530b88342a7101446b42a61d0a9fd8}{%
+           family={Mu},
+           familyi={M\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {JBI}%
+      }
+      \strng{namehash}{88b9ddad304bb4c475c6c777d086e4d7}
+      \strng{fullhash}{8158ef89982d61db529b899edb731856}
+      \strng{fullhashraw}{8158ef89982d61db529b899edb731856}
+      \strng{bibnamehash}{88b9ddad304bb4c475c6c777d086e4d7}
+      \strng{authorbibnamehash}{88b9ddad304bb4c475c6c777d086e4d7}
+      \strng{authornamehash}{88b9ddad304bb4c475c6c777d086e4d7}
+      \strng{authorfullhash}{8158ef89982d61db529b899edb731856}
+      \strng{authorfullhashraw}{8158ef89982d61db529b899edb731856}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{{{JBI Manual}} for {{Evidence Synthesis}}}
+      \field{isbn}{978-0-648-84880-6}
+      \field{shorttitle}{Chapter 7}
+      \field{title}{Chapter 7: {{Systematic}} Reviews of Etiology and Risk}
+      \field{urlday}{7}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.46658/JBIMES-20-08
+      \endverb
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/FAIFMRUB/JBI_Reviewers_Manual_2020June.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

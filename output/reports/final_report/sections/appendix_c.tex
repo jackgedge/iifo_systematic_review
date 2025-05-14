@@ -1,0 +1,45 @@
+\section{Variable Definitions}
+\label{appendix:variables}
+Used for case report data extraction. Aggregates of which where used to create Variable\_Rate and Variable\_Count.}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{p{4.5cm} p{10.5cm}}
+\toprule
+\textbf{Variable} & \textbf{Definition} \\
+\midrule
+Is\_Prisoner & Documented in prison, police custody, or detained (including immigration detention) at the time of the encounter; 'N' if not detained; 'UK' if unknown. \\
+Psych\_Hx & Documented DSM-V mental disorder (including substance-related disorders) \cite{AmericanPsychiatricAssociation_2013}; 'N' if no diagnosis; 'UK' if data unavailable. \\
+Is\_Displaced\_Person & Meets International Organisation for Migration definition of a displaced person \cite{Deng_1998}; 'N' if not displaced; 'UK' if unknown. \\
+Under\_Influence\_Alcohol & Evidence, suspicion, or self-report of alcohol influence at presentation; 'N' if no indication; 'UK' if unknown. \\
+Is\_Psych\_Inpat & Admitted (voluntarily or involuntarily) to a psychiatric facility/ward at encounter; 'N' if not admitted; 'UK' if unknown. \\
+Severe\_Disability\_Hx & History of severe learning disability or impaired consciousness; 'N' if absent; 'UK' if unknown. \\
+Previous\_Ingestions & Prior episode of foreign-body ingestion documented; 'N' if first ingestion; 'UK' if history unknown. \\
+Motivation\_Intent\_To\_Harm & Ingestion intended for self-harm, self-injury, or suicide; 'N' if other motive; 'UK' if unclear. \\
+Motivation\_Protest & Ingestion as protest, demonstration, or manipulation (e.g., objection to detention conditions); 'N' if not protest-related; 'UK' if unclear. \\
+Motivation\_Psychiatric & Ingestion driven primarily by an underlying psychiatric condition (psychosis, impulsivity, etc.); 'N' if not psychiatric; 'UK' if unclear. \\
+Motivation\_Psychosocial & Ingestion motivated by social or interpersonal factors (imitative acts, shock value, body-image, safekeeping, etc.); 'N' if not psychosocial; 'UK' if unclear. \\
+Motivation\_Unknown & No clear motivation identified in documentation; 'N' if specific motive recorded; 'UK' if ambiguous. \\
+Object\_Button\_Battery & Button battery ingested; 'N' if not; 'UK' if object type not recorded. \\
+Object\_Magnet & Magnet ingested; 'N' if none; 'UK' if unknown. \\
+Object\_Long & Ingested object length $>$ 5 cm; 'N' if $\leq$ 5 cm; 'UK' if dimensions unknown. \\
+Object\_Long\_Sharp & 'Y' when both Object\_Long and Object\_Sharp are 'Y'; 'N' otherwise; 'UK' if either unknown. \\
+Object\_Short & Derived: object length $<$ 5 cm when Object\_Long='N'; retains 'UK' if dimensions unknown. \\
+Object\_Short\_Sharp & 'Y' when both Object\_Short and Object\_Sharp are 'Y'; 'N' otherwise; 'UK' if either unknown. \\
+Object\_Sharp & Object described as sharp or pointed (e.g., blades, nails, needles); 'N' if not sharp; 'UK' if unclear. \\
+Object\_Multiple & More than one object ingested in same episode; 'N' for single object; 'UK' if number unspecified. \\
+Object\_Unknown & Where object characteristics are unknown. 'N' if known; 'UK' if Unknown. \\
+Outcome\_Endoscopy & Endoscopic intervention performed during episode; 'N' if not; 'UK' if unavailable. \\
+Outcome\_Surgery & Surgical intervention performed (operative procedure under anaesthesia); 'N' if not; 'UK' if not documented. \\
+Outcome\_Endoscopy\_Surgery & 'Y' if both Outcome\_Endoscopy and Outcome\_Surgery are 'Y'; 'N' otherwise; 'UK' if data insufficient. \\
+Outcome\_Conservative & 'Y' if managed without endoscopy or surgery; 'N' if either procedure performed. \\
+Outcome\_Death & Death causally related to ingestion complications; 'N' if survived; 'UK' if outcome unknown. \\
+Outcome\_Perforation & Clinical or radiological evidence of gastrointestinal or airway perforation; 'N' if absent; 'UK' if unknown. \\
+Outcome\_Obstruction & Confirmed or suspected gastrointestinal obstruction; 'N' if none; 'UK' if not documented. \\
+Outcome\_Injury\_Needing\_Intervention & Injury necessitating medical/procedural intervention and influencing decision for endoscopy/surgery; 'N' if no such injury; 'UK' if data unavailable. \\
+Outcome\_Other & Other clinically significant outcomes (aspiration, sepsis, prolonged stay, etc.); 'N' if none; 'UK' if data insufficient. \\
+Outcome\_Unknown & Where no outcome identified; 'N' if outcome identified; 'UK' if Unknown.
+
+\bottomrule
+\end{tabular}
+\end{table}

@@ -1,0 +1,24 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'main.blg'
+[36] biber-darwin:340> INFO - === Wed May 14, 2025, 18:04:18
+[45] Biber.pm:420> INFO - Reading 'main.bcf'
+[87] Biber.pm:994> INFO - Found 45 citekeys in bib section 0
+[94] Biber.pm:4463> INFO - Processing section 0
+[100] Biber.pm:4654> INFO - Looking for bibtex file 'IIFO.bib' for section 0
+[208] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1146] bibtex.pm:1519> INFO - Found BibTeX data source 'IIFO.bib'
+[1385] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1385] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1385] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
+[1385] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[1397] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1410] bbl.pm:779> INFO - Output to main.bbl
+[1410] Biber.pm:131> WARN - I didn't find a database entry for 'Lerche_1991' (section 0)
+[1410] Biber.pm:131> WARN - I didn't find a database entry for 'Guinan\_2019e' (section 0)
+[1410] Biber.pm:131> WARN - I didn't find a database entry for 'Gitlin\_2007' (section 0)
+[1410] Biber.pm:131> WARN - I didn't find a database entry for 'GlobalDetention\_2024' (section 0)
+[1410] Biber.pm:131> WARN - I didn't find a database entry for 'AjdacicGross_2008' (section 0)
+[1410] Biber.pm:131> WARN - I didn't find a database entry for 'HedrickBorschmann_2023' (section 0)
+[1410] Biber.pm:131> WARN - I didn't find a database entry for 'AlFaham_2020' (section 0)
+[1410] Biber.pm:131> WARN - I didn't find a database entry for 'Page\_2020' (section 0)
+[1410] Biber.pm:133> INFO - WARNINGS: 8
