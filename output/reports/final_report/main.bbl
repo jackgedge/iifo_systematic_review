@@ -19,6 +19,61 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
+    \entry{Becq_2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=f89aa91945a78eb45f55e0ef50dceb01}{%
+           family={Becq},
+           familyi={B\bibinitperiod},
+           given={Aymeric},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bc97c67a9678a5ccc886d438a797300a}{%
+           family={Camus},
+           familyi={C\bibinitperiod},
+           given={Marine},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a2b27eb5a32014c226679c96d0441a6a}{%
+           family={Dray},
+           familyi={D\bibinitperiod},
+           given={Xavier},
+           giveni={X\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {British Medical Journal Publishing Group}%
+      }
+      \strng{namehash}{3ef6a67e7f10a8f04beb5b3584dcab40}
+      \strng{fullhash}{3ef6a67e7f10a8f04beb5b3584dcab40}
+      \strng{fullhashraw}{3ef6a67e7f10a8f04beb5b3584dcab40}
+      \strng{bibnamehash}{3ef6a67e7f10a8f04beb5b3584dcab40}
+      \strng{authorbibnamehash}{3ef6a67e7f10a8f04beb5b3584dcab40}
+      \strng{authornamehash}{3ef6a67e7f10a8f04beb5b3584dcab40}
+      \strng{authorfullhash}{3ef6a67e7f10a8f04beb5b3584dcab40}
+      \strng{authorfullhashraw}{3ef6a67e7f10a8f04beb5b3584dcab40}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Foreign body ingestion comprises a true foreign body (ie, non-food) ingestion and food bolus impaction. Foreign body ingestion is not uncommon and accounts for roughly 4\% of urgent endoscopies undertaken.1 2 True foreign body ingestion is mostly encountered in paediatric populations with 75\% of cases occurring in less than 5-year-old children.1 Coins, buttons, plastic items, batteries and bones are common culprits.3 Food bolus impaction on the other hand is mostly seen in adults, usually accidental (95\% of cases). Steakhouse syndrome, animal bones, toothpicks and fish bones are the most frequent.2 True foreign body ingestion (coins and dentures) is rare in adults. Intentional true foreign body ingestion can be seen in patients with psychiatric illness, prisoners (secondary gain) and drug dealers (`body packing'). Underlying oesophageal conditions including eosinophilic oesophagitis (10\% in adults, up to 50\% in children), motility disorder, stenosis and diverticula are frequent.2 4 Most ingested foreign bodies will pass spontaneously.5 However, 10\%--20\% require endoscopic removal, and less than 1\% require surgical extraction or treatment of a complication.6 This review focuses on the management of foreign bodies located in the upper gastrointestinal tract, in adults. The quality of evidence of the guidelines is low; however, substantial clinical experience provides strong levels of recommendation.7 8 The management of rectal foreign bodies mostly relies on surgical, transanal extraction and is not detailed herein. Precise history (type of foreign body, time of onset) is essential. Physical examination is also mandatory. Most patients are asymptomatic. Symptoms arise when the foreign body is stuck in the oesophagus or when a complication occurs (obstruction and perforation).9 Emesis, retching, blood-stained saliva, hypersialorrhoea, wheezing and/or respiratory distress in non-communicative patients (children and psychiatric patients) are suggestive of foreign body impaction.7 Oesophageal impaction (food bolus) is often symptomatic: retching, {\dots}}
+      \field{chapter}{Endoscopy}
+      \field{issn}{2041-4137, 2041-4145}
+      \field{journaltitle}{Frontline Gastroenterology}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{7}
+      \field{shorttitle}{Foreign Body Ingestion}
+      \field{title}{Foreign Body Ingestion: Dos and Don'ts}
+      \field{urlday}{15}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{12}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{664\bibrangedash 670}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1136/flgastro-2020-101450
+      \endverb
+      \keyw{endoscopic procedures,endoscopy,gastrointesinal endoscopy,oesophageal disorders}
+    \endentry
     \entry{Moehlau_1895}{article}{}{}
       \name{author}{1}{}{%
         {{hash=2c5c7f16afc985592d4832f82a2f8095}{%
@@ -35,8 +90,8 @@
       \strng{authornamehash}{2c5c7f16afc985592d4832f82a2f8095}
       \strng{authorfullhash}{2c5c7f16afc985592d4832f82a2f8095}
       \strng{authorfullhashraw}{2c5c7f16afc985592d4832f82a2f8095}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1040-3817}
@@ -66,8 +121,8 @@
       \strng{authornamehash}{1bd97870a6fb119a059a41b2855f1db0}
       \strng{authorfullhash}{1bd97870a6fb119a059a41b2855f1db0}
       \strng{authorfullhashraw}{1bd97870a6fb119a059a41b2855f1db0}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Surgical procedures have been employed for the relief of several pathologic conditions in the esophagus, the most common being the impaction of foreign bodies, cardiospasm, benign cicatricial stricture, carcinoma and diverticula. Impacted foreign bodies are now much less commonly dealt with by surgical means because of the easier and less dangerous method, in the hands of experts, of extraction through the esophagoscope, while surgical procedures have been almost eliminated from the treatment for cardiospasm. In this article the last three conditions, essentially, are considered.Until within the past fifty years the esophagus received scant attention from the surgeon in spite of the well recognized pathologic conditions for which, theoretically, surgical procedures might well have been indicated. This is all the more striking when one remembers that the ancient Hindoos operated on the bladder for stone, and that Herophilus of the Alexandrian School used the knife boldly on such internal organs}
@@ -122,8 +177,8 @@
       \strng{authornamehash}{0b0ccdc550ac050cd1f35240df96cee8}
       \strng{authorfullhash}{b75a00797eeee9ffb11efdbf1118d8a6}
       \strng{authorfullhashraw}{b75a00797eeee9ffb11efdbf1118d8a6}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{We reviewed the management of 167 patients with foreign body ingestion from 1980 to 1986. Two patients (1.1\%) refused treatment. Nonoperative management was attempted in 14 (8.4\%) patients. Endoscopy was performed on 117 patients with an overall success rate of 85.5\% and a complication rate of 1.7\%. Surgical treatment was required in 51 (30.0\%) patients, 14 of whom had previous unsuccessful endoscopy.}
@@ -145,6 +200,47 @@
       \endverb
       \keyw{Adolescent,Adult,Aged,Aged 80 and over,Child,Deglutition,Digestive System,Female,Foreign Bodies,Humans,Male,Middle Aged}
     \endentry
+    \entry{Lerche_1911}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=e5c7dae9d385c0f423525df949222f41}{%
+           family={Lerche},
+           familyi={L\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{e5c7dae9d385c0f423525df949222f41}
+      \strng{fullhash}{e5c7dae9d385c0f423525df949222f41}
+      \strng{fullhashraw}{e5c7dae9d385c0f423525df949222f41}
+      \strng{bibnamehash}{e5c7dae9d385c0f423525df949222f41}
+      \strng{authorbibnamehash}{e5c7dae9d385c0f423525df949222f41}
+      \strng{authornamehash}{e5c7dae9d385c0f423525df949222f41}
+      \strng{authorfullhash}{e5c7dae9d385c0f423525df949222f41}
+      \strng{authorfullhashraw}{e5c7dae9d385c0f423525df949222f41}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0002-9955}
+      \field{journaltitle}{Journal of the American Medical Association}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{9}
+      \field{title}{{{THE ESOPHAGOSCOPE IN REMOVING SHARP FOREIGN BODIES FROM THE ESOPHAGUS}}}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{volume}{LVI}
+      \field{year}{1911}
+      \field{urldateera}{ce}
+      \field{pages}{634}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1001/jama.1911.02560090004002
+      \endverb
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/9SF5RFNE/Lerche - 1911 - THE ESOPHAGOSCOPE IN REMOVING SHARP FOREIGN BODIES.pdf
+      \endverb
+    \endentry
     \entry{Jackson_1957}{article}{}{}
       \name{author}{1}{}{%
         {{hash=c999f7ee4f631d1d43b78b0084314e05}{%
@@ -161,8 +257,8 @@
       \strng{authornamehash}{c999f7ee4f631d1d43b78b0084314e05}
       \strng{authorfullhash}{c999f7ee4f631d1d43b78b0084314e05}
       \strng{authorfullhashraw}{c999f7ee4f631d1d43b78b0084314e05}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{00029610}
@@ -202,8 +298,8 @@
       \strng{authornamehash}{4b033a6d8a8c08287c30671c04b5ecda}
       \strng{authorfullhash}{4b033a6d8a8c08287c30671c04b5ecda}
       \strng{authorfullhashraw}{4b033a6d8a8c08287c30671c04b5ecda}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{To find foreign bodies in the stomach is by no means rare, in fact, the medical literature is so replete with reported cases that one hesitates to add another unless it is of unusual interest. Many of the patients are children who pick up objects and swallow them accidentally or intentionally. In the normal adult the presence of foreign bodies in the stomach is usually the result of the accidental swallowing of articles held in the mouth, although at times one sees people, otherwise normal, who have the habit of swallowing hair and other objects. This habit may be accentuated in some insane patients, and it is from this group that the strangest and largest number of objects have been recovered at operation, or more often at autopsy. REPORT OF A CASE The following case, we feel, qualifies for a place in literature: Mrs. H., aged 42, had been a}
@@ -285,8 +381,8 @@
       \strng{authornamehash}{3cdb10872e45638a84f67611a3967f01}
       \strng{authorfullhash}{11de147d4e897fdb1a582df96937d2ec}
       \strng{authorfullhashraw}{11de147d4e897fdb1a582df96937d2ec}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In a review of our experience with the extraction of foreign bodies using the fiberendoscope in 57 patients who ingested true foreign bodies and had food bolus impaction, we found 17 of the foreign bodies to be big metallic wires. The extraction technique used and the complications as a result of the object or the technique are given herein.}
@@ -333,8 +429,8 @@
       \strng{authornamehash}{ea77e1d0b566a815095d24bf8bbd6e1a}
       \strng{authorfullhash}{e9f34e035b98fbe2e11db34670c382f0}
       \strng{authorfullhashraw}{e9f34e035b98fbe2e11db34670c382f0}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{OBJECTIVE: Deliberate foreign body ingestion (DFBI) is often impulsively driven, repetitive and refractory to intervention and frequently necessitates multiple medical interventions. As such, the frustrations among health care providers are great, and the financial toll on health care is significant. Nevertheless, the literature on DFBI is sparse, and suggestions for treatment planning and management are limited. The authors sought to investigate and uncover efficacious treatments and strategies for preventing reoccurrence in DFBI. We build on earlier work by offering both broad and diagnosis-specific management strategies. METHOD: A literature review was performed addressing the presentation, management and prevention of reoccurrences of DFBI. Four cases of DFBI are presented illustrating those psychiatric diagnoses (psychosis, malingering, obsessive-compulsive disorder and borderline personality disorder) most frequently encountered in hospital practice. Both broad and specific treatment approaches are presented. RESULTS: Patients engaging in DFBI are best managed through a multidisciplinary approach, following acute medical management. Successful strategies for the prevention of reoccurrences of DFBI are inconclusive. CONCLUSION: Understanding the function of this behavior is critical in developing treatment for patients who engage in these dangerous, potentially life-threatening, self-injurious behaviors. An amalgam of medical, pharmacological and cognitive-behavioral interventions is recommended, as is additional research.}
@@ -394,8 +490,8 @@
       \strng{authornamehash}{81db44b702d6bda04d24a821358d935c}
       \strng{authorfullhash}{83aa1dafb3aa032d930afadd2ff1cb56}
       \strng{authorfullhashraw}{83aa1dafb3aa032d930afadd2ff1cb56}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0033-3182}
@@ -439,8 +535,8 @@
       \strng{authornamehash}{0025e1d48124a47ca09065f498ce2ecb}
       \strng{authorfullhash}{0025e1d48124a47ca09065f498ce2ecb}
       \strng{authorfullhashraw}{0025e1d48124a47ca09065f498ce2ecb}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{2 v. (lix, 4520, I-138 p.) : 29 cm; Includes bibliographical references and index}
@@ -470,8 +566,8 @@
       \strng{authornamehash}{be9a86225a3624470e73a479bc170527}
       \strng{authorfullhash}{be9a86225a3624470e73a479bc170527}
       \strng{authorfullhashraw}{be9a86225a3624470e73a479bc170527}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This article offers a means of defining and classifying various types of pica, and puts forward possible aetiological explanations for how pica may arise. When considering the question of treatment the aetiology of the disorder may be of fundamental importance.}
@@ -590,6 +686,62 @@
       \verb /Users/jackgedge/Zotero/storage/2G5UMJQT/Blaho et al. - 1998 - Foreign Body Ingestions in the Emergency Departmen.pdf
       \endverb
       \keyw{foreign body ingestion,prisoners,razor blade,razor blade ingestion}
+    \endentry
+    \entry{Guinan_2019f}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=49a5700e30f62510e686e071afa7bb83}{%
+           family={Guinan},
+           familyi={G\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=e57ff2f0047c775aedc0780c91376990}{%
+           family={Drvar},
+           familyi={D\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a0a5c149e22e13908dfe678a54a4a09d}{%
+           family={Brubaker},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=e672cd250a0766b1f58210c87e7b747e}{%
+           family={{Ang-Rabanes}},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8720264d8986fcf9b8c57250dd2fc833}{%
+           family={Kupec},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=85c58088032a0dada04723fdd93f56a8}{%
+           family={Marshalek},
+           familyi={M\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{5612c98d2c7590bb18f9f2f25a5e0677}
+      \strng{fullhash}{ccc77fef9437608ff8560c6c83da9913}
+      \strng{fullhashraw}{ccc77fef9437608ff8560c6c83da9913}
+      \strng{bibnamehash}{5612c98d2c7590bb18f9f2f25a5e0677}
+      \strng{authorbibnamehash}{5612c98d2c7590bb18f9f2f25a5e0677}
+      \strng{authornamehash}{5612c98d2c7590bb18f9f2f25a5e0677}
+      \strng{authorfullhash}{ccc77fef9437608ff8560c6c83da9913}
+      \strng{authorfullhashraw}{ccc77fef9437608ff8560c6c83da9913}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Intentional Ingestion Of Foreign Objects, A Form Of Self-Injurious Behavior, Is Rarely Discussed In The Medical Literature But Often Requires Extensive Evaluation, Management, And Resources. It Can Be Especially Problematic For Gastroenterologists, Who Are Often Consulted For Removal Of The Foreign Body. Pica Is The Psychiatric Diagnosis For Intentional Ingestion Of Nonnutritive Objects And Is Most Commonly Seen In Prison Inmates And Those Diagnosed With Intellectual Disability Or Psychiatric Illness. This Case Report Presents A Challenging Case Of Pica, Highlighting The Complexity Involved In Diagnosis And The Need For Early Psychiatric Intervention. It Also Aims To Provide A General Review Of The Literature And Practical Recommendations To Assist With Managing This Form Of Self-Injurious Behavior In The Inpatient Setting. Collaborative Efforts Among Specialties In Addition To Primary Prevention Are Vital To Successful Management Of These Patients.}
+      \field{journaltitle}{Case Reports In Gastrointestinal Medicine}
+      \field{title}{Intentional {{Foreign Body Ingestion}}: {{A Complex Case Of Pica}}}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.1155/2019/7026815
+      \endverb
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/H9FB8NHW/Guinan et al. - 2019 - Intentional Foreign Body Ingestion A Complex Case.pdf
+      \endverb
     \endentry
     \entry{Jaini_2023}{article}{}{}
       \name{author}{3}{}{%
@@ -794,8 +946,8 @@
       \strng{authornamehash}{f2f151e1e38ef287c1269e3e3a4fbeaa}
       \strng{authorfullhash}{a97655e662e299cede12a7a95085b6f6}
       \strng{authorfullhashraw}{a97655e662e299cede12a7a95085b6f6}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{00165107}
@@ -1538,6 +1690,110 @@
       \endverb
       \keyw{fav}
     \endentry
+    \entry{GlobalDetentionProject_2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=3d91e06f3827620495b00d44afd26c93}{%
+           family={{Global Detention Project}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{3d91e06f3827620495b00d44afd26c93}
+      \strng{fullhash}{3d91e06f3827620495b00d44afd26c93}
+      \strng{fullhashraw}{3d91e06f3827620495b00d44afd26c93}
+      \strng{bibnamehash}{3d91e06f3827620495b00d44afd26c93}
+      \strng{authorbibnamehash}{3d91e06f3827620495b00d44afd26c93}
+      \strng{authornamehash}{3d91e06f3827620495b00d44afd26c93}
+      \strng{authorfullhash}{3d91e06f3827620495b00d44afd26c93}
+      \strng{authorfullhashraw}{3d91e06f3827620495b00d44afd26c93}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The UK has proposed numerous controversial migration enforcement policies aimed at deterring asylum seekers and stopping unauthorised Channel crossings, including mandatory detention and deportation schemes that would send people to ``safe third countries'' like Rwanda. Tens of thousands of people are detained every year in the country's privatised ``immigration removal centres,'' where they can remain indefinitely as the UK has not adopted limits on the length of migration-related detention.}
+      \field{howpublished}{https://www.globaldetentionproject.org/countries/europe/united-kingdom}
+      \field{journaltitle}{Global Detention Project}
+      \field{langid}{american}
+      \field{title}{United {{Kingdom Immigration Detention Profile}}}
+      \field{urlday}{2}
+      \field{urlmonth}{11}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/2CSAMS99/united-kingdom.html
+      \endverb
+    \endentry
+    \entry{Ajdacic-Gross_2008}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=30449b7b4f80a7745cea104a33dfbda0}{%
+           family={{Ajdacic-Gross}},
+           familyi={A\bibinitperiod},
+           given={Vladeta},
+           giveni={V\bibinitperiod}}}%
+        {{hash=0636a180624a13b6461240a827d1148a}{%
+           family={Weiss},
+           familyi={W\bibinitperiod},
+           given={Mitchell\bibnamedelima G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=d14506d422f183b30a78fd2d1c050cf0}{%
+           family={Ring},
+           familyi={R\bibinitperiod},
+           given={Mariann},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e7b09a266af9ebd7301d4b5a936ad6f1}{%
+           family={Hepp},
+           familyi={H\bibinitperiod},
+           given={Urs},
+           giveni={U\bibinitperiod}}}%
+        {{hash=0fa4cd81bb9a12f25e10d70b728801c0}{%
+           family={Bopp},
+           familyi={B\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ded0b16a09ac6df9216ea65641e13771}{%
+           family={Gutzwiller},
+           familyi={G\bibinitperiod},
+           given={Felix},
+           giveni={F\bibinitperiod}}}%
+        {{hash=dec467b3baf91d8f218e41bdfe244580}{%
+           family={Rössler},
+           familyi={R\bibinitperiod},
+           given={Wulf},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{371823267c1adb92ea4db4e0d9705bb9}
+      \strng{fullhash}{db43a5fd5b2def9fd2f160cf1dadc4c4}
+      \strng{fullhashraw}{db43a5fd5b2def9fd2f160cf1dadc4c4}
+      \strng{bibnamehash}{371823267c1adb92ea4db4e0d9705bb9}
+      \strng{authorbibnamehash}{371823267c1adb92ea4db4e0d9705bb9}
+      \strng{authornamehash}{371823267c1adb92ea4db4e0d9705bb9}
+      \strng{authorfullhash}{db43a5fd5b2def9fd2f160cf1dadc4c4}
+      \strng{authorfullhashraw}{db43a5fd5b2def9fd2f160cf1dadc4c4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Accurate information about preferred suicide methods is important for devising strategies and programmes for suicide prevention. Our knowledge of the methods used and their variation across countries and world regions is still limited. The aim of ...}
+      \field{journaltitle}{Bulletin of the World Health Organization}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{9}
+      \field{shorttitle}{Methods of Suicide}
+      \field{title}{Methods of Suicide: International Suicide Patterns Derived from the {{WHO}} Mortality Database}
+      \field{urlday}{29}
+      \field{urlmonth}{10}
+      \field{urlyear}{2024}
+      \field{volume}{86}
+      \field{year}{2008}
+      \field{urldateera}{ce}
+      \field{pages}{726}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.2471/BLT.07.043489
+      \endverb
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/97D9WGPX/Ajdacic-Gross et al. - 2008 - Methods of suicide international suicide patterns.pdf
+      \endverb
+    \endentry
     \entry{Bhugra_2010}{book}{}{}
       \name{author}{3}{}{%
         {{hash=3177c93e3511737f46e9d281d345fdab}{%
@@ -1637,6 +1893,54 @@
       \endverb
       \keyw{Asylum-seekers,Mental health,Prevalence,Refugees,Suicidal ideation,Suicide attempts}
     \endentry
+    \entry{Hedrick_2023a}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=edf8441f43f07ef1f55a973d1b946f8c}{%
+           family={Hedrick},
+           familyi={H\bibinitperiod},
+           given={Kyli},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c46eec0e4645cc0916683a32ae8ccada}{%
+           family={Borschmann},
+           familyi={B\bibinitperiod},
+           given={Rohan},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{3fa979ebafb982a4013fc16237f78189}
+      \strng{fullhash}{3fa979ebafb982a4013fc16237f78189}
+      \strng{fullhashraw}{3fa979ebafb982a4013fc16237f78189}
+      \strng{bibnamehash}{3fa979ebafb982a4013fc16237f78189}
+      \strng{authorbibnamehash}{3fa979ebafb982a4013fc16237f78189}
+      \strng{authornamehash}{3fa979ebafb982a4013fc16237f78189}
+      \strng{authorfullhash}{3fa979ebafb982a4013fc16237f78189}
+      \strng{authorfullhashraw}{3fa979ebafb982a4013fc16237f78189}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Introduction{\enspace} Asylum seekers and refugees are at an elevated risk of self-\-harm, with younger age and traumatic experiences found to further increase such risk. Despite this, evidence regarding self-h\- arm among unaccompanied asylum seekers and refugee minors has not been synthesised. As self-\-harm among minors is a risk factor for a range of adverse clinical and social outcomes, including suicide, such information may help to inform evidence-\- based prevention strategies among these vulnerable populations. This systematic review will synthesise findings from the literature regarding the prevalence, methods and characteristics of self-h\- arm, including risk and protective factors, among unaccompanied asylum seekers and refugee minors internationally. Methods and analysis{\enspace} We searched key electronic databases (PsycINFO, Scopus, PubMed and Ovid MEDLINE) and grey literature for relevant studies published in English from database inception to 10 February 2023. Our primary outcome is self-h\- arm among unaccompanied asylum seekers and/or refugee minors. With the exception of single-c\- ase studies, clinical trials and case-\-control studies, we will include all types of study design that examine the prevalence of self-h\- arm in unaccompanied asylum seekers and/or refugee minors. We will exclude dissertations, conference abstracts, letters, book chapters, editorials, study registrations, registered protocols and qualitative studies. Only studies reporting on participants aged {$<$}18 years will be eligible for inclusion. The Methodological Standard for Epidemiological Research Scale will be used to assess the quality of included studies. If there are sufficient studies and homogeneity between them, we will conduct meta-a\- nalyses to calculate pooled estimates of self-h\- arm rates, as well as comparisons between subgroups of relevance. If the studies do not report sufficient data, or there is substantial heterogeneity, we will provide a narrative synthesis of the findings. Ethics and dissemination{\enspace} This review is exempt from ethics approval. Our findings will be disseminated through peer-r\-eviewed publications and conference presentations. PROSPERO registration number{\enspace} CRD42021292709.}
+      \field{issn}{2044-6055, 2044-6055}
+      \field{journaltitle}{BMJ Open}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{6}
+      \field{shorttitle}{Self-Harm among Unaccompanied Asylum Seekers and Refugee Minors}
+      \field{title}{Self-Harm among Unaccompanied Asylum Seekers and Refugee Minors: Protocol for a Global Systematic Review of Prevalence, Methods and Characteristics}
+      \field{urlday}{29}
+      \field{urlmonth}{10}
+      \field{urlyear}{2024}
+      \field{volume}{13}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{e069237}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1136/bmjopen-2022-069237
+      \endverb
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/WRP9NTST/Hedrick and Borschmann - 2023 - Self-harm among unaccompanied asylum seekers and r.pdf
+      \endverb
+    \endentry
     \entry{Puggioni_2014}{article}{}{}
       \name{author}{1}{}{%
         {{hash=5c58be83c1d57a539f9842e06a1381ec}{%
@@ -1682,6 +1986,50 @@
       \verb /Users/jackgedge/Zotero/storage/Z3T4DBXN/Puggioni - 2014 - Speaking through the body detention and bodily re.pdf
       \endverb
       \keyw{acts of citizenship,bodily resistance,camps,dissensus,Italy}
+    \endentry
+    \entry{Al-Faham_2020b}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=9b0f785f86e00eb6587a48c503a8ebd6}{%
+           family={{Al-Faham}},
+           familyi={A\bibinitperiod},
+           given={Firas\bibnamedelimb Shaker\bibnamedelima Mahmoud},
+           giveni={F\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=5ae38d1dbb0cf7a8047d9621408a235d}{%
+           family={{Al-Hakkak}},
+           familyi={A\bibinitperiod},
+           given={Samer\bibnamedelimb Makki\bibnamedelima Mohamed},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{7e6836a24b138d09911bf1e77e0622fa}
+      \strng{fullhash}{7e6836a24b138d09911bf1e77e0622fa}
+      \strng{fullhashraw}{7e6836a24b138d09911bf1e77e0622fa}
+      \strng{bibnamehash}{7e6836a24b138d09911bf1e77e0622fa}
+      \strng{authorbibnamehash}{7e6836a24b138d09911bf1e77e0622fa}
+      \strng{authornamehash}{7e6836a24b138d09911bf1e77e0622fa}
+      \strng{authorfullhash}{7e6836a24b138d09911bf1e77e0622fa}
+      \strng{authorfullhashraw}{7e6836a24b138d09911bf1e77e0622fa}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{INTRODUCTION: The swallowing of foreign bodies can be accidental or intentional. The majority of the cases of accidental foreign body ingestion are observed in children. In adults, foreign body ingestion can be accidental, related to specific pathological changes of the digestive tract, or deliberate, as observed in patients with psychiatric diseases or in those released from the prison. CASE PRESENTATION: A 42-year-old male was admitted to the emergency department with symptoms including choking, drooling from the mouth, holding his neck, and aphonia. He had a history of psychiatric illness with suicidal ingestion of a foreign body. After stabilization, he was sent for chest radiograph, which revealed a significant radiopaque shadow the shape of a spanner, occupying the whole length of the esophagus. Emergency rigid esophagoscopy was performed to save the patient's life. DISCUSSION: The patient swallowed the largest hard foreign body to harm himself or his family, to get the attention of his family, or as a suicide attempt. Such patients require urgent intervention by rigid esophagoscopy to reduce the risk of complications and to save the patients' lives. Further follow-up is essential due to the possibility of repeated foreign body ingestion. CONCLUSION: While taking care of psychiatric patients, close observation by family members is mandatory to prevent them from harming themselves and to prevent suicide attempts by swallowing sharp, hard, large, and dangerous foreign bodies such as the size 17 wrench spanner observed in the present case.}
+      \field{issn}{2049-0801}
+      \field{journaltitle}{Annals of Medicine and Surgery (2012)}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{shorttitle}{The Largest Esophageal Foreign Body in Adults}
+      \field{title}{The Largest Esophageal Foreign Body in Adults: {{A}} Case Report}
+      \field{volume}{54}
+      \field{year}{2020}
+      \field{pages}{82\bibrangedash 84}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1016/j.amsu.2020.04.039
+      \endverb
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/Y4KYFZ67/Al-Faham and Al-Hakkak - 2020 - The largest esophageal foreign body in adults A c.pdf
+      \endverb
+      \keyw{Adult,Esophagus,FB Foreign body,Foreign body,IIFO,Psychiatric patient,Self-injurious behavior,spanner}
     \endentry
     \entry{Pantazopoulos_2022}{article}{}{}
       \name{author}{5}{}{%
@@ -1785,6 +2133,171 @@
       \verb /Users/jackgedge/Zotero/storage/XZ8DIQAJ/Aitchison and Essex - 2024 - Self-harm in immigration detention political, not.pdf
       \endverb
     \endentry
+    \entry{Page_2021}{article}{}{}
+      \name{author}{26}{}{%
+        {{hash=016b86afb0a98379bf77b3f074f34761}{%
+           family={Page},
+           familyi={P\bibinitperiod},
+           given={Matthew\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=8c647eae0c93ec008ebe092eb144eeee}{%
+           family={McKenzie},
+           familyi={M\bibinitperiod},
+           given={Joanne\bibnamedelima E},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=c342b2f9e98d8bcaabcbd5ec10522ad4}{%
+           family={Bossuyt},
+           familyi={B\bibinitperiod},
+           given={Patrick\bibnamedelima M},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=fa885033d820893c45692b99c8b4bbc6}{%
+           family={Boutron},
+           familyi={B\bibinitperiod},
+           given={Isabelle},
+           giveni={I\bibinitperiod}}}%
+        {{hash=8fd2430e75c6bb84661c811e408f6377}{%
+           family={Hoffmann},
+           familyi={H\bibinitperiod},
+           given={Tammy\bibnamedelima C},
+           giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=9da5818ae381747539d8a98ecf2d13b1}{%
+           family={Mulrow},
+           familyi={M\bibinitperiod},
+           given={Cynthia\bibnamedelima D},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=d1c6b0b224969ed1ccfe648b31dc7de4}{%
+           family={Shamseer},
+           familyi={S\bibinitperiod},
+           given={Larissa},
+           giveni={L\bibinitperiod}}}%
+        {{hash=640f8392f6a7388c779d2b60fdd93350}{%
+           family={Tetzlaff},
+           familyi={T\bibinitperiod},
+           given={Jennifer\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=4ca61686dc125837a0d9741be62f3427}{%
+           family={Akl},
+           familyi={A\bibinitperiod},
+           given={Elie\bibnamedelima A},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e822c8724e88eb518ec5eb8015bbaab0}{%
+           family={Brennan},
+           familyi={B\bibinitperiod},
+           given={Sue\bibnamedelima E},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=01e789422f68da54234ac2f1e791eac4}{%
+           family={Chou},
+           familyi={C\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod}}}%
+        {{hash=19c8626c5dbf0aaa5ca05c6fa19ad49f}{%
+           family={Glanville},
+           familyi={G\bibinitperiod},
+           given={Julie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=18acccd95580a48bd6c5f4010bb058a7}{%
+           family={Grimshaw},
+           familyi={G\bibinitperiod},
+           given={Jeremy\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=aa6b6295cc5b496c1858297b2a62fa5f}{%
+           family={Hróbjartsson},
+           familyi={H\bibinitperiod},
+           given={Asbj{ø}rn},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0a2541509ccb6793b91fce2cf0f72dcc}{%
+           family={Lalu},
+           familyi={L\bibinitperiod},
+           given={Manoj\bibnamedelima M},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=0100456cf4ced53a2aab31f2c3055f6a}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Tianjing},
+           giveni={T\bibinitperiod}}}%
+        {{hash=6e270d436c864242b119a3605283c8bf}{%
+           family={Loder},
+           familyi={L\bibinitperiod},
+           given={Elizabeth\bibnamedelima W},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=d149e7026acd95db856d30314dba9a9e}{%
+           family={{Mayo-Wilson}},
+           familyi={M\bibinitperiod},
+           given={Evan},
+           giveni={E\bibinitperiod}}}%
+        {{hash=4ed61e5ea9f906c20e5e737e3d84c854}{%
+           family={McDonald},
+           familyi={M\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b7314b4cde4c01764b4b3580e015b768}{%
+           family={McGuinness},
+           familyi={M\bibinitperiod},
+           given={Luke\bibnamedelima A},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=d600e9a8a01053464e53fc2aadeb009b}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={Lesley\bibnamedelima A},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=1ad8d835a95f8df394e6faf5d8e0548f}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0b396572e13e5a8b08e1ee1d493aaa2a}{%
+           family={Tricco},
+           familyi={T\bibinitperiod},
+           given={Andrea\bibnamedelima C},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=75fdbaed8e43fddb210da313631d8639}{%
+           family={Welch},
+           familyi={W\bibinitperiod},
+           given={Vivian\bibnamedelima A},
+           giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=792d7051a4c2169e6aac0073ce62ba8e}{%
+           family={Whiting},
+           familyi={W\bibinitperiod},
+           given={Penny},
+           giveni={P\bibinitperiod}}}%
+        {{hash=af56ff14657d1110bff4b784198b0505}{%
+           family={Moher},
+           familyi={M\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{69c1efa4f6ab0deea3df12876fea0709}
+      \strng{fullhash}{b37368b8b0982e5c110334919bd2e0e1}
+      \strng{fullhashraw}{b37368b8b0982e5c110334919bd2e0e1}
+      \strng{bibnamehash}{69c1efa4f6ab0deea3df12876fea0709}
+      \strng{authorbibnamehash}{69c1efa4f6ab0deea3df12876fea0709}
+      \strng{authornamehash}{69c1efa4f6ab0deea3df12876fea0709}
+      \strng{authorfullhash}{b37368b8b0982e5c110334919bd2e0e1}
+      \strng{authorfullhashraw}{b37368b8b0982e5c110334919bd2e0e1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1756-1833}
+      \field{journaltitle}{BMJ}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{shorttitle}{The {{PRISMA}} 2020 Statement}
+      \field{title}{The {{PRISMA}} 2020 Statement: An Updated Guideline for Reporting Systematic Reviews}
+      \field{urlday}{10}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{n71}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1136/bmj.n71
+      \endverb
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/HQDJMPY3/Page et al. - 2021 - The PRISMA 2020 statement an updated guideline fo.pdf
+      \endverb
+    \endentry
     \entry{ThePandasDevelopmentTeam_2020}{misc}{}{}
       \name{author}{1}{}{%
         {{hash=d850c852b9f625e446a32cef4a26cb3c}{%
@@ -1820,6 +2333,140 @@
       \verb /Users/jackgedge/Zotero/storage/YD5VSWTZ/13819579.html
       \endverb
       \keyw{data science,python}
+    \endentry
+    \entry{Pedregosa_2011}{article}{}{}
+      \name{author}{16}{}{%
+        {{hash=bab4e5caee2d67831e464ce575022b37}{%
+           family={Pedregosa},
+           familyi={P\bibinitperiod},
+           given={Fabian},
+           giveni={F\bibinitperiod}}}%
+        {{hash=cfa3239dded54488f9a82a5718d5b927}{%
+           family={Varoquaux},
+           familyi={V\bibinitperiod},
+           given={Gaël},
+           giveni={G\bibinitperiod}}}%
+        {{hash=12ebe424e1c87de156c57e8fa7683f46}{%
+           family={Gramfort},
+           familyi={G\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod}}}%
+        {{hash=504ea1986689f1047a6f0beda2cb3822}{%
+           family={Michel},
+           familyi={M\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod}}}%
+        {{hash=0f3fc06fb9fcbb01b9cc0985eaf0a71c}{%
+           family={Thirion},
+           familyi={T\bibinitperiod},
+           given={Bertrand},
+           giveni={B\bibinitperiod}}}%
+        {{hash=721be0317527f44db425f7a97dcab15e}{%
+           family={Grisel},
+           familyi={G\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod}}}%
+        {{hash=d3b6c8582cea4e8b6576137b6a72cadc}{%
+           family={Blondel},
+           familyi={B\bibinitperiod},
+           given={Mathieu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=86e647e5c801f3ce733927f75f029463}{%
+           family={Prettenhofer},
+           familyi={P\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=89d698773eaf2fae761ff0008031c7be}{%
+           family={Weiss},
+           familyi={W\bibinitperiod},
+           given={Ron},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b255e99d411f28c789a231829f765c64}{%
+           family={Dubourg},
+           familyi={D\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod}}}%
+        {{hash=a08a00cf90823600b731a138afc28949}{%
+           family={Vanderplas},
+           familyi={V\bibinitperiod},
+           given={Jake},
+           giveni={J\bibinitperiod}}}%
+        {{hash=afb9a37bec11b531f1f0f33793a7f1fe}{%
+           family={Passos},
+           familyi={P\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9fd9ed8466bbb96364ae008f2a665e6e}{%
+           family={Cournapeau},
+           familyi={C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=281ac3097ec8447c2d26e9f3cfde6082}{%
+           family={Brucher},
+           familyi={B\bibinitperiod},
+           given={Matthieu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=23403cde972dddbdb48efe2bcc07dc3c}{%
+           family={Perrot},
+           familyi={P\bibinitperiod},
+           given={Matthieu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e2f7a458c7c1f0d13cbcaad5c415ad54}{%
+           family={Duchesnay},
+           familyi={D\bibinitperiod},
+           given={Édouard},
+           giveni={É\bibinitperiod}}}%
+      }
+      \strng{namehash}{9ec95d747bac3417f92265a9a44f8bb4}
+      \strng{fullhash}{490c08d091505100c571bcba89f8c65d}
+      \strng{fullhashraw}{490c08d091505100c571bcba89f8c65d}
+      \strng{bibnamehash}{9ec95d747bac3417f92265a9a44f8bb4}
+      \strng{authorbibnamehash}{9ec95d747bac3417f92265a9a44f8bb4}
+      \strng{authornamehash}{9ec95d747bac3417f92265a9a44f8bb4}
+      \strng{authorfullhash}{490c08d091505100c571bcba89f8c65d}
+      \strng{authorfullhashraw}{490c08d091505100c571bcba89f8c65d}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Scikit-learn is a Python module integrating a wide range of state-of-the-art machine learning algorithms for medium-scale supervised and unsupervised problems. This package focuses on bringing machine learning to non-specialists using a general-purpose high-level language. Emphasis is put on ease of use, performance, documentation, and API consistency. It has minimal dependencies and is distributed under the simplified BSD license, encouraging its use in both academic and commercial settings. Source code, binaries, and documentation can be downloaded from http://scikit-learn.sourceforge.net.}
+      \field{issn}{1533-7928}
+      \field{journaltitle}{Journal of Machine Learning Research}
+      \field{number}{85}
+      \field{shorttitle}{Scikit-Learn}
+      \field{title}{Scikit-Learn: {{Machine Learning}} in {{Python}}}
+      \field{urlday}{4}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{volume}{12}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \field{pages}{2825\bibrangedash 2830}
+      \range{pages}{6}
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/MFXZEB3M/Pedregosa et al. - 2011 - Scikit-learn Machine Learning in Python.pdf
+      \endverb
+    \endentry
+    \entry{MicrosoftCorporation_2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=b9a8b868588ad4bc6b36c29936e26423}{%
+           family={{Microsoft Corporation}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b9a8b868588ad4bc6b36c29936e26423}
+      \strng{fullhash}{b9a8b868588ad4bc6b36c29936e26423}
+      \strng{fullhashraw}{b9a8b868588ad4bc6b36c29936e26423}
+      \strng{bibnamehash}{b9a8b868588ad4bc6b36c29936e26423}
+      \strng{authorbibnamehash}{b9a8b868588ad4bc6b36c29936e26423}
+      \strng{authornamehash}{b9a8b868588ad4bc6b36c29936e26423}
+      \strng{authorfullhash}{b9a8b868588ad4bc6b36c29936e26423}
+      \strng{authorfullhashraw}{b9a8b868588ad4bc6b36c29936e26423}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Microsoft {{Excel}}}
+      \field{year}{2025}
     \endentry
     \entry{Moola_2020}{incollection}{}{}
       \name{author}{11}{}{%
@@ -1910,6 +2557,74 @@
       \verb /Users/jackgedge/Zotero/storage/FAIFMRUB/JBI_Reviewers_Manual_2020June.pdf
       \endverb
     \endentry
+    \entry{Stillman_2025}{misc}{}{}
+      \name{author}{9}{}{%
+        {{hash=281016a9e8aed13218f595229f70f779}{%
+           family={Stillman},
+           familyi={S\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=19a7a2e99f329f4a791b2227d2b15da5}{%
+           family={{Cheslack-Pasotva}},
+           familyi={C\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b2311574923a8b4a1938a832db20c506}{%
+           family={Bagdonas},
+           familyi={B\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d0dcf7a64173542a70593e4902c8d8ae}{%
+           family={Jellinek},
+           familyi={J\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ff17780ee3374931c4fa0c3372d397a6}{%
+           family={Najdek},
+           familyi={N\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+        {{hash=33939b7dcc8163ed98887d4fdcad473b}{%
+           family={Petrov},
+           familyi={P\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=e3b4f7dee534db512baff630ebc07628}{%
+           family={Rentka},
+           familyi={R\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3107eeb3a2bfc30f43c479e7f33a5b41}{%
+           family={Venčkauskas},
+           familyi={V\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=09b34860a1c65aadd0dead6b3b03c8c1}{%
+           family={Takats},
+           familyi={T\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vienna, VA, USA}%
+      }
+      \strng{namehash}{aba71f07e591a033bef851153e59b845}
+      \strng{fullhash}{9f241abe242fe807720968e1c84a2b16}
+      \strng{fullhashraw}{9f241abe242fe807720968e1c84a2b16}
+      \strng{bibnamehash}{aba71f07e591a033bef851153e59b845}
+      \strng{authorbibnamehash}{aba71f07e591a033bef851153e59b845}
+      \strng{authornamehash}{aba71f07e591a033bef851153e59b845}
+      \strng{authorfullhash}{9f241abe242fe807720968e1c84a2b16}
+      \strng{authorfullhashraw}{9f241abe242fe807720968e1c84a2b16}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Corporation for Digital Scholarship}
+      \field{month}{5}
+      \field{title}{Zotero}
+      \field{year}{2025}
+    \endentry
     \entry{AmericanPsychiatricAssociation_2013}{book}{}{}
       \name{author}{1}{}{%
         {{hash=ce2c470a69e9b189664512d02dc6f03c}{%
@@ -1924,8 +2639,8 @@
       \strng{authornamehash}{ce2c470a69e9b189664512d02dc6f03c}
       \strng{authorfullhash}{ce2c470a69e9b189664512d02dc6f03c}
       \strng{authorfullhashraw}{ce2c470a69e9b189664512d02dc6f03c}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Diagnostic and Statistical Manual of Mental Disorders (5th Ed.)}
@@ -1960,8 +2675,8 @@
       \strng{authornamehash}{bd99f91f04b58e3b1ddfdc756fda9da6}
       \strng{authorfullhash}{bd99f91f04b58e3b1ddfdc756fda9da6}
       \strng{authorfullhashraw}{bd99f91f04b58e3b1ddfdc756fda9da6}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The Guiding Principles define displacement as the movement of persons forced or obliged to flee due to conflict, violence, disasters, or rights violations.}
@@ -1981,14 +2696,6 @@
       \endverb
     \endentry
   \enddatalist
-  \missing{AjdacicGross_2008}
-  \missing{AlFaham_2020}
-  \missing{Gitlin\_2007}
-  \missing{GlobalDetention\_2024}
-  \missing{Guinan\_2019e}
-  \missing{HedrickBorschmann_2023}
-  \missing{Lerche_1991}
-  \missing{Page\_2020}
 \endrefsection
 \endinput
 
