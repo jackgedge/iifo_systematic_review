@@ -16,9 +16,8 @@
 \usepackage{multicol}
 \usepackage{titling}
 \usepackage{tabularx}
+\usepackage{csquotes}
 
-\usepackage[style=numeric,sorting=none, backend=biber]{biblatex} %Imports biblatex package
-\addbibresource{IIFO.bib}  %Import the bibliography file
 
 \geometry{margin=0.5in}
 \pagestyle{fancy}
@@ -66,16 +65,17 @@ and Giles Cattermole
 \label{fig:prisma}
 \end{figure*}
 
-\newpage
-\printbibliography
+\bibliographystyle{IEEEtran}
+\bibliography{IIFO}  % No file extension
 
-\newpage
+\clearpage
 \onecolumn
 \appendices
+
 \input{sections/appendix_a.tex}
-\newpage
+\clearpage
 \input{sections/appendix_b.tex}
-\newpage
+\clearpage
 \input{sections/appendix_c.tex}
 
 \end{document}
