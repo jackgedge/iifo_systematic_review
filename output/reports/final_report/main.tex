@@ -17,7 +17,8 @@
 \usepackage{titling}
 \usepackage{tabularx}
 \usepackage{csquotes}
-
+\usepackage[backend=biber, style=numeric-comp, sorting=none]{biblatex}
+\addbibresource{IIFO.bib}
 
 \geometry{margin=0.5in}
 \pagestyle{fancy}
@@ -58,6 +59,7 @@ and Giles Cattermole
 
 \section{Results}
 \input{sections/16-study_selection.tex}
+
 \begin{figure*}[t]
 \centering
 \includegraphics[width=\textwidth]{figures/prisma_diagram.png}
@@ -65,13 +67,14 @@ and Giles Cattermole
 \label{fig:prisma}
 \end{figure*}
 
-\bibliographystyle{IEEEtran}
-\bibliography{IIFO}  % No file extension
+\input{sections/17-risk_of_bias_in_studies.tex}
+\input{sections/18-study_characteristics.tex}
+
+\printbibliography
 
 \clearpage
 \onecolumn
 \appendices
-
 \input{sections/appendix_a.tex}
 \clearpage
 \input{sections/appendix_b.tex}
