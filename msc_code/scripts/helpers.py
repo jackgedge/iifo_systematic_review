@@ -15,7 +15,7 @@ exclusion_criteria = {
 9:	"Ingestions not explicitly stated to be intentional and history not suggestive of deliberate ingestion (i.e. Age < 8, no history of previous ingestions, no psychiatric co-morbidities, not a prisoner/detainee/vulnerable group).",
 10:	"Does not meet inclusion criteria.",
 11: "Ingestions where death resulted from other means (i.e. suicide)",
-12: "Studies before the advent of Endoscopy (1906)"
+12: "Studies before the advent of Endoscopy (1906)."
 }
 
 exclusion_criteria_short = {
