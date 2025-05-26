@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.31)  24 MAY 2025 11:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.31)  26 MAY 2025 16:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -990,151 +990,197 @@ ocal/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}
 ])
 (./sections/04-objectives.tex) (./sections/05-eligibility_criteria.tex)
 (./sections/06-information_sources.tex) (./sections/07-search_strategy.tex)
-(./sections/08-selection_process.tex
+(./sections/08-selection_process.tex)
+(./sections/09-data_collection_process.tex) (./sections/10-data_items.tex
 
-) (./sections/09-data_collection_process.tex) (./sections/10-data_items.tex)
-(./sections/11-risk_of_bias_assessment.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-
+) (./sections/11-risk_of_bias_assessment.tex)
+(./sections/16-study_selection.tex
 
 [2]
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 1
-1.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+
 )
-Underfull \hbox (badness 10000) in paragraph at lines 16--17
-
- []
-
-
-Underfull \hbox (badness 1968) in paragraph at lines 25--26
-[]\OT1/ptm/m/it/10 Motivation[]Unknown[]Rate \OT1/ptm/m/n/10 in-di-cated whethe
-r mo-ti-va-tion
- []
-
-
-Underfull \hbox (badness 1371) in paragraph at lines 26--27
-[]\OT1/ptm/m/it/10 Object[]Unknown[]Rate \OT1/ptm/m/n/10 was de-rived if all ob
-ject-related
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
-\OT1/ptm/m/n/10 check-list item (e.g., \OT1/ptm/m/it/10 Clear[]Outcome[]Followu
-p[]Reported\OT1/ptm/m/n/10 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
-\OT1/ptm/m/it/10 Clear[]Demographic[]Reporting\OT1/ptm/m/n/10 , or
- []
-
-
-Underfull \hbox (badness 2334) in paragraph at lines 29--30
-\OT1/ptm/m/it/10 Clear[]Clinical[]Info[]Reporting\OT1/ptm/m/n/10 ) was marked a
-s \OT1/pcr/m/n/10 N\OT1/ptm/m/n/10 , and the
- []
-
-
-Underfull \hbox (badness 1902) in paragraph at lines 29--30
-\OT1/ptm/m/n/10 based val-i-da-tion en-sured that case se-ries lack-ing es-sen-
-tial
- []
-
-
-Underfull \hbox (badness 2418) in paragraph at lines 29--30
-\OT1/ptm/m/n/10 vari-ables could be sys-tem-at-i-cally ex-cluded from the fi-na
-l
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
-
- []
-
-
-
-) (./sections/16-study_selection.tex
-
-[3])
-<figures/prisma_diagram.png, id=192, 844.8363pt x 597.6729pt>
+<figures/prisma_diagram.png, id=179, 844.8363pt x 597.6729pt>
 File: figures/prisma_diagram.png Graphic file (type png)
 <use figures/prisma_diagram.png>
 Package pdftex.def Info: figures/prisma_diagram.png  used on input line 65.
 (pdftex.def)             Requested size: 542.02501pt x 383.4578pt.
  (./sections/17-risk_of_bias_in_studies.tex)
-(./sections/18-study_characteristics.tex
+(./sections/18-study_characteristics.tex)
+(./sections/19-results_of_individual_studies.tex
 
-) (./sections/27-data_code_other_materials.tex)
-Underfull \hbox (badness 4291) in paragraph at lines 75--75
+[3]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \subsubsection*{Case Studies}\\A
+                                     total of 81 cases from 69 studies were ...
+
+? 
+) (./sections/27-data_code_other_materials.tex) (./tables/pop_summary.tex
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \caption
+            {Summary of population characteristics.}
+? 
+
+
+) (./tables/motivation_summary.tex
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \caption
+            {Summary of motivations for ingestion.}
+? 
+) (./tables/outcome_summary.tex
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \caption
+            {Summary of outcomes following ingestion.}
+? 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[4 <./figures/prisma_diagram.png>]) (./sections/s1-risk_of_bias_supplement.tex
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 8
+.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+
+
+Underfull \hbox (badness 1968) in paragraph at lines 22--23
+[]\OT1/ptm/m/it/10 Motivation[]Unknown[]Rate \OT1/ptm/m/n/10 in-di-cated whethe
+r mo-ti-va-tion
+ []
+
+
+Underfull \hbox (badness 1371) in paragraph at lines 23--24
+[]\OT1/ptm/m/it/10 Object[]Unknown[]Rate \OT1/ptm/m/n/10 was de-rived if all ob
+ject-related
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 26--79
+\OT1/ptm/m/n/10 check-list item (e.g., \OT1/ptm/m/it/10 Clear[]Outcome[]Followu
+p[]Reported\OT1/ptm/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--79
+\OT1/ptm/m/it/10 Clear[]Demographic[]Reporting\OT1/ptm/m/n/10 , or
+ []
+
+
+Underfull \hbox (badness 2334) in paragraph at lines 26--79
+\OT1/ptm/m/it/10 Clear[]Clinical[]Info[]Reporting\OT1/ptm/m/n/10 ) was marked a
+s \OT1/pcr/m/n/10 N\OT1/ptm/m/n/10 , and the
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 26--79
+\OT1/ptm/m/n/10 based val-i-da-tion en-sured that case se-ries lack-ing es-sen-
+tial
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 26--79
+\OT1/ptm/m/n/10 vari-ables could be sys-tem-at-i-cally ex-cluded from the fi-na
+l
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--79
+
+ []
+
+
+Underfull \hbox (badness 4291) in paragraph at lines 81--81
 []\OT1/ptm/m/n/10 UNHCR. \OT1/ptm/m/it/10 UN-HCR: A Record 100 Mil-lion Peo-ple
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
 \OT1/ptm/m/it/10 Forcibly Dis-placed World-wide | UN News\OT1/ptm/m/n/10 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
 \OT1/ptm/m/n/10 https://news.un.org/en/story/2022/05/1118772. May
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
 []\OT1/ptm/m/n/10 Amnesty In-ter-na-tional. \OT1/ptm/m/it/10 Refugees, Asy-lum
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
 \OT1/ptm/m/it/10 Seek-ers and Mi-grants - Amnesty In-ter-na-tional\OT1/ptm/m/n/
 10 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
 \OT1/ptm/m/n/10 https://www.amnesty.org/en/what-we-do/refugees-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
 \OT1/ptm/m/n/10 asylum-seekers-and-migrants/. 2024. (Vis-ited on
  []
 
 
-Underfull \hbox (badness 1939) in paragraph at lines 75--75
+Underfull \hbox (badness 1939) in paragraph at lines 81--81
 \OT1/ptm/m/n/10 and UK De-ten-tion". In: \OT1/ptm/m/it/10 Race & Class \OT1/ptm
 /m/n/10 56.3 (Jan.
  []
 
 
 
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
 []\OT1/ptm/m/n/10 Global De-ten-tion Project. \OT1/ptm/m/it/10 United King-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
 \OT1/ptm/m/it/10 dom Im-mi-gra-tion De-ten-tion Pro-file\OT1/ptm/m/n/10 .
  []
 
 
-Overfull \hbox (24.12442pt too wide) in paragraph at lines 75--75
+Overfull \hbox (24.12442pt too wide) in paragraph at lines 81--81
 \OT1/ptm/m/n/10 https://www.globaldetentionproject.org/countries/europe/united-
 
  []
 
 
-
-
-
-[5 <./figures/prisma_diagram.png>]
 
 
 
@@ -1153,7 +1199,7 @@ Overfull \hbox (24.12442pt too wide) in paragraph at lines 75--75
 [9]
 
 
-Underfull \hbox (badness 5832) in paragraph at lines 75--75
+Underfull \hbox (badness 5832) in paragraph at lines 81--81
 []\OT1/ptm/m/n/10 J Sharma, S Riyaz, and Wj Kil-patrick. \  Multi-
  []
 
@@ -1161,36 +1207,41 @@ Underfull \hbox (badness 5832) in paragraph at lines 75--75
 
 [10]
 
+
 ! LaTeX Error: Command \k unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.75 
+l.81 
      
 ? 
-
-
 
 
 [11]
 
 
-Underfull \hbox (badness 1365) in paragraph at lines 75--75
+Underfull \hbox (badness 1365) in paragraph at lines 81--81
 []\OT1/ptm/m/n/10 Babak T. Sag-vand et al. \  Emer-gent En-doscopy for
  []
 
 
-Underfull \hbox (badness 5203) in paragraph at lines 75--75
+
+[12]
+Underfull \hbox (badness 5203) in paragraph at lines 81--81
 []\OT1/ptm/m/n/10 Francis Mad-ing Deng, UN Rep-re-sen-ta-tive of the
  []
 
 
 
-[12] (./sections/appendix_a.tex)
+
 
 [13
+
+] (./sections/appendix_a.tex)
+
+[14
 
 
 ] (./sections/appendix_b.tex
@@ -1210,7 +1261,7 @@ Underfull \hbox (badness 1546) in paragraph at lines 85--85
 
 
 
-[14
+[15
 
 ]
 Underfull \hbox (badness 1546) in paragraph at lines 153--153
@@ -1224,7 +1275,7 @@ Underfull \hbox (badness 1546) in paragraph at lines 214--214
 
 
 
-[15]
+[16]
 Underfull \hbox (badness 1546) in paragraph at lines 282--282
 []|\OT1/ptm/m/n/8 Intentional In-ges-tion / Self-
  []
@@ -1236,16 +1287,16 @@ Underfull \hbox (badness 1546) in paragraph at lines 346--346
 
 
 
-[16]
+[17]
 Underfull \hbox (badness 1546) in paragraph at lines 408--408
 []|\OT1/ptm/m/n/8 Intentional In-ges-tion / Self-
  []
 
 
 
-[17]) (./sections/appendix_c.tex)
+[18]) (./sections/appendix_c.tex)
 
-[18
+[19
 
 ] (./main.aux)
  ***********
@@ -1253,16 +1304,16 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B5271228B990AD852FA3D06524F213C6;2188.
+(rerunfilecheck)             Checksum: 1689F2350C9DA1A959690D271FC1F4E4;2188.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22235 strings out of 473190
- 416954 string characters out of 5715800
- 1482691 words of memory out of 5000000
- 44936 multiletter control sequences out of 15000+600000
+ 22274 strings out of 473190
+ 418020 string characters out of 5715800
+ 1482587 words of memory out of 5000000
+ 44952 multiletter control sequences out of 15000+600000
  594807 words of font info for 104 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,17n,81p,2706b,1595s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1282,10 +1333,10 @@ ocal/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/tex
 live/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2025/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2025/texmf-dist
 /fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (18 pages, 1223871 bytes).
+Output written on main.pdf (19 pages, 1225364 bytes).
 PDF statistics:
- 968 PDF objects out of 1000 (max. 8388607)
- 920 compressed objects within 10 object streams
- 275 named destinations out of 1000 (max. 500000)
+ 978 PDF objects out of 1000 (max. 8388607)
+ 929 compressed objects within 10 object streams
+ 282 named destinations out of 1000 (max. 500000)
  134 words of extra memory for PDF output out of 10000 (max. 10000000)
 

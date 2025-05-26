@@ -2200,155 +2200,6 @@
       \verb /Users/jackgedge/Zotero/storage/HQDJMPY3/Page et al. - 2021 - The PRISMA 2020 statement an updated guideline fo.pdf
       \endverb
     \endentry
-    \entry{ThePandasDevelopmentTeam_2020}{misc}{}{}
-      \name{author}{1}{}{%
-        {{hash=d850c852b9f625e446a32cef4a26cb3c}{%
-           family={{The Pandas Development Team}},
-           familyi={T\bibinitperiod}}}%
-      }
-      \strng{namehash}{d850c852b9f625e446a32cef4a26cb3c}
-      \strng{fullhash}{d850c852b9f625e446a32cef4a26cb3c}
-      \strng{fullhashraw}{d850c852b9f625e446a32cef4a26cb3c}
-      \strng{bibnamehash}{d850c852b9f625e446a32cef4a26cb3c}
-      \strng{authorbibnamehash}{d850c852b9f625e446a32cef4a26cb3c}
-      \strng{authornamehash}{d850c852b9f625e446a32cef4a26cb3c}
-      \strng{authorfullhash}{d850c852b9f625e446a32cef4a26cb3c}
-      \strng{authorfullhashraw}{d850c852b9f625e446a32cef4a26cb3c}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Pandas is a powerful data structures for data analysis, time series, and statistics.}
-      \field{howpublished}{Zenodo}
-      \field{month}{3}
-      \field{shorttitle}{Pandas-Dev/Pandas}
-      \field{title}{Pandas-Dev/Pandas: {{Pandas}}}
-      \field{urlday}{3}
-      \field{urlmonth}{4}
-      \field{urlyear}{2025}
-      \field{year}{2020}
-      \field{urldateera}{ce}
-      \verb{doi}
-      \verb 10.5281/zenodo.13819579
-      \endverb
-      \verb{file}
-      \verb /Users/jackgedge/Zotero/storage/YD5VSWTZ/13819579.html
-      \endverb
-      \keyw{data science,python}
-    \endentry
-    \entry{Pedregosa_2011}{article}{}{}
-      \name{author}{16}{}{%
-        {{hash=bab4e5caee2d67831e464ce575022b37}{%
-           family={Pedregosa},
-           familyi={P\bibinitperiod},
-           given={Fabian},
-           giveni={F\bibinitperiod}}}%
-        {{hash=cfa3239dded54488f9a82a5718d5b927}{%
-           family={Varoquaux},
-           familyi={V\bibinitperiod},
-           given={Gaël},
-           giveni={G\bibinitperiod}}}%
-        {{hash=12ebe424e1c87de156c57e8fa7683f46}{%
-           family={Gramfort},
-           familyi={G\bibinitperiod},
-           given={Alexandre},
-           giveni={A\bibinitperiod}}}%
-        {{hash=504ea1986689f1047a6f0beda2cb3822}{%
-           family={Michel},
-           familyi={M\bibinitperiod},
-           given={Vincent},
-           giveni={V\bibinitperiod}}}%
-        {{hash=0f3fc06fb9fcbb01b9cc0985eaf0a71c}{%
-           family={Thirion},
-           familyi={T\bibinitperiod},
-           given={Bertrand},
-           giveni={B\bibinitperiod}}}%
-        {{hash=721be0317527f44db425f7a97dcab15e}{%
-           family={Grisel},
-           familyi={G\bibinitperiod},
-           given={Olivier},
-           giveni={O\bibinitperiod}}}%
-        {{hash=d3b6c8582cea4e8b6576137b6a72cadc}{%
-           family={Blondel},
-           familyi={B\bibinitperiod},
-           given={Mathieu},
-           giveni={M\bibinitperiod}}}%
-        {{hash=86e647e5c801f3ce733927f75f029463}{%
-           family={Prettenhofer},
-           familyi={P\bibinitperiod},
-           given={Peter},
-           giveni={P\bibinitperiod}}}%
-        {{hash=89d698773eaf2fae761ff0008031c7be}{%
-           family={Weiss},
-           familyi={W\bibinitperiod},
-           given={Ron},
-           giveni={R\bibinitperiod}}}%
-        {{hash=b255e99d411f28c789a231829f765c64}{%
-           family={Dubourg},
-           familyi={D\bibinitperiod},
-           given={Vincent},
-           giveni={V\bibinitperiod}}}%
-        {{hash=a08a00cf90823600b731a138afc28949}{%
-           family={Vanderplas},
-           familyi={V\bibinitperiod},
-           given={Jake},
-           giveni={J\bibinitperiod}}}%
-        {{hash=afb9a37bec11b531f1f0f33793a7f1fe}{%
-           family={Passos},
-           familyi={P\bibinitperiod},
-           given={Alexandre},
-           giveni={A\bibinitperiod}}}%
-        {{hash=9fd9ed8466bbb96364ae008f2a665e6e}{%
-           family={Cournapeau},
-           familyi={C\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod}}}%
-        {{hash=281ac3097ec8447c2d26e9f3cfde6082}{%
-           family={Brucher},
-           familyi={B\bibinitperiod},
-           given={Matthieu},
-           giveni={M\bibinitperiod}}}%
-        {{hash=23403cde972dddbdb48efe2bcc07dc3c}{%
-           family={Perrot},
-           familyi={P\bibinitperiod},
-           given={Matthieu},
-           giveni={M\bibinitperiod}}}%
-        {{hash=e2f7a458c7c1f0d13cbcaad5c415ad54}{%
-           family={Duchesnay},
-           familyi={D\bibinitperiod},
-           given={Édouard},
-           giveni={É\bibinitperiod}}}%
-      }
-      \strng{namehash}{9ec95d747bac3417f92265a9a44f8bb4}
-      \strng{fullhash}{490c08d091505100c571bcba89f8c65d}
-      \strng{fullhashraw}{490c08d091505100c571bcba89f8c65d}
-      \strng{bibnamehash}{9ec95d747bac3417f92265a9a44f8bb4}
-      \strng{authorbibnamehash}{9ec95d747bac3417f92265a9a44f8bb4}
-      \strng{authornamehash}{9ec95d747bac3417f92265a9a44f8bb4}
-      \strng{authorfullhash}{490c08d091505100c571bcba89f8c65d}
-      \strng{authorfullhashraw}{490c08d091505100c571bcba89f8c65d}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Scikit-learn is a Python module integrating a wide range of state-of-the-art machine learning algorithms for medium-scale supervised and unsupervised problems. This package focuses on bringing machine learning to non-specialists using a general-purpose high-level language. Emphasis is put on ease of use, performance, documentation, and API consistency. It has minimal dependencies and is distributed under the simplified BSD license, encouraging its use in both academic and commercial settings. Source code, binaries, and documentation can be downloaded from http://scikit-learn.sourceforge.net.}
-      \field{issn}{1533-7928}
-      \field{journaltitle}{Journal of Machine Learning Research}
-      \field{number}{85}
-      \field{shorttitle}{Scikit-Learn}
-      \field{title}{Scikit-Learn: {{Machine Learning}} in {{Python}}}
-      \field{urlday}{4}
-      \field{urlmonth}{4}
-      \field{urlyear}{2025}
-      \field{volume}{12}
-      \field{year}{2011}
-      \field{urldateera}{ce}
-      \field{pages}{2825\bibrangedash 2830}
-      \range{pages}{6}
-      \verb{file}
-      \verb /Users/jackgedge/Zotero/storage/MFXZEB3M/Pedregosa et al. - 2011 - Scikit-learn Machine Learning in Python.pdf
-      \endverb
-    \endentry
     \entry{MicrosoftCorporation_2025}{misc}{}{}
       \name{author}{1}{}{%
         {{hash=b9a8b868588ad4bc6b36c29936e26423}{%
@@ -2458,6 +2309,42 @@
       \verb{file}
       \verb /Users/jackgedge/Zotero/storage/FAIFMRUB/JBI_Reviewers_Manual_2020June.pdf
       \endverb
+    \endentry
+    \entry{ThePandasDevelopmentTeam_2020}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=d850c852b9f625e446a32cef4a26cb3c}{%
+           family={{The Pandas Development Team}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{d850c852b9f625e446a32cef4a26cb3c}
+      \strng{fullhash}{d850c852b9f625e446a32cef4a26cb3c}
+      \strng{fullhashraw}{d850c852b9f625e446a32cef4a26cb3c}
+      \strng{bibnamehash}{d850c852b9f625e446a32cef4a26cb3c}
+      \strng{authorbibnamehash}{d850c852b9f625e446a32cef4a26cb3c}
+      \strng{authornamehash}{d850c852b9f625e446a32cef4a26cb3c}
+      \strng{authorfullhash}{d850c852b9f625e446a32cef4a26cb3c}
+      \strng{authorfullhashraw}{d850c852b9f625e446a32cef4a26cb3c}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Pandas is a powerful data structures for data analysis, time series, and statistics.}
+      \field{howpublished}{Zenodo}
+      \field{month}{3}
+      \field{shorttitle}{Pandas-Dev/Pandas}
+      \field{title}{Pandas-Dev/Pandas: {{Pandas}}}
+      \field{urlday}{3}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.5281/zenodo.13819579
+      \endverb
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/YD5VSWTZ/13819579.html
+      \endverb
+      \keyw{data science,python}
     \endentry
     \entry{Stillman_2025}{misc}{}{}
       \name{author}{9}{}{%
@@ -9066,8 +8953,8 @@
       \strng{authornamehash}{cfb8bf4cc5cbd74f03dfc0e601dd6376}
       \strng{authorfullhash}{cfb8bf4cc5cbd74f03dfc0e601dd6376}
       \strng{authorfullhashraw}{cfb8bf4cc5cbd74f03dfc0e601dd6376}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{British Journal Of Hospital Medicine (London, England : 2005)}
@@ -9116,8 +9003,8 @@
       \strng{authornamehash}{e729f331bacd42bcca807415522ee363}
       \strng{authorfullhash}{27bc4039f93d8f8f09ed9da169669cf6}
       \strng{authorfullhashraw}{27bc4039f93d8f8f09ed9da169669cf6}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Self-Harm Is A Much More Common Pathology Within The Prison Environment Than Outside Of This, So Much So That It Can Be Considered Specific To It. For 7 Years, In The Biggest Prison Hospital In Romania, Self-Harm Was Present In 5\% Of The Hospitalized Patients, With A Total Of 762 Cases. The Mechanisms Of Self-Harm Were The Ingestion Of Foreign Bodies (63\%) And The Insertion Of Foreign Bodies In: The Soft Parts (19\%), Intracranially (6\%), Intraabdominally (2\%) And Intrathoracically (2\%). Metal Bodies Are The Most Commonly Used In Self-Harm (Over 90\%). The Self-Harm Technique Is Learnt From The Inmates With A History Of Such Incidents. The Mortality Is Low (0.4\%), Refusal Of Treatment Is Found In 13\% Of Cases, And Recurrence Of Self-Harm Is Common Where The Ingestion And Intracranial Insertion Of Foreign Bodies Occurs (42\%-50\%). Mental Disorders, Dominated By Personality Disorders, Are Found In 46\% Of Patients.}
@@ -9172,8 +9059,8 @@
       \strng{authornamehash}{391ee28c8739706d37b5ac3d74015cb8}
       \strng{authorfullhash}{1a28b3f57e1e3dbcf37468d3e88806f6}
       \strng{authorfullhashraw}{1a28b3f57e1e3dbcf37468d3e88806f6}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{OBJECTIVE: Harmfulness of foreign body ingestion and food bolus impaction (FBIs) varies according to geographical area, population, habits, and diet. Therefore, studies may not draw generalizable conclusions. Furthermore, data regarding FBIs management in Europe are limited and outdated. This study aimed to analyze the endoscopic management and outcomes of FBIs in an Italian tertiary care hospital to identify risk factors for endoscopic failure. METHODS: We retrospectively reviewed patients who underwent upper gastrointestinal endoscopy for FBIs between 2007 and 2017. Baseline, clinical, FBIs, and endoscopic characteristics and outcomes were collected and reported using descriptive statistics and logistic regression analyses. RESULTS: Of the 381 endoscopies for FBIs, 288 (75.5\%) were emergent endoscopy and 135 (35,4\%) included underlying upper gastrointestinal conditions. The study population included 44 pediatric patients (11.5\%), 54 prisoners (15.8\%), and 283 adults (74.2\%). The most common type and location of FBIs were food boluses (52.9\%) and upper esophagus (36.5\%), respectively. While eight patients (2.1\%) developed major adverse events requiring hospital admission, the remainder (97.9\%) were discharged after observation. No mortality occurred. Endoscopic success was achieved in 263 of 286 (91.9\%) verified FBIs endoscopies. Endoscopic failure (8.04\%) was associated with age, bone, disk battery, intentional ingestion, razor blade, prisoners, and stomach in the univariate analysis. Multivariate logistic regression revealed that intentional ingestion was associated with endoscopic failure (odds ratio: 7.31; 95\% confidence interval\>=\>2.06-25.99; P \>=\>0.002). CONCLUSION: Endoscopy for FBIs is safe and successful, with low hospital admission rate in children, prisoners, and adults. Intentional ingestion is a risk factor of endoscopic failure.}
@@ -9277,8 +9164,8 @@
       \strng{authornamehash}{d2d197a58535c4a8b9d66a818015f9ab}
       \strng{authorfullhash}{a266a74759c1aab17fcfc781518179d6}
       \strng{authorfullhashraw}{a266a74759c1aab17fcfc781518179d6}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Background: Intentional ingestion of foreign objects (IIFO) is common in the incarcerated population. This study was undertaken in order to better define clinical patterns of IIFO among prisoners. We sought to determine factors associated with the need for endoscopic and surgical therapy for IIFO. Methods: After obtaining permission to conduct IIFO research in incarcerated populations, study patients were identified by ICD-9 codes. Patient charts were reviewed for demographics; past medical history; IIFO characteristics; and diagnostic, endoscopic, and surgical findings. Univariate and multivariate analyses were performed using statistical software. Results: Thirty patients with 141 episodes of IIFO were identified. The mean number of ingested items per episode was 4.60. Endoscopy was performed in 97 of 141 IIFO instances, with failure to retrieve the ingested object in 21 of 97 cases (22\%). Eleven instances (7.8\%) required surgical intervention. On multivariate analyses, hospital admission was associated with elevated white blood cell count (odds ratio [OR] 1.4, P {$<$} 0.05) and number of items ingested (OR 1.3, P {$<$} 0.05). The need for endoscopy was independently associated with ingestion of multiple objects (OR 3.3, P {$<$} 0.05) and elevated white blood cell count (OR 1.3, P {$<$} 0.05). Surgical therapy was significantly associated with elevated white blood cell count (OR 1.6, P {$<$} 0.01) and with increasing number of ingested items (OR 1.07 per item, P {$<$} 0.05). Endoscopy is associated with significantly lower odds of surgery (OR 0.13, P {$<$} 0.01). Conclusions: Intentional ingestion of foreign objects continues to pose a significant human and economic burden. The need for admission or therapy is frequently associated with leukocytosis. Further investigation is warranted into resource-appropriate triage of patients who present with IIFO.}
@@ -9358,8 +9245,8 @@
       \strng{authornamehash}{afe07a4078001da6a2327bc20af2b258}
       \strng{authorfullhash}{92701d1bfe8cdc46ff02cf1b3c3d49de}
       \strng{authorfullhashraw}{92701d1bfe8cdc46ff02cf1b3c3d49de}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Ingestion of sharp objects is a rare event. We report our experience in the care of prisoners who ingested razor blades and the in-time evolution of our management. This is a descriptive study including all detainees ingesting a razor blade, transferred from the prison to Farhat Hached University Hospital of Sousse, from January 1, 2014 to December 31, 2015. Thus, we counted 19 cases of swallowed razor blades in 16 prisoners; indeed, 1 prisoner ingested a razor blade three times and another had ingested a blade twice. Our study includes 19 episodes of swallowed razor blades. In 2 cases, these events were secondary to suicide attempts. In the other cases, it was an expression of discontent and rejection of the situation in the prison. Three patients had a psychiatric history. The mean age of the patients is 24 years. The initial clinical examination had not objectified signs of gastrointestinal perforation. Thoraco-abdomino-pelvic computed tomography scans allowed specifying the blade location in all cases. It also objectified a pneumo-mediastinum in 2 cases. The blade location was esophageal in 1 case, gastric in 6 cases, and in the small bowel in the other cases. The first 4 patients had surgical removal of the blade. In subsequent cases, surgical abstention was the rule, and spontaneous blade expulsion was observed. The average time of expulsion was 4 days. In our experience, surgical removal of sharp foreign bodies should not be performed systematically without complications.}
@@ -9419,8 +9306,8 @@
       \strng{authornamehash}{f1662282e8017b684d35cd6bfa2c4f4c}
       \strng{authorfullhash}{d9565db8f964f12f9192485d89eb0944}
       \strng{authorfullhashraw}{d9565db8f964f12f9192485d89eb0944}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{BACKGROUND: Ingestion of foreign bodies and food impaction represent the second most common endoscopic emergency after bleeding. The aim of this paper is to report the management and the outcomes in 67 patients admitted for suspected ingestion of foreign body between December 2012 and December 2014. METHODS: This retrospective study was conducted at Palermo University Hospitals, Italy, over a 2-year period. We reviewed patients' database (age, sex, type of foreign body and its anatomical location, treatments, and outcomes as complications, success rates, and mortalities). RESULTS: Foreign bodies were found in all of our 67 patients. Almost all were found in the stomach and lower esophagus (77~\%). The types of foreign body were very different, but they were chiefly meat boluses, fishbones or cartilages, button battery and dental prostheses. In all patients it was possible to endoscopically remove the foreign body. Complications related to the endoscopic procedure were unfrequent (about 7~\%) and have been treated conservatively. 5.9~\% of patients had previous esophageal or laryngeal surgery, and 8.9~\% had an underlying esophageal disease, such as a narrowing, dismotility or achalasia. CONCLUSION: Our experience with foreign bodies and food impaction emphasizes the importance of endoscopic approach and removal, simple and secure when performed by experienced hands and under conscious sedation in most cases. High success rates, lower incidence of minor complications, reduction of the need of surgery and reduced hospitalization time are the strengths of the endoscopic approach.}
@@ -9488,8 +9375,8 @@
       \strng{authornamehash}{2be995f2119abd710f6b44d3862d1bdb}
       \strng{authorfullhash}{f0075111f59d9951a8cdc92bb8685546}
       \strng{authorfullhashraw}{f0075111f59d9951a8cdc92bb8685546}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Introduction Ingesting a foreign body (FB) is not an uncommon occurrence. Most pass through the gastrointestinal (GI) tract uneventfully, and perforation is rare. The aim of this study was to report our experience with ingested FB perforations of the GI tract treated surgically at our institution. Methods A total of 62 consecutive patients who underwent surgery for an ingested FB perforation of the GI tract between 1990 and 2005 were retrospectively reviewed. Three patients with no definite FB demonstrated intraoperatively were included. Results The patients had a median age of 58 years, and 37 (60\%) were male. Of the 59 FBs recovered, 55 (93\%) were toothpicks and dietary FBs such as fish bones or bone fragments. A definitive preoperative history of FB ingestion was obtained for only two patients, and 36 of 52 patients (69\%) wore dentures. Altogether, 18 (29\%) perforations occurred in the anus or distal rectum, and 44 perforations were intraabdominal, with the most common abdominal site being the distal ileum (39\%). Patients with FB perforations in the stomach, duodenum, and large intestine were significantly more likely to be afebrile (P = 0.043), to have chronic symptoms ({$>$} 3 days) (P {$<$} 0.001), to have a normal total white blood cell count (P {$<$} 0.001), and to be asymptomatic or present with an abdominal mass or abscess (P {$<$} 0.001) compared to those with FB perforations in the jejunum and ileum. Conclusions Ingested FB perforation in the adult population is most commonly secondary to unconscious accidental ingestion and is frequently caused by dietary FBs especially fish bones. A preoperative history of FB ingestion is thus rarely obtained, although wearing dentures is a common risk factor. FB perforations of the stomach, duodenum, and large intestine tend to present with a longer, more innocuous clinical picture than perforations in the jejunum or ileum.}
@@ -9540,8 +9427,8 @@
       \strng{authornamehash}{262b0b4f6568935221d30222a4c7287c}
       \strng{authorfullhash}{262b0b4f6568935221d30222a4c7287c}
       \strng{authorfullhashraw}{262b0b4f6568935221d30222a4c7287c}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Ingested gastrointestinal foreign bodies may be managed by observation, endoscopy, and/or surgical intervention. We retrospectively reviewed 87 consecutive cases of foreign body ingestion. In 49 patients the ingested foreign body had passed beyond the gastroesophageal junction, and these cases form the basis of this study. Of the 49 patients, 19 (38.7\%) required surgical intervention for removal of the swallowed object. Nearly 75\% of these patients had swallowed objects that were more than 6.5 cm in length. Of 30 adults, more than 50\% required surgery for removal of the foreign body. However, fewer than 16\% of children who had swallowed and retained foreign bodies required surgery for ultimate cure. Based on these findings, guidelines are presented for the management of foreign body ingestion.}
@@ -9608,8 +9495,8 @@
       \strng{authornamehash}{bea1e40e1bb4c5ae4220d6c4d8ac4853}
       \strng{authorfullhash}{5d35132d34c7581eacbe78a8243ebfe0}
       \strng{authorfullhashraw}{5d35132d34c7581eacbe78a8243ebfe0}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1542-3565, 1542-7714}
@@ -9668,8 +9555,8 @@
       \strng{authornamehash}{f2f0e68e716edf7b565605a44a82d9df}
       \strng{authorfullhash}{cda2d6cdffa4b7fdeea1a2d4964cc39b}
       \strng{authorfullhashraw}{cda2d6cdffa4b7fdeea1a2d4964cc39b}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Background: Deliberate Foreign Body Ingestion (Dfbi) Presents Unique Medical, Surgical, And Ethical Challenges. Often, Patients With Psychiatric Conditions Repeatedly Ingest Foreign Bodies, Leading To Frequent Emergency Department Visits. Standardised Management Guidelines Are Lacking, Resulting In High Hospitalisation Rates, Interventions, And Complications. This Study Focuses On Recent Dfbi Cases At Our Institution, Providing Insights Into This Complex Condition And Holistic Management. Methods: Patients Admitted By The Surgical Team At Croydon University Hospital Between 2017 And 2023 With Dfbi Were Included. Data On Demographics, Clinical Presentation, Investigations, And Management Were Collected. Complications, Hospitalisations, Interventions, And Cost Analysis Were Recorded. Results: Eight Patients Presented A Total Of 52 Times. The Incidence Of Dfbi Increased Over Time. Swallowed Objects Included Knives, Needles, Magnets, Glass, Batteries, Pencils, Gloves, Lighters, And Screws. Each Patient Underwent An Average Of 21 X-Rays, 2 Ct Scans, And 3 Ogds. Eleven Laparotomies And 1 Laparoscopy Were Performed. The Average Length Of Stay Was 44.5 Days. Complications Included Pulmonary Embolism, Pneumonia, Enterotomy, Hernia, And Infection. The Average Cost Per Patient Was {£}30,866.25. Conclusions: Dfbi Poses A Significant Burden On Healthcare Systems. Patients Face Radiation Exposure And Repeated Invasive Interventions, Necessitating A Comprehensive Approach. Understanding Dfbi From A Biopsychosocial And Ethical Perspective Is Crucial. A Multidisciplinary Team Should Be Involved Early, With Clear Goals. Further Research Is Needed For Optimal Management Pathways.}
@@ -9749,8 +9636,8 @@
       \strng{authornamehash}{3302d79af3177022005731ebc22afa1a}
       \strng{authorfullhash}{e1dda81b8ecaa79f1d67780a4a8129a3}
       \strng{authorfullhashraw}{e1dda81b8ecaa79f1d67780a4a8129a3}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Objective: Deliberate Foreign Body Ingestion (Dfbi) Is Characterised By Recurrent Presentations Among Patients With Mental Health Conditions, Intellectual Disabilities And In Prisoners. We Aimed To Profile The Characteristics And Evaluate The Care Of Such Patients In This Study. Methods: Adult Patients With An Endoscopic Record Of Attempted Foreign Body Retrieval Between January 2013 And September 2020 Were Identified At Three Australian Hospitals. Those With A Documented Mental Health Diagnosis Were Included And Their Standard Medical Records Reviewed. Presentation History, Demographics, Comorbidities And Endoscopic Findings Were Recorded And Described. Results: A Total Of 166 Admissions Were Accounted For By 35 Patients, 2/3 Of Which Had Borderline Personality Disorder (Bpd). Repetitive Presentations Occurred In More Than Half Of The Cohort. There Was An Increased Trend Of Hospital Admissions Throughout The Years. At Least Half Of The Cohort Had A Documented Mental Health Review During Their Admission. An Average Of 3.3 (2.9) Foreign Bodies Were Ingested Per Single Episode. Endoscopic Intervention Was Performed In 76.5\% Of Incidents. The Combined Length Of Stay For All Patients Was 680~Days. Conclusion: Deliberate Foreign Body Ingestion In Mental Health Patients Is A Common, Recurring And Challenging Problem That Is Increasing In Frequency And Requires Collaborative Research To Further Guide Holistic Management.}
@@ -9790,8 +9677,8 @@
       \strng{authornamehash}{a159b01ec3b18a92b056acf71f776b7b}
       \strng{authorfullhash}{a159b01ec3b18a92b056acf71f776b7b}
       \strng{authorfullhashraw}{a159b01ec3b18a92b056acf71f776b7b}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0022-1597}
@@ -9877,8 +9764,8 @@
       \strng{authorfullhash}{c1e533eeb468147d94074b786bd2a824}
       \strng{authorfullhashraw}{c1e533eeb468147d94074b786bd2a824}
       \field{extraname}{2}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Foreign Objects in Korean Prisoners}
@@ -9945,8 +9832,8 @@
       \strng{authorfullhash}{44f01fd3e17e678c585db83c380d1ecb}
       \strng{authorfullhashraw}{44f01fd3e17e678c585db83c380d1ecb}
       \field{extraname}{2}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{BACKGROUND The 2016 European Society of Gastrointestinal Endoscopy (ESGE) guidelines recommend that ingested foreign bodies in the upper gastrointestinal (GI) tract are removed as an emergency within 6 hours, with an endoscopic approach that is individualized according to the type of foreign body identified. This retrospective study evaluated the 10-year experience of a single hospital in China performing emergency removal of ingested foreign bodies in 586 adults. MATERIAL AND METHODS Between 2011 and 2020, medical records of 642 adults with a diagnosis of foreign bodies ingestion were retrospectively screened. The timing of endoscopic intervention was classified according to ESGE recommendations. Uni- and multivariate analyses were performed. RESULTS We included 586 patients. The median (range) diameter of foreign bodies was 2.5 (1-24) cm: for sharp ones it was 2.5 (1.5-4.0) cm and for long ones it was 16.9 (10-24) cm. The most common site of foreign body lodgment was the esophagus (n=481; 82.1\%); 45.6\% (n=252) received emergent removal within 6 hours, while 32.2\% (n=178) underwent urgent removal within 24 hours. There were 583 (99.5\%) foreign bodies removed successfully and the complication rate was 17.9\%. Major complications occurred in 45 patients (7.7\%). Female sex and non-emergent endoscopy after 6 hours were significantly associated with a higher overall complications rate. For major complications, older age, time interval {$>$}24 hours, and sharper objects were associated with major complications. CONCLUSIONS The findings from this retrospective study support the ESGE statement that endoscopic removal of ingested foreign bodies from the upper GI tract within 6 hours reduces complication rates for adults in the emergency setting.}
@@ -10014,8 +9901,8 @@
       \strng{authornamehash}{89d3434b7b4957f3e3203877612e974d}
       \strng{authorfullhash}{9640b2d85c8ad3207187cbf717025d0c}
       \strng{authorfullhashraw}{9640b2d85c8ad3207187cbf717025d0c}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Background/Aims: Intentional Ingestion Of Foreign Bodies Is A Frequent Occurrence In The Prison Environment. The Aim Of This Study Is To Describe The Profile Of Inmates Who Have Ingested Foreign Bodies, To Determine The Nature Of These Foreign Bodies And To Specify Their Management. Materials And Methods: Our Retrospective And Descriptive Study Focused' On 13 Inmates Having Ingested' 47 Foreign Bodies And Who Consulted The Emergency Of Our Department Over A 5-Year Period From January 2018 To July 2023. Results: The Study Population Consisted Of 12 Men And One Woman With An Average Age Of 32 Years (24 Years-47 Years). Foreign Bodies Ingested By Inmates Were Dominated By Batteries (59.52\%) Followed By Lighters (19.04\%). The Majoritý Of Foreign Bodies Were, At The Time Of Discovery, Located Mainly In The Stomach (6 Cases) And Colon (4 Cases). Ingestion Resulted In Epigastric Pain (3 Cases), Externalized Gastrointestinal Bleeding With Epigastralgia (2 Cases), And No Symptoms (8 Cases). Of The 13 Cases Of Foreign Body Ingestion, 6 Patients Underwent Endoscopic Extraction In The Gastroenterology Department. Extraction Was By Diathermic Loop, Dormia Loop And Endoscopic Basket. Successful Extraction Was Achieved In 4 Cases (66.66\%), And Unsuccessful Extraction In 2 Cases (33.33\%). Only One Inmate Required Surgical Extraction, And In 6 Patients The Elimination Of Foreign Bodies In The Stool Was Spontaneous Under Medical Supervision. Conclusion: Foreign Body Ingestion Is Frequent And Voluntary In The Prison Environment. It Is Characterized By The Multiplicity Of Foreign Bodies. The Rate Of Successful Extraction Of Ingested Foreign Bodies In Our Practice Is Satisfactory, Requiring An Experienced Endoscopist To Perform The Extraction Without Complications And Avoid Recourse To Surgery. Education Of The Prison Population Is Important, And Psychological Follow-Up Is Essential.}
@@ -10125,8 +10012,8 @@
       \strng{authornamehash}{c90b0a6d376e1bef002e845a7bc24b3c}
       \strng{authorfullhash}{b73f8dba4048fc80820e615c95a4c812}
       \strng{authorfullhashraw}{b73f8dba4048fc80820e615c95a4c812}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{BACKGROUND AND STUDY AIMS: Ingestion of foreign bodies is a common occurrence. Few papers in the literature report experience and outcome at tertiary centers. The aim of this paper is to report the management and the outcomes in 414 patients admitted for suspected ingestion of foreign body between May 1995 and December 1999. METHODS: A plain radiographic film of the neck, chest or abdomen was obtained in the case of radiopaque objects, and in order to rule out suspected perforation: in such cases a computed tomography (CT) study was also performed. All patients were asked to give their informed consent, which was refused by three patients. Anesthesia was always used, either conscious sedation (86.8 \%), or general anesthesia in the case of poor patient tolerance (13.2 \%). All patients underwent an endoscopic procedure within six hours of admission. A flexible scope was used in all patients and a wide range of endoscopic devices was employed. RESULTS: Foreign bodies were found in 64.5 \% of our patients. Almost all were found in the esophagus. The types of foreign body were very different, but they were chiefly food boluses, bones or cartilages, dental prostheses or fish bones. In three patients (1.1 \%) it was impossible to endoscopically remove the foreign body, which was located in the cervical esophagus: all these three patients required surgery. No complications relating to the endoscopic procedure were observed, but 30.7 \% of patients had an underlying esophageal disease, such as a stricture. Only eight patients required a second endoscopic procedure, performed by a more experienced endoscopist. CONCLUSION: Foreign body ingestion represents a frequent reason for emergency endoscopy. The endoscopic procedure is a successful technique which allows the removal of the foreign bodies in almost all cases without significant complications. Surgery is rarely required.}
@@ -10178,8 +10065,8 @@
       \strng{authornamehash}{f4f8d3533f9c5bbc56d6b15e8d19f14c}
       \strng{authorfullhash}{f4f8d3533f9c5bbc56d6b15e8d19f14c}
       \strng{authorfullhashraw}{f4f8d3533f9c5bbc56d6b15e8d19f14c}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Objective Foreign body ingestion (FBI) occurs infrequently but can be associated with rare risks including perforation. There is limited understanding of the impact of adult FBI in Australia. We aim to evaluate patient characteristics, outcomes and hospital costs of FBI. Design A retrospective cohort study of patients with FBI was performed at a non-prison referral centre in Melbourne, Australia. International Classification of Disease-10 coding identified patients with gastrointestinal FBI over financial years 2018--2021. Exclusion criteria were food bolus, medication foreign body, object in anus or rectum, or non-ingestion. Criteria for `emergent' classification were oesophagus, size {$>$}6 cm, disc batteries, airway compromise, peritonitis, sepsis and/or suspected viscus perforation. Results Thirty-two admissions attributed to 26 patients were included. The median age was 36 years (IQR: 27--56), 58\% were male and 35\% had a prior psychiatric or autism spectrum disorder. There were no deaths, perforations or surgery. Gastroscopy was performed in 16 admissions and 1 was scheduled following discharge. Rat-tooth forceps were used in 31\% and an overtube was used in 3 cases. The median time from presentation to gastroscopy was 673 minutes (IQR: 380--1013). Management was adherent to European Society of Gastrointestinal Endoscopy guidelines in 81\%. After excluding admissions with FBI as a secondary diagnosis, median admission cost was \$A1989 (IQR: \$A643--\$A4976) and total admission costs over the 3 years was \$A84 448. Conclusion FBI in an Australian, non-prison referral centre is infrequent, can often be safely managed expectantly, and has limited impact on healthcare utilisation. Early, outpatient endoscopy could be considered for non-urgent cases, which may reduce costs while maintaining safety.}
@@ -10247,8 +10134,8 @@
       \strng{authornamehash}{84a2cdf6fb55f2bcd2e2c0b0fec0b72c}
       \strng{authorfullhash}{6770495679536a4327f2140cb2362f31}
       \strng{authorfullhashraw}{6770495679536a4327f2140cb2362f31}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Deliberate and recurrent foreign body ingestion is a common problem among institutionalised patients. We review our experience with 36 cases of deliberate foreign body ingestion by prisoners or psychiatric patients, thirty of whom were institutionalised at the time of ingestion. Symptoms were frequently severe in the prison inmate group but, in contrast, psychiatric patients presented with few, if any, symptoms. A majority of objects pass spontaneously or remain in situ without complication. Twenty-four patients were discharged following initial evaluation and without specific treatment. Eight of these were reviewed electively and discharged within one week. Twelve patients were admitted for observation, seven of whom were discharged within 48 hrs. Upper gastrointestinal endoscopy was performed in four patients and an intragastric foreign body identified in two cases. Laparotomy was performed in two cases for unresolving mechanical intestinal obstruction. Management should be conservative when possible, with surgery indicated only for complications.}
@@ -10311,8 +10198,8 @@
       \strng{authorfullhash}{8fd5f652fdae984afd736f9a17d5a914}
       \strng{authorfullhashraw}{8fd5f652fdae984afd736f9a17d5a914}
       \field{extraname}{2}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Background: Previous reports of foreign-body ingestions focused primarily on accidental ingestions. Objective: To describe the characteristics and management of foreign-body ingestions, with predominantly intentional ingestion, in a lower socioeconomic Status population. Design: A retrospective case series. Setting: An urban county hospital. Patients: Patients {$>$}= 17 years old, with foreign-body ingestions between 2000 and 2006. Main Outcome Measurements: Characteristics of ingestion cases, endoscopic extraction, need for surgery, and complications. Results: Among 262 cases, 92\% were intentional, 85\% involved psychiatric patients, and 84\% Occurred in patients with prior ingestions. The time from ingestion to presentation was {$>$}48 hours in 168 cases (64\%). T lie overall Success rate for endoscopic extraction was 90\% (165/183 cases). Surgery was performed in 30 cases (11\%) and was more common for objects beyond the pylorus versus objects above the pylorus (16/43 [37\%] vs 10/151 [7\%], respectively) and in cases with a greater delay from ingestion to presentation (25/168 [15\%] if {$>$}48 hours vs 4/77 [5\%] if {$<$}= 48 hours') and from presentation to intervention (15/40 [38\%] if {$>$}48 hours vs 14/165 [8\%] if {$<$}= 48 hours). Perforation occurred in 16 cases (6\%), with 6 perforations noted after endoscopy. Limitation: A retrospective review of medical records. Conclusions: Foreign-body ingestions in an Urban county hospital occurred primarily in psychiatric patients who had repeated episodes of intentional ingestions. Endoscopic extraction Was unsuccessful in 10\% of cases. Long delays from ingestion to presentation and intervention may account for relatively high rates of surgery and perforation. Strategies to prevent ingestions and delays in endoscopic management are needed in this population. (Gastrointest Endosc 2009;69:426-33.)}
@@ -10350,8 +10237,8 @@
       \strng{authornamehash}{2ff9e21342c0791895523f18b56f529d}
       \strng{authorfullhash}{2ff9e21342c0791895523f18b56f529d}
       \strng{authorfullhashraw}{2ff9e21342c0791895523f18b56f529d}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Objective: Ingestion of sharp foreign bodies is a less frequently encountered method of self-harm. This study aims to follow up patients presenting with foreign body (FB) ingestion requiring urgent endoscopic intervention under general anaesthetic in theatre, characterise each patient and establish whether admission or removal of the FB promotes further self-harm. Method: Eleven adult patients, totalling 38 presentations over a 28-month period were identified. Each was followed up from an initial presentation requiring endoscopy. Result: 9/11 (81.9\%) where transferred either from prison or psychiatric care with an extensive history of multimodal and usually violent self-harm. Of these 8/9 (88.9\%) had a formal psychiatric diagnosis linked to their previous self-harm. Objects retrieved included pens, razor blades, cutlery, wiring, batteries, a metal screw and a TV aerial. The median time between presentations with self-harm was 11 days. Those discharged from the emergency department re-presented after a median of 7.5 days. This was longer, at 14 days, if admitted to hospital; with those having endoscopic procedures re-presenting after a median of 11 days. Conclusions: Inpatient endoscopic removal of the FB was not associated with an earlier presentation with further self-harm when compared with discharge straight form A+E, but was frequently repeated, often in a characterised manner. (PsycInfo Database Record (c) 2022 APA, all rights reserved)}
@@ -10410,8 +10297,8 @@
       \strng{authornamehash}{ddd18f08df917f1d178783e34707c47d}
       \strng{authorfullhash}{f34f9fec91ce8150274972abfca7183a}
       \strng{authorfullhashraw}{f34f9fec91ce8150274972abfca7183a}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{OBJECTIVE: Intestinal perforation due to foreign body (FB) ingestion is rare (1\%). We describe our experience in treating these lesions surgically. METHOD: From 1995 to 2006, data were collected prospectively in 33 patients (18 women and 15 men; mean age 64 years) operated on for intestinal perforation due to an ingested FB. The type of object, preoperative diagnosis, perforation site, treatment, morbidity and mortality were reviewed. RESULTS: Foreign body ingestion was predominantly involuntary (88\%). The mean time from ingestion to perforation was 10.4 days. The most frequently ingested objects were dietary FB (n = 21) and toothpicks (n = 6). The most frequent predisposing factors were dentures or an orthodontic appliance (73\%). The most common preoperative diagnoses were acute abdomen of uncertain origin (n = 7), acute appendicitis (n = 7) and acute diverticulitis (n = 5). Pneumoperitoneum was observed in 10 cases. The diagnosis was reached during laparotomy in 30 (91\%) cases. The most frequent perforation site was the colorectal region (n = 18, 54.5\%), followed by the terminal ileum (n = 7, 21.2\%); intraperitoneal perforation was the most common (n = 30, 91\%). All cases had abdominal contamination and 22 (66.7\%) had diffuse peritonitis. Treatment was always by surgery and antibiotics. Thirteen patients required a colostomy. Morbidity was 57.6\% (n = 19) and mortality 6.1\% (n = 2). CONCLUSION: Intestinal perforation by a foreign body is rare and normally affects the sigmoid colon, rectum or distal ileum. Dentures are a common risk factor. Patients are rarely aware of foreign body ingestion. Dietary FB and toothpicks are the most commonly ingested objects. Treatment consists of surgery and antibiotics. Appendicitis and acute diverticulitis should be considered in the differential diagnosis.}
@@ -10489,8 +10376,8 @@
       \strng{authornamehash}{52455053f13ef3cf93cd258641c7408b}
       \strng{authorfullhash}{ee233bad481bebca0768bb43eea13467}
       \strng{authorfullhashraw}{ee233bad481bebca0768bb43eea13467}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Background Timely intervention is essential for the successful removal of ingested foreign bodies. Emergent endoscopy (EGD) is usually performed in the emergency department (ED), operating room (OR), intensive care unit (ICU), or endoscopy suite. However, because the endoscopy suite is not always available, this study investigated the impact of location outside of the endoscopy suite on the successful removal of ingested foreign bodies and other patient outcomes. Methodology We reviewed charts of patients who underwent EGD for foreign body removal at an academic quaternary center between January 01, 2012, and December 31, 2020. We defined successful EGD as retrieval of the foreign body at the first attempt and not requiring subsequent endoscopy or surgical intervention. We performed descriptive and inferential statistical analyses and conducted classification and regression trees to compare endoscopy procedure length (EPL) and hospital length of stay (HLOS) between different locations. Results We analyzed 77 patients, of whom 13 (17\%) underwent endoscopy in the ICU, 46 (60\%) in the OR, and 18 (23\%) in the ED. Endoscopic removal failed in four (5\%) patients. Endoscopy length was significantly shorter in the OR (67 (48-122) minutes) versus the ICU (158 (95-166) minutes, P = 0.004) and the ED (111 (92-155) minutes, P = 0.009). Time to procedure was similar if the procedure was performed in the ED (278 minutes), the ICU (331 minutes), or the OR (378 minutes). The median (interquartile range) of HLOS for the OR group (0.87 (0.54-2.03) days) was significantly shorter than the ICU group (2.26 (1.47-6.91) days, P = 0.007). Conclusions While performing endoscopy for esophageal foreign body removal in the OR may be associated with a shorter EPL and HLOS, no location was inferior for overall outcomes. Further prospective and randomized studies are needed to confirm our findings.}
@@ -10599,8 +10486,8 @@
       \strng{authornamehash}{52e4876eba995466b9f9b0a66a9f6f63}
       \strng{authorfullhash}{b6ae350566cc67bc64817d0ceb1054e4}
       \strng{authorfullhashraw}{b6ae350566cc67bc64817d0ceb1054e4}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Background And Study Aims Foreign Body Ingestion Is A Common Cause For Emergency Department Presentation. In Adults, Foreign Body Ingestion Is More Common In Patients With Underlying Psychiatric Comorbidity, The Elderly, Alcohol Intoxication, And In Prisoners. This Study Reviewed The Management Of Patients Presenting To A Tertiary Hospital With Foreign Body Ingestion. Patients And Methods A Retrospective Review Of Patients Presenting With Foreign Body Ingestion To A Tertiary Hospital In Melbourne, Victoria, Was Undertaken From January 2017 To December 2021. Data Collected Included Patient Demographics, Type Of Foreign Body, Length Of Stay, Imaging Modalities, Management Strategies, And Complications. High-Risk Ingestion Was Defined As Sharp Objects, Length {$>$}5 Cm, Diameter {$>$}2.5 Cm, Button Battery And/Or Magnet Ingestion Or Esophageal As Per International Guidelines. Results A Total Of 157 Presentations By 63 Patients With Foreign Body Ingestion Occurred Between 2017 And 2021 (50\% Male; Median Age 30 Years). Of The Patients, 56\% Had Underlying Psychiatric Comorbidities. The Majority Of Presentations Occurred In Prisoners (65\%). The Most Commonly Ingested Objects Were Batteries (23\%), Alleged Drug-Containing Balloons (17\%), Razor Blades (16\%), And Miscellaneous (40\%). High-Risk Ingestion Occurred In Approximately Two-Thirds Of Presentations. Conservative Management Was The Most Common Approach In 55\% Of Patients. Complications, Defined As Perforation, Bowel Obstruction Or Fistula Formation, Did Not Occur In This Cohort Despite More Than Half Presenting With High-Risk Ingestions. Thirty-Day Re-Presentation Rates Were High (31\%) And That Was Most Common In Patients With Intentional Ingestion, Underlying Mental Health Disorders, And A Documented History Of Self-Harm. Conclusions Conservative Management For Patients Presenting With Recurrent High-Risk Foreign Body Ingestion Was Safe In Appropriately Selected Cases. Re-Presentation Is Common And Poses Significant Challenges For Health Care Providers.}
@@ -10652,8 +10539,8 @@
       \strng{authornamehash}{28ec47473e94fa869d3e7457fbb7cc09}
       \strng{authorfullhash}{0a9448b6e8c96759491608f941692c32}
       \strng{authorfullhashraw}{0a9448b6e8c96759491608f941692c32}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Objective: Self-Harm And Attempted Suicide Are Risk Factors For Suicide In Psychiatric Hospital In-Patients. This Study Aimed To Analyse The Circumstances Of Self-Harm And Suicide Attempts In A Japanese Psychiatric Hospital So As To Improve Management And Care. Methods: Incident Reports Of Self-Harm And Suicide Attempts During A 12.4-Year Period From November 2000 To March 2013 Were Reviewed. A Descriptive Analysis Was Conducted In Terms Of Age, Sex, And Diagnosis Of Patients, As Well As Level, Ward, Situations, And Causes Of Incidents. Results: During The Study Period, 90 Cases Of Self-Harm And Attempted Suicide Involving 58 Patients Were Reported. The Rate Of Self-Harm And Suicide Attempts Was 0.05 Per 1000 Patient-Days. The Types Of Self-Harm And Suicide Attempts Included Hanging (N = 25), Wrist Cutting (N = 19), Ingestion Of Foreign Objects (N = 17), And Others (N = 29). The Single Case Of Completed Suicide Involved Hanging, In A Patient With Schizophrenia. Among 55 Patients With Relevant Data, The Most Common Clinical Diagnosis Was Mood Disorder (41.8\%), Followed By Schizophrenia (36.4\%). Mood Disorder Was 3.5 Times As Prevalent In Females As In Males (14 Vs. 4). Fourteen Patients With Mood Disorder (N = 8) Or Schizophrenia (N = 6) Were Repeatedly Involved In 46 Of 89 Cases Of Self-Harm Or Attempted Suicide; 11 Were Female. One Woman With Mood Disorder Attempted Suicide 9 Times Within The Same Year. The Top 3 Management And Care Factors Related To Self-Harm And Suicide Attempts Were Failure To Adhere To Preventive Procedures (28\%), Insufficient Therapeutic Communication (28\%), And Difficulty In Predicting Suicide (20\%). Conclusion: Self-Harm And Suicide Attempts At This Psychiatric Hospital Occurred At A Rate Of 0.05 Per 1000 Patient-Days Between Late 2000 And Early 2013. Efforts Are Needed To Increase Compliance With Suicide Prevention Procedures And Therapeutic Communication, So As To Improve Management And Care Of Psychiatric In-Patients And Prevent Them From Committing Suicide. {©} 2018 Hong Kong College Of Psychiatrists.}
@@ -10733,8 +10620,8 @@
       \strng{authornamehash}{09671d2794879fed49755813460ac2f5}
       \strng{authorfullhash}{d080dede061b2a41ee95b7d60d49a9fd}
       \strng{authorfullhashraw}{d080dede061b2a41ee95b7d60d49a9fd}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Introduction: We Studied 21 Episodes Of Ingestion Of Foreign Bodies (Ifo) Among 15 Prisoners. Patients And Methods: Rectrospective Research In Pts Admitted To Emergency From June 2005 To May 2105. Ingestion, Management And Pts Outcome Were Analyzed. Prisoners With Previous Esophagogastroduodenal Disease Were Excluded. Results: All Pts Were Males And Ingestions Were Intentional. Esophagogastroduoduenoscopy (Egds) Was Performed In 10Pts (8 Cases With Successful Removal, 1 Case We Did Not Find Anything E 1 Of Unsuccessful Egds, That Required Emergency Surgey. 9 Pts Rejected Egds: In 2 Pts Were Not Necessary.Among The 9 Pts That Rejected Egds, 5 Discharged Voluntary. No Mortality Neither Morbidity. Only 1 Pt Required Surgery.The Ifo Were 34 (23 Sharp, 6 Flat,5 Indefined). We Did Not Observe Any Food Bolus Impaction. Multiple Ingestion Was Found In 11 Pts. Recurrent Episodes Were Found In 4 Pts. Discussion: Almost All Episodes Can Be Treated Conservatively With Observation And Endoscopy But The Management Of This Pts Has A Financial Impact On Healthcare Cost And On Security Costs. Prevention Strategies Are Important To Predict Patient Group At High Risk For Recurrent Ifo.}
@@ -10824,8 +10711,8 @@
       \strng{authornamehash}{e984698da62ed26abe9405adc038fb30}
       \strng{authorfullhash}{a67da66d53ba642a58e9c8006cfdd72f}
       \strng{authorfullhashraw}{a67da66d53ba642a58e9c8006cfdd72f}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Purpose: To Describe The Incidence And Management Of Gastrointestinal Tract Buckyball Magnets Ingestions In A Multicenter Chinese Pediatric Patient Population, And Discuss The Preventive Measures. Methods: Medical Records Of 74 Pediatric Patients From 9 Large Chinese Hospitals During The Past 10\,Years, Who Were Diagnosed As Buckyball Magnets Ingestion And Got Invasive Treatment, Were Retrospectively Studied. The Follow-Up Was Through Telephone And Outpatient Service To Estimate The Post-Surgery Condition. Information Collection Was Through Online Questionnaire. Results: Among The 74 Cases, There Were 50 Boys (68\%) And 24 Girls (32\%). The Median Age Was 36 (Interquartile Range (Iqr) 22-77) Months, With A Range Of 7\,Months To 11\,Years, And It Showed Two Peaks, The First Between 1 And 3\,Years, And The Second Between 6 To 11\,Years. The Annual Case Number Showed A Sharp Increase Over Time, And The Total Case Number In The Last 2\,Years (2017 And 2018) Showed A Greater Than 9-Fold Increase When Compared With The First 2\,Years (2013 And 2014). The Majority Of Ingestions Were Unintentional, With Only 3 Patients Deliberately Swallowing The Buckyball Magnets. The Median Time Of Ingestion Until The Onset Of Emergent Symptoms Was 2 (Iqr 1-5) Days, And Ranged From 4\,H To 40\,Days. Twenty-One Patients Had No Symptoms, And The Remaining Cases Presented With Abdominal Pain, Vomiting, Fever, Abdominal Distension, Excessive Crying, Melena, And The Ceasing Of Flatus And Defecation. Gastroscopy, Colonoscopy, Laparoscopic Surgery And Laparotomy Surgery Were Performed In Accordance With The Algorithm From The North American Society Of Pediatric Gastroenterology, Hepatology And Nutrition (Naspghan). Procedural And Operative Findings Included Gastrointestinal Mucosa Erosion, Ischemia And Necrosis, Perforation, And Abdominal Abscess, Fistula And Intestinal Obstruction. The Median Number Of Buckyball Magnets Ingested Was 4 (Iqr 2-8), With A Range From 1 To 39. During The Median Follow-Up Period Of 6 (Iqr 1-15) Months, 3 Patients Had Intestinal Obstruction, And One Underwent A Second Operation. The Remaining 71 Patients Courses Were Uneventful During The Follow-Up Period. None Of The 74 Patients Reported A Second Swallowing Of Foreign Bodies. Conclusions: The Incidence Of Pediatric Gastrointestinal Tract Magnets Ingestion In China Is Increasing. Management Of Such Patients Should Follow The Naspghan Algorithm. Preventive Measures To Limit Children'S Access To Buckyball Magnets Should Be Taken From Three Levels, Namely The National Administration, Producer, And Consumer.}
@@ -10860,8 +10747,8 @@
       \strng{authornamehash}{8e201c02cbac860104198e2cc2b779ac}
       \strng{authorfullhash}{8e201c02cbac860104198e2cc2b779ac}
       \strng{authorfullhashraw}{8e201c02cbac860104198e2cc2b779ac}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We reviewed the clinical benefits of hospitalization, esophagogastroduodenoscopy, and surgical intervention for ingested foreign bodies in adults. Patients with esophageal foreign bodies were not included in the study group. A 10-year experience is reported. Each patient's physical examination findings at presentation, white blood cell count, length of hospital stay, number and types of foreign bodies ingested, endoscopic interventions, surgical interventions, and complications were reviewed. There were 75 separate hospitalizations, all occurring in 22 male prison inmates. A total of 256 foreign bodies were ingested. Patients incurred 281 hospitalization days (average 3.7 days per admission). One patient had signs of peritonitis. White blood cell count was less than 10 K/{$\mu$}L in 85\%. Sixty-four endoscopies were performed with removal of 79 of 163 foreign bodies (48\% success rate). Five patients required general anesthesia because of a lack of cooperation. Complications occurred in four of them, one requiring laparotomy. Eight additional laparotomies were performed. One was performed for an acute abdomen on admission and one for the development of an acute abdomen after conservative management. Two were performed to remove metal bezoars. Four additional laparotomies were performed because of surgeon preference. Among the 23 patients admitted and managed conservatively, 77 (97\%) of 79 foreign bodies passed spontaneously. One patient required laparotomy. Of the 256 ingested foreign bodies, 79 were removed endoscopically, 71 were removed surgically, and 106 passed spontaneously. The size, shape, and number were not predictive of the ability to transit the gastrointestinal tract. Foreign body ingestion is problematic in prison inmates. With conservative management, most foreign bodies will pass spontaneously. Endoscopy has a high failure rate and is associated with significant complications. Surgical intervention should be reserved for those who have acute conditions in the abdomen or large bezoars. ( J Gastrointest Surg 2002; 6:496--500.)}
@@ -10932,8 +10819,8 @@
       \strng{authornamehash}{f378a493cd04520b13c29e5f207abaff}
       \strng{authorfullhash}{209204b54c58a4dd6f1e66276efd040e}
       \strng{authorfullhashraw}{209204b54c58a4dd6f1e66276efd040e}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Objective: We Report On The Increasing Incidence And Outcomes From Intentional Foreign Body Ingestion (Ifobi) Presenting To Our Hospital Over A 5-Year Period. The Aim Was To Assess The Impact On Services And To Identify Ways To Safely Mitigate Against This Clinical Challenge. Design/Method: We Performed A Retrospective Observational Study Of All Patients Presenting To A University Hospital Between January 2015 And April 2020 With Ifobi With A Focus On Objects Swallowed, Timing Of Endoscopy And Clinical Outcomes. Results: 239 Episodes Of Ifobi In 51 Individuals Were Recorded With A Significant Increase In Incidence Throughout The Study Period (Welch (5, 17.3)=15.1, P{$<$}0.001), Imposing A High Burden On Staff And Resources. Items Lodged In The Oesophagus Were More Likely To Lead To Mucosal Injury (P=0.009) Compared With Elsewhere. Ingested Item Type And Timing Of Endoscopy Were Not Related To Complications (P=0.78) Or Length Of Stay (P=0.8). In 12\% Of Cases, No Objects Were Seen At Endoscopy. Conclusion: In All Except Those Patients With Oesophageal Impaction Of The Object On Radiograph, There Is No Need To Perform Endoscopic Extraction Out Of Hours. A Subset Of Cases Can Avoid Endoscopy With An X-Ray Immediately Prior To The Procedure As A Significant Proportion Have Passed Already. We Discuss More Holistic Approaches To Deal With Recurrent Attendances.}
@@ -10993,8 +10880,8 @@
       \strng{authornamehash}{c5d4f67dbe70690158245ae986d4d392}
       \strng{authorfullhash}{3159fd9afa28a2a8dcd3f45e1d0aa850}
       \strng{authorfullhashraw}{3159fd9afa28a2a8dcd3f45e1d0aa850}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Backgrounds: Previous Reports Of Foreign-Body Ingestion Focused Primarily On Accidental Ingestion And Very Few Studies Focused On Intentional Ingestion Of Foreign Body (Fb) In China. Our Study Aimed To Compare The Prevalence Of Different Age, Gender, Types, Locations And Management Of Fb Ingested Between Intentional Ingestion And Accidental Ingestion Of Fb In Northern China. Methods: A Retrospective Case Series Studied All Patients With Suspected Fb Ingestion In Digestive Endoscopy Center Of Beijing Friendship Hospital, Between January 2011 And January 2019. The Patients Were Divided Into 2 Groups. Group A Included The Patients Who Intentionally Ingested Fbs, And Group B Included The Patients Who Accidentally Ingested Fbs. Patients' Database (Demographics, Past Medical History, Characteristics Of Fb, Endoscopic Findings And Treatments) Were Reviewed. Statistical Analyses Were Conducted Using Spss Software. Results: Group A Consisted Of 77 Prisoners, 2 Suspects And 11 Psychologically Disabled Persons. Group B Consisted Of 1020 Patients With No Prisoners, Suspects Or Psychologically Disabled Persons. In Group A, There Were No Food-Related Foreign Bodies, And The Majority Of Fbs Were Metallic Objects (54.44\%). However In Group B, Food-Related Fbs Were The Most Common (91.37\%). In Group A, 58 Cases (64.44\%) Were Located In The Stomach, While In Group B, 893 Cases (87.55\%) Were Located In The Esophagus (P\,{$<$}\,0.05). 1096 Patients Successfully Underwent Endoscopic Removal And 14 Failed, Including 9 Cases In Group A And 5 Cases In Group B. The Duration Of Fbs Impaction Was Longer In Group A Than That In Group B (P\,{$<$}\,0.05). Conclusions: In Our Study, The Patients Who Intentionally Ingested Fb Were Mainly Prisoners, Fbs Were Mostly Sharp Metallic Objects, The Duration Of Fbs Impaction Was Longer, And The Rate Of Successful Endoscopic Treatment Was Lower Than That Of The General Population. Attention Should Be Focused On These Patients.}
@@ -11022,8 +10909,8 @@
       \strng{authornamehash}{ce2c470a69e9b189664512d02dc6f03c}
       \strng{authorfullhash}{ce2c470a69e9b189664512d02dc6f03c}
       \strng{authorfullhashraw}{ce2c470a69e9b189664512d02dc6f03c}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Diagnostic and Statistical Manual of Mental Disorders (5th Ed.)}
