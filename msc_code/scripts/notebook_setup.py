@@ -11,7 +11,6 @@ import requests # for HTTP requests and querying internet
 import time
 import gc
 import csv
-from habanero import Crossref
 import seaborn as sns
 from matplotlib.patches import FancyBboxPatch
 from serpapi.google_search import GoogleSearch  # Google Search Module from SerpAPI

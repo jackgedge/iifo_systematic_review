@@ -1,5 +1,12 @@
 # Fdb version 4
-["pdflatex"] 1748271542.82735 "/Users/jackgedge/Projects/msc_dissertation/iifo_motivation/output/reports/final_report/main.tex" "main.pdf" "main" 1748271546.72874 2
+["biber main"] 1748343868.787 "main.bcf" "main.bbl" "main" 1748343976.65172 0
+  "IIFO.bib" 1748343868.55156 2078749 f399c4fabb26c49c4f72c99160f1c5f7 ""
+  "main.bcf" 1748343976.56698 137136 3991567247622ab2d6d82df166bf7895 "pdflatex"
+  (generated)
+  "main.bbl"
+  "main.blg"
+  (rewritten before read)
+["pdflatex"] 1748343972.79968 "/Users/jackgedge/Projects/msc_dissertation/iifo_motivation/output/reports/final_report/main.tex" "main.pdf" "main" 1748343976.65203 2
   "/Users/jackgedge/Projects/msc_dissertation/iifo_motivation/output/reports/final_report/main.tex" 1748271459.64869 2506 b76a1824293daf8566c0c6da5839a673 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -127,11 +134,12 @@
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1743433984 3345741 48cbc9b34a5a83d7b476ee87022b3063 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
   "figures/prisma_diagram.png" 1748271529.30883 1371735 9b51d52ed1d0d9886159ed0231e303e1 ""
-  "main.aux" 1748271546.58591 50395 fb82d2e5e422949185fe10f8e41e3073 "pdflatex"
-  "main.out" 1748271546.64515 2188 1689f2350c9da1a959690d271fc1f4e4 "pdflatex"
+  "main.aux" 1748343976.50524 50700 4fcc4e891b2f3ed4412bfc8a8a9b263a "pdflatex"
+  "main.bbl" 1748343872.12649 639305 4e8be627c7e53143269cce037f91ed37 "biber main"
+  "main.out" 1748343976.56608 2188 1689f2350c9da1a959690d271fc1f4e4 "pdflatex"
   "main.tex" 1748271459.64869 2506 b76a1824293daf8566c0c6da5839a673 ""
   "sections/02-abstract.tex" 1748271525.83885 22 f1f79170f3ec19ffba184bd77bc141b5 ""
-  "sections/03-rationale.tex" 1748264511.19819 6490 5fa6a2e7c3631ee5f48f982195425734 ""
+  "sections/03-rationale.tex" 1748340597.59057 6496 0e2130ee298ee25951c1abe1975ad761 ""
   "sections/04-objectives.tex" 1748271525.85152 490 f122beb997edb42b09f3c76f326e266b ""
   "sections/05-eligibility_criteria.tex" 1748271525.87753 922 d71443e77b7a36417f43a7692811defe ""
   "sections/06-information_sources.tex" 1748271525.88918 339 d969f5d5ccd72766616c39544e1a2c01 ""
@@ -145,9 +153,9 @@
   "sections/18-study_characteristics.tex" 1748271532.66063 1217 a2d2572e81b12341a3551de64546387c ""
   "sections/19-results_of_individual_studies.tex" 1748271535.44263 1062 5ac56fcc567a2ae8a186b129e83a5205 ""
   "sections/27-data_code_other_materials.tex" 1748265459.15717 163 0e5f310597f5076a28aa620b6156c0a5 ""
-  "sections/appendix_a.tex" 1747297246.95542 2972 9a149230a7999043e0ba505a22daaab4 ""
+  "sections/appendix_a.tex" 1748340864.9115 2968 82e9fce4215d76c055ef7a72ebeb5ff6 ""
   "sections/appendix_b.tex" 1747241381.41784 8770 5763a7cb4e1383692dbbc8a192e3dd0e ""
-  "sections/appendix_c.tex" 1747318130.04463 4397 558a0449d2a21627793a19ffd09e7425 ""
+  "sections/appendix_c.tex" 1748343968.56056 4576 650133b2f95d2a0ef7bec3f79fcd6ba6 ""
   "sections/s1-risk_of_bias_supplement.tex" 1748271525.92774 3885 cde7968a8dfdb812a16e6281707cc791 ""
   "tables/motivation_summary.tex" 1748271532.77618 501 811f2bd0d56ac76c1ea6405b91a684af ""
   "tables/outcome_summary.tex" 1748271532.79397 602 1ba598ead48380d1c3ef5abea509b784 ""

@@ -1287,7 +1287,7 @@
       \field{month}{2}
       \field{number}{2}
       \field{shorttitle}{{{FOREIGN BODIES IN THE STOMACH}}}
-      \field{title}{{{FOREIGN BODIES IN THE STOMACH}}: {{REPORT OF A CASE IN WHICH MORE THAN TWO THOUSAND FIVE HUNDRED FOREIGN BODIES WERE FOUND}}}
+      \field{title}{Foreign {{Bodies In The Stomach}}: {{Report Of A Case In Which More Than Two Thousand Five Hundred Foreign Bodies Were Found}}}
       \field{urlday}{15}
       \field{urlmonth}{4}
       \field{urlyear}{2025}
@@ -10915,6 +10915,39 @@
       \field{labeltitlesource}{title}
       \field{title}{Diagnostic and Statistical Manual of Mental Disorders (5th Ed.)}
       \field{year}{2013}
+    \endentry
+    \entry{UNGeneralAssembly_1967}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=5a754ce56fd47c3989762d2d550dde51}{%
+           family={{UN General Assembly}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {United Nations}%
+      }
+      \strng{namehash}{5a754ce56fd47c3989762d2d550dde51}
+      \strng{fullhash}{5a754ce56fd47c3989762d2d550dde51}
+      \strng{fullhashraw}{5a754ce56fd47c3989762d2d550dde51}
+      \strng{bibnamehash}{5a754ce56fd47c3989762d2d550dde51}
+      \strng{authorbibnamehash}{5a754ce56fd47c3989762d2d550dde51}
+      \strng{authornamehash}{5a754ce56fd47c3989762d2d550dde51}
+      \strng{authorfullhash}{5a754ce56fd47c3989762d2d550dde51}
+      \strng{authorfullhashraw}{5a754ce56fd47c3989762d2d550dde51}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{title}{Protocol {{Relating}} to the {{Status}} of {{Refugees}}}
+      \field{urlday}{27}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{year}{1967}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/KYTX5C99/3b66c2aa10.pdf
+      \endverb
     \endentry
     \entry{Deng_1998}{report}{}{}
       \name{author}{3}{}{%
