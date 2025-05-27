@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.31)  27 MAY 2025 13:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.31)  27 MAY 2025 14:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -770,7 +770,8 @@ Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
 ))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
- (./main.aux)
+
+No file main.aux.
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
@@ -791,7 +792,6 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
 LaTeX Font Info:    ... okay on input line 41.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 41.
 LaTeX Font Info:    ... okay on input line 41.
-
 -- Lines per column: 60 (approximate, difference = 2.7pt).
 (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -907,14 +907,12 @@ LaTeX Warning: Reference `appendix:variables' on page 2 undefined on input line 
 LaTeX Warning: Reference `fig:prisma' on page 3 undefined on input line 27.
 
 )
-<figures/prisma_diagram.png, id=113, 844.8363pt x 597.6729pt>
+<figures/prisma_diagram.png, id=111, 844.8363pt x 597.6729pt>
 File: figures/prisma_diagram.png Graphic file (type png)
 <use figures/prisma_diagram.png>
 Package pdftex.def Info: figures/prisma_diagram.png  used on input line 65.
 (pdftex.def)             Requested size: 542.02501pt x 383.4578pt.
  (./sections/17-risk_of_bias_in_studies.tex) (./sections/18-study_characteristics.tex) (./sections/19-results_of_individual_studies.tex
-
-[3]
 
 ./sections/19-results_of_individual_studies.tex:1: LaTeX Error: There's no line here to end.
 
@@ -928,7 +926,9 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-) (./sections/27-data_code_other_materials.tex) (./tables/pop_summary.tex
+) (./sections/27-data_code_other_materials.tex
+
+[3]) (./tables/pop_summary.tex
 
 ./tables/pop_summary.tex:5: LaTeX Error: Not in outer par mode.
 
@@ -940,6 +940,9 @@ l.5 \caption
             {Summary of population characteristics.}
 You've lost some text.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
@@ -1139,6 +1142,16 @@ Underfull \hbox (badness 5203) in paragraph at lines 81--81
  []
 
 
+Underfull \hbox (badness 5091) in paragraph at lines 81--81
+[]\OT1/ptm/m/n/10 United Na-tions High Com-mis-sioner for Refugees.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
+\OT1/ptm/m/it/10 Asylum-Seekers\OT1/ptm/m/n/10 . https://www.unhcr.org/us/about-
+ []
+
+
 
 
 
@@ -1199,21 +1212,7 @@ Underfull \hbox (badness 1546) in paragraph at lines 408--408
 
 
 
-[18]) (./sections/appendix_c.tex
-
-LaTeX Warning: Citation 'UnitedNationsHighCommissionerforRefugees_2025' on page 19 undefined on input line 13.
-
-
-Underfull \hbox (badness 1484) in paragraph at lines 13--14
-[]|\OT1/ptm/m/n/8 'Y' if: meets the UN Gen-eral As-sem-bly [[]204[]] def-i-ni-tion of 'Refugee'; or meets
- []
-
-
-Underfull \hbox (badness 2503) in paragraph at lines 13--14
-\OT1/ptm/m/n/8 UN-HCR [[]205[]] def-i-ni-tion of an 'in-ter-nally dis-placed per-son'; or meets the UN-
- []
-
-)
+[18]) (./sections/appendix_c.tex)
 
 [19
 
@@ -1247,10 +1246,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22258 strings out of 473190
- 418118 string characters out of 5715800
- 1469200 words of memory out of 5000000
- 44937 multiletter control sequences out of 15000+600000
+ 22259 strings out of 473190
+ 418371 string characters out of 5715800
+ 1470274 words of memory out of 5000000
+ 44939 multiletter control sequences out of 15000+600000
  595914 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,17n,81p,2793b,1594s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1261,10 +1260,10 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (19 pages, 1224731 bytes).
+Output written on main.pdf (19 pages, 1298289 bytes).
 PDF statistics:
- 925 PDF objects out of 1000 (max. 8388607)
- 877 compressed objects within 9 object streams
- 283 named destinations out of 1000 (max. 500000)
+ 926 PDF objects out of 1000 (max. 8388607)
+ 878 compressed objects within 9 object streams
+ 284 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

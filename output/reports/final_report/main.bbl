@@ -10933,8 +10933,8 @@
       \strng{authornamehash}{5a754ce56fd47c3989762d2d550dde51}
       \strng{authorfullhash}{5a754ce56fd47c3989762d2d550dde51}
       \strng{authorfullhashraw}{5a754ce56fd47c3989762d2d550dde51}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
@@ -10996,6 +10996,37 @@
       \field{urldateera}{ce}
       \verb{file}
       \verb /Users/jackgedge/Zotero/storage/NVDK52XE/guiding_principles_on_internal_displacement_english.pdf;/Users/jackgedge/Zotero/storage/W4DCR2BH/Deng et al. - 2004 - Guiding Principles on Internal Displacement.pdf
+      \endverb
+    \endentry
+    \entry{UnitedNationsHighCommissionerforRefugees_2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=1caa6750fcd92675f4b217addf3d35f7}{%
+           family={{United Nations High Commissioner for Refugees}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{1caa6750fcd92675f4b217addf3d35f7}
+      \strng{fullhash}{1caa6750fcd92675f4b217addf3d35f7}
+      \strng{fullhashraw}{1caa6750fcd92675f4b217addf3d35f7}
+      \strng{bibnamehash}{1caa6750fcd92675f4b217addf3d35f7}
+      \strng{authorbibnamehash}{1caa6750fcd92675f4b217addf3d35f7}
+      \strng{authornamehash}{1caa6750fcd92675f4b217addf3d35f7}
+      \strng{authorfullhash}{1caa6750fcd92675f4b217addf3d35f7}
+      \strng{authorfullhashraw}{1caa6750fcd92675f4b217addf3d35f7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{An asylum-seeker is someone who is seeking international protection. Learn more about asylum-seekers and how UNHCR protects them.}
+      \field{howpublished}{https://www.unhcr.org/us/about-unhcr/who-we-protect/asylum-seekers}
+      \field{langid}{american}
+      \field{title}{Asylum-Seekers}
+      \field{urlday}{27}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/M4NK9C52/asylum-seekers.html
       \endverb
     \endentry
   \enddatalist
