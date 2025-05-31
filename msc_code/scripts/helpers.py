@@ -15,7 +15,10 @@ exclusion_criteria = {
 9:	"Ingestions not explicitly stated to be intentional and history not suggestive of deliberate ingestion (i.e. Age < 8, no history of previous ingestions, no psychiatric co-morbidities, not a prisoner/detainee/vulnerable group).",
 10:	"Does not meet inclusion criteria.",
 11: "Ingestions where death resulted from other means (e.g. suicide)",
-12: "Studies before the advent of Endoscopy (1906)."
+12: "Studies before the advent of Endoscopy (1906).",
+13: "Outcomes not reported.",
+14: "Motivation not reported.", 
+15: "Object characteristics not reported."
 }
 
 exclusion_criteria_short = {
@@ -30,7 +33,10 @@ exclusion_criteria_short = {
 9:	"Not explicitly intentional ingestions.",
 10:	"Inclusion criteria not met.",
 11: "Death occured from by other means (e.g. suicide).",
-12: "Pre-1906."
+12: "Pre-1906.",
+13: "Outcomes not reported.",
+14: "Motivation not reported.", 
+15: "Object not reported."
 }
 
 def track_duplicate_removal(stage, end_count, start_count=None, tracking_dict=None):

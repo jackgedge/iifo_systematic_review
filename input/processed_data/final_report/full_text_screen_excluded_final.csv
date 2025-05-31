@@ -151,6 +151,7 @@ Study_ID,Exclude_JGE,Reason_ID_JGE,Unclear_JGE,Comments_JGE,Exclude_MS,Reason_ID
 316,True,2.0,,Compare's scoring systems for Oesophageal Perforation. No mention if foreign body ingestion.,,,,,,,,True,2.0
 317,True,3.0,,"""All foreign body ingestions were accidental""",,,,,,,,True,3.0
 320,True,9.0,,Button battery ingestions in children. No report of intention. Exclude.    S s,,,,,,,,True,9.0
+321,False,,,"""describes a case of repeated foreign body ingestion in which a patient required 15 procedures under general anaesthetic to remove foreign bodies over a 6-month period.""",,,,,,,,True,15.0
 323,True,5.0,,Review article. Likely accidental ingestion. Intention not specified.,,,,,,,,True,5.0
 324,True,9.0,,Presumed accidental. Fish bones only. ,,,,,,,,True,9.0
 330,True,9.0,,Two children with rectal abscesses post. Not explicitly intentional.,,,,,,,,True,9.0

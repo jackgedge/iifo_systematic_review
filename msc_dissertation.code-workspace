@@ -11,6 +11,10 @@
 	  "python.dataScience.notebookFileRoot": "${workspaceFolder}/msc_code/notebooks",
 	  "python.dataScience.useNotebookEditor": true,
 	  "python.terminal.activateEnvironment": true,
-	  "python.terminal.executeInFileDir": true
+	"python.terminal.executeInFileDir": true,
+	"python.autoComplete.extraPaths": [
+		"${workspaceFolder}",
+		"${workspaceFolder}/msc_code/notebooks"
+	]
 	}
   }
