@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.31)  2 JUN 2025 16:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.31)  2 JUN 2025 18:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1304,7 +1304,2123 @@ Underfull \hbox (badness 3514) in paragraph at lines 2--2
 
 
 
-[3]) (./sections/27-data_code_other_materials.tex) (./tables/pop_summary.tex
+[3]) (./sections/27-data_code_other_materials.tex)
+(./tables/series_data_summary_table.tex
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.111 \end{tabularx}
+                    
+? 
+
+Package tabularx Warning: X Columns too narrow (table too wide)
+(tabularx)                 on input line 111.
+
+
+Overfull \hbox (23.66966pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/b/n/9 Variable| 
+ []
+
+
+Overfull \hbox (13.9048pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/b/n/9 Paper
+ []
+
+
+Overfull \hbox (6.7768pt too wide) in paragraph at lines 111--111
+\OT1/ptm/b/n/9 Info| 
+ []
+
+
+Overfull \hbox (32.00345pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Publication
+ []
+
+
+Overfull \hbox (7.5868pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Year| 
+ []
+
+
+Overfull \hbox (19.99774pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Authors| 
+ []
+
+
+Overfull \hbox (7.68565pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Title| 
+ []
+
+
+Overfull \hbox (32.00345pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Publication
+ []
+
+
+Overfull \hbox (1.68286pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Ti-
+ []
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.111 \end{tabularx}
+                    
+? 
+
+Overfull \hbox (36.98938pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 International
+ []
+
+
+Overfull \hbox (19.33186pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Surgery| 
+ []
+
+
+Overfull \hbox (4.49988pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Doi| 
+ []
+
+
+Overfull \hbox (12.00584pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Study
+ []
+
+
+Overfull \hbox (13.4999pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Coun-
+ []
+
+
+Overfull \hbox (0.99887pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 try| 
+ []
+
+
+Overfull \hbox (12.00584pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Study
+ []
+
+
+Overfull \hbox (4.49088pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 De-
+ []
+
+
+Overfull \hbox (6.0028pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 sign| 
+ []
+
+
+Overfull \hbox (18.77371pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Citekey| 
+ []
+
+
+Overfull \hbox (16.5056pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Setting
+ []
+
+
+Overfull \hbox (8.0009pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Pop-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 u-
+ []
+
+
+Overfull \hbox (5.00381pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 tion| 
+ []
+
+
+Overfull \hbox (12.00584pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Study
+ []
+
+
+Overfull \hbox (4.99493pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Ob-
+ []
+
+
+Overfull \hbox (4.49075pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 jec-
+ []
+
+
+Overfull \hbox (4.13983pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 tive| 
+ []
+
+
+Overfull \hbox (12.00584pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Study
+ []
+
+
+Overfull \hbox (18.99875pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Method| 
+ []
+
+
+Overfull \hbox (12.00584pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Study
+ []
+
+
+Overfull \hbox (3.99583pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Re-
+ []
+
+
+Overfull \hbox (7.50562pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 sults| 
+ []
+
+
+Overfull \hbox (12.00584pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Study
+ []
+
+
+Overfull \hbox (8.9999pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Con-
+ []
+
+
+Overfull \hbox (4.99481pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 clu-
+ []
+
+
+Overfull \hbox (6.0028pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 sion| 
+ []
+
+
+Overfull \hbox (16.99165pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/b/n/9 Object
+ []
+
+
+Overfull \hbox (11.5018pt too wide) in paragraph at lines 111--111
+\OT1/ptm/b/n/9 Sum-
+ []
+
+
+Overfull \hbox (11.4929pt too wide) in paragraph at lines 111--111
+\OT1/ptm/b/n/9 mary| 
+ []
+
+
+Overfull \hbox (14.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Object
+ []
+
+
+Overfull \hbox (13.00484pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Count| 
+ []
+
+
+Overfull \hbox (14.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Object
+ []
+
+
+Overfull \hbox (7.0018pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 But-
+ []
+
+
+Overfull \hbox (2.5019pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 ton
+ []
+
+
+Overfull \hbox (6.49774pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Bat-
+ []
+
+
+Overfull \hbox (4.99481pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 tery
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (14.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Object
+ []
+
+
+Overfull \hbox (7.0018pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 But-
+ []
+
+
+Overfull \hbox (2.5019pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 ton
+ []
+
+
+Overfull \hbox (6.49774pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Bat-
+ []
+
+
+Overfull \hbox (4.99481pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 tery
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (14.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Object
+ []
+
+
+Overfull \hbox (10.4938pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Mag-
+ []
+
+
+Overfull \hbox (1.99785pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 net
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (14.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Object
+ []
+
+
+Overfull \hbox (10.4938pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Mag-
+ []
+
+
+Overfull \hbox (1.99785pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 net
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (14.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Object
+ []
+
+
+Overfull \hbox (9.99898pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Long
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (14.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Object
+ []
+
+
+Overfull \hbox (9.99898pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Long
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (14.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Object
+ []
+
+
+Overfull \hbox (2.99684pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Di-
+ []
+
+
+Overfull \hbox (4.99481pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 am-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 e-
+ []
+
+
+Overfull \hbox (11.82588pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Large
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (14.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Object
+ []
+
+
+Overfull \hbox (2.99684pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Di-
+ []
+
+
+Overfull \hbox (4.99481pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 am-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 e-
+ []
+
+
+Overfull \hbox (11.82588pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Large
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (14.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Object
+ []
+
+
+Overfull \hbox (11.99684pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Sharp
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (14.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Object
+ []
+
+
+Overfull \hbox (11.99684pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Sharp
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (14.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Object
+ []
+
+
+Overfull \hbox (8.99977pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Mul-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 ti-
+ []
+
+
+Overfull \hbox (1.99785pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 ple
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (14.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Object
+ []
+
+
+Overfull \hbox (8.99977pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Mul-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 ti-
+ []
+
+
+Overfull \hbox (1.99785pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 ple
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (14.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Object
+ []
+
+
+Overfull \hbox (9.99898pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Long
+ []
+
+
+Overfull \hbox (11.99684pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Sharp
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (14.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Object
+ []
+
+
+Overfull \hbox (9.99898pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Long
+ []
+
+
+Overfull \hbox (11.99684pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Sharp
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (14.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Object
+ []
+
+
+Overfull \hbox (10.5028pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Short
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (14.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Object
+ []
+
+
+Overfull \hbox (10.5028pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Short
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (14.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Object
+ []
+
+
+Overfull \hbox (10.5028pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Short
+ []
+
+
+Overfull \hbox (11.99684pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Sharp
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (14.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Object
+ []
+
+
+Overfull \hbox (10.5028pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Short
+ []
+
+
+Overfull \hbox (11.99684pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Sharp
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (14.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Object
+ []
+
+
+Overfull \hbox (4.99493pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Un-
+ []
+
+
+Overfull \hbox (15.27296pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 known
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (25.99165pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/b/n/9 Outcome
+ []
+
+
+Overfull \hbox (11.5018pt too wide) in paragraph at lines 111--111
+\OT1/ptm/b/n/9 Sum-
+ []
+
+
+Overfull \hbox (11.4929pt too wide) in paragraph at lines 111--111
+\OT1/ptm/b/n/9 mary| 
+ []
+
+
+Overfull \hbox (23.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Outcome
+ []
+
+
+Overfull \hbox (3.99594pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 En-
+ []
+
+
+Overfull \hbox (20.90685pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 doscopy
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (23.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Outcome
+ []
+
+
+Overfull \hbox (3.99594pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 En-
+ []
+
+
+Overfull \hbox (20.90685pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 doscopy
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (23.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Outcome
+ []
+
+
+Overfull \hbox (19.33186pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Surgery
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (23.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Outcome
+ []
+
+
+Overfull \hbox (19.33186pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Surgery
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (23.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Outcome
+ []
+
+
+Overfull \hbox (12.49176pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Death
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (23.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Outcome
+ []
+
+
+Overfull \hbox (12.49176pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Death
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (23.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Outcome
+ []
+
+
+Overfull \hbox (1.49393pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 In-
+ []
+
+
+Overfull \hbox (5.49887pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 jury
+ []
+
+
+Overfull \hbox (12.98682pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Need-
+ []
+
+
+Overfull \hbox (2.5019pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 ing
+ []
+
+
+Overfull \hbox (1.49393pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 In-
+ []
+
+
+Overfull \hbox (3.31181pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 ter-
+ []
+
+
+Overfull \hbox (6.85799pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 ven-
+ []
+
+
+Overfull \hbox (5.00381pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 tion
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (23.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Outcome
+ []
+
+
+Overfull \hbox (1.49393pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 In-
+ []
+
+
+Overfull \hbox (5.49887pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 jury
+ []
+
+
+Overfull \hbox (12.98682pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Need-
+ []
+
+
+Overfull \hbox (2.5019pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 ing
+ []
+
+
+Overfull \hbox (1.49393pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 In-
+ []
+
+
+Overfull \hbox (3.31181pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 ter-
+ []
+
+
+Overfull \hbox (6.85799pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 ven-
+ []
+
+
+Overfull \hbox (5.00381pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 tion
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (23.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Outcome
+ []
+
+
+Overfull \hbox (5.81384pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Per-
+ []
+
+
+Overfull \hbox (1.49393pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 fo-
+ []
+
+
+Overfull \hbox (0.98987pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 ra-
+ []
+
+
+Overfull \hbox (5.00381pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 tion
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (23.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Outcome
+ []
+
+
+Overfull \hbox (5.81384pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Per-
+ []
+
+
+Overfull \hbox (1.49393pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 fo-
+ []
+
+
+Overfull \hbox (0.98987pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 ra-
+ []
+
+
+Overfull \hbox (5.00381pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 tion
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (23.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Outcome
+ []
+
+
+Overfull \hbox (4.99493pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Ob-
+ []
+
+
+Overfull \hbox (11.49268pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 struc-
+ []
+
+
+Overfull \hbox (5.00381pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 tion
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (23.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Outcome
+ []
+
+
+Overfull \hbox (4.99493pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Ob-
+ []
+
+
+Overfull \hbox (11.49268pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 struc-
+ []
+
+
+Overfull \hbox (5.00381pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 tion
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (23.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Outcome
+ []
+
+
+Overfull \hbox (11.49278pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Other
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (23.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Outcome
+ []
+
+
+Overfull \hbox (11.49278pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Other
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (23.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Outcome
+ []
+
+
+Overfull \hbox (8.9999pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Con-
+ []
+
+
+Overfull \hbox (4.3108pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 ser-
+ []
+
+
+Overfull \hbox (2.2679pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 va-
+ []
+
+
+Overfull \hbox (4.13983pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 tive
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (23.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Outcome
+ []
+
+
+Overfull \hbox (8.9999pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Con-
+ []
+
+
+Overfull \hbox (4.3108pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 ser-
+ []
+
+
+Overfull \hbox (2.2679pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 va-
+ []
+
+
+Overfull \hbox (4.13983pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 tive
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (23.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Outcome
+ []
+
+
+Overfull \hbox (3.99594pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 En-
+ []
+
+
+Overfull \hbox (20.90685pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 doscopy
+ []
+
+
+Overfull \hbox (19.33186pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Surgery
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (23.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Outcome
+ []
+
+
+Overfull \hbox (3.99594pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 En-
+ []
+
+
+Overfull \hbox (20.90685pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 doscopy
+ []
+
+
+Overfull \hbox (19.33186pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Surgery
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (23.99367pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Outcome
+ []
+
+
+Overfull \hbox (4.99493pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Un-
+ []
+
+
+Overfull \hbox (15.27296pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 known
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (33.31763pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/b/n/9 Motivation
+ []
+
+
+Overfull \hbox (11.5018pt too wide) in paragraph at lines 111--111
+\OT1/ptm/b/n/9 Sum-
+ []
+
+
+Overfull \hbox (11.4929pt too wide) in paragraph at lines 111--111
+\OT1/ptm/b/n/9 mary| 
+ []
+
+
+Overfull \hbox (30.55446pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Motivation
+ []
+
+
+Overfull \hbox (1.49393pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 In-
+ []
+
+
+Overfull \hbox (4.49976pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 tent
+ []
+
+
+Overfull \hbox (11.49278pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Harm
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (30.55446pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Motivation
+ []
+
+
+Overfull \hbox (1.49393pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 In-
+ []
+
+
+Overfull \hbox (4.49976pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 tent
+ []
+
+
+Overfull \hbox (11.49278pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Harm
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (30.55446pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Motivation
+ []
+
+
+Overfull \hbox (16.00156pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Protest
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (30.55446pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Motivation
+ []
+
+
+Overfull \hbox (16.00156pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Protest
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (30.55446pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Motivation
+ []
+
+
+Overfull \hbox (7.0018pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Psy-
+ []
+
+
+Overfull \hbox (4.99481pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 chi-
+ []
+
+
+Overfull \hbox (6.99266pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 atric
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (30.55446pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Motivation
+ []
+
+
+Overfull \hbox (7.0018pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Psy-
+ []
+
+
+Overfull \hbox (4.99481pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 chi-
+ []
+
+
+Overfull \hbox (6.99266pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 atric
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (30.55446pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Motivation
+ []
+
+
+Overfull \hbox (7.0018pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Psy-
+ []
+
+
+Overfull \hbox (14.9938pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 choso-
+ []
+
+
+Overfull \hbox (3.9957pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 cial
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (30.55446pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Motivation
+ []
+
+
+Overfull \hbox (7.0018pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Psy-
+ []
+
+
+Overfull \hbox (14.9938pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 choso-
+ []
+
+
+Overfull \hbox (3.9957pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 cial
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (30.55446pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Motivation
+ []
+
+
+Overfull \hbox (4.99493pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Un-
+ []
+
+
+Overfull \hbox (15.27296pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 known
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (30.55446pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Motivation
+ []
+
+
+Overfull \hbox (4.99493pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Un-
+ []
+
+
+Overfull \hbox (15.27296pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 known
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (30.55446pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Motivation
+ []
+
+
+Overfull \hbox (11.49278pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Other
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (30.55446pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Motivation
+ []
+
+
+Overfull \hbox (11.49278pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Other
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (30.55446pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Motivation
+ []
+
+
+Overfull \hbox (11.49278pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Other
+ []
+
+
+Overfull \hbox (12.50078pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Psych
+ []
+
+
+Overfull \hbox (1.99797pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Hx
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (30.55446pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Motivation
+ []
+
+
+Overfull \hbox (11.49278pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Other
+ []
+
+
+Overfull \hbox (12.50078pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Psych
+ []
+
+
+Overfull \hbox (1.99797pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Hx
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (30.55446pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Motivation
+ []
+
+
+Overfull \hbox (11.49278pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Other
+ []
+
+
+Overfull \hbox (2.99684pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Se-
+ []
+
+
+Overfull \hbox (6.35393pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 vere
+ []
+
+
+Overfull \hbox (6.49774pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Dis-
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 abil-
+ []
+
+
+Overfull \hbox (0.50381pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 ity
+ []
+
+
+Overfull \hbox (1.99797pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Hx
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (30.55446pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Motivation
+ []
+
+
+Overfull \hbox (11.49278pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Other
+ []
+
+
+Overfull \hbox (2.99684pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Se-
+ []
+
+
+Overfull \hbox (6.35393pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 vere
+ []
+
+
+Overfull \hbox (6.49774pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Dis-
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 abil-
+ []
+
+
+Overfull \hbox (0.50381pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 ity
+ []
+
+
+Overfull \hbox (1.99797pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Hx
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (87.32605pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/b/n/9 Demographic/Population
+ []
+
+
+Overfull \hbox (11.5018pt too wide) in paragraph at lines 111--111
+\OT1/ptm/b/n/9 Sum-
+ []
+
+
+Overfull \hbox (11.4929pt too wide) in paragraph at lines 111--111
+\OT1/ptm/b/n/9 mary| 
+ []
+
+
+Overfull \hbox (5.99391pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Age
+ []
+
+
+Overfull \hbox (7.27194pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Low| 
+ []
+
+
+Overfull \hbox (5.99391pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Age
+ []
+
+
+Overfull \hbox (8.99988pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 High| 
+ []
+
+
+Overfull \hbox (5.99391pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Age
+ []
+
+
+Overfull \hbox (11.49278pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Mean| 
+ []
+
+
+Overfull \hbox (5.99391pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Age
+ []
+
+
+Overfull \hbox (5.9938pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Me-
+ []
+
+
+Overfull \hbox (6.49785pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 dian| 
+ []
+
+
+Overfull \hbox (17.48682pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Gender
+ []
+
+
+Overfull \hbox (9.49469pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Male
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (17.48682pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Gender
+ []
+
+
+Overfull \hbox (9.49469pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Male
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (17.48682pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Gender
+ []
+
+
+Overfull \hbox (2.99684pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Fe-
+ []
+
+
+Overfull \hbox (8.4957pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 male
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (17.48682pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Gender
+ []
+
+
+Overfull \hbox (2.99684pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Fe-
+ []
+
+
+Overfull \hbox (8.4957pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 male
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (17.48682pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Gender
+ []
+
+
+Overfull \hbox (4.99493pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Un-
+ []
+
+
+Overfull \hbox (15.27296pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 known
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (17.48682pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Gender
+ []
+
+
+Overfull \hbox (4.99493pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Un-
+ []
+
+
+Overfull \hbox (15.27296pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 known
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Is
+ []
+
+
+Overfull \hbox (1.49393pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 In-
+ []
+
+
+Overfull \hbox (4.99481pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 ten-
+ []
+
+
+Overfull \hbox (11.50166pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 tional
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Is
+ []
+
+
+Overfull \hbox (1.49393pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 In-
+ []
+
+
+Overfull \hbox (4.99481pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 ten-
+ []
+
+
+Overfull \hbox (11.50166pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 tional
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Is
+ []
+
+
+Overfull \hbox (8.00067pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Pris-
+ []
+
+
+Overfull \hbox (6.9929pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 oner
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Is
+ []
+
+
+Overfull \hbox (8.00067pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Pris-
+ []
+
+
+Overfull \hbox (6.9929pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 oner
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Is
+ []
+
+
+Overfull \hbox (12.50078pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Psych
+ []
+
+
+Overfull \hbox (1.49393pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 In-
+ []
+
+
+Overfull \hbox (1.99785pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 pat
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Is
+ []
+
+
+Overfull \hbox (12.50078pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Psych
+ []
+
+
+Overfull \hbox (1.49393pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 In-
+ []
+
+
+Overfull \hbox (1.99785pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 pat
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Is
+ []
+
+
+Overfull \hbox (6.49774pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Dis-
+ []
+
+
+Overfull \hbox (14.48973pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 placed
+ []
+
+
+Overfull \hbox (5.81384pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Per-
+ []
+
+
+Overfull \hbox (3.5009pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 son
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Is
+ []
+
+
+Overfull \hbox (6.49774pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Dis-
+ []
+
+
+Overfull \hbox (14.48973pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 placed
+ []
+
+
+Overfull \hbox (5.81384pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Per-
+ []
+
+
+Overfull \hbox (3.5009pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 son
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (13.49088pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Under
+ []
+
+
+Overfull \hbox (1.49393pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 In-
+ []
+
+
+Overfull \hbox (3.5009pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 flu-
+ []
+
+
+Overfull \hbox (7.48782pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 ence
+ []
+
+
+Overfull \hbox (2.99684pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Al-
+ []
+
+
+Overfull \hbox (2.4929pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 co-
+ []
+
+
+Overfull \hbox (2.5019pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 hol
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (13.49088pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Under
+ []
+
+
+Overfull \hbox (1.49393pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 In-
+ []
+
+
+Overfull \hbox (3.5009pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 flu-
+ []
+
+
+Overfull \hbox (7.48782pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 ence
+ []
+
+
+Overfull \hbox (2.99684pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Al-
+ []
+
+
+Overfull \hbox (2.4929pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 co-
+ []
+
+
+Overfull \hbox (2.5019pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 hol
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (12.50078pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Psych
+ []
+
+
+Overfull \hbox (1.99797pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Hx
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (12.50078pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Psych
+ []
+
+
+Overfull \hbox (1.99797pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Hx
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (15.1288pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Severe
+ []
+
+
+Overfull \hbox (6.49774pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Dis-
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 abil-
+ []
+
+
+Overfull \hbox (0.50381pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 ity
+ []
+
+
+Overfull \hbox (1.99797pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Hx
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (15.1288pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Severe
+ []
+
+
+Overfull \hbox (6.49774pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Dis-
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 abil-
+ []
+
+
+Overfull \hbox (0.50381pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 ity
+ []
+
+
+Overfull \hbox (1.99797pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Hx
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (22.27464pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Previous
+ []
+
+
+Overfull \hbox (1.49393pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 In-
+ []
+
+
+Overfull \hbox (5.9938pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 ges-
+ []
+
+
+Overfull \hbox (8.50471pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 tions
+ []
+
+
+Overfull \hbox (11.99661pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Cases| 
+ []
+
+
+Overfull \hbox (22.27464pt too wide) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/9 Previous
+ []
+
+
+Overfull \hbox (1.49393pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 In-
+ []
+
+
+Overfull \hbox (5.9938pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 ges-
+ []
+
+
+Overfull \hbox (8.50471pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 tions
+ []
+
+
+Overfull \hbox (7.49672pt too wide) in paragraph at lines 111--111
+\OT1/ptm/m/n/9 Rate| 
+ []
+
+
+Overfull \hbox (8084.1101pt too wide) in alignment at lines 111--111
+[][][][] 
+ []
+
+
+Overfull \hbox (277.01251pt too wide) in paragraph at lines 111--112
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 3728.49536pt on input line 112.
+
+) (./tables/pop_summary.tex
 
 ! LaTeX Error: Not in outer par mode.
 
@@ -1315,6 +3431,15 @@ Type  H <return>  for immediate help.
 l.5 \caption
             {Summary of population characteristics.}
 ? 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+
+[4 <./figures/prisma_diagram.png>]
+
 ) (./tables/motivation_summary.tex
 
 ! LaTeX Error: Not in outer par mode.
@@ -1331,11 +3456,6 @@ Overfull \hbox (95.77658pt too wide) in paragraph at lines 7--20
 [][] 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
 ) (./tables/outcome_summary.tex
 
 ! LaTeX Error: Not in outer par mode.
@@ -1348,8 +3468,6 @@ l.5 \caption
             {Summary of outcomes following ingestion.}
 ? 
 ) (./sections/s1-risk_of_bias_supplement.tex
-
-[4 <./figures/prisma_diagram.png>]
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 8
 .
 
@@ -1361,6 +3479,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--14
  []
 
 
+
+[5]
 Underfull \hbox (badness 1968) in paragraph at lines 22--23
 []\OT1/ptm/m/it/10 Motivation[]Unknown[]Rate \OT1/ptm/m/n/10 in-di-cated whethe
 r mo-ti-va-tion
@@ -1373,103 +3493,99 @@ ject-related
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 26--85
+Underfull \hbox (badness 10000) in paragraph at lines 26--86
 \OT1/ptm/m/n/10 check-list item (e.g., \OT1/ptm/m/it/10 Clear[]Outcome[]Followu
 p[]Reported\OT1/ptm/m/n/10 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--85
+Underfull \hbox (badness 10000) in paragraph at lines 26--86
 \OT1/ptm/m/it/10 Clear[]Demographic[]Reporting\OT1/ptm/m/n/10 , or
  []
 
 
-Underfull \hbox (badness 2334) in paragraph at lines 26--85
+Underfull \hbox (badness 2334) in paragraph at lines 26--86
 \OT1/ptm/m/it/10 Clear[]Clinical[]Info[]Reporting\OT1/ptm/m/n/10 ) was marked a
 s \OT1/pcr/m/n/10 N\OT1/ptm/m/n/10 , and the
  []
 
 
-Underfull \hbox (badness 1902) in paragraph at lines 26--85
+Underfull \hbox (badness 1902) in paragraph at lines 26--86
 \OT1/ptm/m/n/10 based val-i-da-tion en-sured that case se-ries lack-ing es-sen-
 tial
  []
 
 
-Underfull \hbox (badness 2418) in paragraph at lines 26--85
+Underfull \hbox (badness 2418) in paragraph at lines 26--86
 \OT1/ptm/m/n/10 vari-ables could be sys-tem-at-i-cally ex-cluded from the fi-na
 l
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--85
+Underfull \hbox (badness 10000) in paragraph at lines 26--86
 
  []
 
 
-
-
-Underfull \hbox (badness 4291) in paragraph at lines 87--87
+Underfull \hbox (badness 4291) in paragraph at lines 88--88
 []\OT1/ptm/m/n/10 UNHCR. \OT1/ptm/m/it/10 UN-HCR: A Record 100 Mil-lion Peo-ple
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
 \OT1/ptm/m/it/10 Forcibly Dis-placed World-wide | UN News\OT1/ptm/m/n/10 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
 \OT1/ptm/m/n/10 https://news.un.org/en/story/2022/05/1118772. May
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
 []\OT1/ptm/m/n/10 Amnesty In-ter-na-tional. \OT1/ptm/m/it/10 Refugees, Asy-lum
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
 \OT1/ptm/m/it/10 Seek-ers and Mi-grants - Amnesty In-ter-na-tional\OT1/ptm/m/n/
 10 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
 \OT1/ptm/m/n/10 https://www.amnesty.org/en/what-we-do/refugees-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
 \OT1/ptm/m/n/10 asylum-seekers-and-migrants/. 2024. (Vis-ited on
  []
 
 
-Underfull \hbox (badness 1939) in paragraph at lines 87--87
+Underfull \hbox (badness 1939) in paragraph at lines 88--88
 \OT1/ptm/m/n/10 and UK De-ten-tion". In: \OT1/ptm/m/it/10 Race & Class \OT1/ptm
 /m/n/10 56.3 (Jan.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
 []\OT1/ptm/m/n/10 Global De-ten-tion Project. \OT1/ptm/m/it/10 United King-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
 \OT1/ptm/m/it/10 dom Im-mi-gra-tion De-ten-tion Pro-file\OT1/ptm/m/n/10 .
  []
 
 
-Overfull \hbox (24.12442pt too wide) in paragraph at lines 87--87
+Overfull \hbox (24.12442pt too wide) in paragraph at lines 88--88
 \OT1/ptm/m/n/10 https://www.globaldetentionproject.org/countries/europe/united-
 
  []
-
-
-
-[5]
 
 
 
@@ -1483,43 +3599,48 @@ Overfull \hbox (24.12442pt too wide) in paragraph at lines 87--87
 
 [8]
 
+
 ! LaTeX Error: Command \k unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.87 
+l.88 
      
 ? 
 
 
-
-Underfull \hbox (badness 5203) in paragraph at lines 87--87
+[9]
+Underfull \hbox (badness 5203) in paragraph at lines 88--88
 []\OT1/ptm/m/n/10 Francis Mad-ing Deng, UN Rep-re-sen-ta-tive of the
  []
 
 
-Underfull \hbox (badness 1975) in paragraph at lines 87--87
+Underfull \hbox (badness 1975) in paragraph at lines 88--88
 \OT1/ptm/m/n/10 mis-sion on Hu-man Rights, Feb. 1998. (Vis-ited on
  []
 
 
-Underfull \hbox (badness 5091) in paragraph at lines 87--87
+Underfull \hbox (badness 5091) in paragraph at lines 88--88
 []\OT1/ptm/m/n/10 United Na-tions High Com-mis-sioner for Refugees.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
 \OT1/ptm/m/it/10 Asylum-Seekers\OT1/ptm/m/n/10 . https://www.unhcr.org/us/about
 -
  []
 
 
 
-[9] (./sections/appendix_a.tex)
+
 
 [10
+
+] (./sections/appendix_a.tex)
+
+[11
 
 
 ] (./sections/appendix_b.tex
@@ -1539,7 +3660,7 @@ Underfull \hbox (badness 1546) in paragraph at lines 85--85
 
 
 
-[11
+[12
 
 ]
 Underfull \hbox (badness 1546) in paragraph at lines 153--153
@@ -1553,7 +3674,7 @@ Underfull \hbox (badness 1546) in paragraph at lines 214--214
 
 
 
-[12]
+[13]
 Underfull \hbox (badness 1546) in paragraph at lines 282--282
 []|\OT1/ptm/m/n/8 Intentional In-ges-tion / Self-
  []
@@ -1565,16 +3686,16 @@ Underfull \hbox (badness 1546) in paragraph at lines 346--346
 
 
 
-[13]
+[14]
 Underfull \hbox (badness 1546) in paragraph at lines 408--408
 []|\OT1/ptm/m/n/8 Intentional In-ges-tion / Self-
  []
 
 
 
-[14]) (./sections/appendix_c.tex)
+[15]) (./sections/appendix_c.tex)
 
-[15
+[16
 
 ] (./main.aux)
  ***********
@@ -1582,19 +3703,19 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 90BEA323E1070FF51A154C6ADBB4F447;2445.
+(rerunfilecheck)             Checksum: 22B850677CA6D41FF42173C7329AE3C4;2445.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21820 strings out of 473190
- 401207 string characters out of 5715800
- 1265870 words of memory out of 5000000
- 44582 multiletter control sequences out of 15000+600000
- 594807 words of font info for 104 fonts, out of 8000000 for 9000
+ 21845 strings out of 473190
+ 401694 string characters out of 5715800
+ 1329928 words of memory out of 5000000
+ 44594 multiletter control sequences out of 15000+600000
+ 598129 words of font info for 110 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,17n,81p,12201b,1595s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,17n,81p,12371b,1595s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
 , replaced by a fixed one
@@ -1612,51 +3733,10 @@ cal/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texl
 ive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2025/t
 exmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2025/texmf-dist/
 fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (15 pages, 1324669 bytes).
+Output written on main.pdf (16 pages, 1335164 bytes).
 PDF statistics:
- 1137 PDF objects out of 1200 (max. 8388607)
- 1089 compressed objects within 11 object streams
- 193 named destinations out of 1000 (max. 500000)
+ 1149 PDF objects out of 1200 (max. 8388607)
+ 1100 compressed objects within 11 object streams
+ 197 named destinations out of 1000 (max. 500000)
  150 words of extra memory for PDF output out of 10000 (max. 10000000)
-
-rences right.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  90BEA323E1070FF51A154C6ADBB4F447;2445.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
-Package logreq Info: Writing requests to 'main.run.xml'.
-\openout1 = `main.run.xml'.
-
- ) 
-Here is how much of TeX's memory you used:
- 21795 strings out of 473190
- 401024 string characters out of 5715800
- 1257046 words of memory out of 5000000
- 44561 multiletter control sequences out of 15000+600000
- 595914 words of font info for 105 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 75i,17n,81p,12288b,1594s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
-
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (15 pages, 1323177 bytes).
-PDF statistics:
- 1077 PDF objects out of 1200 (max. 8388607)
- 1029 compressed objects within 11 object streams
- 193 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
