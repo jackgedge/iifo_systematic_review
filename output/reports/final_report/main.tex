@@ -20,6 +20,11 @@
 \usepackage{times}      
 \usepackage[backend=biber, style=numeric-comp, sorting=none]{biblatex}
 \addbibresource{IIFO.bib}
+% Redefine the separator for multiple citations to remove spaces
+\DeclareDelimFormat{multicite}{\addsemicolon} % Optional: replace default comma
+\DeclareDelimAlias{finalnamedelim}{multicitedelim}{}
+\DeclareDelimAlias{multicitedelim}{comma}{\addcomma} % Use comma with no space
+\renewcommand*{\multicitedelim}{\addcomma} % Or use \addsemicolon if preferred
 
 \geometry{margin=0.5in}
 \pagestyle{fancy}
