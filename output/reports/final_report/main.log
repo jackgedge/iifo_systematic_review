@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.31)  31 MAY 2025 15:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.31)  2 JUN 2025 15:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -607,6 +607,9 @@ Package csquotes Info: ... configuration file loaded successfully.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
 ))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
 
@@ -867,24 +870,24 @@ Package csquotes Info: ... none found.
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
 
 -- Lines per column: 60 (approximate, difference = 2.7pt).
 (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -952,7 +955,7 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 41.
+Package hyperref Info: Link coloring OFF on input line 42.
 (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -972,10 +975,10 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
 
 (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 41.
-Package biblatex Info: Reference segment=0 on input line 41.
+Package biblatex Info: Reference section=0 on input line 42.
+Package biblatex Info: Reference segment=0 on input line 42.
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 4
-3.
+4.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
@@ -997,27 +1000,14 @@ ocal/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}
 (./sections/16-study_selection.tex
 
 [2])
-<figures/prisma_diagram.png, id=175, 844.8363pt x 597.6729pt>
+<figures/prisma_diagram.png, id=179, 844.8363pt x 597.6729pt>
 File: figures/prisma_diagram.png Graphic file (type png)
 <use figures/prisma_diagram.png>
-Package pdftex.def Info: figures/prisma_diagram.png  used on input line 65.
+Package pdftex.def Info: figures/prisma_diagram.png  used on input line 66.
 (pdftex.def)             Requested size: 542.02501pt x 383.4578pt.
- (./sections/17-risk_of_bias_in_studies.tex
-LaTeX Font Info:    Trying to load font information for OML+ptm on input line 9
-.
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/omlptm.fd
-File: omlptm.fd 
-)
-LaTeX Font Info:    Font shape `OML/ptm/b/n' in size <10> not available
-(Font)              Font shape `OML/cmm/b/it' tried instead on input line 9.
-
-
-LaTeX Warning: Citation '' on page 3 undefined on input line 9.
-
-) (./sections/18-study_characteristics.tex)
+ (./sections/17-risk_of_bias_in_studies.tex)
+(./sections/18-study_characteristics.tex)
 (./sections/19-results_of_individual_studies.tex
-
 
 ! LaTeX Error: There's no line here to end.
 
@@ -1025,10 +1015,16 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 \subsubsection*{Case Studies}\\A
-                                     total of 81 cases from 69 studies were ...
+l.1 \subsubsection{Case Studies}\\A
+                                    total of 71 cases from 64 studies were i...
 
 ? 
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 1.
+
+
+
 ) (./sections/27-data_code_other_materials.tex) (./tables/pop_summary.tex
 
 ! LaTeX Error: Not in outer par mode.
@@ -1040,6 +1036,9 @@ Type  H <return>  for immediate help.
 l.5 \caption
             {Summary of population characteristics.}
 ? 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 
 [3]) (./tables/motivation_summary.tex
@@ -1053,6 +1052,16 @@ Type  H <return>  for immediate help.
 l.5 \caption
             {Summary of motivations for ingestion.}
 ? 
+
+Overfull \hbox (95.77658pt too wide) in paragraph at lines 7--20
+[][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
 ) (./tables/outcome_summary.tex
 
 ! LaTeX Error: Not in outer par mode.
@@ -1065,12 +1074,11 @@ l.5 \caption
             {Summary of outcomes following ingestion.}
 ? 
 ) (./sections/s1-risk_of_bias_supplement.tex
-Underfull \vbox (badness 4229) has occurred while \output is active []
 
-
-
+[4 <./figures/prisma_diagram.png>]
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 8
 .
+
 (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
@@ -1079,8 +1087,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--14
  []
 
 
-
-[4 <./figures/prisma_diagram.png>]
 Underfull \hbox (badness 1968) in paragraph at lines 22--23
 []\OT1/ptm/m/it/10 Motivation[]Unknown[]Rate \OT1/ptm/m/n/10 in-di-cated whethe
 r mo-ti-va-tion
@@ -1093,96 +1099,96 @@ ject-related
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 26--79
+Underfull \hbox (badness 10000) in paragraph at lines 26--80
 \OT1/ptm/m/n/10 check-list item (e.g., \OT1/ptm/m/it/10 Clear[]Outcome[]Followu
 p[]Reported\OT1/ptm/m/n/10 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--79
+Underfull \hbox (badness 10000) in paragraph at lines 26--80
 \OT1/ptm/m/it/10 Clear[]Demographic[]Reporting\OT1/ptm/m/n/10 , or
  []
 
 
-Underfull \hbox (badness 2334) in paragraph at lines 26--79
+Underfull \hbox (badness 2334) in paragraph at lines 26--80
 \OT1/ptm/m/it/10 Clear[]Clinical[]Info[]Reporting\OT1/ptm/m/n/10 ) was marked a
 s \OT1/pcr/m/n/10 N\OT1/ptm/m/n/10 , and the
  []
 
 
-Underfull \hbox (badness 1902) in paragraph at lines 26--79
+Underfull \hbox (badness 1902) in paragraph at lines 26--80
 \OT1/ptm/m/n/10 based val-i-da-tion en-sured that case se-ries lack-ing es-sen-
 tial
  []
 
 
-Underfull \hbox (badness 2418) in paragraph at lines 26--79
+Underfull \hbox (badness 2418) in paragraph at lines 26--80
 \OT1/ptm/m/n/10 vari-ables could be sys-tem-at-i-cally ex-cluded from the fi-na
 l
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--79
+Underfull \hbox (badness 10000) in paragraph at lines 26--80
 
  []
 
 
-Underfull \hbox (badness 4291) in paragraph at lines 81--81
+
+
+Underfull \hbox (badness 4291) in paragraph at lines 82--82
 []\OT1/ptm/m/n/10 UNHCR. \OT1/ptm/m/it/10 UN-HCR: A Record 100 Mil-lion Peo-ple
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \OT1/ptm/m/it/10 Forcibly Dis-placed World-wide | UN News\OT1/ptm/m/n/10 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \OT1/ptm/m/n/10 https://news.un.org/en/story/2022/05/1118772. May
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []\OT1/ptm/m/n/10 Amnesty In-ter-na-tional. \OT1/ptm/m/it/10 Refugees, Asy-lum
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \OT1/ptm/m/it/10 Seek-ers and Mi-grants - Amnesty In-ter-na-tional\OT1/ptm/m/n/
 10 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \OT1/ptm/m/n/10 https://www.amnesty.org/en/what-we-do/refugees-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \OT1/ptm/m/n/10 asylum-seekers-and-migrants/. 2024. (Vis-ited on
  []
 
 
-Underfull \hbox (badness 1939) in paragraph at lines 81--81
+Underfull \hbox (badness 1939) in paragraph at lines 82--82
 \OT1/ptm/m/n/10 and UK De-ten-tion". In: \OT1/ptm/m/it/10 Race & Class \OT1/ptm
 /m/n/10 56.3 (Jan.
  []
 
 
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []\OT1/ptm/m/n/10 Global De-ten-tion Project. \OT1/ptm/m/it/10 United King-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \OT1/ptm/m/it/10 dom Im-mi-gra-tion De-ten-tion Pro-file\OT1/ptm/m/n/10 .
  []
 
 
-Overfull \hbox (24.12442pt too wide) in paragraph at lines 81--81
+Overfull \hbox (24.12442pt too wide) in paragraph at lines 82--82
 \OT1/ptm/m/n/10 https://www.globaldetentionproject.org/countries/europe/united-
 
  []
@@ -1200,21 +1206,13 @@ Overfull \hbox (24.12442pt too wide) in paragraph at lines 81--81
 [7]
 
 
-
-[8]
-
-
-
-[9]
-
-
-Underfull \hbox (badness 5832) in paragraph at lines 81--81
+Underfull \hbox (badness 5832) in paragraph at lines 82--82
 []\OT1/ptm/m/n/10 J Sharma, S Riyaz, and Wj Kil-patrick. \  Multi-
  []
 
 
 
-[10]
+[8]
 
 ! LaTeX Error: Command \k unavailable in encoding OT1.
 
@@ -1222,41 +1220,32 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.81 
+l.82 
      
 ? 
 
 
 
-
-[11]
-
-
-Underfull \hbox (badness 1365) in paragraph at lines 81--81
-[]\OT1/ptm/m/n/10 Babak T. Sag-vand et al. \  Emer-gent En-doscopy for
- []
-
-
-Underfull \hbox (badness 5203) in paragraph at lines 81--81
+Underfull \hbox (badness 5203) in paragraph at lines 82--82
 []\OT1/ptm/m/n/10 Francis Mad-ing Deng, UN Rep-re-sen-ta-tive of the
  []
 
 
-Underfull \hbox (badness 5091) in paragraph at lines 81--81
+Underfull \hbox (badness 5091) in paragraph at lines 82--82
 []\OT1/ptm/m/n/10 United Na-tions High Com-mis-sioner for Refugees.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \OT1/ptm/m/it/10 Asylum-Seekers\OT1/ptm/m/n/10 . https://www.unhcr.org/us/about
 -
  []
 
 
 
-[12] (./sections/appendix_a.tex)
+[9] (./sections/appendix_a.tex)
 
-[13
+[10
 
 
 ] (./sections/appendix_b.tex
@@ -1276,7 +1265,7 @@ Underfull \hbox (badness 1546) in paragraph at lines 85--85
 
 
 
-[14
+[11
 
 ]
 Underfull \hbox (badness 1546) in paragraph at lines 153--153
@@ -1290,7 +1279,7 @@ Underfull \hbox (badness 1546) in paragraph at lines 214--214
 
 
 
-[15]
+[12]
 Underfull \hbox (badness 1546) in paragraph at lines 282--282
 []|\OT1/ptm/m/n/8 Intentional In-ges-tion / Self-
  []
@@ -1302,16 +1291,16 @@ Underfull \hbox (badness 1546) in paragraph at lines 346--346
 
 
 
-[16]
+[13]
 Underfull \hbox (badness 1546) in paragraph at lines 408--408
 []|\OT1/ptm/m/n/8 Intentional In-ges-tion / Self-
  []
 
 
 
-[17]) (./sections/appendix_c.tex)
+[14]) (./sections/appendix_c.tex)
 
-[18
+[15
 
 ] (./main.aux)
  ***********
@@ -1322,25 +1311,32 @@ L3 programming layer <2025-01-18>
 
 LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 1689F2350C9DA1A959690D271FC1F4E4;2188.
 
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 30149411DA49048B409B9CBCEEFA2B05;2314
+(rerunfilecheck)             After:  835B6072DF18F5001F77A37FF91D2870;2314.
+
+Package biblatex Warning: Please rerun LaTeX.
 
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22304 strings out of 473190
- 418884 string characters out of 5715800
- 1483010 words of memory out of 5000000
- 44976 multiletter control sequences out of 15000+600000
- 596272 words of font info for 106 fonts, out of 8000000 for 9000
+ 21797 strings out of 473190
+ 400751 string characters out of 5715800
+ 1266699 words of memory out of 5000000
+ 44561 multiletter control sequences out of 15000+600000
+ 594807 words of font info for 104 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,17n,81p,2706b,1595s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,17n,81p,11939b,1595s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
 , replaced by a fixed one
@@ -1349,8 +1345,15 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
 , replaced by a fixed one
 
+
+pdfTeX warning (dest): name{section*.36} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section*.28} has been referenced but does not exist
+, replaced by a fixed one
+
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></
-usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></
 usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr
 /local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/l
@@ -1358,10 +1361,10 @@ ocal/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/tex
 live/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2025/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2025/texmf-dist
 /fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (18 pages, 1368420 bytes).
+Output written on main.pdf (15 pages, 1317402 bytes).
 PDF statistics:
- 1065 PDF objects out of 1200 (max. 8388607)
- 1014 compressed objects within 11 object streams
- 283 named destinations out of 1000 (max. 500000)
- 134 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1128 PDF objects out of 1200 (max. 8388607)
+ 1082 compressed objects within 11 object streams
+ 194 named destinations out of 1000 (max. 500000)
+ 142 words of extra memory for PDF output out of 10000 (max. 10000000)
 
