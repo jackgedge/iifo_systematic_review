@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.31)  4 JUN 2025 13:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.31)  4 JUN 2025 19:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -932,162 +932,331 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 \subsubsection{Case Studies}\\A
-                                    total of 71 cases from 64 studies were i...
+l.1 \subsubsection*{Case Reports}\\A
+                                     total of 71 cases from 64 studies were ...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1.
+LaTeX Warning: Reference `tab:case_grouped_summary_long' on page 3 undefined on input line 1.
 
 
 
-) (./tables/pop_summary.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--1
- \OT1/ptm/m/it/10 a) Pop-u-la-tion Char-ac-ter-is-tics: [][] \OT1/ptm/m/n/10 Cases were
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/ptm/m/n/10 7 cases from In-dia [[]54[],[]55[],[]73[],[]74[],[]78[],[]84[],[]100[]] and UK
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--1
-\OT1/ptm/m/n/10 recorded in 32 coun-tries: 13 cases from USA
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/ptm/m/n/10 tion [[]42[],[]44[],[]46[],[]48[]{[]50[],[]54[],[]55[],[]62[]{[]65[],[]69[]{[]78[],[]80[],[]81[],[]84[],[]86[],[]90[],[]93[]{
  []
 
 
-Underfull \hbox (badness 7631) in paragraph at lines 2--1
-\OT1/ptm/m/n/10 [[]44[],[]49[],[]56[],[]66[],[]69[]{[]71[],[]75[],[]77[],[]81[],[]94[],[]96[],[]99[]]; 7 cases from In-dia
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+[]\OT1/ptm/m/n/10 95[],[]103[],[]106[]], 20 cases (28.2%) re-ported self-harm
  []
 
 
-Underfull \hbox (badness 1365) in paragraph at lines 2--1
-\OT1/ptm/m/n/10 [[]76[],[]102[]], and Spain [[]57[],[]105[]]; 1 case from Aus-tralia [[]48[]],
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/ptm/m/n/10 mo-ti-va-tion [[]32[],[]42[],[]44[],[]45[],[]57[],[]59[]{[]61[],[]66[],[]80[],[]82[],[]83[],[]90[],[]94[],[]95[],[]105[]],
  []
 
 
-./tables/pop_summary.tex:5: LaTeX Error: Not in outer par mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 \caption
-            {Summary of population characteristics.}
-You've lost some text.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-
-[3]) (./tables/motivation_summary.tex
-
-./tables/motivation_summary.tex:5: LaTeX Error: Not in outer par mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 \caption
-            {Summary of motivations for ingestion.}
-You've lost some text.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (95.77658pt too wide) in paragraph at lines 7--20
-[][] 
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/ptm/m/n/10 17 cases (23.9%) re-ported psy-choso-cial mo-ti-va-tion
  []
 
-) (./tables/outcome_summary.tex
-
-./tables/outcome_summary.tex:5: LaTeX Error: Not in outer par mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 \caption
-            {Summary of outcomes following ingestion.}
-You've lost some text.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-) (./sections/20-synthesis_results.tex
-
-
-./sections/20-synthesis_results.tex:2: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 M
-     otivation\_Intent\_To\_Harm was significantly associated with Outcome\_...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-) (./sections/27-data_code_other_materials.tex)
-
-[4 <./figures/prisma_diagram.png>] (./tables/case_chi2_results_table.tex
-Overfull \hbox (127.47324pt too wide) in paragraph at lines 5--83
- [][] 
- []
-
+LaTeX Font Info:    Trying to load font information for OML+ptm on input line 2.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/omlptm.fd
+File: omlptm.fd 
 )
+LaTeX Font Info:    Font shape `OML/ptm/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 2.
+
+Underfull \hbox (badness 1424) in paragraph at lines 2--2
+\OT1/ptm/m/n/10 (\OML/cmm/m/it/10 >\OT1/ptm/m/n/10 2.5cm) ob-ject in-ges-tion [[]32[],[]41[],[]42[],[]44[],[]45[],[]47[],[]48[],[]50[],[]53[],[]54[],[]57[]{
+ []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+[]\OT1/ptm/m/n/10 61[],[]63[],[]64[],[]67[],[]69[],[]71[],[]72[],[]74[]{[]78[],[]82[]{[]90[],[]93[],[]95[],[]97[],[]98[],[]102[],[]104[]{[]106[]],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+[]\OT1/ptm/m/n/10 58[],[]64[]{[]66[],[]68[]{[]74[],[]76[]{[]78[],[]80[]{[]86[],[]92[]{[]97[],[]100[],[]101[],[]103[],[]105[],[]106[]],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/ptm/m/n/10 39 cases (54.9%) short (\OML/cmm/m/it/10 <\OT1/ptm/m/n/10 5cm) ob-ject in-ges-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/ptm/m/n/10 [[]32[],[]41[],[]46[],[]48[],[]49[],[]51[]{[]53[],[]55[],[]56[],[]58[],[]62[],[]65[],[]68[]{[]71[],[]73[],[]77[],[]80[]{
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+[]\OT1/ptm/m/n/10 82[],[]85[],[]87[],[]89[],[]92[],[]94[]{[]96[],[]99[]{[]102[],[]105[]], 33 cases (46.5%)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/ptm/m/n/10 sharp ob-ject in-ges-tion [[]32[],[]44[],[]48[],[]49[],[]52[],[]54[],[]55[],[]57[],[]61[]{[]66[],[]69[]{
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/ptm/m/n/10 ob-ject in-ges-tion [[]42[],[]45[],[]47[],[]50[],[]54[],[]57[],[]59[]{[]61[],[]63[],[]64[],[]66[],[]67[],[]72[],[]74[]{
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+[]\OT1/ptm/m/n/10 76[],[]78[],[]83[],[]84[],[]86[],[]88[],[]90[],[]93[],[]97[],[]98[],[]103[],[]104[],[]106[]], 16 cases
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/ptm/m/n/10 (22.5%) long (\OML/cmm/m/it/10 >\OT1/ptm/m/n/10 5cm) sharp ob-ject in-ges-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/ptm/m/n/10 [[]54[],[]57[],[]61[],[]63[],[]64[],[]66[],[]72[],[]74[],[]76[],[]78[],[]83[],[]84[],[]103[],[]106[]], 16
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/ptm/m/n/10 cases (22.5%) short (\OML/cmm/m/it/10 <\OT1/ptm/m/n/10 5cm) sharp ob-ject in-ges-tion
+ []
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 2--2
+\OT1/ptm/m/n/10 [[]32[],[]48[],[]49[],[]52[],[]55[],[]62[],[]65[],[]69[]{[]71[],[]82[],[]92[]], 9 cases (12.7%) mag-net
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+ []\OT1/ptm/m/it/10 Outcomes: [] \OT1/ptm/m/n/10 48 cases (67.6%) had a com-pli-ca-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/ptm/m/n/10 [[]45[],[]46[],[]48[],[]50[]{[]54[],[]56[]{[]58[],[]60[]{[]68[],[]72[],[]74[]{[]78[],[]81[]{[]86[],[]90[],[]92[],[]93[],[]95[]{
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+[]\OT1/ptm/m/n/10 99[],[]101[]{[]104[]], 43 cases (60.6%) un-der-went sur-gi-cal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/ptm/m/n/10 in-ter-ven-tion [[]32[],[]42[],[]44[]{[]46[],[]50[],[]51[],[]54[],[]57[]{[]63[],[]65[]{[]67[],[]72[],[]74[]{
+ []
+
+
+
+[3])
+
+
+
+[4 <./figures/prisma_diagram.png>] (./tables/case_grouped_summary_long_table.tex
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+[]|\OT1/ptm/m/n/10 [[]44[],[]46[],[]48[]{
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+[]\OT1/ptm/m/n/10 51[],[]57[],[]59[],[]62[],[]63[],[]65[],[]66[],[]69[]{[]73[],[]75[]{
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+[]\OT1/ptm/m/n/10 78[],[]81[],[]83[],[]84[],[]86[],[]87[],[]90[],[]93[]{[]95[],[]104[]{
+ []
+
+
+Overfull \hbox (56.06618pt too wide) in paragraph at lines 21--22
+[]|\OT1/ptm/m/n/10 [[]44[],[]48[],[]53[],[]55[],[]61[],[]63[],[]64[],[]69[],[]71[],[]72[],[]81[],[]90[],[]95[],[]97[],[]104[]{
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+[]|\OT1/ptm/m/n/10 [[]42[],[]44[],[]46[],[]48[]{[]50[],[]54[],[]55[],[]62[]{[]65[],[]69[]{
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+[]|\OT1/ptm/m/n/10 [[]32[],[]42[],[]44[],[]45[],[]57[],[]59[]{
+ []
+
+
+Overfull \hbox (84.39613pt too wide) in paragraph at lines 31--32
+[]|\OT1/ptm/m/n/10 [[]41[],[]52[],[]55[],[]58[],[]68[],[]70[],[]76[],[]80[],[]85[],[]88[],[]89[],[]92[],[]96[],[]97[],[]99[],[]101[],[]102[]]| 
+ []
+
+
+Overfull \hbox (1.06618pt too wide) in paragraph at lines 36--37
+[]|\OT1/ptm/m/n/10 [[]32[],[]41[],[]42[],[]44[],[]45[],[]47[],[]48[],[]50[],[]53[],[]54[],[]57[]{
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+[]\OT1/ptm/m/n/10 61[],[]63[],[]64[],[]67[],[]69[],[]71[],[]72[],[]74[]{[]78[],[]82[]{
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+[]|\OT1/ptm/m/n/10 [[]46[],[]48[]{[]51[],[]55[]{[]58[],[]64[]{
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+[]\OT1/ptm/m/n/10 66[],[]68[]{[]74[],[]76[]{[]78[],[]80[]{[]86[],[]92[]{
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+[]|\OT1/ptm/m/n/10 [[]32[],[]41[],[]46[],[]48[],[]49[],[]51[]{
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+[]\OT1/ptm/m/n/10 53[],[]55[],[]56[],[]58[],[]62[],[]65[],[]68[]{
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+[]\OT1/ptm/m/n/10 71[],[]73[],[]77[],[]80[]{[]82[],[]85[],[]87[],[]89[],[]92[],[]94[]{
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+[]|\OT1/ptm/m/n/10 [[]32[],[]44[],[]48[],[]49[],[]52[],[]54[],[]55[],[]57[],[]61[]{
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+[]\OT1/ptm/m/n/10 66[],[]69[]{[]72[],[]74[],[]76[],[]78[],[]82[]{
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+[]|\OT1/ptm/m/n/10 [[]42[],[]45[],[]47[],[]50[],[]54[],[]57[],[]59[]{
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+[]\OT1/ptm/m/n/10 61[],[]63[],[]64[],[]66[],[]67[],[]72[],[]74[]{
+ []
+
+
+Overfull \hbox (36.06618pt too wide) in paragraph at lines 40--41
+[]\OT1/ptm/m/n/10 76[],[]78[],[]83[],[]84[],[]86[],[]88[],[]90[],[]93[],[]97[],[]98[],[]103[],[]104[],[]106[]]| 
+ []
+
+
+Overfull \hbox (46.89613pt too wide) in paragraph at lines 41--42
+[]|\OT1/ptm/m/n/10 [[]54[],[]57[],[]61[],[]63[],[]64[],[]66[],[]72[],[]74[],[]76[],[]78[],[]83[],[]84[],[]103[],[]106[]]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+[]|\OT1/ptm/m/n/10 [[]32[],[]48[],[]49[],[]52[],[]55[],[]62[],[]65[],[]69[]{
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+[]|\OT1/ptm/m/n/10 [[]45[],[]46[],[]48[],[]50[]{[]54[],[]56[]{[]58[],[]60[]{
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+[]\OT1/ptm/m/n/10 68[],[]72[],[]74[]{[]78[],[]81[]{[]86[],[]90[],[]92[],[]93[],[]95[]{
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+[]|\OT1/ptm/m/n/10 [[]32[],[]42[],[]44[]{[]46[],[]50[],[]51[],[]54[],[]57[]{[]63[],[]65[]{
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+[]\OT1/ptm/m/n/10 67[],[]72[],[]74[]{[]76[],[]78[],[]81[]{[]85[],[]92[],[]95[]{
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+[]|\OT1/ptm/m/n/10 [[]41[],[]47[],[]48[],[]50[],[]52[]{
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+[]\OT1/ptm/m/n/10 54[],[]56[],[]57[],[]59[],[]62[],[]67[],[]69[]{
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+[]\OT1/ptm/m/n/10 71[],[]74[],[]80[],[]81[],[]86[]{[]90[],[]93[]{
+ []
 
 [5
 
+])
 
-] (./sections/s1-risk_of_bias_supplement.tex
+[6] (./sections/20-synthesis_results.tex
+
+LaTeX Warning: Reference `tab:grouped_chi2_long' on page 7 undefined on input line 3.
+
+) (./sections/27-data_code_other_materials.tex)
+
+
+
+[7
+
+
+] (./tables/case_chi2_results_table.tex
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]|\OT1/ptm/m/n/10 Motivation In-tent To
+ []
+
+[8
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[9])
+
+[10] (./sections/s1-risk_of_bias_supplement.tex
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 8.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
+Underfull \hbox (badness 5175) in paragraph at lines 13--14
+[]\OT1/ptm/m/n/8 If any of these flags were trig-gered, the cor-re-spond-ing JBI item
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
 
-
-Underfull \hbox (badness 1968) in paragraph at lines 22--23
-[]\OT1/ptm/m/it/10 Motivation[]Unknown[]Rate \OT1/ptm/m/n/10 in-di-cated whether mo-ti-va-tion
- []
-
-
-Underfull \hbox (badness 1371) in paragraph at lines 23--24
-[]\OT1/ptm/m/it/10 Object[]Unknown[]Rate \OT1/ptm/m/n/10 was de-rived if all object-related
- []
-
 )
-Underfull \hbox (badness 10000) in paragraph at lines 26--93
-\OT1/ptm/m/n/10 check-list item (e.g., \OT1/ptm/m/it/10 Clear[]Outcome[]Followup[]Reported\OT1/ptm/m/n/10 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--93
-\OT1/ptm/m/it/10 Clear[]Demographic[]Reporting\OT1/ptm/m/n/10 , or
- []
-
-
-Underfull \hbox (badness 2334) in paragraph at lines 26--93
-\OT1/ptm/m/it/10 Clear[]Clinical[]Info[]Reporting\OT1/ptm/m/n/10 ) was marked as \OT1/pcr/m/n/10 N\OT1/ptm/m/n/10 , and the
- []
-
-
-Underfull \hbox (badness 1902) in paragraph at lines 26--93
-\OT1/ptm/m/n/10 based val-i-da-tion en-sured that case se-ries lack-ing es-sen-tial
- []
-
-
-Underfull \hbox (badness 2418) in paragraph at lines 26--93
-\OT1/ptm/m/n/10 vari-ables could be sys-tem-at-i-cally ex-cluded from the fi-nal
+Underfull \hbox (badness 1803) in paragraph at lines 26--93
+\OT1/ptm/m/n/8 (e.g., \OT1/ptm/m/it/8 Clear[]Outcome[]Followup[]Reported\OT1/ptm/m/n/8 , \OT1/ptm/m/it/8 Clear[]Demographic[]Reporting\OT1/ptm/m/n/8 , or
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 26--93
 
  []
-
-
 
 
 Underfull \hbox (badness 4291) in paragraph at lines 95--95
@@ -1130,6 +1299,8 @@ Underfull \hbox (badness 1939) in paragraph at lines 95--95
  []
 
 
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 95--95
 []\OT1/ptm/m/n/10 Global De-ten-tion Project. \OT1/ptm/m/it/10 United King-
  []
@@ -1146,21 +1317,21 @@ Overfull \hbox (24.12442pt too wide) in paragraph at lines 95--95
 
 
 
-[6
+[11
 
 ]
 
 
 
-[7]
+[12]
 
 
 
-[8]
+[13]
 
 
 
-[9]
+[14]
 
 /Users/jackgedge/Projects/msc_dissertation/iifo_motivation/output/reports/final_report/main.tex:95: LaTeX Error: Command \k unavailable in encoding OT1.
 
@@ -1173,8 +1344,6 @@ l.95
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
-
-
 
 
 Underfull \hbox (badness 5203) in paragraph at lines 95--95
@@ -1198,9 +1367,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 95--95
 
 
 
-[10] (./sections/appendix_a.tex)
 
-[11
+
+[15] (./sections/appendix_a.tex)
+
+[16
 
 
 ] (./sections/appendix_b.tex
@@ -1220,7 +1391,7 @@ Underfull \hbox (badness 1546) in paragraph at lines 85--85
 
 
 
-[12
+[17
 
 ]
 Underfull \hbox (badness 1546) in paragraph at lines 153--153
@@ -1234,7 +1405,7 @@ Underfull \hbox (badness 1546) in paragraph at lines 214--214
 
 
 
-[13]
+[18]
 Underfull \hbox (badness 1546) in paragraph at lines 282--282
 []|\OT1/ptm/m/n/8 Intentional In-ges-tion / Self-
  []
@@ -1246,16 +1417,16 @@ Underfull \hbox (badness 1546) in paragraph at lines 346--346
 
 
 
-[14]
+[19]
 Underfull \hbox (badness 1546) in paragraph at lines 408--408
 []|\OT1/ptm/m/n/8 Intentional In-ges-tion / Self-
  []
 
 
 
-[15]) (./sections/appendix_c.tex)
+[20]) (./sections/appendix_c.tex)
 
-[16
+[21
 
 ] (./main.aux)
  ***********
@@ -1276,7 +1447,7 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `main.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  51936B0FF10089745C9527EC806E450A;2314.
+(rerunfilecheck)             After:  E5C97F00E2C5D03552D0FEFCFA887B13;2188.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                main
@@ -1287,24 +1458,24 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21798 strings out of 473190
- 401344 string characters out of 5715800
- 1255023 words of memory out of 5000000
- 44554 multiletter control sequences out of 15000+600000
- 596992 words of font info for 106 fonts, out of 8000000 for 9000
+ 21814 strings out of 473190
+ 401498 string characters out of 5715800
+ 1301205 words of memory out of 5000000
+ 44567 multiletter control sequences out of 15000+600000
+ 597050 words of font info for 106 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,17n,81p,2645b,1594s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,17n,81p,8925b,1680s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist, replaced by a fixed one
 
 
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (16 pages, 1230226 bytes).
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (21 pages, 1284427 bytes).
 PDF statistics:
- 623 PDF objects out of 1000 (max. 8388607)
- 577 compressed objects within 6 object streams
- 196 named destinations out of 1000 (max. 500000)
+ 1348 PDF objects out of 1440 (max. 8388607)
+ 1288 compressed objects within 13 object streams
+ 202 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
