@@ -12,7 +12,7 @@ exclusion_criteria = {
 6:	"Duplicate publications or studies with overlapping data sets (the most comprehensive or recent study will be included).",
 7:	"Studies focusing on ingestion or co-ingestion of substances (e.g. poisons, medications) rather than physical foreign objects.",
 8:	"Ingestions undertaken in controlled environment as part of voluntary study.",
-9:	"Ingestions not explicitly stated to be intentional and history not suggestive of deliberate ingestion (i.e. Age < 8, no history of previous ingestions, no psychiatric co-morbidities, not a prisoner/detainee/vulnerable group).",
+9:	"Ingestions not explicitly stated to be intentional and history not suggestive of deliberate ingestion.",
 10:	"Does not meet inclusion criteria.",
 11: "Ingestions where death resulted from other means (e.g. suicide)",
 12: "Studies before the advent of Endoscopy (1906).",
