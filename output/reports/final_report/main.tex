@@ -4,7 +4,6 @@
 \usepackage{array}
 \usepackage{ragged2e}
 \usepackage{graphicx}
-\usepackage{booktabs}
 \usepackage{float}
 \usepackage{caption}
 \usepackage{amsmath}
@@ -17,7 +16,11 @@
 \usepackage{titling}
 \usepackage{tabularx}
 \usepackage{csquotes}
-\usepackage{times}      
+\usepackage{times}
+\usepackage{pdflscape}
+\usepackage{adjustbox}
+\usepackage{caption}
+\usepackage{booktabs}      
 \usepackage[backend=biber, style=numeric-comp, sorting=none]{biblatex}
 \addbibresource{IIFO.bib}
 % Redefine the separator for multiple citations to remove spaces
@@ -78,16 +81,14 @@ and Giles Cattermole
 \input{sections/18-study_characteristics.tex}
 \input{sections/19-results_of_individual_studies.tex}
 
-\onecolumn
-\input{tables/case_grouped_summary_long_table.tex}
-\twocolumn
-
 \input{sections/20-synthesis_results.tex}
-\input{sections/27-data_code_other_materials.tex}
 
-\onecolumn
-\input{tables/case_chi2_results_table.tex}
-\twocolumn
+\input{tables/case_grouped_summary_long_table.tex}
+
+\input{tables/chi2_results_grouped_wide_table.tex}
+
+
+\input{sections/27-data_code_other_materials.tex}
 
 \input{sections/s1-risk_of_bias_supplement.tex}
 
