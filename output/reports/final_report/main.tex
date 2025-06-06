@@ -2,10 +2,12 @@
 
 \usepackage[utf8]{inputenc}
 \usepackage{array}
+\usepackage[T1]{fontenc}
 \usepackage{ragged2e}
 \usepackage{graphicx}
 \usepackage{float}
 \usepackage{caption}
+\captionsetup{hypcap=false}
 \usepackage{amsmath}
 \usepackage{geometry}
 \usepackage{longtable}
@@ -19,15 +21,16 @@
 \usepackage{times}
 \usepackage{pdflscape}
 \usepackage{adjustbox}
-\usepackage{caption}
-\usepackage{booktabs}      
+\usepackage{booktabs}
+\usepackage{hyperref} % should already be loaded if using biblatex
+\hypersetup{breaklinks=true} % important
+\Urlmuskip=0mu plus 1mu % makes breaking more flexible
+\usepackage{textcomp}  % <---- ADD THIS
 \usepackage[backend=biber, style=numeric-comp, sorting=none]{biblatex}
 \addbibresource{IIFO.bib}
+\hbadness=10000 % suppress hbox warnings
 % Redefine the separator for multiple citations to remove spaces
 \DeclareDelimFormat{multicite}{\addsemicolon} % Optional: replace default comma
-\DeclareDelimAlias{finalnamedelim}{multicitedelim}{}
-\DeclareDelimAlias{multicitedelim}{comma}{\addcomma} % Use comma with no space
-\renewcommand*{\multicitedelim}{\addcomma} % Or use \addsemicolon if preferred
 
 \geometry{margin=0.5in}
 \pagestyle{fancy}
@@ -83,10 +86,15 @@ and Giles Cattermole
 
 \input{sections/20-synthesis_results.tex}
 
-\input{tables/case_grouped_summary_long_table.tex}
-
+\onecolumn
+\input{tables/case_data_grouped_summary_wide.tex}
+\twocolumn
+\onecolumn
 \input{tables/chi2_results_grouped_wide_table.tex}
-
+\twocolumn
+\onecolumn
+\input{tables/logistic_regression_wide_table.tex}
+\twocolumn
 
 \input{sections/27-data_code_other_materials.tex}
 
@@ -94,13 +102,12 @@ and Giles Cattermole
 
 \printbibliography
 
-\clearpage
 \onecolumn
 \appendices
 \input{sections/appendix_a.tex}
-\clearpage
+
 \input{sections/appendix_b.tex}
-\clearpage
+
 \input{sections/appendix_c.tex}
 
 \end{document}

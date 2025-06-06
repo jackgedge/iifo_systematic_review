@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.31)  5 JUN 2025 18:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.31)  6 JUN 2025 22:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -128,6 +128,14 @@ Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
 \backup@length=\skip53
 \ar@cellbox=\box55
 )
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 11
+6.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+))
 (/usr/local/texlive/2025/texmf-dist/tex/latex/ragged2e/ragged2e.sty
 Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \CenteringLeftskip=\skip54
@@ -676,6 +684,11 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@lastruleclass=\count335
 \@thisrulewidth=\dimen295
 )
+Package hyperref Info: Option `breaklinks' set `true' on input line 26.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
 
@@ -930,38 +943,30 @@ Package: xparse 2024-08-16 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
 ))
-Package biblatex Info: Delimiter 'finalnamedelim' in context '' already defined
-, overwriting on input line 28.
-Package biblatex Info: Delimiter 'multicitedelim' in context '' already defined
-, overwriting on input line 29.
-
-! Undefined control sequence.
-l.29 ...elimAlias{multicitedelim}{comma}{\addcomma
-                                                  } % Use comma with no space
-? 
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
+
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
 
 -- Lines per column: 60 (approximate, difference = 2.7pt).
 (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -1029,7 +1034,7 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 50.
+Package hyperref Info: Link coloring OFF on input line 53.
 (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -1049,10 +1054,10 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
 
 (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 50.
-Package biblatex Info: Reference segment=0 on input line 50.
+Package biblatex Info: Reference section=0 on input line 53.
+Package biblatex Info: Reference segment=0 on input line 53.
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 5
-2.
+5.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
@@ -1071,742 +1076,76 @@ ocal/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}
 (./sections/09-data_collection_process.tex) (./sections/10-data_items.tex
 
 ) (./sections/11-risk_of_bias_assessment.tex)
-(./sections/12-effects_measures.tex) (./sections/16-study_selection.tex
+(./sections/12-effects_measures.tex
 
-[2])
+[2]) (./sections/16-study_selection.tex)
 <figures/prisma_diagram.png, id=176, 844.8363pt x 597.6729pt>
 File: figures/prisma_diagram.png Graphic file (type png)
 <use figures/prisma_diagram.png>
-Package pdftex.def Info: figures/prisma_diagram.png  used on input line 75.
+Package pdftex.def Info: figures/prisma_diagram.png  used on input line 78.
 (pdftex.def)             Requested size: 542.02501pt x 383.4578pt.
- (./sections/17-risk_of_bias_in_studies.tex)
-(./sections/18-study_characteristics.tex)
+
+(./sections/17-risk_of_bias_in_studies.tex
+
+) (./sections/18-study_characteristics.tex)
 (./sections/19-results_of_individual_studies.tex
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \subsubsection*{Case Reports}\\A
-                                     total of 71 cases from 64 studies were ...
-
-? 
-
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
- []\OT1/ptm/m/it/10 Gender: [] \OT1/ptm/m/n/10 43 cases (60.6%) were Male
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\OT1/ptm/m/n/10 [[]32[],[]41[],[]42[],[]44[],[]45[],[]47[],[]48[],[]50[],[]52[]
-,[]53[],[]56[],[]57[],[]61[],[]64[]{[]67[],[]69[],[]71[],[]72[],[]76[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\OT1/ptm/m/n/10 78[],[]81[]{[]84[],[]88[],[]89[],[]92[],[]94[]{[]98[],[]100[]
-,[]103[],[]106[]], 27 cases (38.0%)
- []
-
-
-Underfull \hbox (badness 4673) in paragraph at lines 2--2
-\OT1/ptm/m/n/10 were Fe-male [[]46[],[]49[],[]51[],[]54[],[]55[],[]58[]{[]60[],
-[]62[],[]63[],[]68[],[]70[],[]73[]{[]75[],[]80[],[]85[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\OT1/ptm/m/n/10 12 cases (16.9%) were un-der 18 years of age
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
- []\OT1/ptm/m/it/10 Demographic: [] \OT1/ptm/m/n/10 35 cases (49.3%) had a psy-
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\OT1/ptm/m/n/10 chi-atric his-tory [[]44[],[]46[],[]48[]{[]51[],[]57[],[]59[],[
-]62[],[]63[],[]65[],[]66[],[]69[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\OT1/ptm/m/n/10 73[],[]75[]{[]78[],[]81[],[]83[],[]84[],[]86[],[]87[],[]90[],
-[]93[]{[]95[],[]104[]{[]106[]],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\OT1/ptm/m/n/10 19 cases (26.8%) had in-gested pre-vi-ously
- []
-
-
-Underfull \hbox (badness 1715) in paragraph at lines 2--2
-\OT1/ptm/m/n/10 [[]44[],[]48[],[]53[],[]55[],[]61[],[]63[],[]64[],[]69[],[]71[]
-,[]72[],[]81[],[]90[],[]95[],[]97[],[]104[]{[]106[]], 12 cases
- []
-
-
-Underfull \hbox (badness 1748) in paragraph at lines 2--2
-\OT1/ptm/m/n/10 (16.9%) were de-tained per-sons [[]32[],[]44[],[]47[],[]48[],[]
-82[],[]88[],[]94[],[]98[]], 7
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\OT1/ptm/m/n/10 [[]42[],[]44[],[]46[],[]48[]{[]50[],[]54[],[]55[],[]62[]{[]65[]
-,[]69[]{[]78[],[]80[],[]81[],[]84[],[]86[],[]90[],[]93[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\OT1/ptm/m/n/10 in-ten-tion [[]32[],[]42[],[]44[],[]45[],[]57[],[]59[]{[]61[],[
-]66[],[]80[],[]82[],[]83[],[]90[],[]94[],[]95[],[]105[]],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\OT1/ptm/m/n/10 17 cases (23.9%) had a psy-choso-cial mo-ti-va-tion
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\OT1/ptm/m/n/10 [[]41[],[]52[],[]55[],[]58[],[]68[],[]70[],[]76[],[]80[],[]85[]
-,[]88[],[]89[],[]92[],[]96[],[]97[],[]99[],[]101[],[]102[]], 9
- []
-
-
-Underfull \hbox (badness 2165) in paragraph at lines 2--2
-\OT1/ptm/m/n/10 cases (12.7%) were mo-ti-vated by protest [[]32[],[]56[],[]67[]
-,[]82[],[]99[]],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\OT1/ptm/m/n/10 9 cases (12.7%) had an-other doc-u-mented mo-ti-va-tion
- []
-
-! Undefined control sequence.
-l.2 ...ingested a large diameter object (\textmore
-                                                  {}2.5cm) \cite{Akay_2015f,...
-
-? 
-LaTeX Font Info:    Trying to load font information for OML+ptm on input line 2
-.
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/omlptm.fd
-File: omlptm.fd 
-)
-LaTeX Font Info:    Font shape `OML/ptm/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 2.
-
-! Undefined control sequence.
-l.2 ... (43.7\%) ingested a long object (\textmore
-                                                  {}5cm) \cite{Al-Faham_2020...
-
-? 
-! Undefined control sequence.
-l.2 ...\%) ingested a long sharp object (\textmore
-                                                  {}5cm) \cite{Bhasin_2014, ...
-
-? 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\OT1/ptm/m/n/10 di-am-e-ter ob-ject (2.5cm) [[]32[],[]41[],[]42[],[]44[],[]45[]
-,[]47[],[]48[],[]50[],[]53[],[]54[],[]57[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\OT1/ptm/m/n/10 61[],[]63[],[]64[],[]67[],[]69[],[]71[],[]72[],[]74[]{[]78[],
-[]82[]{[]90[],[]93[],[]95[],[]97[],[]98[],[]102[],[]104[]{[]106[]],
- []
-
-
-Underfull \hbox (badness 2726) in paragraph at lines 2--2
-\OT1/ptm/m/n/10 44 cases (62.0%) in-gested mul-ti-ple ob-jects [[]46[],[]48[]{[
-]51[],[]55[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\OT1/ptm/m/n/10 58[],[]64[]{[]66[],[]68[]{[]74[],[]76[]{[]78[],[]80[]{[]86[],
-[]92[]{[]97[],[]100[],[]101[],[]103[],[]105[],[]106[]],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\OT1/ptm/m/n/10 39 cases (54.9%) in-gested a short ob-ject (\OML/cmm/m/it/10 <\
-OT1/ptm/m/n/10 5cm)
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\OT1/ptm/m/n/10 [[]32[],[]41[],[]46[],[]48[],[]49[],[]51[]{[]53[],[]55[],[]56[]
-,[]58[],[]62[],[]65[],[]68[]{[]71[],[]73[],[]77[],[]80[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\OT1/ptm/m/n/10 82[],[]85[],[]87[],[]89[],[]92[],[]94[]{[]96[],[]99[]{[]102[]
-,[]105[]], 33 cases (46.5%)
- []
-
-
-Underfull \hbox (badness 4479) in paragraph at lines 2--2
-\OT1/ptm/m/n/10 in-gested a sharp ob-ject [[]32[],[]44[],[]48[],[]49[],[]52[],[
-]54[],[]55[],[]57[],[]61[]{[]66[],[]69[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\OT1/ptm/m/n/10 ob-ject (5cm) [[]42[],[]45[],[]47[],[]50[],[]54[],[]57[],[]59[]
-{[]61[],[]63[],[]64[],[]66[],[]67[],[]72[],[]74[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\OT1/ptm/m/n/10 76[],[]78[],[]83[],[]84[],[]86[],[]88[],[]90[],[]93[],[]97[],
-[]98[],[]103[],[]104[],[]106[]], 16 cases
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\OT1/ptm/m/n/10 (22.5%) in-gested a long sharp ob-ject (5cm)
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\OT1/ptm/m/n/10 [[]54[],[]57[],[]61[],[]63[],[]64[],[]66[],[]72[],[]74[],[]76[]
-,[]78[],[]83[],[]84[],[]103[],[]106[]], 16
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\OT1/ptm/m/n/10 cases (22.5%) in-gested a short sharp ob-ject (\OML/cmm/m/it/10
- <\OT1/ptm/m/n/10 5cm)
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\OT1/ptm/m/n/10 [[]45[],[]46[],[]48[],[]50[]{[]54[],[]56[]{[]58[],[]60[]{[]68[]
-,[]72[],[]74[]{[]78[],[]81[]{[]86[],[]90[],[]92[],[]93[],[]95[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\OT1/ptm/m/n/10 99[],[]101[]{[]104[]], 43 cases (60.6%) un-der-went surgery
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\OT1/ptm/m/n/10 [[]32[],[]42[],[]44[]{[]46[],[]50[],[]51[],[]54[],[]57[]{[]63[]
-,[]65[]{[]67[],[]72[],[]74[]{[]76[],[]78[],[]81[]{[]85[],[]92[],[]95[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\OT1/ptm/m/n/10 97[],[]99[],[]101[]{[]105[]], 31 cases (43.7%) un-der-went en
--doscopy
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\OT1/ptm/m/n/10 [[]41[],[]47[],[]48[],[]50[],[]52[]{[]54[],[]56[],[]57[],[]59[]
-,[]62[],[]67[],[]69[]{[]71[],[]74[],[]80[],[]81[],[]86[]{[]90[],[]93[]{
- []
-
-
 
 [3]
 
-) (./sections/20-synthesis_results.tex)
 
-[4 <./figures/prisma_diagram.png>]
-(./tables/case_grouped_summary_long_table.tex
 
-! Package longtable Error: longtable not in 1-column mode.
+[4 <./figures/prisma_diagram.png>]) (./sections/20-synthesis_results.tex
 
-See the longtable package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 \begin{longtable}
-                     {p{5cm}p{1.5cm}p{2cm}p{5cm}}
-? 
+LaTeX Warning: Reference `{tab:grouped_logistic_wide}' on page 5 undefined on i
+nput line 5.
 
-Overfull \hbox (167.09969pt too wide) in alignment at lines 2--8
- [] [] [] [] 
- []
+)
 
 
-Overfull \hbox (167.09969pt too wide) in alignment at lines 8--13
- [] [] [] [] 
- []
 
+[5
 
-Overfull \hbox (167.09969pt too wide) in alignment at lines 13--15
- [] [] [] [] 
- []
-
-
-Overfull \hbox (167.09969pt too wide) in alignment at lines 15--17
- [] [] [] [] 
- []
-
-
-Overfull \hbox (38.56618pt too wide) in paragraph at lines 20--21
-[]|\OT1/ptm/m/n/10 [[]32[],[]41[],[]42[],[]44[],[]45[],[]47[],[]48[],[]50[],[]5
-2[],[]53[],[]56[],[]57[],[]61[],[]64[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
-[]\OT1/ptm/m/n/10 67[],[]69[],[]71[],[]72[],[]76[]{[]78[],[]81[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
-[]|\OT1/ptm/m/n/10 [[]46[],[]49[],[]51[],[]54[],[]55[],[]58[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
-[]\OT1/ptm/m/n/10 60[],[]62[],[]63[],[]68[],[]70[],[]73[]{[]75[],[]80[],[]85[]{
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
-[]|\OT1/ptm/m/n/10 [[]44[],[]47[]{[]49[],[]52[],[]54[],[]59[],[]60[],[]62[],[]6
-5[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
-[]\OT1/ptm/m/n/10 67[],[]69[],[]72[],[]78[],[]82[],[]84[],[]88[]{
- []
-
-
-Overfull \hbox (54.39613pt too wide) in paragraph at lines 26--27
-[]|\OT1/ptm/m/n/10 [[]32[],[]41[],[]45[],[]50[],[]55[],[]61[],[]73[],[]74[],[]7
-6[],[]82[],[]83[],[]87[],[]92[],[]99[],[]103[]]| 
- []
-
-
-Overfull \hbox (9.39613pt too wide) in paragraph at lines 28--29
-[]|\OT1/ptm/m/n/10 [[]42[],[]56[],[]57[],[]64[],[]70[],[]71[],[]77[],[]93[],[]9
-7[],[]100[],[]106[]]| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
-[]|\OT1/ptm/m/n/10 [[]44[],[]46[],[]48[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
-[]\OT1/ptm/m/n/10 51[],[]57[],[]59[],[]62[],[]63[],[]65[],[]66[],[]69[]{[]73[],
-[]75[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
-[]\OT1/ptm/m/n/10 78[],[]81[],[]83[],[]84[],[]86[],[]87[],[]90[],[]93[]{[]95[],
-[]104[]{
- []
-
-
-Overfull \hbox (56.06618pt too wide) in paragraph at lines 33--34
-[]|\OT1/ptm/m/n/10 [[]44[],[]48[],[]53[],[]55[],[]61[],[]63[],[]64[],[]69[],[]7
-1[],[]72[],[]81[],[]90[],[]95[],[]97[],[]104[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
-[]|\OT1/ptm/m/n/10 [[]42[],[]44[],[]46[],[]48[]{[]50[],[]54[],[]55[],[]62[]{[]6
-5[],[]69[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
-[]|\OT1/ptm/m/n/10 [[]32[],[]42[],[]44[],[]45[],[]57[],[]59[]{
- []
-
-
-Overfull \hbox (84.39613pt too wide) in paragraph at lines 43--44
-[]|\OT1/ptm/m/n/10 [[]41[],[]52[],[]55[],[]58[],[]68[],[]70[],[]76[],[]80[],[]8
-5[],[]88[],[]89[],[]92[],[]96[],[]97[],[]99[],[]101[],[]102[]]| 
- []
-
-! Undefined control sequence.
-l.48 Large (\textmore
-                     {}2.5cm) Diameter & 50 & 70.4\% & \cite{Akay_2015f, Al-...
-
-? 
-
-Overfull \hbox (1.06618pt too wide) in paragraph at lines 48--49
-[]|\OT1/ptm/m/n/10 [[]32[],[]41[],[]42[],[]44[],[]45[],[]47[],[]48[],[]50[],[]5
-3[],[]54[],[]57[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
-[]\OT1/ptm/m/n/10 61[],[]63[],[]64[],[]67[],[]69[],[]71[],[]72[],[]74[]{[]78[],
-[]82[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
-[]|\OT1/ptm/m/n/10 [[]46[],[]48[]{[]51[],[]55[]{[]58[],[]64[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
-[]\OT1/ptm/m/n/10 66[],[]68[]{[]74[],[]76[]{[]78[],[]80[]{[]86[],[]92[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
-[]|\OT1/ptm/m/n/10 [[]32[],[]41[],[]46[],[]48[],[]49[],[]51[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
-[]\OT1/ptm/m/n/10 53[],[]55[],[]56[],[]58[],[]62[],[]65[],[]68[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
-[]\OT1/ptm/m/n/10 71[],[]73[],[]77[],[]80[]{[]82[],[]85[],[]87[],[]89[],[]92[],
-[]94[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--52
-[]|\OT1/ptm/m/n/10 [[]32[],[]44[],[]48[],[]49[],[]52[],[]54[],[]55[],[]57[],[]6
-1[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--52
-[]\OT1/ptm/m/n/10 66[],[]69[]{[]72[],[]74[],[]76[],[]78[],[]82[]{
- []
-
-! Undefined control sequence.
-l.52 Long (\textmore
-                    {}5cm) & 31 & 43.7\% & \cite{Al-Faham_2020k, Ali_2017, A...
-
-? 
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
-[]|\OT1/ptm/m/n/10 [[]42[],[]45[],[]47[],[]50[],[]54[],[]57[],[]59[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
-[]\OT1/ptm/m/n/10 61[],[]63[],[]64[],[]66[],[]67[],[]72[],[]74[]{
- []
-
-
-Overfull \hbox (36.06618pt too wide) in paragraph at lines 52--53
-[]\OT1/ptm/m/n/10 76[],[]78[],[]83[],[]84[],[]86[],[]88[],[]90[],[]93[],[]97[],
-[]98[],[]103[],[]104[],[]106[]]| 
- []
-
-! Undefined control sequence.
-l.53 Long (\textmore
-                    {}5cm) Sharp & 16 & 22.5\% & \cite{Bhasin_2014, CamachoD...
-
-? 
-
-Overfull \hbox (46.89613pt too wide) in paragraph at lines 53--54
-[]|\OT1/ptm/m/n/10 [[]54[],[]57[],[]61[],[]63[],[]64[],[]66[],[]72[],[]74[],[]7
-6[],[]78[],[]83[],[]84[],[]103[],[]106[]]| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
-[]|\OT1/ptm/m/n/10 [[]32[],[]48[],[]49[],[]52[],[]55[],[]62[],[]65[],[]69[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
-[]|\OT1/ptm/m/n/10 [[]45[],[]46[],[]48[],[]50[]{[]54[],[]56[]{[]58[],[]60[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
-[]\OT1/ptm/m/n/10 68[],[]72[],[]74[]{[]78[],[]81[]{[]86[],[]90[],[]92[],[]93[],
-[]95[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
-[]|\OT1/ptm/m/n/10 [[]32[],[]42[],[]44[]{[]46[],[]50[],[]51[],[]54[],[]57[]{[]6
-3[],[]65[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
-[]\OT1/ptm/m/n/10 67[],[]72[],[]74[]{[]76[],[]78[],[]81[]{[]85[],[]92[],[]95[]{
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
-[]|\OT1/ptm/m/n/10 [[]41[],[]47[],[]48[],[]50[],[]52[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
-[]\OT1/ptm/m/n/10 54[],[]56[],[]57[],[]59[],[]62[],[]67[],[]69[]{
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
-[]\OT1/ptm/m/n/10 71[],[]74[],[]80[],[]81[],[]86[]{[]90[],[]93[]{
- []
-
-
-Overfull \hbox (167.09969pt too wide) in alignment at lines 17--64
- [] [] [] [] 
- []
-
-[5]) (./tables/chi2_results_grouped_wide_table.tex
-
-
+] (./tables/case_data_grouped_summary_wide.tex
 
 [6
 
-]
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 4.
-See the caption package documentation for explanation.
-
-! Undefined control sequence.
-<inserted text> ...\ \hspace {1em}Long (\textmore 
-                                                  {}5cm) & 0.84 [0.33, 2.18]...
-l.54 \end{tabularx}
-                   \\
-? 
-! Undefined control sequence.
-<inserted text> ... \hspace {1em}Large (\textmore 
-                                                  {}2.5cm) Diameter & 1.46 [...
-l.54 \end{tabularx}
-                   \\
-? 
-! Undefined control sequence.
-<inserted text> ...\ \hspace {1em}Long (\textmore 
-                                                  {}5cm) Sharp & 0.35 [0.10,...
-l.54 \end{tabularx}
-                   \\
-? 
-! Undefined control sequence.
-<inserted text> ...\ \hspace {1em}Long (\textmore 
-                                                  {}5cm) & 0.84 [0.33, 2.18]...
-l.54 \end{tabularx}
-                   \\
-? 
-! Undefined control sequence.
-<inserted text> ... \hspace {1em}Large (\textmore 
-                                                  {}2.5cm) Diameter & 1.46 [...
-l.54 \end{tabularx}
-                   \\
-? 
-! Undefined control sequence.
-<inserted text> ...\ \hspace {1em}Long (\textmore 
-                                                  {}5cm) Sharp & 0.35 [0.10,...
-l.54 \end{tabularx}
-                   \\
-? 
-! Undefined control sequence.
-<inserted text> ...\ \hspace {1em}Long (\textmore 
-                                                  {}5cm) & 0.84 [0.33, 2.18]...
-l.54 \end{tabularx}
-                   \\
-? 
-! Undefined control sequence.
-<inserted text> ... \hspace {1em}Large (\textmore 
-                                                  {}2.5cm) Diameter & 1.46 [...
-l.54 \end{tabularx}
-                   \\
-? 
-! Undefined control sequence.
-<inserted text> ...\ \hspace {1em}Long (\textmore 
-                                                  {}5cm) Sharp & 0.35 [0.10,...
-l.54 \end{tabularx}
-                   \\
-? 
-
-! LaTeX Error: Not allowed in LR mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.54 \end{tabularx}\\
-                     
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.54 \end{tabularx}\\
-                     
-? 
-! Misplaced \omit.
-\multispan ->\omit 
-                   \@multispan 
-l.55 ...- indicates missing or unreported values.}
-                                                  
-? 
 
 
-
-
-
-Overfull \hbox (903.37498pt too wide) has occurred while \output is active
-[] | []
- []
+]) (./tables/chi2_results_grouped_wide_table.tex
 
 [7
 
 
 
-]) (./sections/27-data_code_other_materials.tex)
-(./sections/s1-risk_of_bias_supplement.tex
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 8
-.
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 13--14
-
- []
 
 
-Underfull \hbox (badness 1968) in paragraph at lines 22--23
-[]\OT1/ptm/m/it/10 Motivation[]Unknown[]Rate \OT1/ptm/m/n/10 in-di-cated whethe
-r mo-ti-va-tion
- []
-
-
-Underfull \hbox (badness 1371) in paragraph at lines 23--24
-[]\OT1/ptm/m/it/10 Object[]Unknown[]Rate \OT1/ptm/m/n/10 was de-rived if all ob
-ject-related
- []
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 26--94
-\OT1/ptm/m/n/10 check-list item (e.g., \OT1/ptm/m/it/10 Clear[]Outcome[]Followu
-p[]Reported\OT1/ptm/m/n/10 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--94
-\OT1/ptm/m/it/10 Clear[]Demographic[]Reporting\OT1/ptm/m/n/10 , or
- []
-
-
-Underfull \hbox (badness 2334) in paragraph at lines 26--94
-\OT1/ptm/m/it/10 Clear[]Clinical[]Info[]Reporting\OT1/ptm/m/n/10 ) was marked a
-s \OT1/pcr/m/n/10 N\OT1/ptm/m/n/10 , and the
- []
-
-
-Underfull \hbox (badness 1902) in paragraph at lines 26--94
-\OT1/ptm/m/n/10 based val-i-da-tion en-sured that case se-ries lack-ing es-sen-
-tial
- []
-
-
-Underfull \hbox (badness 2418) in paragraph at lines 26--94
-\OT1/ptm/m/n/10 vari-ables could be sys-tem-at-i-cally ex-cluded from the fi-na
-l
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--94
-
- []
-
-
-
-
-Underfull \hbox (badness 4291) in paragraph at lines 96--96
-[]\OT1/ptm/m/n/10 UNHCR. \OT1/ptm/m/it/10 UN-HCR: A Record 100 Mil-lion Peo-ple
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
-\OT1/ptm/m/it/10 Forcibly Dis-placed World-wide | UN News\OT1/ptm/m/n/10 .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
-\OT1/ptm/m/n/10 https://news.un.org/en/story/2022/05/1118772. May
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
-[]\OT1/ptm/m/n/10 Amnesty In-ter-na-tional. \OT1/ptm/m/it/10 Refugees, Asy-lum
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
-\OT1/ptm/m/it/10 Seek-ers and Mi-grants - Amnesty In-ter-na-tional\OT1/ptm/m/n/
-10 .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
-\OT1/ptm/m/n/10 https://www.amnesty.org/en/what-we-do/refugees-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
-\OT1/ptm/m/n/10 asylum-seekers-and-migrants/. 2024. (Vis-ited on
- []
-
-
-Underfull \hbox (badness 1939) in paragraph at lines 96--96
-\OT1/ptm/m/n/10 and UK De-ten-tion". In: \OT1/ptm/m/it/10 Race & Class \OT1/ptm
-/m/n/10 56.3 (Jan.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
-[]\OT1/ptm/m/n/10 Global De-ten-tion Project. \OT1/ptm/m/it/10 United King-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
-\OT1/ptm/m/it/10 dom Im-mi-gra-tion De-ten-tion Pro-file\OT1/ptm/m/n/10 .
- []
-
-
-Overfull \hbox (24.12442pt too wide) in paragraph at lines 96--96
-\OT1/ptm/m/n/10 https://www.globaldetentionproject.org/countries/europe/united-
-
- []
-
-
+]) (./tables/logistic_regression_wide_table.tex
 
 [8
 
+
+
+
+]) (./sections/27-data_code_other_materials.tex)
+(./sections/s1-risk_of_bias_supplement.tex
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 8.
+
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+))
+
+
+Overfull \hbox (24.12442pt too wide) in paragraph at lines 104--104
+\T1/ptm/m/n/10 https://www.globaldetentionproject.org/countries/europe/united-
+ []
+
+
+
+[9
+
+
 ]
-
-
-
-[9]
 
 
 
@@ -1816,100 +1155,35 @@ Overfull \hbox (24.12442pt too wide) in paragraph at lines 96--96
 
 [11]
 
-! LaTeX Error: Command \k unavailable in encoding OT1.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.96 
-     
-? 
+
+[12]
 
 
 
-Underfull \hbox (badness 5203) in paragraph at lines 96--96
-[]\OT1/ptm/m/n/10 Francis Mad-ing Deng, UN Rep-re-sen-ta-tive of the
- []
-
-
-Underfull \hbox (badness 1975) in paragraph at lines 96--96
-\OT1/ptm/m/n/10 mis-sion on Hu-man Rights, Feb. 1998. (Vis-ited on
- []
-
-
-Underfull \hbox (badness 5091) in paragraph at lines 96--96
-[]\OT1/ptm/m/n/10 United Na-tions High Com-mis-sioner for Refugees.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
-\OT1/ptm/m/it/10 Asylum-Seekers\OT1/ptm/m/n/10 . https://www.unhcr.org/us/about
--
- []
-
-
-
-[12] (./sections/appendix_a.tex)
-
-[13
-
-
-] (./sections/appendix_b.tex
-Underfull \hbox (badness 1546) in paragraph at lines 22--22
-[]|\OT1/ptm/m/n/8 Intentional In-ges-tion / Self-
- []
-
-
+[13] (./sections/appendix_a.tex) (./sections/appendix_b.tex
 Overfull \hbox (1.86566pt too wide) in paragraph at lines 52--58
 []|[]| 
  []
 
 
-Underfull \hbox (badness 1546) in paragraph at lines 85--85
-[]|\OT1/ptm/m/n/8 Intentional In-ges-tion / Self-
- []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
 [14
 
 ]
-Underfull \hbox (badness 1546) in paragraph at lines 153--153
-[]|\OT1/ptm/m/n/8 Intentional In-ges-tion / Self-
- []
-
-
-Underfull \hbox (badness 1546) in paragraph at lines 214--214
-[]|\OT1/ptm/m/n/8 Intentional In-ges-tion / Self-
- []
-
-
 
 [15]
-Underfull \hbox (badness 1546) in paragraph at lines 282--282
-[]|\OT1/ptm/m/n/8 Intentional In-ges-tion / Self-
- []
-
-
-Underfull \hbox (badness 1546) in paragraph at lines 346--346
-[]|\OT1/ptm/m/n/8 Intentional In-ges-tion / Self-
- []
-
-
 
 [16]
-Underfull \hbox (badness 1546) in paragraph at lines 408--408
-[]|\OT1/ptm/m/n/8 Intentional In-ges-tion / Self-
- []
 
+[17]
 
+[18]) (./sections/appendix_c.tex)
 
-[17]) (./sections/appendix_c.tex)
-
-[18
-
-] (./main.aux)
+[19] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -1927,8 +1201,8 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: E5C97F00E2C5D03552D0FEFCFA887B13;2188
-(rerunfilecheck)             After:  194AB80C51291AB55FC23FFB424EF088;2188.
+(rerunfilecheck)             Before: E924440311E2CB1A9510A6FA33A8AF29;2188
+(rerunfilecheck)             After:  A32BDECB6EE897169C5A3C9A1A489909;2188.
 
 Package biblatex Warning: Please rerun LaTeX.
 
@@ -1937,13 +1211,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23043 strings out of 473190
- 423965 string characters out of 5715800
- 1293949 words of memory out of 5000000
- 45740 multiletter control sequences out of 15000+600000
- 600372 words of font info for 112 fonts, out of 8000000 for 9000
+ 23316 strings out of 473190
+ 426839 string characters out of 5715800
+ 1353243 words of memory out of 5000000
+ 45999 multiletter control sequences out of 15000+600000
+ 672347 words of font info for 152 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,17n,81p,10887b,1828s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,17n,81p,10953b,2056s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
 , replaced by a fixed one
@@ -1952,30 +1226,21 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
 , replaced by a fixed one
 
-
-pdfTeX warning (dest): name{section*.44} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section*.36} has been referenced but does not exist
-, replaced by a fixed one
-
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
 /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
 sr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr
 /local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
 ocal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/loca
-l/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
-/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/t
-exlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/tex
-live/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/202
-5/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2025/texmf-di
-st/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/t
-ype1/urw/times/utmri8a.pfb>
-Output written on main.pdf (18 pages, 1301040 bytes).
+l/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/
+texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/te
+xlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/20
+25/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2025/texmf-d
+ist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/
+type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (19 pages, 1276458 bytes).
 PDF statistics:
- 1631 PDF objects out of 1728 (max. 8388607)
- 1569 compressed objects within 16 object streams
- 202 named destinations out of 1000 (max. 500000)
+ 2573 PDF objects out of 2984 (max. 8388607)
+ 1566 compressed objects within 16 object streams
+ 203 named destinations out of 1000 (max. 500000)
  134 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -41,8 +41,8 @@
       \field{howpublished}{https://news.un.org/en/story/2022/05/1118772}
       \field{langid}{english}
       \field{month}{5}
-      \field{shorttitle}{{{UNHCR}}}
-      \field{title}{{{UNHCR}}: {{A}} Record 100 Million People Forcibly Displaced Worldwide {|} {{UN News}}}
+      \field{shorttitle}{UNHCR}
+      \field{title}{UNHCR: A record 100 million people forcibly displaced worldwide {|} UN News}
       \field{urlday}{29}
       \field{urlmonth}{10}
       \field{urlyear}{2024}
@@ -74,7 +74,7 @@
       \field{howpublished}{https://www.unhcr.org/media/convention-and-protocol-relating-status-refugees}
       \field{journaltitle}{UNHCR}
       \field{langid}{english}
-      \field{title}{Convention and {{Protocol Relating}} to the {{Status}} of {{Refugees}}}
+      \field{title}{Convention and Protocol Relating to the Status of Refugees}
       \field{urlday}{29}
       \field{urlmonth}{10}
       \field{urlyear}{2024}
@@ -103,7 +103,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{https://www.amnesty.org/en/what-we-do/refugees-asylum-seekers-and-migrants/}
-      \field{title}{Refugees, {{Asylum Seekers}} and {{Migrants}} - {{Amnesty International}}}
+      \field{title}{Refugees, Asylum Seekers and Migrants - Amnesty International}
       \field{urlday}{29}
       \field{urlmonth}{10}
       \field{urlyear}{2024}
@@ -142,8 +142,8 @@
       \field{langid}{english}
       \field{month}{1}
       \field{number}{3}
-      \field{shorttitle}{`{{I}} Don't Have a Life to Live'}
-      \field{title}{`{{I}} Don't Have a Life to Live': Deaths and {{UK}} Detention}
+      \field{shorttitle}{`I don't have a life to live'}
+      \field{title}{`I don't have a life to live': deaths and UK detention}
       \field{urlday}{29}
       \field{urlmonth}{10}
       \field{urlyear}{2024}
@@ -205,8 +205,8 @@
       \field{langid}{english}
       \field{month}{12}
       \field{number}{1}
-      \field{shorttitle}{Assessment and Treatment of Asylum Seekers after a Suicide Attempt}
-      \field{title}{Assessment and Treatment of Asylum Seekers after a Suicide Attempt: A Comparative Study of People Registered at Mental Health Services in a {{Swedish}} Location}
+      \field{shorttitle}{Assessment and treatment of asylum seekers after a suicide attempt}
+      \field{title}{Assessment and treatment of asylum seekers after a suicide attempt: a comparative study of people registered at mental health services in a Swedish location}
       \field{urlday}{29}
       \field{urlmonth}{10}
       \field{urlyear}{2024}
@@ -310,7 +310,7 @@
       \field{journaltitle}{European Journal of Psychotraumatology}
       \field{langid}{english}
       \field{month}{12}
-      \field{title}{The Association between Visa Insecurity and Mental Health, Disability and Social Engagement in Refugees Living in {{Australia}}}
+      \field{title}{The association between visa insecurity and mental health, disability and social engagement in refugees living in Australia}
       \field{urlday}{29}
       \field{urlmonth}{10}
       \field{urlyear}{2024}
@@ -369,7 +369,7 @@
       \field{issn}{0022-3956}
       \field{journaltitle}{Journal of Psychiatric Research}
       \field{month}{9}
-      \field{title}{Risk of Suicide and Suicidal Behavior in Refugees. {{A}} Meta-Review of Current Systematic Reviews and Meta-Analyses}
+      \field{title}{Risk of suicide and suicidal behavior in refugees. A meta-review of current systematic reviews and meta-analyses}
       \field{urlday}{29}
       \field{urlmonth}{10}
       \field{urlyear}{2024}
@@ -440,8 +440,8 @@
       \field{journaltitle}{BMC Psychiatry}
       \field{month}{12}
       \field{number}{1}
-      \field{shorttitle}{The Impact of Immigration Detention on Mental Health}
-      \field{title}{The Impact of Immigration Detention on Mental Health: A Systematic Review}
+      \field{shorttitle}{The impact of immigration detention on mental health}
+      \field{title}{The impact of immigration detention on mental health: a systematic review}
       \field{urlday}{29}
       \field{urlmonth}{10}
       \field{urlyear}{2024}
@@ -498,8 +498,8 @@
       \field{journaltitle}{SSM - Population Health}
       \field{langid}{english}
       \field{month}{8}
-      \field{shorttitle}{Self-Harm in the {{Australian}} Asylum Seeker Population}
-      \field{title}{Self-Harm in the {{Australian}} Asylum Seeker Population: {{A}} National Records-Based Study}
+      \field{shorttitle}{Self-harm in the Australian asylum seeker population}
+      \field{title}{Self-harm in the Australian asylum seeker population: A national records-based study}
       \field{urlday}{29}
       \field{urlmonth}{10}
       \field{urlyear}{2024}
@@ -538,7 +538,7 @@
       \field{howpublished}{https://www.globaldetentionproject.org/countries/europe/united-kingdom}
       \field{journaltitle}{Global Detention Project}
       \field{langid}{american}
-      \field{title}{United {{Kingdom Immigration Detention Profile}}}
+      \field{title}{United Kingdom Immigration Detention Profile}
       \field{urlday}{2}
       \field{urlmonth}{11}
       \field{urlyear}{2024}
@@ -603,8 +603,8 @@
       \field{langid}{english}
       \field{month}{6}
       \field{number}{9}
-      \field{shorttitle}{Methods of Suicide}
-      \field{title}{Methods of Suicide: International Suicide Patterns Derived from the {{WHO}} Mortality Database}
+      \field{shorttitle}{Methods of suicide}
+      \field{title}{Methods of suicide: international suicide patterns derived from the WHO mortality database}
       \field{urlday}{29}
       \field{urlmonth}{10}
       \field{urlyear}{2024}
@@ -660,8 +660,8 @@
       \field{langid}{english}
       \field{month}{12}
       \field{number}{7}
-      \field{shorttitle}{Foreign Body Ingestion}
-      \field{title}{Foreign Body Ingestion: Dos and Don'ts}
+      \field{shorttitle}{Foreign body ingestion}
+      \field{title}{Foreign body ingestion: dos and don'ts}
       \field{urlday}{15}
       \field{urlmonth}{5}
       \field{urlyear}{2025}
@@ -785,7 +785,7 @@
       \field{langid}{english}
       \field{month}{6}
       \field{number}{6}
-      \field{title}{Management of Ingested Foreign Bodies and Food Impactions}
+      \field{title}{Management of ingested foreign bodies and food impactions}
       \field{urlday}{18}
       \field{urlmonth}{11}
       \field{urlyear}{2024}
@@ -871,8 +871,8 @@
       \field{langid}{english}
       \field{month}{2}
       \field{number}{05}
-      \field{shorttitle}{Removal of Foreign Bodies in the Upper Gastrointestinal Tract in Adults}
-      \field{title}{Removal of Foreign Bodies in the Upper Gastrointestinal Tract in Adults: {{European Society}} of {{Gastrointestinal Endoscopy}} ({{ESGE}}) {{Clinical Guideline}}}
+      \field{shorttitle}{Removal of foreign bodies in the upper gastrointestinal tract in adults}
+      \field{title}{Removal of foreign bodies in the upper gastrointestinal tract in adults: European Society of Gastrointestinal Endoscopy (ESGE) Clinical Guideline}
       \field{urlday}{8}
       \field{urlmonth}{11}
       \field{urlyear}{2024}
@@ -913,8 +913,8 @@
       \field{journaltitle}{ABC News}
       \field{langid}{australian}
       \field{month}{3}
-      \field{shorttitle}{The Suffering of {{Omid}}}
-      \field{title}{The Suffering of {{Omid}}: {{How}} a Burns Victim Died despite Injuries That Were 'Very Survivable'}
+      \field{shorttitle}{The suffering of Omid}
+      \field{title}{The suffering of Omid: How a burns victim died despite injuries that were 'very survivable'}
       \field{urlday}{29}
       \field{urlmonth}{10}
       \field{urlyear}{2024}
@@ -973,7 +973,7 @@
       \field{langid}{english}
       \field{month}{2}
       \field{number}{2}
-      \field{title}{Trends and Clinical Features of Intentional and Accidental Adult Foreign Body Ingestions in the {{United States}}, 2000 to 2017}
+      \field{title}{Trends and clinical features of intentional and accidental adult foreign body ingestions in the United States, 2000 to 2017}
       \field{urlday}{2}
       \field{urlmonth}{11}
       \field{urlyear}{2024}
@@ -1041,7 +1041,7 @@
       \field{langid}{english}
       \field{month}{3}
       \field{number}{3 Pt 1}
-      \field{title}{Foreign-Body Ingestion: Characteristics and Outcomes in a Lower Socioeconomic Population with Predominantly Intentional Ingestion.}
+      \field{title}{Foreign-body ingestion: characteristics and outcomes in a lower socioeconomic population with predominantly intentional ingestion.}
       \field{volume}{69}
       \field{year}{2009}
       \field{pages}{426\bibrangedash 433}
@@ -1076,7 +1076,7 @@
       \field{langid}{english}
       \field{month}{12}
       \field{number}{5}
-      \field{title}{Gastrostomy in the {{Seventeenth Century}}}
+      \field{title}{Gastrostomy in the Seventeenth Century}
       \field{volume}{35}
       \field{year}{1895}
       \field{pages}{395\bibrangedash 397}
@@ -1107,7 +1107,7 @@
       \field{journaltitle}{Archives of Surgery}
       \field{month}{7}
       \field{number}{1}
-      \field{title}{Surgery {{Of The Esophagus}}}
+      \field{title}{Surgery Of The Esophagus}
       \field{urlday}{15}
       \field{urlmonth}{4}
       \field{urlyear}{2025}
@@ -1163,8 +1163,8 @@
       \field{journaltitle}{World Journal of Surgery}
       \field{langid}{english}
       \field{number}{6}
-      \field{shorttitle}{Foreign Body Ingestion}
-      \field{title}{Foreign Body Ingestion: Management of 167 Cases}
+      \field{shorttitle}{Foreign body ingestion}
+      \field{title}{Foreign body ingestion: management of 167 cases}
       \field{volume}{15}
       \field{year}{1991}
       \field{pages}{783\bibrangedash 788}
@@ -1202,7 +1202,7 @@
       \field{langid}{english}
       \field{month}{3}
       \field{number}{9}
-      \field{title}{{{THE ESOPHAGOSCOPE IN REMOVING SHARP FOREIGN BODIES FROM THE ESOPHAGUS}}}
+      \field{title}{THE ESOPHAGOSCOPE IN REMOVING SHARP FOREIGN BODIES FROM THE ESOPHAGUS}
       \field{urlday}{15}
       \field{urlmonth}{4}
       \field{urlyear}{2025}
@@ -1243,7 +1243,7 @@
       \field{langid}{english}
       \field{month}{2}
       \field{number}{2}
-      \field{title}{Foreign Bodies in the Esophagus}
+      \field{title}{Foreign bodies in the esophagus}
       \field{urlday}{15}
       \field{urlmonth}{4}
       \field{urlyear}{2025}
@@ -1285,8 +1285,8 @@
       \field{langid}{english}
       \field{month}{2}
       \field{number}{2}
-      \field{shorttitle}{{{FOREIGN BODIES IN THE STOMACH}}}
-      \field{title}{Foreign {{Bodies In The Stomach}}: {{Report Of A Case In Which More Than Two Thousand Five Hundred Foreign Bodies Were Found}}}
+      \field{shorttitle}{FOREIGN BODIES IN THE STOMACH}
+      \field{title}{Foreign Bodies In The Stomach: Report Of A Case In Which More Than Two Thousand Five Hundred Foreign Bodies Were Found}
       \field{urlday}{15}
       \field{urlmonth}{4}
       \field{urlyear}{2025}
@@ -1368,7 +1368,7 @@
       \field{langid}{english}
       \field{month}{6}
       \field{number}{6}
-      \field{title}{Fiberendoscopic Removal of Foreign Bodies of the Upper Part of the Gastrointestinal Tract}
+      \field{title}{Fiberendoscopic removal of foreign bodies of the upper part of the gastrointestinal tract}
       \field{volume}{160}
       \field{year}{1985}
       \field{pages}{499\bibrangedash 504}
@@ -1403,8 +1403,8 @@
       \field{journaltitle}{Citizenship Studies}
       \field{month}{7}
       \field{number}{5}
-      \field{shorttitle}{Speaking through the Body}
-      \field{title}{Speaking through the Body: Detention and Bodily Resistance in {{Italy}}}
+      \field{shorttitle}{Speaking through the body}
+      \field{title}{Speaking through the body: detention and bodily resistance in Italy}
       \field{urlday}{29}
       \field{urlmonth}{10}
       \field{urlyear}{2024}
@@ -1470,7 +1470,7 @@
       \field{journaltitle}{Psychosomatics}
       \field{langid}{english}
       \field{number}{2}
-      \field{title}{Foreign-Body Ingestion in Patients with Personality Disorders}
+      \field{title}{Foreign-body ingestion in patients with personality disorders}
       \field{volume}{48}
       \field{year}{2007}
       \field{pages}{162\bibrangedash 166}
@@ -1523,7 +1523,7 @@
       \field{journaltitle}{Journal of Forensic Psychiatry \& Psychology}
       \field{month}{4}
       \field{number}{2}
-      \field{title}{Deliberate Ingestion of Foreign Bodies as a Form of Self-Harm among Inpatients within Forensic Mental Health and Intellectual Disability Services}
+      \field{title}{Deliberate ingestion of foreign bodies as a form of self-harm among inpatients within forensic mental health and intellectual disability services}
       \field{volume}{30}
       \field{year}{2019}
       \field{pages}{189\bibrangedash 202}
@@ -1567,8 +1567,8 @@
       \field{journaltitle}{Annals of Medicine and Surgery (2012)}
       \field{langid}{english}
       \field{month}{6}
-      \field{shorttitle}{The Largest Esophageal Foreign Body in Adults}
-      \field{title}{The Largest Esophageal Foreign Body in Adults: {{A}} Case Report}
+      \field{shorttitle}{The largest esophageal foreign body in adults}
+      \field{title}{The largest esophageal foreign body in adults: A case report}
       \field{volume}{54}
       \field{year}{2020}
       \field{pages}{82\bibrangedash 84}
@@ -1625,7 +1625,7 @@
       \field{issn}{1744-9200}
       \field{journaltitle}{International Journal of Prisoner Health}
       \field{number}{3}
-      \field{title}{Intentional Ingestion of Batteries and Razor Blades by a Prisoner: {{A}} True Emergency?}
+      \field{title}{Intentional ingestion of batteries and razor blades by a prisoner: A true emergency?}
       \field{volume}{18}
       \field{year}{2022}
       \field{pages}{316\bibrangedash 322}
@@ -1666,8 +1666,8 @@
       \field{langid}{english}
       \field{month}{11}
       \field{number}{11}
-      \field{shorttitle}{Self-Harm in Immigration Detention}
-      \field{title}{Self-Harm in Immigration Detention: Political, Not (Just) Medical}
+      \field{shorttitle}{Self-harm in immigration detention}
+      \field{title}{Self-harm in immigration detention: political, not (just) medical}
       \field{urlday}{29}
       \field{urlmonth}{10}
       \field{urlyear}{2024}
@@ -1724,7 +1724,7 @@
       \field{langid}{english}
       \field{month}{10}
       \field{number}{5}
-      \field{title}{Hard to Swallow: A Systematic Review of Deliberate Foreign Body Ingestion.}
+      \field{title}{Hard to swallow: a systematic review of deliberate foreign body ingestion.}
       \field{volume}{33}
       \field{year}{2011}
       \field{pages}{518\bibrangedash 524}
@@ -1766,7 +1766,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{A young jail inmate purposely ingested a foreign body formed of sewing needles, specially designed to be arrested in the gut and cause perforation. Immediate surgical removal of such ingested foreign objects is recommended because the chances of distal passage are nil.}
       \field{journaltitle}{Journal Of Accident \& Emergency Medicine}
-      \field{title}{Oesophageal "Cross"--a Sinister Foreign Body}
+      \field{title}{Oesophageal "cross"--a sinister foreign body}
       \field{year}{1997}
       \verb{doi}
       \verb 10.1136/emj.14.1.54
@@ -1820,8 +1820,8 @@
       \field{langid}{english}
       \field{month}{1}
       \field{number}{1}
-      \field{shorttitle}{Foreign {{Body Ingestions}} in the {{Emergency Department}}}
-      \field{title}{Foreign {{Body Ingestions}} in the {{Emergency Department}}: {{Case Reports}} and {{Review}} of {{Treatment}}}
+      \field{shorttitle}{Foreign Body Ingestions in the Emergency Department}
+      \field{title}{Foreign Body Ingestions in the Emergency Department: Case Reports and Review of Treatment}
       \field{urlday}{14}
       \field{urlmonth}{4}
       \field{urlyear}{2025}
@@ -1877,7 +1877,7 @@
       \field{langid}{english}
       \field{month}{3}
       \field{number}{2}
-      \field{title}{Management {{Challenges}} of {{Recurrent Foreign Body Ingestions}} in a {{Psychiatric Patient}}: {{A Case Report}}.}
+      \field{title}{Management Challenges of Recurrent Foreign Body Ingestions in a Psychiatric Patient: A Case Report.}
       \field{volume}{29}
       \field{year}{2023}
       \field{pages}{167\bibrangedash 173}
@@ -1924,7 +1924,7 @@
       \field{isbn}{978-0-19-955722-6}
       \field{langid}{english}
       \field{month}{8}
-      \field{title}{Mental {{Health}} of {{Refugees}} and {{Asylum Seekers}}}
+      \field{title}{Mental Health of Refugees and Asylum Seekers}
       \field{year}{2010}
       \keyw{Medical / Ethics,Medical / Psychiatry / General,Psychology / Clinical Psychology,Psychology / Psychotherapy / General,Social Science / Disasters & Disaster Relief,Social Science / Ethnic Studies / General,Social Science / Refugees}
     \endentry
@@ -1968,8 +1968,8 @@
       \field{journaltitle}{BMC Public Health}
       \field{month}{4}
       \field{number}{1}
-      \field{shorttitle}{Prevalence of Suicidal Ideation and Suicide Attempts among Refugees}
-      \field{title}{Prevalence of Suicidal Ideation and Suicide Attempts among Refugees: A Meta-Analysis}
+      \field{shorttitle}{Prevalence of suicidal ideation and suicide attempts among refugees}
+      \field{title}{Prevalence of suicidal ideation and suicide attempts among refugees: a meta-analysis}
       \field{urlday}{29}
       \field{urlmonth}{10}
       \field{urlyear}{2024}
@@ -2017,8 +2017,8 @@
       \field{langid}{english}
       \field{month}{6}
       \field{number}{6}
-      \field{shorttitle}{Self-Harm among Unaccompanied Asylum Seekers and Refugee Minors}
-      \field{title}{Self-Harm among Unaccompanied Asylum Seekers and Refugee Minors: Protocol for a Global Systematic Review of Prevalence, Methods and Characteristics}
+      \field{shorttitle}{Self-harm among unaccompanied asylum seekers and refugee minors}
+      \field{title}{Self-harm among unaccompanied asylum seekers and refugee minors: protocol for a global systematic review of prevalence, methods and characteristics}
       \field{urlday}{29}
       \field{urlmonth}{10}
       \field{urlyear}{2024}
@@ -2183,8 +2183,8 @@
       \field{journaltitle}{BMJ}
       \field{langid}{english}
       \field{month}{3}
-      \field{shorttitle}{The {{PRISMA}} 2020 Statement}
-      \field{title}{The {{PRISMA}} 2020 Statement: An Updated Guideline for Reporting Systematic Reviews}
+      \field{shorttitle}{The PRISMA 2020 statement}
+      \field{title}{The PRISMA 2020 statement: an updated guideline for reporting systematic reviews}
       \field{urlday}{10}
       \field{urlmonth}{12}
       \field{urlyear}{2024}
@@ -2217,7 +2217,7 @@
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Microsoft {{Excel}}}
+      \field{title}{Microsoft Excel}
       \field{year}{2025}
     \endentry
     \entry{Moola_2020}{incollection}{}{}
@@ -2293,10 +2293,10 @@
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{{{JBI Manual}} for {{Evidence Synthesis}}}
+      \field{booktitle}{JBI Manual for Evidence Synthesis}
       \field{isbn}{978-0-648-84880-6}
       \field{shorttitle}{Chapter 7}
-      \field{title}{Chapter 7: {{Systematic}} Reviews of Etiology and Risk}
+      \field{title}{Chapter 7: Systematic reviews of etiology and risk}
       \field{urlday}{7}
       \field{urlmonth}{5}
       \field{urlyear}{2025}
@@ -2350,7 +2350,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Endoscopy}
-      \field{title}{A {{Deliberately Swallowed Foreign Body}}: {{Money Package}}}
+      \field{title}{A Deliberately Swallowed Foreign Body: Money Package}
       \field{year}{2015}
       \verb{doi}
       \verb 10.1055/s-0035-1569668
@@ -2387,7 +2387,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Introduction: The Swallowing Of Foreign Bodies Can Be Accidental Or Intentional. The Majority Of The Cases Of Accidental Foreign Body Ingestion Are Observed In Children. In Adults, Foreign Body Ingestion Can Be Accidental, Related To Specific Pathological Changes Of The Digestive Tract, Or Deliberate, As Observed In Patients With Psychiatric Diseases Or In Those Released From The Prison. Case Presentation: A 42-Year-Old Male Was Admitted To The Emergency Department With Symptoms Including Choking, Drooling From The Mouth, Holding His Neck, And Aphonia. He Had A History Of Psychiatric Illness With Suicidal Ingestion Of A Foreign Body. After Stabilization, He Was Sent For Chest Radiograph, Which Revealed A Significant Radiopaque Shadow The Shape Of A Spanner, Occupying The Whole Length Of The Esophagus. Emergency Rigid Esophagoscopy Was Performed To Save The Patient'S Life. Discussion: The Patient Swallowed The Largest Hard Foreign Body To Harm Himself Or His Family, To Get The Attention Of His Family, Or As A Suicide Attempt. Such Patients Require Urgent Intervention By Rigid Esophagoscopy To Reduce The Risk Of Complications And To Save The Patients' Lives. Further Follow-Up Is Essential Due To The Possibility Of Repeated Foreign Body Ingestion. Conclusion: While Taking Care Of Psychiatric Patients, Close Observation By Family Members Is Mandatory To Prevent Them From Harming Themselves And To Prevent Suicide Attempts By Swallowing Sharp, Hard, Large, And Dangerous Foreign Bodies Such As The Size 17 Wrench Spanner Observed In The Present Case.}
       \field{journaltitle}{Annals Of Medicine And Surgery (2012)}
-      \field{title}{The {{Largest Esophageal Foreign Body In Adults}}: {{A Case Report}}}
+      \field{title}{The Largest Esophageal Foreign Body In Adults: A Case Report}
       \field{year}{2020}
       \verb{doi}
       \verb 10.1016/j.amsu.2020.04.039
@@ -2423,7 +2423,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Foreign Body Ingestion Is One Of The Most Common Presenting Complaints In The Emergency Room. Psychiatric Patients That Present With An Unusual Ingested Object Are Frequently Associated With The Intention Of Suicide, Especially If They Have A History Of Recurrent Foreign Body Ingestion. Radiographic Films Help In Locating The Site And Predicting The Complications. The Best Method Of Object Retrieval Is Dependent On Many Factors And Decisions Made For The Best Of Patient Safety To Minimize Expected Complications. This Is A Case Report Of A Patient Who Presented With Unusual Foreign Body Ingestion.}
       \field{journaltitle}{Oman Medical Journal}
-      \field{title}{Laparoscopic {{Retrieval Of Ingested Foreign Body}}}
+      \field{title}{Laparoscopic Retrieval Of Ingested Foreign Body}
       \field{year}{2021}
       \verb{doi}
       \verb 10.5001/omj.2021.35
@@ -2459,7 +2459,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{The Topic Of Foreign Body Ingestion Has Received Extensive Coverage In The Areas Of Surgery, Emergency Medicine And Pediatrics. A Subset Of This Topic, The Intentional Ingestion Of Foreign Bodies, However, Is Much Less Common, And Involves Subtleties In Evaluation And Management Not Usually Seen In Accidental Ingestions. Here, We Report A Case Of Ingestion Of A Rolled, Metal Tuna Can Lid In A Male Prison Inmate Previously Diagnosed With Depression And Paranoid Schizophrenia. Following Evaluation By The Surgical Team, The Foreign Body Was Removed By Laparotomy And The Patient Was Discharged Back To The Prison Without Complication. In Many Cases, Ingestions Ofthis Type Involve A Command Hallucination Ordering The Patient To Swallow The Foreign Body. Interestingly, The Patient In The Present Case Reported Auditory Hallucinations Commanding Him Not To Swallow The Can Lid.}
       \field{journaltitle}{West African Journal Of Medicine}
-      \field{title}{Foreign {{Body Ingestions In A Schizophrenic Patient}}}
+      \field{title}{Foreign Body Ingestions In A Schizophrenic Patient}
       \field{year}{2006}
       \verb{doi}
       \verb 10.4314/wajm.v25i3.28286
@@ -2494,8 +2494,8 @@
       \field{langid}{english}
       \field{month}{5}
       \field{number}{2}
-      \field{shorttitle}{Duodenal {{Perforation}} by {{Swallowed Toothbrush}}}
-      \field{title}{Duodenal {{Perforation}} by {{Swallowed Toothbrush}}: {{Case Report}} and {{Review}} of {{Literature}}}
+      \field{shorttitle}{Duodenal Perforation by Swallowed Toothbrush}
+      \field{title}{Duodenal Perforation by Swallowed Toothbrush: Case Report and Review of Literature}
       \field{urlday}{14}
       \field{urlmonth}{4}
       \field{urlyear}{2025}
@@ -2534,9 +2534,9 @@
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Foreign Body Ingestion Is Frequently The Cause Of Emergency Visits In The Pediatric Population, And These Cases Are Challenging To Diagnose And Manage. In Particular, The Ingestion Of Magnets Is Dangerous And Can Lead To Serious Complications And Even Death. Urgent Endoscopic Intervention Or Surgical Exploration Remains The Best Approach For Removing Multiple Ingested Magnets And Preventing Further Injury To The Gastrointestinal (Gi) Tract.~We Report A Nine-Year-Old Child With An Adjustment Disorder Who Developed A Gastrocolic Fistula Following The Deliberate Ingestion Of Multiple Magnets. The Magnets Were Successfully Retrieved After An Emergency Laparotomy, And The Fistula Was Subsequently Repaired.}
+      \field{abstract}{Foreign Body Ingestion Is Frequently The Cause Of Emergency Visits In The Pediatric Population, And These Cases Are Challenging To Diagnose And Manage. In Particular, The Ingestion Of Magnets Is Dangerous And Can Lead To Serious Complications And Even Death. Urgent Endoscopic Intervention Or Surgical Exploration Remains The Best Approach For Removing Multiple Ingested Magnets And Preventing Further Injury To The Gastrointestinal (GI) Tract.~We Report A Nine-Year-Old Child With An Adjustment Disorder Who Developed A Gastrocolic Fistula Following The Deliberate Ingestion Of Multiple Magnets. The Magnets Were Successfully Retrieved After An Emergency Laparotomy, And The Fistula Was Subsequently Repaired.}
       \field{journaltitle}{Cureus}
-      \field{title}{A {{Child With A Gastrocolic Fistula After Ingesting Magnets}}: {{An Unusual Complication}}}
+      \field{title}{A Child With A Gastrocolic Fistula After Ingesting Magnets: An Unusual Complication}
       \field{year}{2020}
       \verb{doi}
       \verb 10.7759/cureus.9336
@@ -2582,7 +2582,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Foreign Body Ingestion (Fbi) Is A Common Problem Among The Pediatric Population. The Intentional Ingestion Of Foreign Bodies In The Adult Population Is Common Among Psychiatric Patients, Patients With~Developmental Delay, Alcohol Use Disorder, And Prisoners.~The Management Of Complex Fbi Cases Like Mobile Phones Is Not Standardized In The Literature. The Care Was Discussed In A Few Case Reports, And Till The End Of 2020, There Were Only Four Cases Reported. We Present This Rare Case Of Mobile Phone Ingestion, Which Was Successfully Managed By Upper~Esophagogastroduodenoscopy (Egd) Without The Need For Surgical Intervention.}
       \field{journaltitle}{Cureus}
-      \field{title}{Endoscopic {{Retrieval Of An Ingested Mobile Phone From The Stomach Of A Prisoner}}: {{When Gastroenterologists Answer The Call}}}
+      \field{title}{Endoscopic Retrieval Of An Ingested Mobile Phone From The Stomach Of A Prisoner: When Gastroenterologists Answer The Call}
       \field{year}{2022}
       \verb{doi}
       \verb 10.7759/cureus.33053
@@ -2623,7 +2623,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Introduction And Importance: Endoscopic Foreign Body Retrieval In The Upper Gastrointestinal Tract Is Well Established, However Indications For Endoscopy For Retained Foreign Bodies In The Lower Gastrointestinal Tract And Specifically The Right Colon Is Still Being Navigated [3]. A Pubmed And Google Scholar Search Discovered A Variety Of Case Reports Detailing Various Methods And Indications For Endoscopic Retrieval Of Right Sided Colonic Foreign Bodies. This Case Report Endeavors To Supplement The Literature So That Guidelines Can One Day Be Established For Colonoscopic Retrieval Of Right-Sided Foreign Bodies. Case Presentation: 36-Year-Old Male Prisoner Swallowed 6.5~Cm Nail Clippers With A Long-Standing History Of Intentional Foreign Body Ingestion (Fbi) Including Multiple Laparotomies For Foreign Body Retrievals. Computerized Tomography (Ct) Was Used Initially To Confirm The Position Of The Nail Clippers. After Almost Two Weeks Of Failure Of The Foreign Body (Fb) To Move Beyond The Caecum As Demonstrated On Plain Abdominal X-Rays, The Patient Had A Colonoscopy With Successful Retrieval Of The Fb. Clinical Discussion: This Case Report Hopes To Encourage The Consideration Of Colonoscopy For Retrieval Of Right Sided Colonic Foreign Bodies That Have Failed To Pass On Their Own And Where An Operation May Come With Increased Risk (Multiple Laparotomies, Multiple Comorbidities, And Higher Anaesthetic Risk For A General Anaesthetic). Colonoscopy/Endoscopy Still Has Inherent Risk And This Patient Did Have An Episode Of Temporary Laryngospasm That Required Intubation And Monitoring In The Intensive Care Unit Post Operatively. Despite This The Patient Recovered And Was Discharged Day One Post Procedure Without Further Complication. The Case Report Has Been Reported In Line With The Scare 2020 Criteria (Agha Et Al., 2020 [2]). Conclusion: Indications For Consideration Of Endoscopic Retrieval Of Foreign Bodies In The Right Colon Have Not Been Entirely Detailed As Endoscopy Is For Upper Gastrointestinal Foreign Bodies. This Case Report Documents The Indications For Endoscopy In The Clinical Context Of A Recurrent Fbi And A History Of Multiple Laparotomies With Failure Of The Fb To Move Beyond The Caecum.}
       \field{journaltitle}{International Journal Of Surgery Case Reports}
-      \field{title}{Endoscopic {{Foreign Body Retrieval From The Caecum}} - {{A Case Report And Push For Intervention Guidelines}}}
+      \field{title}{Endoscopic Foreign Body Retrieval From The Caecum - A Case Report And Push For Intervention Guidelines}
       \field{year}{2022}
       \verb{doi}
       \verb 10.1016/j.ijscr.2022.106755
@@ -2667,7 +2667,7 @@
       \field{journaltitle}{QJM: An International Journal of Medicine}
       \field{month}{8}
       \field{number}{8}
-      \field{title}{Razor Blades in the Stomach}
+      \field{title}{Razor blades in the stomach}
       \field{urlday}{14}
       \field{urlmonth}{4}
       \field{urlyear}{2025}
@@ -2737,7 +2737,7 @@
       \field{issn}{2090-6528}
       \field{journaltitle}{Case Reports in Gastrointestinal Medicine}
       \field{langid}{english}
-      \field{title}{Lighter {{Ingestion}} as an {{Uncommon Cause}} of {{Severe Vomiting}} in a {{Schizophrenia Patient}}}
+      \field{title}{Lighter Ingestion as an Uncommon Cause of Severe Vomiting in a Schizophrenia Patient}
       \field{volume}{2016}
       \field{year}{2016}
       \field{pages}{6301302}
@@ -2790,7 +2790,7 @@
       \field{langid}{english}
       \field{month}{9}
       \field{number}{9}
-      \field{title}{An Unusual Case of Pica}
+      \field{title}{An unusual case of pica}
       \field{volume}{13}
       \field{year}{1998}
       \field{pages}{638\bibrangedash 641}
@@ -2850,7 +2850,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Inspired By Jackass (A Tv-Show About Self-Injuring Stunts), Some Friends Topped Off A Drinking Party With Live Fishes From Their Aquarium. After The Goldfishes Had Gone Down Smoothly, A Bronze Catfish Was Ingested. Unaware Of The Morphology And Anti-Predator Behaviour Of This Species, A Healthy But Intoxicated 28-Year-Old Man Got A Surprise. The Catfish Erected And Locked The Spines Of Its Pectoral Fins And Got Lodged In The Hypopharynx. After Several Hours, He Presented Himself At The Emergency Department With Dysphonia And Dysphagia. The Fish Had To Be Removed Endoscopically. Intubation And Admittance To The Intensive Care Unit Was Necessary Due To Laryngeal Oedema. Two Weeks Postoperatively, The Patient Made A Full Recovery And Donated The Fish To The Natural History Museum Rotterdam. The Publicity Generated By Public Exhibition Of The 'Do-Not-Swallow-Fish' Emphasised The Official Jackass Warning: '.. Do Not Attempt Any Of The Stunts You'Re About To See'.}
       \field{journaltitle}{Acta Oto-Laryngologica Case Reports}
-      \field{title}{A {{Jackass And A Fish}}: {{A Case Of Life-Threatening Intentional Ingestion Of A Live Pet Catfish Corydoras Aeneus}}}
+      \field{title}{A Jackass And A Fish: A Case Of Life-Threatening Intentional Ingestion Of A Live Pet Catfish Corydoras Aeneus}
       \field{year}{2019}
       \verb{doi}
       \verb 10.1080/23772484.2018.1555436
@@ -2885,7 +2885,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontline Gastroenterology}
-      \field{title}{Crying {{Wolf}}: {{The Danger Of Recurrent Intentional Foreign Body Ingestion}}}
+      \field{title}{Crying Wolf: The Danger Of Recurrent Intentional Foreign Body Ingestion}
       \field{year}{2021}
       \verb{doi}
       \verb 10.1136/flgastro-2021-101888
@@ -2939,8 +2939,8 @@
       \field{journaltitle}{International Surgery Journal}
       \field{langid}{english}
       \field{number}{1}
-      \field{shorttitle}{7'' Long Knife for 7 Years in the Duodenum}
-      \field{title}{7'' Long Knife for 7 Years in the Duodenum: A Rare Case Report and Review of Literature}
+      \field{shorttitle}{7'' long knife for 7 years in the duodenum}
+      \field{title}{7'' long knife for 7 years in the duodenum: a rare case report and review of literature}
       \field{urlday}{14}
       \field{urlmonth}{4}
       \field{urlyear}{2025}
@@ -2982,7 +2982,7 @@
       \field{abstract}{A 20-year-old woman was brought to the surgical outpatient department with the strange history of irresistible desire to ingest metallic substances, mainly nails and pins. Her problems were initiated after she was forced to marry against her wish. She had no abdominal complaints and on examination the abdomen appeared absolutely normal. Plain radiograph confirmed numerous nails and pins inside her GI tract. On detailed psychologic evaluation, she was found to be suffering from deviant sexual behavior and marriage against her wish acted as a stressor in the development of this habit.}
       \field{journaltitle}{Archives of Iranian medicine}
       \field{month}{10}
-      \field{title}{Repeated Ingestion of Sharp-Pointed Metallic Objects}
+      \field{title}{Repeated ingestion of sharp-pointed metallic objects}
       \field{volume}{11}
       \field{year}{2008}
       \field{pages}{563\bibrangedash 5}
@@ -3033,7 +3033,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{The Management Of Ingested Foreign Bodies Is A Challenging Task Because Each Case Is Unique With Multiple Varying Factors Including A Patient'S Age, Anatomical Considerations, Clinical Presentation, And The Type And Location Of The Foreign Body Ingested. Additionally, Concern Over Complications Associated With Button Battery Ingestion Typically Drives Management Decisions.~The Common Practice Is The Urgent Retrieval Of The Foreign Body Within Two To Six Hours Of Presentation. An Unusual Case Is Presented Here That Demonstrated Significantly Delayed Endoscopic Removal Of An Ingested Button Battery Without Complication, Avoiding The Many Risks Associated With Any Emergent Endoscopic Procedure. However, This Practice Is A Case-By-Case Decision Because There Is A Lack Of Literature To Guide The Current Management.}
       \field{journaltitle}{Cureus}
-      \field{title}{Esophageal {{Button Battery Retrieval}}: {{Time-In May Not Be Everything}}}
+      \field{title}{Esophageal Button Battery Retrieval: Time-In May Not Be Everything}
       \field{year}{2024}
       \verb{doi}
       \verb 10.7759/cureus.58327
@@ -3082,7 +3082,7 @@
       \field{langid}{eng, spa}
       \field{month}{10}
       \field{number}{8}
-      \field{title}{{Metallic bezoar after suicide attempt}}
+      \field{title}{Metallic bezoar after suicide attempt}
       \field{volume}{96}
       \field{year}{2018}
       \field{pages}{515}
@@ -3126,7 +3126,7 @@
       \field{langid}{english}
       \field{month}{12}
       \field{number}{6}
-      \field{title}{Multiple Magnet Ingestion and Gastrointestinal Morbidity}
+      \field{title}{Multiple magnet ingestion and gastrointestinal morbidity}
       \field{volume}{87}
       \field{year}{2002}
       \field{pages}{539\bibrangedash 540}
@@ -3166,7 +3166,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{The Ingestion Of A Foreign Body Is A Common Occurrence. Psychiatric Patients And Prisoners May Swallow Objects On Purpose. Occasionally Emergent Exploratory Laparotomy May Be Indicated If The Diagnosis Is Uncertain, And Emergent Removal Of The Foreign Body May Be Needed To Prevent Substantial Risk Of Serious Complications Including Perforation, Fistula, Or Gastrointestinal Bleeding.}
       \field{journaltitle}{Clinical Case Reports}
-      \field{title}{Gastric {{Foreign Body}}: {{A Comb}}}
+      \field{title}{Gastric Foreign Body: A Comb}
       \field{year}{2017}
       \verb{doi}
       \verb 10.1002/ccr3.957
@@ -3210,7 +3210,7 @@
       \field{langid}{english}
       \field{month}{10}
       \field{number}{10}
-      \field{title}{A Swallowed Toothbrush Causing Perforation 2 Years after Ingestion}
+      \field{title}{A swallowed toothbrush causing perforation 2 years after ingestion}
       \field{volume}{68}
       \field{year}{2007}
       \field{pages}{559}
@@ -3260,7 +3260,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Swallowed Foreign Bodies Evacuate Spontaneously; Therefore, Their Removal Is Necessary Only If A Complication Is Under Suspicion Or Has Ensued, A Man Of 22 Years Swallowed, With Suicidal Intentions, The 9-Cm-Long And 1.5-Cm-Wide Blade Of His Pocket Knife, Which According To Repeated X-Ray Investigations, Was Impacted Partly Through The Pylorus Into The Duodenum. Because Of The Symptoms, Perforation Could Nor Be Excluded, So Laparoscopic Removal Was Decided On. The Blade Meanwhile Passed Into The Jejunum And Was Localized Intraoperatively With A C-Arm Fluoroscope. After Jejunotomy And Removal Of The Blade, The Opening Of The Small Bowel Was Closed With Intracorporeal Hand-Suturing Technique. Postoperative Recovery Was Quick And Uneventful. On The Evidence Of The Case History Presented, The Laparoscopic Removal Of A Foreign Body From The Gastrointestinal Tract Can Be Judged A Convenient Procedure.}
       \field{journaltitle}{Surgical Laparoscopy \& Endoscopy}
-      \field{title}{Laparoscopic {{Removal Of A Foreign Body From The Jejunum}}}
+      \field{title}{Laparoscopic Removal Of A Foreign Body From The Jejunum}
       \field{year}{1998}
       \verb{doi}
       \verb 10.1097/00019509-199802000-00016
@@ -3330,8 +3330,8 @@
       \field{langid}{english}
       \field{month}{5}
       \field{number}{5}
-      \field{shorttitle}{Ingestion of Razor Blades, a Rare Event}
-      \field{title}{Ingestion of Razor Blades, a Rare Event: A Case Report in a Psychiatric Patient}
+      \field{shorttitle}{Ingestion of razor blades, a rare event}
+      \field{title}{Ingestion of razor blades, a rare event: a case report in a psychiatric patient}
       \field{urlday}{14}
       \field{urlmonth}{4}
       \field{urlyear}{2025}
@@ -3373,7 +3373,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Introduction: Intentional Swallowing Of Foreign Objects Is A Relatively Rare Psychopathological Behavior. Adolescents And Young Adults May Carry Out This Act To Hurt Themselves Or Even Suicide. Often, Most Reports Related To Deliberate Swallowing Are Typically Either Surgical Or Gastrointestinal And Rarely Are Found In Psychiatric Articles; More Often, The Swallowed Foreign Objects (80 - 90\%) Are Disposed Of Spontaneously, And 10 - 20\% Of Them Require Endoscopy For More Study And Less Than 1\% Of Them Need Surgery To Be Removed Or Its Complications. Case Presentation: The Presented Patient Is A 17-Year-Old Girl Admitted To The Psychosomatic Ward Of Afzalipour Hospital Due To Intentional Poisoning. During The Year Before Her Admission, On Three Separate Occasions, She Detached The Knife Blade From Its Haft And Swallowed It. She Underwent Laparotomy Twice, One Time For Sigmoid Tearing And Damage To The Left Ovary, To Remove The Knife And Regeneration Of The Left Ovary And Sigmoid, And Another Time To Remove The Knife In Order Not To Cause Damage To Her Intestines. To Our Knowledge, This Is The First Reported Case In The World In Which An Ovary Has Been Damaged. Further Investigation Into Her Background Shows Some Extent Of Privation Due To Her Family'S Long-Term Economic Problems And Instability; Moreover, Sexual And Physical Abuse Was Also Confirmed. The Patient Was Prescribed Clozapine, Which Decreased Her Suicidal Behavior And Attempts Noticeably. Conclusions: Swallowing Foreign Bodies In This Patient Is Interpreted As Both Self-Punishment And Punishing Others (Those Who Thought They Were Hurt Or May Be Blamed For Their Despair Or Rejection). Intentional Swallowing Of Foreign Objects Behavior Is More Resistant Than Other Self-Harming Activities And May Have A Worse Prognosis. Swallowing Foreign Objects Requires A Sophisticated Process That, If Not Correctly Managed, May Result In Serious Complications; Therefore, Appropriate Psychiatric Counseling And Supportive Treatment Are Necessary For These Patients. Specific To This Patient Eliminating The Effects Of Suicide And Reaching Medical Stability With A Short Admission Was Necessary. Her Suicidal Behavior And Attempts Decreased Significantly After Starting Clozapine Treatment. Therefore, Clozapine Treatment Is Recommended For Patients With Suicidal Behavior And Self-Harm. {©} 2023, Brieflands. All Rights Reserved.}
       \field{journaltitle}{International Journal Of High Risk Behaviors And Addiction}
-      \field{title}{Repeated {{Intentional Swallowing Of Foreign Objects By An Adolescent Girl Case Report}}}
+      \field{title}{Repeated Intentional Swallowing Of Foreign Objects By An Adolescent Girl Case Report}
       \field{year}{2023}
       \verb{doi}
       \verb 10.5812/ijhrba-134720
@@ -3422,8 +3422,8 @@
       \field{journaltitle}{Emergency (Tehran, Iran)}
       \field{langid}{english}
       \field{number}{1}
-      \field{shorttitle}{Sudden {{Death Following Oral Intake}} of {{Metal Objects}} ({{Acuphagia}})}
-      \field{title}{Sudden {{Death Following Oral Intake}} of {{Metal Objects}} ({{Acuphagia}}): A {{Case Report}}}
+      \field{shorttitle}{Sudden Death Following Oral Intake of Metal Objects (Acuphagia)}
+      \field{title}{Sudden Death Following Oral Intake of Metal Objects (Acuphagia): a Case Report}
       \field{volume}{6}
       \field{year}{2018}
       \field{pages}{e16}
@@ -3484,8 +3484,8 @@
       \field{langid}{english}
       \field{month}{8}
       \field{number}{1}
-      \field{shorttitle}{This Is a Successful Removal of More than 450 Pieces of Metal Objects from a Patient's Stomach}
-      \field{title}{This Is a Successful Removal of More than 450 Pieces of Metal Objects from a Patient's Stomach: A Case Report}
+      \field{shorttitle}{This is a successful removal of more than 450 pieces of metal objects from a patient's stomach}
+      \field{title}{This is a successful removal of more than 450 pieces of metal objects from a patient's stomach: a case report}
       \field{volume}{18}
       \field{year}{2024}
       \field{pages}{381}
@@ -3529,7 +3529,7 @@
       \field{langid}{english}
       \field{month}{6}
       \field{number}{5}
-      \field{title}{A Right Scrotal Abscess and Foreign Body Ingestion in a Schizophrenic Patient}
+      \field{title}{A right scrotal abscess and foreign body ingestion in a schizophrenic patient}
       \field{volume}{38}
       \field{year}{2010}
       \field{pages}{587\bibrangedash 592}
@@ -3579,7 +3579,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Intentional Ingestion Of A Foreign Body In Adults Is A Rare Clinical Presentation. This Case Is One Of A 27-Year-Old Sudanese Man Who Presented Having Swallowed A Ballpoint Pen Intentionally. Clinical Examination And Plain Chest Radiograph Exhibited No Signs Indicative Of Perforation With Only A Raised C Reactive Protein Identified On Blood Tests. Subsequent Gastroscopy Revealed That The Pen Had Simultaneously Perforated The Duodenum At Both D1 And D3 Requiring Removal Via A Laparotomy. The Patient Fully Recovered And Was Discharged 2\,Weeks Postoperatively Following Psychiatric Input.}
       \field{journaltitle}{Bmj Case Reports}
-      \field{title}{Double {{Duodenal Perforation Following Foreign Body Ingestion}}}
+      \field{title}{Double Duodenal Perforation Following Foreign Body Ingestion}
       \field{year}{2017}
       \verb{doi}
       \verb 10.1136/bcr-2017-223182
@@ -3631,7 +3631,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{A Bizarre Case Of A Foreign-Body Bezoar Is Presented. A 16-Year-Old Girl Swallowed Large Amounts Of Toilet Paper As A Means Of Dieting. She Presented With A Palpable Abdominal Mass, Multiple Bezoars In The Bowel, And Paper Excretion In The Feces Before Admitting Intentional Ingestion Of Toilet-Paper Balls. Administration Of Gastrografin Via A Nasogastric Tube And Enemas Resulted In Gradual Excretion Of The Paper Balls.}
       \field{journaltitle}{Pediatric Surgery International}
-      \field{title}{A {{Bizarre Bezoar}}: {{Case Report And Review Of The Literature}}}
+      \field{title}{A Bizarre Bezoar: Case Report And Review Of The Literature}
       \field{year}{1998}
       \verb{doi}
       \verb 10.1007/s003830050492
@@ -3687,7 +3687,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Intentional Ingestion Of Foreign Objects, A Form Of Self-Injurious Behavior, Is Rarely Discussed In The Medical Literature But Often Requires Extensive Evaluation, Management, And Resources. It Can Be Especially Problematic For Gastroenterologists, Who Are Often Consulted For Removal Of The Foreign Body. Pica Is The Psychiatric Diagnosis For Intentional Ingestion Of Nonnutritive Objects And Is Most Commonly Seen In Prison Inmates And Those Diagnosed With Intellectual Disability Or Psychiatric Illness. This Case Report Presents A Challenging Case Of Pica, Highlighting The Complexity Involved In Diagnosis And The Need For Early Psychiatric Intervention. It Also Aims To Provide A General Review Of The Literature And Practical Recommendations To Assist With Managing This Form Of Self-Injurious Behavior In The Inpatient Setting. Collaborative Efforts Among Specialties In Addition To Primary Prevention Are Vital To Successful Management Of These Patients.}
       \field{journaltitle}{Case Reports In Gastrointestinal Medicine}
-      \field{title}{Intentional {{Foreign Body Ingestion}}: {{A Complex Case Of Pica}}}
+      \field{title}{Intentional Foreign Body Ingestion: A Complex Case Of Pica}
       \field{year}{2019}
       \verb{doi}
       \verb 10.1155/2019/7026815
@@ -3770,8 +3770,8 @@
       \field{langid}{english}
       \field{month}{8}
       \field{number}{8}
-      \field{shorttitle}{Loose {{Screws}}}
-      \field{title}{Loose {{Screws}}: {{Removal}} of {{Foreign Bodies From}} the {{Lower Gastrointestinal Tract}}}
+      \field{shorttitle}{Loose Screws}
+      \field{title}{Loose Screws: Removal of Foreign Bodies From the Lower Gastrointestinal Tract}
       \field{urlday}{30}
       \field{urlmonth}{3}
       \field{urlyear}{2025}
@@ -3817,7 +3817,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{A 46-Year-Old Schizophrenic Male Presented To The Emergency Department (Ed) After Deliberate Ingestion Of An Undetermined Number Of Open Razor Blades. Abdominal Radiograph Revealed One Razor Blade But Raised Suspicion Of A Second Blade Which Was Subsequently Confirmed By Digital Tomosynthesis (Dts), Seen As Two Razor Blades Superimposed Upon Each Other Placed At Slightly Different Angles. A Careful Search Was Made During Endoscopy And The Two Razor Blades Were Retrieved From The Stomach And Duodenum, Respectively. This Case Illustrates The Use Of Digital Tomosynthesis As A Smart, Timely, Cost-Effective, And Low-Dose Alternative To Conventional Computed Tomography (Ct) That Can Be Conveniently Employed In The Ed For Foreign Body Localization.}
       \field{journaltitle}{Emergency Radiology}
-      \field{title}{Digital {{Tomosynthesis For Detection Of Ingested Foreign Objects In The Emergency Department}}: {{A Case Of Razor Blade Ingestion}}}
+      \field{title}{Digital Tomosynthesis For Detection Of Ingested Foreign Objects In The Emergency Department: A Case Of Razor Blade Ingestion}
       \field{year}{2019}
       \verb{doi}
       \verb 10.1007/s10140-018-01664-x
@@ -3872,8 +3872,8 @@
       \field{langid}{american}
       \field{month}{4}
       \field{number}{4}
-      \field{shorttitle}{Metallic Foreign Bodies Ingestion by Schizophrenic Patient}
-      \field{title}{Metallic Foreign Bodies Ingestion by Schizophrenic Patient: A Case Report}
+      \field{shorttitle}{Metallic foreign bodies ingestion by schizophrenic patient}
+      \field{title}{Metallic foreign bodies ingestion by schizophrenic patient: a case report}
       \field{urlday}{30}
       \field{urlmonth}{3}
       \field{urlyear}{2025}
@@ -3923,8 +3923,8 @@
       \field{journaltitle}{Journal of Family Medicine and Primary Care}
       \field{langid}{english}
       \field{number}{1}
-      \field{shorttitle}{Pica and Psychosis - Clinical Attributes and Correlations}
-      \field{title}{Pica and Psychosis - Clinical Attributes and Correlations: A Case Report}
+      \field{shorttitle}{Pica and psychosis - clinical attributes and correlations}
+      \field{title}{Pica and psychosis - clinical attributes and correlations: a case report}
       \field{volume}{4}
       \field{year}{2015}
       \field{pages}{149\bibrangedash 150}
@@ -3982,7 +3982,7 @@
       \field{langid}{english}
       \field{month}{6}
       \field{number}{3}
-      \field{title}{Pica - a Case of Acuphagia or Hyalophagia?}
+      \field{title}{Pica - a case of acuphagia or hyalophagia?}
       \field{volume}{70}
       \field{year}{2008}
       \field{pages}{144\bibrangedash 146}
@@ -4025,8 +4025,8 @@
       \field{journaltitle}{ARC Journal of Clinical Case Reports}
       \field{langid}{english}
       \field{number}{2}
-      \field{shorttitle}{Paper or {{Plastic}}?}
-      \field{title}{Paper or {{Plastic}}? {{A Foreign Body Ingestion Leading}} to {{Small Bowel Obstruction}}. {{A Case Report}}}
+      \field{shorttitle}{Paper or Plastic?}
+      \field{title}{Paper or Plastic? A Foreign Body Ingestion Leading to Small Bowel Obstruction. A Case Report}
       \field{urlday}{14}
       \field{urlmonth}{4}
       \field{urlyear}{2025}
@@ -4085,7 +4085,7 @@
       \field{langid}{english}
       \field{month}{7}
       \field{number}{S 01}
-      \field{title}{Vast Collection of Foreign Bodies in the Stomach Presenting as Acute Gastrointestinal Bleeding in a Patient with Schizophrenia}
+      \field{title}{Vast collection of foreign bodies in the stomach presenting as acute gastrointestinal bleeding in a patient with schizophrenia}
       \field{urlday}{14}
       \field{urlmonth}{4}
       \field{urlyear}{2025}
@@ -4132,7 +4132,7 @@
       \field{langid}{english}
       \field{month}{2}
       \field{number}{2}
-      \field{title}{Case Report of Sideroblastic Anemia Caused by Ingestion of Coins}
+      \field{title}{Case report of sideroblastic anemia caused by ingestion of coins}
       \field{volume}{66}
       \field{year}{2001}
       \field{pages}{126\bibrangedash 129}
@@ -4186,7 +4186,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Internal And Emergency Medicine}
-      \field{title}{Intentional {{Foreign Body Ingestion}}}
+      \field{title}{Intentional Foreign Body Ingestion}
       \field{year}{2019}
       \verb{doi}
       \verb 10.1007/s11739-019-02183-4
@@ -4248,7 +4248,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Foreign Bodies (Fbs) In The Gastrointestinal (Gi) Tract Can Show A Wide Range Of Clinical Manifestations Ranging From Spontaneous Evacuation To Severe Complication. Plain Radiography Is A Straightforward And Important Initial Imaging Modality In Cases Of Fb Ingestion Or Insertion And Is Also Helpful For Follow-Up Purposes. Careful Evaluations Of The Plain Radiographs Can Determine The Presence And Nature Of Fbs, And Help Predict Their Precise Locations And Facilitate Risk Assessment. In This Review, A Wide Variety Of Fbs In The Gi Tract Are Illustrated, And The Role Of Plain Radiography In Patient Management Is Discussed.}
       \field{journaltitle}{Clinical Imaging}
-      \field{title}{What {{Is The Role Of Plain Radiography In Patients With Foreign Bodies In The Gastrointestinal Tract}}?}
+      \field{title}{What Is The Role Of Plain Radiography In Patients With Foreign Bodies In The Gastrointestinal Tract?}
       \field{year}{2012}
       \verb{doi}
       \verb 10.1016/j.clinimag.2011.11.017
@@ -4313,7 +4313,7 @@
       \field{langid}{english}
       \field{month}{7}
       \field{number}{25}
-      \field{title}{Endoscopic Retrieval of 28 Foreign Bodies in a 100-Year-Old Female after Attempted Suicide}
+      \field{title}{Endoscopic retrieval of 28 foreign bodies in a 100-year-old female after attempted suicide}
       \field{volume}{19}
       \field{year}{2013}
       \field{pages}{4091\bibrangedash 4093}
@@ -4371,7 +4371,7 @@
       \field{langid}{english}
       \field{month}{11}
       \field{number}{5}
-      \field{title}{Magnetic Foreign Body Ingestions Leading to Duodenocolonic Fistula}
+      \field{title}{Magnetic foreign body ingestions leading to duodenocolonic fistula}
       \field{volume}{41}
       \field{year}{2005}
       \field{pages}{670\bibrangedash 672}
@@ -4415,7 +4415,7 @@
       \field{langid}{english}
       \field{month}{2}
       \field{number}{2}
-      \field{title}{Gastrointestinal 'Crosses'. {{A}} New Shade from an Old Palette.}
+      \field{title}{Gastrointestinal 'crosses'. A new shade from an old palette.}
       \field{volume}{131}
       \field{year}{1996}
       \field{pages}{166\bibrangedash 169}
@@ -4497,8 +4497,8 @@
       \field{issn}{1179-142X}
       \field{journaltitle}{International Medical Case Reports Journal}
       \field{langid}{english}
-      \field{shorttitle}{Ingestion of {{Metallic Materials Found}} in the {{Stomach}} and {{First Part}} of the {{Duodenum}} of a {{Schizophrenic Man}}}
-      \field{title}{Ingestion of {{Metallic Materials Found}} in the {{Stomach}} and {{First Part}} of the {{Duodenum}} of a {{Schizophrenic Man}}: {{Case Report}}}
+      \field{shorttitle}{Ingestion of Metallic Materials Found in the Stomach and First Part of the Duodenum of a Schizophrenic Man}
+      \field{title}{Ingestion of Metallic Materials Found in the Stomach and First Part of the Duodenum of a Schizophrenic Man: Case Report}
       \field{volume}{15}
       \field{year}{2022}
       \field{pages}{681\bibrangedash 684}
@@ -4556,7 +4556,7 @@
       \field{journaltitle}{Nigerian Journal of Clinical Practice}
       \field{langid}{english}
       \field{number}{4}
-      \field{title}{Metallic Sewing Needle Ingestion Presenting as Acute Abdomen}
+      \field{title}{Metallic sewing needle ingestion presenting as acute abdomen}
       \field{volume}{16}
       \field{year}{2013}
       \field{pages}{540\bibrangedash 543}
@@ -4606,7 +4606,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Purpose: There Are No Definite Guidelines On The Management Of Ingested Magnetic Objects In Children. The Aim Of This Study Was To Present Our Experience And To Highlight The Importance Of Strict Follow-Up. Methods: Within 6 Months Period, Four Children Presented To The Emergency Department After Ingestion Of Multiple Magnets. We Reviewed Retrospectively The Patients' Documents, Radiological Reports, Operative Findings And Outcome. We Also Performed A Literature Search For All Reports Of Multiple Magnets Ingestion On Medline And Embase. Results: Daily Abdominal Radiographs To Monitor Migration Of Magnetic Objects Together With Clinical Examination Revealed Early Detection Of Perforations In Two Patients. Explorative Laparoscopy And Suturing Of Perforations Resulted In A Rapid Recovery And Good Cosmetic Appearance. Literature Search Resulted In 44 Published Articles With A Total Of 52 Cases Of Multiple Magnet Ingestion In Children. Conclusions: This Report Stresses The Need For Prompt Follow-Up And Early Detection Of Complications In Order To Operate Those Patients Without Delay. Laparoscopy Is The Method Of Choice In Exploring The Abdomen When Perforation Is Suspected.}
       \field{journaltitle}{Pediatric Surgery International}
-      \field{title}{Bowel {{Injuries Caused By Ingestion Of Multiple Magnets In Children}}: {{A Growing Hazard}}}
+      \field{title}{Bowel Injuries Caused By Ingestion Of Multiple Magnets In Children: A Growing Hazard}
       \field{year}{2012}
       \verb{doi}
       \verb 10.1007/s00383-011-3026-x
@@ -4660,7 +4660,7 @@
       \field{langid}{english}
       \field{month}{1}
       \field{number}{1}
-      \field{title}{Gastroduodenal Fistula Caused by Ingested Magnets}
+      \field{title}{Gastroduodenal fistula caused by ingested magnets}
       \field{volume}{61}
       \field{year}{2005}
       \field{pages}{109\bibrangedash 110}
@@ -4704,7 +4704,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal Of Gastroenterology And Hepatology}
-      \field{title}{Gastrointestinal: {{Voluntary Padlock Ingestion}}}
+      \field{title}{Gastrointestinal: Voluntary Padlock Ingestion}
       \field{year}{2017}
       \verb{doi}
       \verb 10.1111/jgh.13828
@@ -4751,7 +4751,7 @@
       \field{abstract}{It is not uncommon to receive patients in the Accident and Emergency department with history of food bolus impaction in the upper gastro-intestinal tract or of ingestion of foreign bodies. We present a rare and unusual case of mobile phone ingestion that was retrieved successfully from the stomach by flexible upper gastro-intestinal (GI) endoscopy at our hospital. We did not find any other case report of mobile phone ingestion followed by successful endoscopic retrieval in the available English medical literature.}
       \field{journaltitle}{Annals of Clinical Case Reports}
       \field{langid}{english}
-      \field{title}{Endoscopic {{Retrieval}} of an {{Intentionally Ingested Mobile Phone}} in an {{Adult}}: {{First Case Report}} of Its {{Kind}}}
+      \field{title}{Endoscopic Retrieval of an Intentionally Ingested Mobile Phone in an Adult: First Case Report of its Kind}
       \field{volume}{1}
       \field{year}{2016}
       \verb{file}
@@ -4795,7 +4795,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Foreign Body Ingestion Is A Common Event; In The Adult Population, Most Ingestions Occur In Patients With Mental Disability, Psychiatric Disorders, Alcohol Intoxication Or In Prisoners Seeking Secondary Gain. Removal Through Flexible Endoscopy Is Generally The First-Line Approach But Rescue Oesophagotomy May Be Necessary For Foreign Bodies Impacted In The Upper Oesophagus. A 27-Year-Old Man Was Admitted In The Emergency Room After Intentional Ingestion Of A Wooden Spherical Object With A Central Hole. A Total Body Ct Scan Showed That The Object Was Completely Obstructing The Upper Oesophageal Lumen But There Were No Signs Of Perforation. In The Operating Room, A Weerda Diverticuloscope And A 5\,Mm 0{$^\circ$} Telescope Were Used To Visualise The Foreign Body Under General Anaesthesia. A Standard Endoscopic Biopsy Forceps Was Passed Through The Hole Of The Sphere And Was Retracted With The Jaws Open Allowing Transoral Extraction Without Complications.}
       \field{journaltitle}{Bmj Case Reports}
-      \field{title}{Unusual {{Foreign Body Impacted In The Upper Oesophagus}}: {{Original Technique For Transoral Extraction}}}
+      \field{title}{Unusual Foreign Body Impacted In The Upper Oesophagus: Original Technique For Transoral Extraction}
       \field{year}{2018}
       \verb{doi}
       \verb 10.1136/bcr-2018-225241
@@ -4841,7 +4841,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{A 39-Year-Old Woman, Who Was Addicted To Drugs, Was Admitted Because Of Referred Chest Pain And Dysphagia After Deliberate Ingestion Of A Thermometer In A Suicide Attempt 6 Hours Earlier. Rigid Esophagoscopy Was Unrevealing. On Awakening, The Patient Confessed That The Thermometer Had Been Swallowed More Than A Month Be Operated On And Get Narcotic Pain Medications. Her History Disclosed Multiple Admissions And Laparotomies After Suicide Attempts With Swallowed Thermometers In The Last 3 Years.}
       \field{journaltitle}{Annals Of Thoracic Surgery}
-      \field{title}{An {{Unusual Case Of A Swallowed Thermometer Perforated In The Mediastinum}}}
+      \field{title}{An Unusual Case Of A Swallowed Thermometer Perforated In The Mediastinum}
       \field{year}{2008}
       \verb{doi}
       \verb 10.1016/j.athoracsur.2007.07.027
@@ -4881,7 +4881,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal Of The Academy Of Consultation-Liaison Psychiatry}
-      \field{title}{Multi-{{Disciplinary Approach To Managing Deliberate Foreign Body Ingestion On The Medical Floor}}}
+      \field{title}{Multi-Disciplinary Approach To Managing Deliberate Foreign Body Ingestion On The Medical Floor}
       \field{year}{2022}
       \verb{doi}
       \verb 10.1016/j.jaclp.2022.10.025
@@ -4932,7 +4932,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Penetrating Cardiac Injuries Are Common In South Africa. Reports Describing Traumatic Lesions To The Heart Caused By Caudo-Cranial Migration Of Ingested Foreign Bodies Are However Extremely Rare. Delayed Presentation And Intervention Are Associated With Poor Outcome In These Patients; Cardiac Tamponade Remains The Most Serious Complication. We Present The Case Of A 19 Year-Old Man Who Sustained A Left Ventricular Injury After Intentionally Swallowing Eight Sewing Needles. The Impacted Needle Was Removed Through A Median Sternotomy And The Patient Recovered Uneventfully.}
       \field{journaltitle}{Heart, Lung \& Circulation}
-      \field{title}{Penetrating {{Cardiac Injury Following Sewing Needle Ingestion}}}
+      \field{title}{Penetrating Cardiac Injury Following Sewing Needle Ingestion}
       \field{year}{2011}
       \verb{doi}
       \verb 10.1016/j.hlc.2011.01.006
@@ -4978,7 +4978,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Introduction And Importance: A Bezoar Is An Indigestible Food Or Other Material Within The Gastrointestinal Tract. It Can Be Ingested Intentionally Or Accidentally. The Small Bowel Bezoar Prevalence Ranges Between 0.4~\% And 4~\%, And The Prevalence Is Less Than 0.5~\% For Gastric Bezoars. There Are Different Types Of Bezoars, But The Mention Of A Plastic Bezoar Rarely Appears In The Literature. To Our Knowledge, This Is The First Reported Case Of A Plastic Bezoar In The Kingdom Of Saudi Arabia. Case Presentation: A 58-Year-Old Woman Was Admitted For Acute Kidney Injury, And While Working Her Up, It Was Discovered That She Had A Possible Foreign Body On Computerized Tomography Scan. As A Result, She Underwent Exploratory Laparotomy With The Findings Of Plastic Foreign Objects Identified 90~Cm From The Ileocecal Valve And Other Objects Identified In The Stomach. Clinical Discussion: The Impaction Of These Materials Often Occurs In Narrow Areas Such As The Lower Esophagus, Duodenum, Ileocecal Valve Or Even The Anus. In This Unique Case, Two Points Of Impaction Were Noted: The First Was In The Small Bowel And The Second Point In The Stomach. The Approach To Such Cases Could Be Endoscopic Versus Surgical Or Even Chemical Dissolution As A Choice Of Treatment Is Dependent On Multiple Factors. Conclusion: The Approach To These Cases Is Multidisciplinary And Depends On The Availability Of Services And Resources At The Treating Hospital. Reporting Such Cases Helps In Managing Challenging Situations. Additionally, A Psychiatric Assessment Is A Crucial Step.}
       \field{journaltitle}{International Journal Of Surgery Case Reports}
-      \field{title}{A {{Plastic Bezoar Causing Bowel Obstruction}}: {{A Case Of Table Cover Ingestion}}}
+      \field{title}{A Plastic Bezoar Causing Bowel Obstruction: A Case Of Table Cover Ingestion}
       \field{year}{2024}
       \verb{doi}
       \verb 10.1016/j.ijscr.2024.109506
@@ -5019,7 +5019,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Intentional Ingestion Of Foreign Bodies Is Common In Psychiatric Patients And Prison Inmates. Timing Of Endoscopy For Ingested Foreign Bodies Varies And Depends On The Type And Location Of The Foreign Body In The Gastrointestinal Tract. We Present The Case Of A 26-Year-Old Man Who Was Brought From A Correctional Facility After Confessing To Have Swallowed A Few Shower Curtain Hooks. Abdominal X-Ray Done In The Emergency Room Revealed Multiple Foreign Bodies In The Stomach. An Upper Endoscopy Was Done In The Emergency Room With The Use Of An Overtube. The First Metal Piece Was Caught By A Snare And Removed With The Endoscope. All Other Foreign Bodies Which Were Present On The Abdominal X-Ray Could Not Be Visualized Initially As There Was Retained Food In The Stomach. After Multiple Attempts, Four Other Foreign Bodies Were Found And Each One Was Caught By The Forceps And Then The Scope Was Removed With The Forceps Holding The Foreign Body. There Was An Additional Foreign Body In The Right Mainstem Bronchus. The Patient Had Coughed Up The Foreign Body And Swallowed It Into The Gastrointestinal Tract. A Computed Tomography Scan Of Chest And Abdomen Was Done For Evaluation, Which Showed The Foreign Body In The Cecum. To Our Knowledge, This Is The First Case Report Of A Patient Intentionally Transferring A Foreign Body From One Organ System To Another. Colonoscopy Was Done And The Foreign Body Was Removed Rectally With A Snare Without Any Complications.}
       \field{journaltitle}{Case Reports In Gastroenterology}
-      \field{title}{All {{The Wrong Places}}: {{An Unusual Case Of Foreign Body Ingestion And Inhalation}}}
+      \field{title}{All The Wrong Places: An Unusual Case Of Foreign Body Ingestion And Inhalation}
       \field{year}{2012}
       \verb{doi}
       \verb 10.1159/000346287
@@ -5065,7 +5065,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Foreign Objects Ingestion, Either Intentionally Or Accidentally, Is A Well-Known Problem In Paediatric Population. However, It Is Not Uncommonly Seen In Adult Especially In Patients With Psychiatric Disorders And Prisoners. We Presented A Case In Which A Seventeen Year-Old Young Man Attended Emergency Department After Attempting Suicide By Cutting His Wrist. Incidentally, He Was Found To Have Ingested Multiple Magnets Which Stayed In The Stomach. Removal By Endoscopic Method Was Failed. Surgical Removal Of A Total Of Thirty-Three Magnets Through A Surgical Gastrostomy Was Performed.}
       \field{journaltitle}{Hong Kong Journal Of Emergency Medicine}
-      \field{title}{Ingestion {{Of Multiple Magnets For Suicide}}}
+      \field{title}{Ingestion Of Multiple Magnets For Suicide}
       \field{year}{2015}
       \verb{doi}
       \verb 10.1177/102490791502200107
@@ -5110,8 +5110,8 @@
       \field{langid}{english}
       \field{month}{7}
       \field{number}{7}
-      \field{shorttitle}{Ingested Magnets}
-      \field{title}{Ingested Magnets: The Force Within}
+      \field{shorttitle}{Ingested magnets}
+      \field{title}{Ingested magnets: the force within}
       \field{volume}{20}
       \field{year}{2004}
       \field{pages}{466\bibrangedash 467}
@@ -5156,7 +5156,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Accidental Foreign Body Ingestion Is A Common Problem Encountered In Emergency. Deliberate Foreign Body Ingestion May Result Due To An Act Of Insanity Or An Act Of Daring. A Shaman Locally Known As Dhami Was Brought To Emergency With The History Of Ingestion Of Bell Clappers. He Denied The History Of Psychiatric Illness Or Substance Abuse. On Physical Examination, There Were Signs Of Peritonitis. Laparotomy Was Done To Remove The Foreign Bodies. Post-Operative Period Was Uneventful. Apart From The Surgical Intervention, Psychological Counselling Was Given To Him. This Is A Rare Interesting Case Due To The Fact That The 15 Cm Long Foreign Bodies Passing All The Way Through Without Significant Injury And Finally Causing Obstruction In Ileocecal Junction And Perforation In The Distal Ileum. Keywords: Foreign Bodies; Nepal; Shaman.}
       \field{journaltitle}{Jnma; Journal Of The Nepal Medical Association}
-      \field{title}{Ingestion {{Of Bell Clappers By A Shaman In Jumla}}, {{Nepal}}: {{A Case Report}}}
+      \field{title}{Ingestion Of Bell Clappers By A Shaman In Jumla, Nepal: A Case Report}
       \field{year}{2019}
       \verb{doi}
       \verb 10.31729/jnma.4055
@@ -5202,7 +5202,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{The Majority Of Ingested Foreign Bodies Will Pass Safely Through The Gastrointestinal Tract, But Long And Rigid Foreign Bodies Are Associated With An Increased Risk Of Gastrointestinal Impaction, Perforation And Bleeding. However, Large Foreign Bodies Which Have Been Swallowed Can Remain Trapped In The Stomach Over A Longer Period Of Time Without Any Significant Symptoms. This Case Report Describes The Case Of A 36-Year-Old Man Addicted To Heroin Who Purposefully Swallowed A Lighter (Double Wrapped In Cellophane) And Presented With Hematemesis And Melena 17 Months After The Ingestion Of The Foreign Body. The Lighter Was Successfully Removed Via Flexible Endoscopy Using A Polypectomy Snare. Swallowed Long And Rigid Foreign Bodies Trapped In The Stomach Over A Long Period Of Time Always Represent A Special Clinical And Endoscopic Challenge. In Cases Where Endoscopic Removal Fails, A Laparoscopic Surgical Approach May Be An Alternative.}
       \field{journaltitle}{Case Reports In Gastroenterology}
-      \field{title}{Successful {{Endoscopic Removal Of A Lighter Swallowed}} 17 {{Months Before}}}
+      \field{title}{Successful Endoscopic Removal Of A Lighter Swallowed 17 Months Before}
       \field{year}{2012}
       \verb{doi}
       \verb 10.1159/000338839
@@ -5248,7 +5248,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{We Report A Case Of Small Bowel Obstruction Secondary To Coin Ingestion. A 22-Year-Old Woman Presented To The Emergency Department (Ed) With A 3-Week History Of Abdominal Pain. Upon Initial History The Patient Denied Any Foreign Body Ingestion. Only After Computed Tomography (Ct) Scanning Of The Abdomen And Pelvis Did The Patient Admit To Deliberate Ingestion Of A Single United States Penny Coin. During Surgical Evaluation It Was Found That The Coin Had Lodged Near The Ileocecal Valve And An Inflammatory Mass Had Formed Around The Intraluminal Coin, Causing A 10 X 7 Cm Fibrous Tumor To Completely Obstruct The Small Bowel. It Is Thought That Oxidation Of The Coin, With Subsequent Exposure Of Its High Zinc Content, Instigated The Inflammatory Cascade.}
       \field{journaltitle}{Journal Of Emergency Medicine}
-      \field{title}{A {{Penny For Your Thoughts}}: {{Small Bowel Obstruction Secondary To Coin Ingestion}}}
+      \field{title}{A Penny For Your Thoughts: Small Bowel Obstruction Secondary To Coin Ingestion}
       \field{year}{2004}
       \verb{doi}
       \verb 10.1016/j.jemermed.2004.03.013
@@ -5299,7 +5299,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Foreign Body Ingestions Often Consist Of Benign Objects That Will Readily Pass Through The Gastrointestinal (Gi) Tract Without Necessitating Further Intervention. There Are Various Reports In The Literature About Intentional Ingestion Of Foreign Bodies In Prisoners And Body Packers, Which Required Intervention. We Present A Case Of 44-Year-Old Male With A History Of Intentional Ingestion Of 30 Gold Pellets As A Carrier From Dubai To India. The Pellets Were Successfully Retrieved By Upper Gi Endoscopy After 1-Week Of Observation And Unsuccessful Attempts Of Conservative Trial. There Have Been Many Foreign Body Extractions But Gold Retrieval Has Been A Rare Case.}
       \field{journaltitle}{Journal Of Digestive Endoscopy}
-      \field{title}{The {{Mule With Golden Eggs}}: {{Retrieval Of Unusual Foreign Body}}}
+      \field{title}{The Mule With Golden Eggs: Retrieval Of Unusual Foreign Body}
       \field{year}{2015}
       \verb{doi}
       \verb 10.4103/0976-5042.159247
@@ -5344,8 +5344,8 @@
       \field{langid}{english}
       \field{month}{10}
       \field{number}{10}
-      \field{shorttitle}{Ingestion of Magnets}
-      \field{title}{Ingestion of Magnets: Innocent in Solitude, Harmful in Groups}
+      \field{shorttitle}{Ingestion of magnets}
+      \field{title}{Ingestion of magnets: innocent in solitude, harmful in groups}
       \field{volume}{40}
       \field{year}{2005}
       \field{pages}{e33\bibrangedash 35}
@@ -5390,7 +5390,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{The Presence Of A Foreign Body In The Gastrointestinal Tract Constitutes A Common Pathology, Considering Surgical Clinical Practice. The Management Of The Ingestion Of A Foreign Body Depends On Many Factors. The Study Presented A Case Of A 33-Year-Old Female Patient Subjected To Surgical Treatment, Due To Deliberate Swallowing Of A Balloon. The Above-Mentioned Was The Amateur Equivalent Of Intragastric Balloon Insertion, Inducing Weight Loss. This Is A Rare Cause Of A Foreign Body Ingestion, Seldomly Found In Literature Data. The Patient Reported To The Emergency Department On The Second Day After Ingestion With Symptoms Of Mechanical Subobstruction, And After Initial Diagnostics, Was Qualified For Surgery. The Postoperative Period Proved Uneventful. The Study Illustrated The Often Unfavourable Access To False Data On The Internet, Which May Stimulate Towards The Above-Mentioned Behaviour.}
       \field{journaltitle}{Polski Przeglad Chirurgiczny}
-      \field{title}{Foreign {{Body In The Gastrointestinal Tract Leading To Small Bowel Obstruction--Case Report And Literature Review}}}
+      \field{title}{Foreign Body In The Gastrointestinal Tract Leading To Small Bowel Obstruction--Case Report And Literature Review}
       \field{year}{2015}
       \verb{doi}
       \verb 10.1515/pjs-2015-0006
@@ -5438,8 +5438,8 @@
       \field{issn}{1757-790X}
       \field{journaltitle}{BMJ Case Reports}
       \field{month}{2}
-      \field{shorttitle}{Metal in Stomach}
-      \field{title}{Metal in Stomach: A Rare Cause of Gastric Bezoar}
+      \field{shorttitle}{Metal in stomach}
+      \field{title}{Metal in stomach: a rare cause of gastric bezoar}
       \field{urlday}{14}
       \field{urlmonth}{4}
       \field{urlyear}{2025}
@@ -5489,7 +5489,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Introduction. Unintentional Foreign Body Ingestion Commonly Occurs Accidentally In Children Aged Between 3 Months And 6 Years And At Advanced Ages Or Results From Psychiatric Disorders Such As Hallucination In Patients With Mental Retardation. Most Of The Ingested Foreign Bodies Are Naturally Discharged From The Body But Some Of Them May Require Surgical Intervention. Presentation Of Case. A 29-Year-Old Mentally Retarded Female Patient Was Admitted To The Emergency Service With A Two-Day History Of Abdominal Pain, Nausea, And Vomiting. Physical Examination Revealed Abdominal Tenderness, Defense, And Rebound On Palpation. Radiological Examination Revealed Diffuse Air-Fluid Levels And A Radiopaque Impression Of A Metal Object In The Right Upper Quadrant. The Metal Teaspoon Causing Ileal Perforation Was Extracted By Emergency Laparotomy. On Postoperative Day 7, The Patient Was Uneventfully Discharged Following A Psychiatric Consultation. Discussion. Foreign Body Ingestion Can Occur Intentionally In Children At Developing Ages And Old-Age Patients, Or Adults And Prisoners, Whereas It May Occur Unintentionally In Patients With Mental Retardation Due To Hallucination. However, Repeated Foreign Body Ingestion Is Very Rare In Individuals Other Than Mentally Retarded Patients. Conclusion. Mentally Retarded Patients Should Be Kept Under Close Surveillance By Surgeons And Psychiatrists Due To Their Tendency To Ingest Foreign Bodies.}
       \field{journaltitle}{Case Reports In Surgery}
-      \field{title}{Tendency {{To Ingest Foreign Bodies In Mentally Retarded Patients}}: {{A Case With Ileal Perforation Caused By The Ingestion Of A Teaspoon}}}
+      \field{title}{Tendency To Ingest Foreign Bodies In Mentally Retarded Patients: A Case With Ileal Perforation Caused By The Ingestion Of A Teaspoon}
       \field{year}{2016}
       \verb{doi}
       \verb 10.1155/2016/8075432
@@ -5518,7 +5518,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{1. Abstract Foreign Body Ingestion [Fbi] Is Rare In Adults As Compared With Children [1]. Foreign Body Ingestion Is Accidental In 95 Percent Of Cases And Is Usually Related To Food [Fish, ...}
       \field{journaltitle}{A Case Report. Clin Surg}
-      \field{title}{Repeated {{Behavior Of Deliberate Foreign Body Ingestion In A Patient With Psychiatric Disorder}}}
+      \field{title}{Repeated Behavior Of Deliberate Foreign Body Ingestion In A Patient With Psychiatric Disorder}
       \field{year}{2024}
       \verb{doi}
       \verb 10.52916/jmrs244144
@@ -5582,7 +5582,7 @@
       \field{journaltitle}{Psychiatry (Edgmont)}
       \field{month}{9}
       \field{number}{9}
-      \field{title}{Swallowing {{Foreign Bodies}} as an {{Example}} of {{Impulse Control Disorder}} in a {{Patient With Intellectual Disabilities}}}
+      \field{title}{Swallowing Foreign Bodies as an Example of Impulse Control Disorder in a Patient With Intellectual Disabilities}
       \field{urlday}{14}
       \field{urlmonth}{4}
       \field{urlyear}{2025}
@@ -5657,7 +5657,7 @@
       \field{journaltitle}{International Surgery}
       \field{month}{11}
       \field{number}{1-3}
-      \field{title}{The {{Management}} of {{Voluntary Ingestion}} of {{Razor Blades}} by {{Inmates}}}
+      \field{title}{The Management of Voluntary Ingestion of Razor Blades by Inmates}
       \field{urlday}{14}
       \field{urlmonth}{4}
       \field{urlyear}{2025}
@@ -5708,7 +5708,7 @@
       \field{langid}{english}
       \field{month}{5}
       \field{number}{5}
-      \field{title}{Intentional Ingestion of Foreign Objects by Male Prison Inmates}
+      \field{title}{Intentional ingestion of foreign objects by male prison inmates}
       \field{volume}{42}
       \field{year}{1991}
       \field{pages}{533\bibrangedash 535}
@@ -5796,7 +5796,7 @@
       \field{langid}{english}
       \field{month}{12}
       \field{number}{4}
-      \field{title}{Foreign {{Objects}} in {{Korean Prisoners}}}
+      \field{title}{Foreign Objects in Korean Prisoners}
       \field{urlday}{14}
       \field{urlmonth}{4}
       \field{urlyear}{2025}
@@ -5833,8 +5833,8 @@
       \field{abstract}{Pandas is a powerful data structures for data analysis, time series, and statistics.}
       \field{howpublished}{Zenodo}
       \field{month}{3}
-      \field{shorttitle}{Pandas-Dev/Pandas}
-      \field{title}{Pandas-Dev/Pandas: {{Pandas}}}
+      \field{shorttitle}{pandas-dev/pandas}
+      \field{title}{pandas-dev/pandas: Pandas}
       \field{urlday}{3}
       \field{urlmonth}{4}
       \field{urlyear}{2025}
@@ -5866,7 +5866,7 @@
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Diagnostic and Statistical Manual of Mental Disorders (5th Ed.)}
+      \field{title}{Diagnostic and statistical manual of mental disorders (5th ed.)}
       \field{year}{2013}
     \endentry
     \entry{UNGeneralAssembly_1967}{misc}{}{}
@@ -5886,13 +5886,13 @@
       \strng{authornamehash}{5a754ce56fd47c3989762d2d550dde51}
       \strng{authorfullhash}{5a754ce56fd47c3989762d2d550dde51}
       \strng{authorfullhashraw}{5a754ce56fd47c3989762d2d550dde51}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
       \field{month}{1}
-      \field{title}{Protocol {{Relating}} to the {{Status}} of {{Refugees}}}
+      \field{title}{Protocol Relating to the Status of Refugees}
       \field{urlday}{27}
       \field{urlmonth}{5}
       \field{urlyear}{2025}
@@ -5931,8 +5931,8 @@
       \strng{authornamehash}{bd99f91f04b58e3b1ddfdc756fda9da6}
       \strng{authorfullhash}{bd99f91f04b58e3b1ddfdc756fda9da6}
       \strng{authorfullhashraw}{bd99f91f04b58e3b1ddfdc756fda9da6}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The Guiding Principles define displacement as the movement of persons forced or obliged to flee due to conflict, violence, disasters, or rights violations.}
@@ -5940,7 +5940,7 @@
       \field{langid}{english}
       \field{month}{2}
       \field{number}{UN Doc E/CN.4/1998/53/Add.2}
-      \field{title}{Guiding {{Principles}} on {{Internal Displacement}}}
+      \field{title}{Guiding Principles on Internal Displacement}
       \field{type}{techreport}
       \field{urlday}{31}
       \field{urlmonth}{3}
@@ -5965,14 +5965,14 @@
       \strng{authornamehash}{1caa6750fcd92675f4b217addf3d35f7}
       \strng{authorfullhash}{1caa6750fcd92675f4b217addf3d35f7}
       \strng{authorfullhashraw}{1caa6750fcd92675f4b217addf3d35f7}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{An asylum-seeker is someone who is seeking international protection. Learn more about asylum-seekers and how UNHCR protects them.}
       \field{howpublished}{https://www.unhcr.org/us/about-unhcr/who-we-protect/asylum-seekers}
       \field{langid}{american}
-      \field{title}{Asylum-Seekers}
+      \field{title}{Asylum-seekers}
       \field{urlday}{27}
       \field{urlmonth}{5}
       \field{urlyear}{2025}

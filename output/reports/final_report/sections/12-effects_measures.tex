@@ -1,4 +1,14 @@
 \subsection*{Effects Measures}
-For binary outcomes (endoscopy, surgery, and death), the effect measure used was the odds ratio (OR), calculated from 2x2 contingency tables. Each odds ratio was accompanied by a 95\% confidence interval (CI) and a p-value from a chi-square test of independence.
+For binary outcomes (endoscopy, surgery, complications, and death), the effect measure used was the odds ratio (OR), calculated from 2x2 contingency tables. Each odds ratio was accompanied by a 95\% confidence interval (CI) and a p-value from a chi-square test of independence.
 
-This approach was used consistently across all pairwise comparisons between binary exposure variables (e.g., motivations, object types, population characteristics) and binary outcome variables. Significant associations were identified at a threshold of $p < 0.05$ and reported alongside their respective ORs and CIs.
+This approach was used consistently across all pairwise comparisons between binary exposure variables (e.g., motivations, object types, population characteristics) and binary outcome variables. Significant associations were identified at a threshold of $p < 0.05$ and reported alongside their respective ORs and CIs. Due to the small number of deaths observed, effect estimates for death should be interpreted with caution.
+
+\subsection*{Logistic Regression Modelling}
+
+To explore which factors were independently associated with clinical outcomes, we performed multivariable logistic regression analyses for four outcomes of interest: endoscopy, surgery, complications, and death. For each outcome, we constructed a logistic regression model including the following groups of predictor variables: age group, gender, population characteristics, ingestion motivation, and object type.
+
+Age group, gender, and motivation variables were entered as one-hot encoded categorical variables with a reference category omitted. Population characteristics and object type variables were included as binary indicators. A constant term was included in each model. All variables were selected a priori based on clinical relevance and prior univariable (chi-square) analyses.
+
+Missing values in predictor variables were imputed as zero. Models were fitted using maximum likelihood estimation via the 	exttt{statsmodels} Python library. In the event that a model failed to converge or could not be fitted (as occurred for the death outcome due to small sample size), an empty result table was substituted to maintain consistency of reporting across outcomes.
+
+For each predictor, we reported the odds ratio (OR) with corresponding 95\% confidence interval (CI) and p-value. Results from all models were summarised in a single grouped wide table, with predictors grouped into their logical domains (age, gender, population, motivation, object). The intercept term (	exttt{const}) was excluded from the summary table. Significant predictors ($p < 0.05$) were flagged with an asterisk.
