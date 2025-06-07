@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.31)  6 JUN 2025 22:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.31)  7 JUN 2025 19:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -947,6 +947,14 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
 
 (./main.aux)
+Runaway definition?
+->\LT@entry {1}{154.26378pt}\LT@ent 
+! File ended while scanning definition of \LT@i.
+<inserted text> 
+                }
+l.53 \begin{document}
+                     
+? 
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
@@ -967,7 +975,6 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
 LaTeX Font Info:    ... okay on input line 53.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 53.
 LaTeX Font Info:    ... okay on input line 53.
-
 -- Lines per column: 60 (approximate, difference = 2.7pt).
 (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1070,16 +1077,32 @@ ocal/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 
 ])
-(./sections/04-objectives.tex) (./sections/05-eligibility_criteria.tex)
-(./sections/06-information_sources.tex) (./sections/07-search_strategy.tex)
-(./sections/08-selection_process.tex)
+(./sections/04-objectives.tex) (./sections/05-eligibility_criteria.tex
+
+LaTeX Warning: Reference `tab:inclusion-criteria' on page 2 undefined on input 
+line 5.
+
+
+LaTeX Warning: Reference `tab:exclusion-criteria' on page 2 undefined on input 
+line 5.
+
+) (./sections/06-information_sources.tex) (./sections/07-search_strategy.tex
+
+LaTeX Warning: Reference `appendix:search-strategy' on page 2 undefined on inpu
+t line 3.
+
+) (./sections/08-selection_process.tex)
 (./sections/09-data_collection_process.tex) (./sections/10-data_items.tex
+
+
+LaTeX Warning: Reference `appendix:variables' on page 2 undefined on input line
+ 4.
 
 ) (./sections/11-risk_of_bias_assessment.tex)
 (./sections/12-effects_measures.tex
 
 [2]) (./sections/16-study_selection.tex)
-<figures/prisma_diagram.png, id=176, 844.8363pt x 597.6729pt>
+<figures/prisma_diagram.png, id=172, 844.8363pt x 597.6729pt>
 File: figures/prisma_diagram.png Graphic file (type png)
 <use figures/prisma_diagram.png>
 Package pdftex.def Info: figures/prisma_diagram.png  used on input line 78.
@@ -1126,7 +1149,13 @@ nput line 5.
 
 
 
-]) (./sections/27-data_code_other_materials.tex)
+]) (./tables/aggregate_series_data_long_table.tex)
+
+[9
+
+
+
+] (./sections/27-data_code_other_materials.tex)
 (./sections/s1-risk_of_bias_supplement.tex
 LaTeX Font Info:    Trying to load font information for T1+pcr on input line 8.
 
@@ -1136,20 +1165,15 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 ))
 
 
-Overfull \hbox (24.12442pt too wide) in paragraph at lines 104--104
+Overfull \hbox (24.12442pt too wide) in paragraph at lines 107--107
 \T1/ptm/m/n/10 https://www.globaldetentionproject.org/countries/europe/united-
  []
 
 
 
-[9
-
+[10
 
 ]
-
-
-
-[10]
 
 
 
@@ -1161,7 +1185,11 @@ Overfull \hbox (24.12442pt too wide) in paragraph at lines 104--104
 
 
 
-[13] (./sections/appendix_a.tex) (./sections/appendix_b.tex
+[13]
+
+
+
+[14] (./sections/appendix_a.tex) (./sections/appendix_b.tex
 Overfull \hbox (1.86566pt too wide) in paragraph at lines 52--58
 []|[]| 
  []
@@ -1171,19 +1199,19 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[14
+[15
 
 ]
-
-[15]
 
 [16]
 
 [17]
 
-[18]) (./sections/appendix_c.tex)
+[18]
 
-[19] (./main.aux)
+[19]) (./sections/appendix_c.tex)
+
+[20] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -1195,29 +1223,25 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: A32BDECB6EE897169C5A3C9A1A489909;2188.
 
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: E924440311E2CB1A9510A6FA33A8AF29;2188
-(rerunfilecheck)             After:  A32BDECB6EE897169C5A3C9A1A489909;2188.
-
-Package biblatex Warning: Please rerun LaTeX.
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23316 strings out of 473190
- 426839 string characters out of 5715800
- 1353243 words of memory out of 5000000
- 45999 multiletter control sequences out of 15000+600000
+ 23330 strings out of 473190
+ 427242 string characters out of 5715800
+ 1341218 words of memory out of 5000000
+ 46008 multiletter control sequences out of 15000+600000
  672347 words of font info for 152 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,17n,81p,10953b,2056s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,17n,81p,10012b,2054s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
 , replaced by a fixed one
@@ -1237,10 +1261,10 @@ xlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/20
 25/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2025/texmf-d
 ist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (19 pages, 1276458 bytes).
+Output written on main.pdf (20 pages, 1275575 bytes).
 PDF statistics:
- 2573 PDF objects out of 2984 (max. 8388607)
- 1566 compressed objects within 16 object streams
- 203 named destinations out of 1000 (max. 500000)
+ 2401 PDF objects out of 2487 (max. 8388607)
+ 1481 compressed objects within 15 object streams
+ 205 named destinations out of 1000 (max. 500000)
  134 words of extra memory for PDF output out of 10000 (max. 10000000)
 
