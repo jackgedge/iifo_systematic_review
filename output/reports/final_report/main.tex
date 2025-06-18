@@ -86,9 +86,14 @@ and Giles Cattermole
 
 \input{sections/20-synthesis_results.tex}
 
-\onecolumn
-\input{tables/case_data_grouped_summary_wide.tex}
-\twocolumn
+\begin{figure}[t]
+\centering
+\includegraphics[width=\columnwidth]{figures/meta_summary_plot.png}
+\caption{Case series meta-analysis of pooled outcome proportions.}
+\label{fig:meta}
+\end{figure}
+
+
 \onecolumn
 \input{tables/chi2_results_grouped_wide_table.tex}
 \twocolumn
@@ -98,6 +103,15 @@ and Giles Cattermole
 \onecolumn
 \input{tables/aggregate_series_data_long_table.tex}
 \twocolumn
+\onecolumn
+\input{tables/series_meta_regression_wide_table.tex}
+\twocolumn
+
+\input{sections/21-reporting_of_bias.tex}
+\input{sections/22-certainty_of_evidence.tex}
+
+\section{Discussion}
+
 
 \input{sections/27-data_code_other_materials.tex}
 
