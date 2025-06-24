@@ -5826,8 +5826,8 @@
       \strng{authornamehash}{c7b5508dc5e59a2846d22617276cc27c}
       \strng{authorfullhash}{c7b5508dc5e59a2846d22617276cc27c}
       \strng{authorfullhashraw}{c7b5508dc5e59a2846d22617276cc27c}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{5}
@@ -5848,8 +5848,8 @@
       \strng{authornamehash}{d850c852b9f625e446a32cef4a26cb3c}
       \strng{authorfullhash}{d850c852b9f625e446a32cef4a26cb3c}
       \strng{authorfullhashraw}{d850c852b9f625e446a32cef4a26cb3c}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Pandas is a powerful data structures for data analysis, time series, and statistics.}
@@ -5961,8 +5961,8 @@
       \strng{authornamehash}{9ec95d747bac3417f92265a9a44f8bb4}
       \strng{authorfullhash}{490c08d091505100c571bcba89f8c65d}
       \strng{authorfullhashraw}{490c08d091505100c571bcba89f8c65d}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Scikit-learn is a Python module integrating a wide range of state-of-the-art machine learning algorithms for medium-scale supervised and unsupervised problems. This package focuses on bringing machine learning to non-specialists using a general-purpose high-level language. Emphasis is put on ease of use, performance, documentation, and API consistency. It has minimal dependencies and is distributed under the simplified BSD license, encouraging its use in both academic and commercial settings. Source code, binaries, and documentation can be downloaded from http://scikit-learn.sourceforge.net.}
@@ -5997,8 +5997,8 @@
       \strng{authornamehash}{ce2c470a69e9b189664512d02dc6f03c}
       \strng{authorfullhash}{ce2c470a69e9b189664512d02dc6f03c}
       \strng{authorfullhashraw}{ce2c470a69e9b189664512d02dc6f03c}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Diagnostic and statistical manual of mental disorders (5th ed.)}
@@ -6021,8 +6021,8 @@
       \strng{authornamehash}{5a754ce56fd47c3989762d2d550dde51}
       \strng{authorfullhash}{5a754ce56fd47c3989762d2d550dde51}
       \strng{authorfullhashraw}{5a754ce56fd47c3989762d2d550dde51}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
@@ -6066,8 +6066,8 @@
       \strng{authornamehash}{bd99f91f04b58e3b1ddfdc756fda9da6}
       \strng{authorfullhash}{bd99f91f04b58e3b1ddfdc756fda9da6}
       \strng{authorfullhashraw}{bd99f91f04b58e3b1ddfdc756fda9da6}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The Guiding Principles define displacement as the movement of persons forced or obliged to flee due to conflict, violence, disasters, or rights violations.}
@@ -6100,8 +6100,8 @@
       \strng{authornamehash}{1caa6750fcd92675f4b217addf3d35f7}
       \strng{authorfullhash}{1caa6750fcd92675f4b217addf3d35f7}
       \strng{authorfullhashraw}{1caa6750fcd92675f4b217addf3d35f7}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{An asylum-seeker is someone who is seeking international protection. Learn more about asylum-seekers and how UNHCR protects them.}
