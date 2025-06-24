@@ -2199,6 +2199,52 @@
       \verb /Users/jackgedge/Zotero/storage/HQDJMPY3/Page et al. - 2021 - The PRISMA 2020 statement an updated guideline fo.pdf
       \endverb
     \endentry
+    \entry{Machin_2008}{book}{}{}
+      \name{author}{3}{}{%
+        {{hash=bbccb4fe4d4594ea21f815dab85188ac}{%
+           family={Machin},
+           familyi={M\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=9851a07c79b4a7257312e7e7494b525c}{%
+           family={Campbell},
+           familyi={C\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=1ccea5ea54fe7a2d267996749d9c082d}{%
+           family={Walters},
+           familyi={W\bibinitperiod},
+           given={Stephen\bibnamedelimb John\bibnamedelima Kasabuski},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chichester}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{1708d8b1cf1d77a95d7a81cb3377eb95}
+      \strng{fullhash}{1708d8b1cf1d77a95d7a81cb3377eb95}
+      \strng{fullhashraw}{1708d8b1cf1d77a95d7a81cb3377eb95}
+      \strng{bibnamehash}{1708d8b1cf1d77a95d7a81cb3377eb95}
+      \strng{authorbibnamehash}{1708d8b1cf1d77a95d7a81cb3377eb95}
+      \strng{authornamehash}{1708d8b1cf1d77a95d7a81cb3377eb95}
+      \strng{authorfullhash}{1708d8b1cf1d77a95d7a81cb3377eb95}
+      \strng{authorfullhashraw}{1708d8b1cf1d77a95d7a81cb3377eb95}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{4. ed., reprinted}
+      \field{isbn}{978-0-470-02519-2}
+      \field{langid}{english}
+      \field{shorttitle}{Medical statistics}
+      \field{title}{Medical statistics: a textbook for the health sciences}
+      \field{year}{2008}
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/59TURQ2Z/Medical Statistics. A Textbook for the Health Sciences. 4th Edition.pdf
+      \endverb
+    \endentry
     \entry{MicrosoftCorporation_2025}{misc}{}{}
       \name{author}{1}{}{%
         {{hash=b9a8b868588ad4bc6b36c29936e26423}{%
@@ -2218,6 +2264,28 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Microsoft Excel}
+      \field{year}{2025}
+    \endentry
+    \entry{PythonSoftwareFoundation_2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=c7b5508dc5e59a2846d22617276cc27c}{%
+           family={{Python Software Foundation}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{c7b5508dc5e59a2846d22617276cc27c}
+      \strng{fullhash}{c7b5508dc5e59a2846d22617276cc27c}
+      \strng{fullhashraw}{c7b5508dc5e59a2846d22617276cc27c}
+      \strng{bibnamehash}{c7b5508dc5e59a2846d22617276cc27c}
+      \strng{authorbibnamehash}{c7b5508dc5e59a2846d22617276cc27c}
+      \strng{authornamehash}{c7b5508dc5e59a2846d22617276cc27c}
+      \strng{authorfullhash}{c7b5508dc5e59a2846d22617276cc27c}
+      \strng{authorfullhashraw}{c7b5508dc5e59a2846d22617276cc27c}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{title}{Python}
       \field{year}{2025}
     \endentry
     \entry{Moola_2020}{incollection}{}{}
@@ -2308,6 +2376,41 @@
       \verb{file}
       \verb /Users/jackgedge/Zotero/storage/FAIFMRUB/JBI_Reviewers_Manual_2020June.pdf
       \endverb
+    \endentry
+    \entry{Seabold_2010}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=d1d252dd6b4a79206fc21966d6b35923}{%
+           family={Seabold},
+           familyi={S\bibinitperiod},
+           given={Skipper},
+           giveni={S\bibinitperiod}}}%
+        {{hash=85242652d69220e83cf71ceb8d90a8cb}{%
+           family={Perktold},
+           familyi={P\bibinitperiod},
+           given={Josef},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SciPy}%
+      }
+      \strng{namehash}{19d153e6550396b93fff809b2f89d7e6}
+      \strng{fullhash}{19d153e6550396b93fff809b2f89d7e6}
+      \strng{fullhashraw}{19d153e6550396b93fff809b2f89d7e6}
+      \strng{bibnamehash}{19d153e6550396b93fff809b2f89d7e6}
+      \strng{authorbibnamehash}{19d153e6550396b93fff809b2f89d7e6}
+      \strng{authornamehash}{19d153e6550396b93fff809b2f89d7e6}
+      \strng{authorfullhash}{19d153e6550396b93fff809b2f89d7e6}
+      \strng{authorfullhashraw}{19d153e6550396b93fff809b2f89d7e6}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 9th Python in Science Conference}
+      \field{title}{Statsmodels: Econometric and statistical modeling with Python}
+      \field{volume}{57}
+      \field{year}{2010}
+      \field{pages}{92\bibrangedash 96}
+      \range{pages}{5}
     \endentry
     \entry{Akay_2015f}{article}{}{}
       \name{author}{5}{}{%
@@ -5648,8 +5751,8 @@
       \strng{authornamehash}{afe07a4078001da6a2327bc20af2b258}
       \strng{authorfullhash}{92701d1bfe8cdc46ff02cf1b3c3d49de}
       \strng{authorfullhashraw}{92701d1bfe8cdc46ff02cf1b3c3d49de}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Ingestion of sharp objects is a rare event. We report our experience in the care of prisoners who ingested razor blades and the in-time evolution of our management. This is a descriptive study including all detainees ingesting a razor blade, transferred from the prison to Farhat Hached University Hospital of Sousse, from January 1, 2014 to December 31, 2015. Thus, we counted 19 cases of swallowed razor blades in 16 prisoners; indeed, 1 prisoner ingested a razor blade three times and another had ingested a blade twice. Our study includes 19 episodes of swallowed razor blades. In 2 cases, these events were secondary to suicide attempts. In the other cases, it was an expression of discontent and rejection of the situation in the prison. Three patients had a psychiatric history. The mean age of the patients is 24 years. The initial clinical examination had not objectified signs of gastrointestinal perforation. Thoraco-abdomino-pelvic computed tomography scans allowed specifying the blade location in all cases. It also objectified a pneumo-mediastinum in 2 cases. The blade location was esophageal in 1 case, gastric in 6 cases, and in the small bowel in the other cases. The first 4 patients had surgical removal of the blade. In subsequent cases, surgical abstention was the rule, and spontaneous blade expulsion was observed. The average time of expulsion was 4 days. In our experience, surgical removal of sharp foreign bodies should not be performed systematically without complications.}
@@ -5699,8 +5802,8 @@
       \strng{authornamehash}{a159b01ec3b18a92b056acf71f776b7b}
       \strng{authorfullhash}{a159b01ec3b18a92b056acf71f776b7b}
       \strng{authorfullhashraw}{a159b01ec3b18a92b056acf71f776b7b}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0022-1597}
@@ -5786,8 +5889,8 @@
       \strng{authorfullhash}{c1e533eeb468147d94074b786bd2a824}
       \strng{authorfullhashraw}{c1e533eeb468147d94074b786bd2a824}
       \field{extraname}{2}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Foreign Objects in Korean Prisoners}
@@ -5812,28 +5915,6 @@
       \verb /Users/jackgedge/Zotero/storage/8K38G7Q4/Lee et al. - 2007 - Foreign Objects in Korean Prisoners.pdf
       \endverb
     \endentry
-    \entry{PythonSoftwareFoundation_2025}{misc}{}{}
-      \name{author}{1}{}{%
-        {{hash=c7b5508dc5e59a2846d22617276cc27c}{%
-           family={{Python Software Foundation}},
-           familyi={P\bibinitperiod}}}%
-      }
-      \strng{namehash}{c7b5508dc5e59a2846d22617276cc27c}
-      \strng{fullhash}{c7b5508dc5e59a2846d22617276cc27c}
-      \strng{fullhashraw}{c7b5508dc5e59a2846d22617276cc27c}
-      \strng{bibnamehash}{c7b5508dc5e59a2846d22617276cc27c}
-      \strng{authorbibnamehash}{c7b5508dc5e59a2846d22617276cc27c}
-      \strng{authornamehash}{c7b5508dc5e59a2846d22617276cc27c}
-      \strng{authorfullhash}{c7b5508dc5e59a2846d22617276cc27c}
-      \strng{authorfullhashraw}{c7b5508dc5e59a2846d22617276cc27c}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{5}
-      \field{title}{Python}
-      \field{year}{2025}
-    \endentry
     \entry{ThePandasDevelopmentTeam_2020}{misc}{}{}
       \name{author}{1}{}{%
         {{hash=d850c852b9f625e446a32cef4a26cb3c}{%
@@ -5848,8 +5929,8 @@
       \strng{authornamehash}{d850c852b9f625e446a32cef4a26cb3c}
       \strng{authorfullhash}{d850c852b9f625e446a32cef4a26cb3c}
       \strng{authorfullhashraw}{d850c852b9f625e446a32cef4a26cb3c}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Pandas is a powerful data structures for data analysis, time series, and statistics.}
@@ -5961,8 +6042,8 @@
       \strng{authornamehash}{9ec95d747bac3417f92265a9a44f8bb4}
       \strng{authorfullhash}{490c08d091505100c571bcba89f8c65d}
       \strng{authorfullhashraw}{490c08d091505100c571bcba89f8c65d}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Scikit-learn is a Python module integrating a wide range of state-of-the-art machine learning algorithms for medium-scale supervised and unsupervised problems. This package focuses on bringing machine learning to non-specialists using a general-purpose high-level language. Emphasis is put on ease of use, performance, documentation, and API consistency. It has minimal dependencies and is distributed under the simplified BSD license, encouraging its use in both academic and commercial settings. Source code, binaries, and documentation can be downloaded from http://scikit-learn.sourceforge.net.}
@@ -6100,8 +6181,8 @@
       \strng{authornamehash}{1caa6750fcd92675f4b217addf3d35f7}
       \strng{authorfullhash}{1caa6750fcd92675f4b217addf3d35f7}
       \strng{authorfullhashraw}{1caa6750fcd92675f4b217addf3d35f7}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{An asylum-seeker is someone who is seeking international protection. Learn more about asylum-seekers and how UNHCR protects them.}
