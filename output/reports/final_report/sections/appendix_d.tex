@@ -1,0 +1,33 @@
+\subsection*{Effects Measures}
+\label{appendix:effects_measures}
+\subsubsection*{Case Reports}
+
+\paragraph*{Univariate Association Testing}
+
+For binary outcomes (endoscopy, surgery, conservative management, complications, and death), the effect measure used was the odds ratio (OR), calculated from 2x2 contingency tables. Each odds ratio was accompanied by a 95\% confidence interval (CI) and a p-value derived from either a chi-square test of independence or, where expected cell counts were below 5, Fisher’s exact test. \cite{Machin_2008}
+
+This approach was used consistently across all pairwise comparisons between binary exposure variables (e.g., motivations, object types, population characteristics) and binary outcome variables. Significant associations were identified at a threshold of $p < 0.05$ and reported alongside their respective ORs and CIs. Due to the small number of deaths observed, effect estimates for death should be interpreted with caution.
+
+\paragraph*{Logistic Regression Modelling}
+
+To explore which factors were independently associated with clinical outcomes, the analysis looked at multivariate logistic regression analyses for five outcomes of interest: endoscopy, surgery, conservative management, complications, and death. For each outcome, a logistic regression model was developed and included the afforementioned groups of predictor variables: age group, gender, demographic, motivation, and object characteristics.
+
+Age group, gender, and motivation variables were entered as one-hot encoded categorical variables with a reference category omitted. Population characteristics and object type variables were included as binary indicators. A constant term was included in each model. All variables were selected a priori based on clinical relevance and prior univariate (chi-square, Fisher's exact test) analyses.
+
+Missing values in predictor variables were imputed as zero. Models were fitted using maximum likelihood estimation via the \textit{statsmodels} \textit{Python} library \cite{Seabold_2010}. In the event that a model failed to converge or could not be fitted (as occurred for the death outcome due to small sample size), an empty result table was substituted to maintain consistency of reporting across outcomes.
+
+For each predictor, the odds ratio (OR) with corresponding 95\% confidence interval (CI) and p-value were reported. Results from all models were summarised in a single grouped wide table, with predictors grouped into their logical domains (age, gender, demographic, motivation, object). The intercept term (\texttt{const}) was excluded from the summary table. Significant predictors ($p < 0.05$) were flagged with an asterisk.
+
+\subsubsection*{Case Series}
+
+\paragraph*{Meta-analysis of Proportions}
+
+To provide descriptive summary estimates of clinical outcomes across included case series, a meta-analyses of proportions included: endoscopy, surgery, complications, death, and conservative management. For each outcome, the observed proportion was calculated within each series and performed a random-effects meta-analysis using the Der Simonian-Laird method to pool proportions on the logit scale. Between-study heterogeneity was quantified using the $I^2$ statistic and between-study variance ($\tau^2$). These analyses provided overall estimates of outcome frequencies across studies and informed interpretation of subsequent meta-regression analyses. All meta-analyses were conducted using custom \textit{Python} \cite{PythonSoftwareFoundation_2025} code implementing standard meta-analytic formulas.
+
+\paragraph*{Meta-Regression}
+
+It was anticipated that the number of independent case series would be small, limiting the feasibility of multivariable modelling. To increase the effective number of contributing series, the series-level data were combined with the aggregate case report data, collapsed to series level.
+
+Univariate meta-regression was performed to explore associations between predictor variables (gender, demographic, ingestion motivations, object characteristics) and clinical outcomes (endoscopy, surgery, conservative management, complications, death). For each outcome, the logit-transformed proportion of cases was modelled using weighted least squares, with inverse variance weighting to account for differing series sizes.
+
+Significant associations ($p < 0.05$) were reported for each predictor, grouped by conceptual domain. All other comparisons were noted as non-significant.

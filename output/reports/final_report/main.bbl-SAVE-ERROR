@@ -548,6 +548,48 @@
       \verb /Users/jackgedge/Zotero/storage/2CSAMS99/united-kingdom.html
       \endverb
     \endentry
+    \entry{Davidson_2016}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=f5f681bb23fac53b393c8d773df813ec}{%
+           family={Davidson},
+           familyi={D\bibinitperiod},
+           given={Helen},
+           giveni={H\bibinitperiod}}}%
+        {{hash=6d338234b22a02b9bdd6150ac09d38a1}{%
+           family={Doherty},
+           familyi={D\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{aad7e29b7dca751deb9078065bd82fba}
+      \strng{fullhash}{aad7e29b7dca751deb9078065bd82fba}
+      \strng{fullhashraw}{aad7e29b7dca751deb9078065bd82fba}
+      \strng{bibnamehash}{aad7e29b7dca751deb9078065bd82fba}
+      \strng{authorbibnamehash}{aad7e29b7dca751deb9078065bd82fba}
+      \strng{authornamehash}{aad7e29b7dca751deb9078065bd82fba}
+      \strng{authorfullhash}{aad7e29b7dca751deb9078065bd82fba}
+      \strng{authorfullhashraw}{aad7e29b7dca751deb9078065bd82fba}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Peter Dutton confirms that a 23-year-old Iranian suffered life-threatening burns and uses incident to warn against self-harm as an `act of political protest'}
+      \field{chapter}{Australia news}
+      \field{issn}{0261-3077}
+      \field{journaltitle}{The Guardian}
+      \field{langid}{british}
+      \field{month}{4}
+      \field{title}{Iranian refugee critically ill after setting himself on fire on Nauru during UN visit}
+      \field{urlday}{26}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/62KAK5YY/iranian-asylum-seeker-severely-burnt-after-setting-himself-on-fire-on-nauru.html
+      \endverb
+      \keyw{Asia Pacific,Australia news,Australian immigration and asylum,Nauru,United Nations}
+    \endentry
     \entry{Ajdacic-Gross_2008}{article}{}{}
       \name{author}{7}{}{%
         {{hash=30449b7b4f80a7745cea104a33dfbda0}{%
@@ -594,8 +636,8 @@
       \strng{authornamehash}{371823267c1adb92ea4db4e0d9705bb9}
       \strng{authorfullhash}{db43a5fd5b2def9fd2f160cf1dadc4c4}
       \strng{authorfullhashraw}{db43a5fd5b2def9fd2f160cf1dadc4c4}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Accurate information about preferred suicide methods is important for devising strategies and programmes for suicide prevention. Our knowledge of the methods used and their variation across countries and world regions is still limited. The aim of ...}
@@ -1462,8 +1504,8 @@
       \strng{authornamehash}{81db44b702d6bda04d24a821358d935c}
       \strng{authorfullhash}{83aa1dafb3aa032d930afadd2ff1cb56}
       \strng{authorfullhashraw}{83aa1dafb3aa032d930afadd2ff1cb56}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0033-3182}
@@ -1514,8 +1556,8 @@
       \strng{authornamehash}{2c695ca3da0f6c41dca1bf2a845edb45}
       \strng{authorfullhash}{84e2db95d519299dbae85332ef820028}
       \strng{authorfullhashraw}{84e2db95d519299dbae85332ef820028}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Deliberate foreign body ingestion is a significant issue in prison and psychiatric settings. It is associated with serious physical complications, including bowel obstruction, perforation and haemorrhage. Episodes of deliberate foreign body ingestion were identified retrospectively from 5417 incident records from two inpatient forensic services (one mental health and one intellectual disability) over a one year timeframe, using related search terms. Rates were compared according to gender, diagnosis and level of security. Incidents of deliberate foreign body ingestion were found to occur on average every 2.7 days across the study population, with 133 incidents recorded over a one year period, accounted for by 27 patients. Women and patients in lower levels of security were significantly more likely to engage in deliberate foreign body ingestion. Staff responses to this behaviour were highly variable. Deliberate foreign body ingestion occurs frequently within inpatient forensic services, and can have significantly detrimental physical implications for affected patients. Further research should investigate the psychiatric and intellectual disability profile of such individuals in further detail, as well as exploring patient narratives; both of which will help inform development of treatment strategies. (PsycInfo Database Record (c) 2021 APA, all rights reserved)}
@@ -1558,8 +1600,8 @@
       \strng{authorfullhash}{7e6836a24b138d09911bf1e77e0622fa}
       \strng{authorfullhashraw}{7e6836a24b138d09911bf1e77e0622fa}
       \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{INTRODUCTION: The swallowing of foreign bodies can be accidental or intentional. The majority of the cases of accidental foreign body ingestion are observed in children. In adults, foreign body ingestion can be accidental, related to specific pathological changes of the digestive tract, or deliberate, as observed in patients with psychiatric diseases or in those released from the prison. CASE PRESENTATION: A 42-year-old male was admitted to the emergency department with symptoms including choking, drooling from the mouth, holding his neck, and aphonia. He had a history of psychiatric illness with suicidal ingestion of a foreign body. After stabilization, he was sent for chest radiograph, which revealed a significant radiopaque shadow the shape of a spanner, occupying the whole length of the esophagus. Emergency rigid esophagoscopy was performed to save the patient's life. DISCUSSION: The patient swallowed the largest hard foreign body to harm himself or his family, to get the attention of his family, or as a suicide attempt. Such patients require urgent intervention by rigid esophagoscopy to reduce the risk of complications and to save the patients' lives. Further follow-up is essential due to the possibility of repeated foreign body ingestion. CONCLUSION: While taking care of psychiatric patients, close observation by family members is mandatory to prevent them from harming themselves and to prevent suicide attempts by swallowing sharp, hard, large, and dangerous foreign bodies such as the size 17 wrench spanner observed in the present case.}
@@ -1617,8 +1659,8 @@
       \strng{authornamehash}{0d072e3cd7578f7fa9fdc5a9c38e89b6}
       \strng{authorfullhash}{e5227ee3d4a694e0279c3543abce1342}
       \strng{authorfullhashraw}{e5227ee3d4a694e0279c3543abce1342}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Purpose: Few case studies in the literature report on adult patients with intentional foreign body ingestion. Prisoners deliberately ingest foreign bodies, such as cylindrical alkaline batteries and razor blades, to achieve hospitalization or commit suicide. The purpose of this paper is to present a case of deliberate ingestion of batteries and razor blades by an inmate. Design/methodology/approach: The authors present a case of an incarcerated man in Greece, who intentionally ingested three cylindrical alkaline batteries and three razor blades wrapped in aluminum foil. Findings: The patient was treated conservatively with serial radiographs and was subsequently discharged without complication. This paper discusses the complications and examine the current guidelines available. Originality/value: To best of authors' knowledge, this is the first report of a simultaneous ingestion of batteries and razor blades. (PsycInfo Database Record (c) 2024 APA, all rights reserved)}
@@ -1656,8 +1698,8 @@
       \strng{authornamehash}{00ead84e60fc76a906936d2bd737f3e2}
       \strng{authorfullhash}{00ead84e60fc76a906936d2bd737f3e2}
       \strng{authorfullhashraw}{00ead84e60fc76a906936d2bd737f3e2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Self-\-harm within immigration detention centres has been a widely documented phenomenon, occurring at far higher rates than the wider community. Evidence suggests that factors such as the conditions of detention and uncertainty about refugee status are among the most prominent precipitators of self-\-harm. While important in explaining self-h\- arm, this is not the entire story. In this paper, we argue for a more overtly political interpretation of detainee self-\-harm as resistance and assess the ethical implications of this view, drawing on interviews with detainees from Australia's offshore system. Self-\-harm by detainees is not only a medical 'condition' arising in response to oppression but a form of political action to lessen or contest it. We first establish how self-\-harm could be conceptualised as resistance. We then discuss its political purpose, noting it serves at least three functions: intrinsic, instrumental and disruptive or coercive. Viewing detainee self-\- harm as political resistance is a supplement to (rather than a substitute for) a medical approach. However, conceptualising self-\-harm this way has several advantages, namely, moving away from the idea that such behaviour is 'maladaptive', recognising detainees as political agents, combatting government claims of 'manipulation' and 'blackmail' and clarifying the duties of healthcare workers who work in detention.}
@@ -1714,8 +1756,8 @@
       \strng{authornamehash}{ea77e1d0b566a815095d24bf8bbd6e1a}
       \strng{authorfullhash}{e9f34e035b98fbe2e11db34670c382f0}
       \strng{authorfullhashraw}{e9f34e035b98fbe2e11db34670c382f0}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{OBJECTIVE: Deliberate foreign body ingestion (DFBI) is often impulsively driven, repetitive and refractory to intervention and frequently necessitates multiple medical interventions. As such, the frustrations among health care providers are great, and the financial toll on health care is significant. Nevertheless, the literature on DFBI is sparse, and suggestions for treatment planning and management are limited. The authors sought to investigate and uncover efficacious treatments and strategies for preventing reoccurrence in DFBI. We build on earlier work by offering both broad and diagnosis-specific management strategies. METHOD: A literature review was performed addressing the presentation, management and prevention of reoccurrences of DFBI. Four cases of DFBI are presented illustrating those psychiatric diagnoses (psychosis, malingering, obsessive-compulsive disorder and borderline personality disorder) most frequently encountered in hospital practice. Both broad and specific treatment approaches are presented. RESULTS: Patients engaging in DFBI are best managed through a multidisciplinary approach, following acute medical management. Successful strategies for the prevention of reoccurrences of DFBI are inconclusive. CONCLUSION: Understanding the function of this behavior is critical in developing treatment for patients who engage in these dangerous, potentially life-threatening, self-injurious behaviors. An amalgam of medical, pharmacological and cognitive-behavioral interventions is recommended, as is additional research.}
@@ -1760,8 +1802,8 @@
       \strng{authornamehash}{1c085dfefe886376743e188f9ec713b8}
       \strng{authorfullhash}{1c085dfefe886376743e188f9ec713b8}
       \strng{authorfullhashraw}{1c085dfefe886376743e188f9ec713b8}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A young jail inmate purposely ingested a foreign body formed of sewing needles, specially designed to be arrested in the gut and cause perforation. Immediate surgical removal of such ingested foreign objects is recommended because the chances of distal passage are nil.}
@@ -1771,72 +1813,6 @@
       \verb{doi}
       \verb 10.1136/emj.14.1.54
       \endverb
-    \endentry
-    \entry{Blaho_1998}{article}{}{}
-      \name{author}{5}{}{%
-        {{hash=ebdfde5fd6c14c36cd0b97fc946c2ba0}{%
-           family={Blaho},
-           familyi={B\bibinitperiod},
-           given={Kari\bibnamedelima E.},
-           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=aa7a97e7243338835116eedf42b107f4}{%
-           family={Merigian},
-           familyi={M\bibinitperiod},
-           given={Kevin\bibnamedelima S.},
-           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=4ca75f301acb2ecd878254f0328a86b0}{%
-           family={Winbery},
-           familyi={W\bibinitperiod},
-           given={Stephen\bibnamedelima L.},
-           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=1f3756ad4c10fac4c48f6c34c47ba763}{%
-           family={Park},
-           familyi={P\bibinitperiod},
-           given={Lynda\bibnamedelima J.},
-           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=d349c34beb6ead4ffb6e812bc67fcc7c}{%
-           family={Cockrell},
-           familyi={C\bibinitperiod},
-           given={Mike},
-           giveni={M\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{74665091f97c7d03063aeb2b8fa4e662}
-      \strng{fullhash}{fbd971606a05f588e033d4afdace2f08}
-      \strng{fullhashraw}{fbd971606a05f588e033d4afdace2f08}
-      \strng{bibnamehash}{74665091f97c7d03063aeb2b8fa4e662}
-      \strng{authorbibnamehash}{74665091f97c7d03063aeb2b8fa4e662}
-      \strng{authornamehash}{74665091f97c7d03063aeb2b8fa4e662}
-      \strng{authorfullhash}{fbd971606a05f588e033d4afdace2f08}
-      \strng{authorfullhashraw}{fbd971606a05f588e033d4afdace2f08}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{issn}{0736-4679, 1090-1280}
-      \field{journaltitle}{Journal of Emergency Medicine}
-      \field{langid}{english}
-      \field{month}{1}
-      \field{number}{1}
-      \field{shorttitle}{Foreign Body Ingestions in the Emergency Department}
-      \field{title}{Foreign Body Ingestions in the Emergency Department: Case Reports and Review of Treatment}
-      \field{urlday}{14}
-      \field{urlmonth}{4}
-      \field{urlyear}{2025}
-      \field{volume}{16}
-      \field{year}{1998}
-      \field{urldateera}{ce}
-      \field{pages}{21\bibrangedash 26}
-      \range{pages}{6}
-      \verb{doi}
-      \verb 10.1016/S0736-4679(97)00229-1
-      \endverb
-      \verb{file}
-      \verb /Users/jackgedge/Zotero/storage/2G5UMJQT/Blaho et al. - 1998 - Foreign Body Ingestions in the Emergency Departmen.pdf
-      \endverb
-      \keyw{foreign body ingestion,prisoners,razor blade,razor blade ingestion}
     \endentry
     \entry{Jaini_2023}{article}{}{}
       \name{author}{3}{}{%
@@ -2032,6 +2008,103 @@
       \endverb
       \verb{file}
       \verb /Users/jackgedge/Zotero/storage/WRP9NTST/Hedrick and Borschmann - 2023 - Self-harm among unaccompanied asylum seekers and r.pdf
+      \endverb
+    \endentry
+    \entry{Ataya_2013}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=c76c2c45107af6b0d4b10263450a2dbb}{%
+           family={Ataya},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7a01f11d56c13918eee6c37487fa2669}{%
+           family={Alraiyes},
+           familyi={A\bibinitperiod},
+           given={A.H.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5d2e389bdaa63432baf6c5cba146c75a}{%
+           family={Alraies},
+           familyi={A\bibinitperiod},
+           given={M.C.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{f298c263c5784e51650bab6be0c7a320}
+      \strng{fullhash}{f298c263c5784e51650bab6be0c7a320}
+      \strng{fullhashraw}{f298c263c5784e51650bab6be0c7a320}
+      \strng{bibnamehash}{f298c263c5784e51650bab6be0c7a320}
+      \strng{authorbibnamehash}{f298c263c5784e51650bab6be0c7a320}
+      \strng{authornamehash}{f298c263c5784e51650bab6be0c7a320}
+      \strng{authorfullhash}{f298c263c5784e51650bab6be0c7a320}
+      \strng{authorfullhashraw}{f298c263c5784e51650bab6be0c7a320}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A 29-year-old female with a history of psychiatric disorder that was treated with thorazine and lithium, but was not taking any of her medications, was brought to the hospital after being witnessed by her family swallowing razor blades. Her only symptom was abdominal cramping. On examination, her vital signs were stable and she appeared to be in no acute distress. On examination, she had multiple old self-inflicted scars on her arms, wrists and thighs. She admitted that she had swallowed ten razor blades after coating them with chewing gum but she denied any intentions to hurt herself. Vitals were stable and her physical examination was unremarkable. Laboratory work up was within normal with stable hemoglobin and hemarocrit. Acute abdominal X-ray showed razor blades overlying the upper abdomen, likely in the gastric antrum (Figure 1). Four days later, repeated X-rays showed multiple razor blades present in the rectum (Figure 2). Eventually, all razor blades were passed. Psychiatry was consulted for management of schizoaffective schizophrenia and she was restarted on her home medications. She was discharged in a stable condition.}
+      \field{issn}{1460-2725}
+      \field{journaltitle}{QJM: An International Journal of Medicine}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{Razor blades in the stomach}
+      \field{urlday}{14}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{volume}{106}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{783\bibrangedash 784}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1093/qjmed/hcs165
+      \endverb
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/XJCQSEGM/Ataya et al. - 2013 - Razor blades in the stomach.pdf;/Users/jackgedge/Zotero/storage/LST2Z6GY/1575400.html
+      \endverb
+    \endentry
+    \entry{Albeldawi_2014}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=ae0ec975aa223aaab3e81c192777a638}{%
+           family={Albeldawi},
+           familyi={A\bibinitperiod},
+           given={Mazen},
+           giveni={M\bibinitperiod}}}%
+        {{hash=fda77e81532d17f6b1fbc8dd7fa6ac76}{%
+           family={Birgisson},
+           familyi={B\bibinitperiod},
+           given={Sigurbjorn},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee888b912d8b40621f0d1d1d23461928}
+      \strng{fullhash}{ee888b912d8b40621f0d1d1d23461928}
+      \strng{fullhashraw}{ee888b912d8b40621f0d1d1d23461928}
+      \strng{bibnamehash}{ee888b912d8b40621f0d1d1d23461928}
+      \strng{authorbibnamehash}{ee888b912d8b40621f0d1d1d23461928}
+      \strng{authornamehash}{ee888b912d8b40621f0d1d1d23461928}
+      \strng{authorfullhash}{ee888b912d8b40621f0d1d1d23461928}
+      \strng{authorfullhashraw}{ee888b912d8b40621f0d1d1d23461928}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A 30-year-old woman presented to the emergency department complaining of abdominal discomfort. An abdominal radiograph was done, revealing ten rectangular razor blades measuring 5 {\texttimes} 2 cm. The patient was taken to the operating room and a flexible esophago-gastroduodenoscopy was performed. Attempts at retrieval, using both a gastric overtube and an inverted hood, were unsuccessful due to the shape and size of the blades. She was transferred to a regular medical floor and managed conservatively with serial abdominal radiographs. Over the next week, she passed the razor blades transanally without further event---all were still wrapped in paper and chewing gum---and was cleared to be discharged home.}
+      \field{issn}{2052-0034}
+      \field{journaltitle}{Gastroenterology Report}
+      \field{month}{5}
+      \field{number}{2}
+      \field{title}{Conservative management of razor blade ingestion}
+      \field{urlday}{14}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{volume}{2}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \field{pages}{158\bibrangedash 159}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1093/gastro/gou002
+      \endverb
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/GTZS9U3X/Albeldawi and Birgisson - 2014 - Conservative management of razor blade ingestion.pdf;/Users/jackgedge/Zotero/storage/NQF4IFEM/597549.html
       \endverb
     \endentry
     \entry{Page_2021}{article}{}{}
@@ -2231,8 +2304,8 @@
       \strng{authornamehash}{1708d8b1cf1d77a95d7a81cb3377eb95}
       \strng{authorfullhash}{1708d8b1cf1d77a95d7a81cb3377eb95}
       \strng{authorfullhashraw}{1708d8b1cf1d77a95d7a81cb3377eb95}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{edition}{4. ed., reprinted}
@@ -2259,8 +2332,8 @@
       \strng{authornamehash}{b9a8b868588ad4bc6b36c29936e26423}
       \strng{authorfullhash}{b9a8b868588ad4bc6b36c29936e26423}
       \strng{authorfullhashraw}{b9a8b868588ad4bc6b36c29936e26423}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Microsoft Excel}
@@ -2280,8 +2353,8 @@
       \strng{authornamehash}{c7b5508dc5e59a2846d22617276cc27c}
       \strng{authorfullhash}{c7b5508dc5e59a2846d22617276cc27c}
       \strng{authorfullhashraw}{c7b5508dc5e59a2846d22617276cc27c}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{5}
@@ -2357,8 +2430,8 @@
       \strng{authornamehash}{88b9ddad304bb4c475c6c777d086e4d7}
       \strng{authorfullhash}{8158ef89982d61db529b899edb731856}
       \strng{authorfullhashraw}{8158ef89982d61db529b899edb731856}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{booktitle}{JBI Manual for Evidence Synthesis}
@@ -2376,6 +2449,41 @@
       \verb{file}
       \verb /Users/jackgedge/Zotero/storage/FAIFMRUB/JBI_Reviewers_Manual_2020June.pdf
       \endverb
+    \endentry
+    \entry{Seabold_2010}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=d1d252dd6b4a79206fc21966d6b35923}{%
+           family={Seabold},
+           familyi={S\bibinitperiod},
+           given={Skipper},
+           giveni={S\bibinitperiod}}}%
+        {{hash=85242652d69220e83cf71ceb8d90a8cb}{%
+           family={Perktold},
+           familyi={P\bibinitperiod},
+           given={Josef},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SciPy}%
+      }
+      \strng{namehash}{19d153e6550396b93fff809b2f89d7e6}
+      \strng{fullhash}{19d153e6550396b93fff809b2f89d7e6}
+      \strng{fullhashraw}{19d153e6550396b93fff809b2f89d7e6}
+      \strng{bibnamehash}{19d153e6550396b93fff809b2f89d7e6}
+      \strng{authorbibnamehash}{19d153e6550396b93fff809b2f89d7e6}
+      \strng{authornamehash}{19d153e6550396b93fff809b2f89d7e6}
+      \strng{authorfullhash}{19d153e6550396b93fff809b2f89d7e6}
+      \strng{authorfullhashraw}{19d153e6550396b93fff809b2f89d7e6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 9th Python in Science Conference}
+      \field{title}{Statsmodels: Econometric and statistical modeling with Python}
+      \field{volume}{57}
+      \field{year}{2010}
+      \field{pages}{92\bibrangedash 96}
+      \range{pages}{5}
     \endentry
     \entry{Akay_2015f}{article}{}{}
       \name{author}{5}{}{%
@@ -4238,6 +4346,42 @@
       \verb /Users/jackgedge/Zotero/storage/LSTTU3WG/te Wildt et al. - 2010 - Swallowing Foreign Bodies as an Example of Impulse.pdf
       \endverb
     \endentry
+    \entry{AlShaaibi_2021b}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=26b36c4e15f8ffed106ff7194f80e53d}{%
+           family={Al\bibnamedelima Shaaibi},
+           familyi={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Raya},
+           giveni={R\bibinitperiod}}}%
+        {{hash=1782b33c50d7b2e13f48056057f8860e}{%
+           family={Al\bibnamedelima Waili},
+           familyi={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={Ibrahim},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{e09044c299d57bee95fc3e374ee3692f}
+      \strng{fullhash}{e09044c299d57bee95fc3e374ee3692f}
+      \strng{fullhashraw}{e09044c299d57bee95fc3e374ee3692f}
+      \strng{bibnamehash}{e09044c299d57bee95fc3e374ee3692f}
+      \strng{authorbibnamehash}{e09044c299d57bee95fc3e374ee3692f}
+      \strng{authornamehash}{e09044c299d57bee95fc3e374ee3692f}
+      \strng{authorfullhash}{e09044c299d57bee95fc3e374ee3692f}
+      \strng{authorfullhashraw}{e09044c299d57bee95fc3e374ee3692f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Foreign Body Ingestion Is One Of The Most Common Presenting Complaints In The Emergency Room. Psychiatric Patients That Present With An Unusual Ingested Object Are Frequently Associated With The Intention Of Suicide, Especially If They Have A History Of Recurrent Foreign Body Ingestion. Radiographic Films Help In Locating The Site And Predicting The Complications. The Best Method Of Object Retrieval Is Dependent On Many Factors And Decisions Made For The Best Of Patient Safety To Minimize Expected Complications. This Is A Case Report Of A Patient Who Presented With Unusual Foreign Body Ingestion.}
+      \field{journaltitle}{Oman Medical Journal}
+      \field{title}{Laparoscopic Retrieval Of Ingested Foreign Body}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.5001/omj.2021.35
+      \endverb
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/MZ4UW5B2/Al Shaaibi and Al Waili - 2021 - Laparoscopic Retrieval Of Ingested Foreign Body.pdf
+      \endverb
+    \endentry
     \entry{Ali_2020f}{article}{}{}
       \name{author}{2}{}{%
         {{hash=7567082f48e9082bdf52665a5bfbf5b1}{%
@@ -4272,57 +4416,6 @@
       \endverb
       \verb{file}
       \verb /Users/jackgedge/Zotero/storage/AISMZSBX/Ali and Alhindi - 2020 - A Child With A Gastrocolic Fistula After Ingesting.pdf
-      \endverb
-    \endentry
-    \entry{Ataya_2013}{article}{}{}
-      \name{author}{3}{}{%
-        {{hash=c76c2c45107af6b0d4b10263450a2dbb}{%
-           family={Ataya},
-           familyi={A\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-        {{hash=7a01f11d56c13918eee6c37487fa2669}{%
-           family={Alraiyes},
-           familyi={A\bibinitperiod},
-           given={A.H.},
-           giveni={A\bibinitperiod}}}%
-        {{hash=5d2e389bdaa63432baf6c5cba146c75a}{%
-           family={Alraies},
-           familyi={A\bibinitperiod},
-           given={M.C.},
-           giveni={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{f298c263c5784e51650bab6be0c7a320}
-      \strng{fullhash}{f298c263c5784e51650bab6be0c7a320}
-      \strng{fullhashraw}{f298c263c5784e51650bab6be0c7a320}
-      \strng{bibnamehash}{f298c263c5784e51650bab6be0c7a320}
-      \strng{authorbibnamehash}{f298c263c5784e51650bab6be0c7a320}
-      \strng{authornamehash}{f298c263c5784e51650bab6be0c7a320}
-      \strng{authorfullhash}{f298c263c5784e51650bab6be0c7a320}
-      \strng{authorfullhashraw}{f298c263c5784e51650bab6be0c7a320}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{A 29-year-old female with a history of psychiatric disorder that was treated with thorazine and lithium, but was not taking any of her medications, was brought to the hospital after being witnessed by her family swallowing razor blades. Her only symptom was abdominal cramping. On examination, her vital signs were stable and she appeared to be in no acute distress. On examination, she had multiple old self-inflicted scars on her arms, wrists and thighs. She admitted that she had swallowed ten razor blades after coating them with chewing gum but she denied any intentions to hurt herself. Vitals were stable and her physical examination was unremarkable. Laboratory work up was within normal with stable hemoglobin and hemarocrit. Acute abdominal X-ray showed razor blades overlying the upper abdomen, likely in the gastric antrum (Figure 1). Four days later, repeated X-rays showed multiple razor blades present in the rectum (Figure 2). Eventually, all razor blades were passed. Psychiatry was consulted for management of schizoaffective schizophrenia and she was restarted on her home medications. She was discharged in a stable condition.}
-      \field{issn}{1460-2725}
-      \field{journaltitle}{QJM: An International Journal of Medicine}
-      \field{month}{8}
-      \field{number}{8}
-      \field{title}{Razor blades in the stomach}
-      \field{urlday}{14}
-      \field{urlmonth}{4}
-      \field{urlyear}{2025}
-      \field{volume}{106}
-      \field{year}{2013}
-      \field{urldateera}{ce}
-      \field{pages}{783\bibrangedash 784}
-      \range{pages}{2}
-      \verb{doi}
-      \verb 10.1093/qjmed/hcs165
-      \endverb
-      \verb{file}
-      \verb /Users/jackgedge/Zotero/storage/XJCQSEGM/Ataya et al. - 2013 - Razor blades in the stomach.pdf;/Users/jackgedge/Zotero/storage/LST2Z6GY/1575400.html
       \endverb
     \endentry
     \entry{Beecroft_1998}{article}{}{}
@@ -5510,8 +5603,8 @@
       \strng{authornamehash}{71d4ec200a6fdcb727d6caf76f37492d}
       \strng{authorfullhash}{71d4ec200a6fdcb727d6caf76f37492d}
       \strng{authorfullhashraw}{71d4ec200a6fdcb727d6caf76f37492d}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{1. Abstract Foreign Body Ingestion [Fbi] Is Rare In Adults As Compared With Children [1]. Foreign Body Ingestion Is Accidental In 95 Percent Of Cases And Is Usually Related To Food [Fish, ...}
@@ -5523,257 +5616,6 @@
       \endverb
       \verb{file}
       \verb /Users/jackgedge/Zotero/storage/UMM7IGIC/Fj Buils - 2024 - Repeated Behavior Of Deliberate Foreign Body Inges.pdf
-      \endverb
-    \endentry
-    \entry{Seabold_2010}{inproceedings}{}{}
-      \name{author}{2}{}{%
-        {{hash=d1d252dd6b4a79206fc21966d6b35923}{%
-           family={Seabold},
-           familyi={S\bibinitperiod},
-           given={Skipper},
-           giveni={S\bibinitperiod}}}%
-        {{hash=85242652d69220e83cf71ceb8d90a8cb}{%
-           family={Perktold},
-           familyi={P\bibinitperiod},
-           given={Josef},
-           giveni={J\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {SciPy}%
-      }
-      \strng{namehash}{19d153e6550396b93fff809b2f89d7e6}
-      \strng{fullhash}{19d153e6550396b93fff809b2f89d7e6}
-      \strng{fullhashraw}{19d153e6550396b93fff809b2f89d7e6}
-      \strng{bibnamehash}{19d153e6550396b93fff809b2f89d7e6}
-      \strng{authorbibnamehash}{19d153e6550396b93fff809b2f89d7e6}
-      \strng{authornamehash}{19d153e6550396b93fff809b2f89d7e6}
-      \strng{authorfullhash}{19d153e6550396b93fff809b2f89d7e6}
-      \strng{authorfullhashraw}{19d153e6550396b93fff809b2f89d7e6}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the 9th Python in Science Conference}
-      \field{title}{Statsmodels: Econometric and statistical modeling with Python}
-      \field{volume}{57}
-      \field{year}{2010}
-      \field{pages}{92\bibrangedash 96}
-      \range{pages}{5}
-    \endentry
-    \entry{AlShaaibi_2021b}{article}{}{}
-      \name{author}{2}{}{%
-        {{hash=26b36c4e15f8ffed106ff7194f80e53d}{%
-           family={Al\bibnamedelima Shaaibi},
-           familyi={A\bibinitperiod\bibinitdelim S\bibinitperiod},
-           given={Raya},
-           giveni={R\bibinitperiod}}}%
-        {{hash=1782b33c50d7b2e13f48056057f8860e}{%
-           family={Al\bibnamedelima Waili},
-           familyi={A\bibinitperiod\bibinitdelim W\bibinitperiod},
-           given={Ibrahim},
-           giveni={I\bibinitperiod}}}%
-      }
-      \strng{namehash}{e09044c299d57bee95fc3e374ee3692f}
-      \strng{fullhash}{e09044c299d57bee95fc3e374ee3692f}
-      \strng{fullhashraw}{e09044c299d57bee95fc3e374ee3692f}
-      \strng{bibnamehash}{e09044c299d57bee95fc3e374ee3692f}
-      \strng{authorbibnamehash}{e09044c299d57bee95fc3e374ee3692f}
-      \strng{authornamehash}{e09044c299d57bee95fc3e374ee3692f}
-      \strng{authorfullhash}{e09044c299d57bee95fc3e374ee3692f}
-      \strng{authorfullhashraw}{e09044c299d57bee95fc3e374ee3692f}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Foreign Body Ingestion Is One Of The Most Common Presenting Complaints In The Emergency Room. Psychiatric Patients That Present With An Unusual Ingested Object Are Frequently Associated With The Intention Of Suicide, Especially If They Have A History Of Recurrent Foreign Body Ingestion. Radiographic Films Help In Locating The Site And Predicting The Complications. The Best Method Of Object Retrieval Is Dependent On Many Factors And Decisions Made For The Best Of Patient Safety To Minimize Expected Complications. This Is A Case Report Of A Patient Who Presented With Unusual Foreign Body Ingestion.}
-      \field{journaltitle}{Oman Medical Journal}
-      \field{title}{Laparoscopic Retrieval Of Ingested Foreign Body}
-      \field{year}{2021}
-      \verb{doi}
-      \verb 10.5001/omj.2021.35
-      \endverb
-      \verb{file}
-      \verb /Users/jackgedge/Zotero/storage/MZ4UW5B2/Al Shaaibi and Al Waili - 2021 - Laparoscopic Retrieval Of Ingested Foreign Body.pdf
-      \endverb
-    \endentry
-    \entry{Lee_2012l}{article}{}{}
-      \name{author}{7}{}{%
-        {{hash=47927a0703200d60735dea47c1c77b7e}{%
-           family={Lee},
-           familyi={L\bibinitperiod},
-           given={Jun\bibnamedelima Hyung},
-           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=09fe4ebcdc39d7fb6b1833f8d6d31679}{%
-           family={Kim},
-           familyi={K\bibinitperiod},
-           given={Hyun\bibnamedelima Cheol},
-           giveni={H\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=c6c36f9595e0b65ea08ac0da8690aa1c}{%
-           family={Yang},
-           familyi={Y\bibinitperiod},
-           given={Dal\bibnamedelima Mo},
-           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=7a4a8c4b0cbad1600b6260dbaf63530f}{%
-           family={Kim},
-           familyi={K\bibinitperiod},
-           given={Sang\bibnamedelima Won},
-           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-        {{hash=fd41a3d63e7d9526dbf7d892aa039bdf}{%
-           family={Jin},
-           familyi={J\bibinitperiod},
-           given={Wook},
-           giveni={W\bibinitperiod}}}%
-        {{hash=6e04a9b23109c435e81e5e79cfb2ae79}{%
-           family={Park},
-           familyi={P\bibinitperiod},
-           given={Seong\bibnamedelima Jin},
-           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=70d911a78a60ca3a2ca111090cb54338}{%
-           family={Kim},
-           familyi={K\bibinitperiod},
-           given={Hyoung\bibnamedelima Jung},
-           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \strng{namehash}{da1a530b073898cf5cad26a6f6f35a91}
-      \strng{fullhash}{d285fa59a7df2d400e29c5215862cf53}
-      \strng{fullhashraw}{d285fa59a7df2d400e29c5215862cf53}
-      \strng{bibnamehash}{da1a530b073898cf5cad26a6f6f35a91}
-      \strng{authorbibnamehash}{da1a530b073898cf5cad26a6f6f35a91}
-      \strng{authornamehash}{da1a530b073898cf5cad26a6f6f35a91}
-      \strng{authorfullhash}{d285fa59a7df2d400e29c5215862cf53}
-      \strng{authorfullhashraw}{d285fa59a7df2d400e29c5215862cf53}
-      \field{extraname}{1}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Foreign Bodies (Fbs) In The Gastrointestinal (Gi) Tract Can Show A Wide Range Of Clinical Manifestations Ranging From Spontaneous Evacuation To Severe Complication. Plain Radiography Is A Straightforward And Important Initial Imaging Modality In Cases Of Fb Ingestion Or Insertion And Is Also Helpful For Follow-Up Purposes. Careful Evaluations Of The Plain Radiographs Can Determine The Presence And Nature Of Fbs, And Help Predict Their Precise Locations And Facilitate Risk Assessment. In This Review, A Wide Variety Of Fbs In The Gi Tract Are Illustrated, And The Role Of Plain Radiography In Patient Management Is Discussed.}
-      \field{journaltitle}{Clinical Imaging}
-      \field{title}{What Is The Role Of Plain Radiography In Patients With Foreign Bodies In The Gastrointestinal Tract?}
-      \field{year}{2012}
-      \verb{doi}
-      \verb 10.1016/j.clinimag.2011.11.017
-      \endverb
-      \verb{file}
-      \verb /Users/jackgedge/Zotero/storage/IG3VHM9L/Lee et al. - 2012 - What Is The Role Of Plain Radiography In Patients .pdf
-      \endverb
-    \endentry
-    \entry{Sharma_2022e}{article}{}{}
-      \name{author}{3}{}{%
-        {{hash=0f4922ca46826cb2e5374c2b2c9e1d42}{%
-           family={Sharma},
-           familyi={S\bibinitperiod},
-           given={J},
-           giveni={J\bibinitperiod}}}%
-        {{hash=2017427e31a13f45b4a728481afa32ba}{%
-           family={Riyaz},
-           familyi={R\bibinitperiod},
-           given={S},
-           giveni={S\bibinitperiod}}}%
-        {{hash=2da3959c9f1c27cc048522e731cf3de0}{%
-           family={Kilpatrick},
-           familyi={K\bibinitperiod},
-           given={Wj},
-           giveni={W\bibinitperiod}}}%
-      }
-      \strng{namehash}{406cf1f4473df98f777c46d453b39876}
-      \strng{fullhash}{406cf1f4473df98f777c46d453b39876}
-      \strng{fullhashraw}{406cf1f4473df98f777c46d453b39876}
-      \strng{bibnamehash}{406cf1f4473df98f777c46d453b39876}
-      \strng{authorbibnamehash}{406cf1f4473df98f777c46d453b39876}
-      \strng{authornamehash}{406cf1f4473df98f777c46d453b39876}
-      \strng{authorfullhash}{406cf1f4473df98f777c46d453b39876}
-      \strng{authorfullhashraw}{406cf1f4473df98f777c46d453b39876}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal Of The Academy Of Consultation-Liaison Psychiatry}
-      \field{title}{Multi-Disciplinary Approach To Managing Deliberate Foreign Body Ingestion On The Medical Floor}
-      \field{year}{2022}
-      \verb{doi}
-      \verb 10.1016/j.jaclp.2022.10.025
-      \endverb
-      \verb{file}
-      \verb /Users/jackgedge/Zotero/storage/MUGIPTP8/Sharma et al. - 2022 - Multi-Disciplinary Approach To Managing Deliberate.pdf
-      \endverb
-    \endentry
-    \entry{Elghali_2016}{article}{}{}
-      \name{author}{8}{}{%
-        {{hash=dcd827753246c361b858b3cab8d7b6c1}{%
-           family={Elghali},
-           familyi={E\bibinitperiod},
-           given={Mohamed},
-           giveni={M\bibinitperiod},
-           prefix={amine},
-           prefixi={a\bibinitperiod}}}%
-        {{hash=6101c66226cff91668d83a3fbae33ddb}{%
-           family={Ghrissi},
-           familyi={G\bibinitperiod},
-           given={Rafik},
-           giveni={R\bibinitperiod}}}%
-        {{hash=a76482db61016e0c5d869cf99bf66e12}{%
-           family={Fadhl},
-           familyi={F\bibinitperiod},
-           given={Houssem},
-           giveni={H\bibinitperiod}}}%
-        {{hash=c05d78cf41f4ea76eb988c93d7c49646}{%
-           family={Mahjoub},
-           familyi={M\bibinitperiod},
-           given={Mohamed},
-           giveni={M\bibinitperiod}}}%
-        {{hash=7db4535d33feac3e62ce01b1e84ae9a1}{%
-           family={Jarrar},
-           familyi={J\bibinitperiod},
-           given={Mohamed\bibnamedelima Salah},
-           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=4027b87c91171a7177eb19d9cddea5a9}{%
-           family={Jedidi},
-           familyi={J\bibinitperiod},
-           given={Maher},
-           giveni={M\bibinitperiod}}}%
-        {{hash=837d639ec534e5c65ba3031d1035622c}{%
-           family={Letaief},
-           familyi={L\bibinitperiod},
-           given={Rached},
-           giveni={R\bibinitperiod}}}%
-        {{hash=b81ad297549382b1a49aaeeed881a39f}{%
-           family={Hamila},
-           familyi={H\bibinitperiod},
-           given={Fehmi},
-           giveni={F\bibinitperiod}}}%
-      }
-      \strng{namehash}{afe07a4078001da6a2327bc20af2b258}
-      \strng{fullhash}{92701d1bfe8cdc46ff02cf1b3c3d49de}
-      \strng{fullhashraw}{92701d1bfe8cdc46ff02cf1b3c3d49de}
-      \strng{bibnamehash}{afe07a4078001da6a2327bc20af2b258}
-      \strng{authorbibnamehash}{afe07a4078001da6a2327bc20af2b258}
-      \strng{authornamehash}{afe07a4078001da6a2327bc20af2b258}
-      \strng{authorfullhash}{92701d1bfe8cdc46ff02cf1b3c3d49de}
-      \strng{authorfullhashraw}{92701d1bfe8cdc46ff02cf1b3c3d49de}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Ingestion of sharp objects is a rare event. We report our experience in the care of prisoners who ingested razor blades and the in-time evolution of our management. This is a descriptive study including all detainees ingesting a razor blade, transferred from the prison to Farhat Hached University Hospital of Sousse, from January 1, 2014 to December 31, 2015. Thus, we counted 19 cases of swallowed razor blades in 16 prisoners; indeed, 1 prisoner ingested a razor blade three times and another had ingested a blade twice. Our study includes 19 episodes of swallowed razor blades. In 2 cases, these events were secondary to suicide attempts. In the other cases, it was an expression of discontent and rejection of the situation in the prison. Three patients had a psychiatric history. The mean age of the patients is 24 years. The initial clinical examination had not objectified signs of gastrointestinal perforation. Thoraco-abdomino-pelvic computed tomography scans allowed specifying the blade location in all cases. It also objectified a pneumo-mediastinum in 2 cases. The blade location was esophageal in 1 case, gastric in 6 cases, and in the small bowel in the other cases. The first 4 patients had surgical removal of the blade. In subsequent cases, surgical abstention was the rule, and spontaneous blade expulsion was observed. The average time of expulsion was 4 days. In our experience, surgical removal of sharp foreign bodies should not be performed systematically without complications.}
-      \field{issn}{0020-8868}
-      \field{journaltitle}{International Surgery}
-      \field{month}{11}
-      \field{number}{1-3}
-      \field{title}{The Management of Voluntary Ingestion of Razor Blades by Inmates}
-      \field{urlday}{14}
-      \field{urlmonth}{4}
-      \field{urlyear}{2025}
-      \field{volume}{105}
-      \field{year}{2016}
-      \field{urldateera}{ce}
-      \field{pages}{129\bibrangedash 133}
-      \range{pages}{5}
-      \verb{doi}
-      \verb 10.9738/INTSURG-D-16-00204.1
-      \endverb
-      \verb{file}
-      \verb /Users/jackgedge/Zotero/storage/AD2DGZGV/Elghali et al. - 2016 - The Management of Voluntary Ingestion of Razor Bla.pdf;/Users/jackgedge/Zotero/storage/T3U8MHWX/The-Management-of-Voluntary-Ingestion-of-Razor.html
       \endverb
     \endentry
     \entry{Karp_1991b}{article}{}{}
@@ -5888,7 +5730,7 @@
       \strng{authornamehash}{80d7e7fe168a865ca104e8e764e8eacb}
       \strng{authorfullhash}{c1e533eeb468147d94074b786bd2a824}
       \strng{authorfullhashraw}{c1e533eeb468147d94074b786bd2a824}
-      \field{extraname}{2}
+      \field{extraname}{1}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
@@ -5913,6 +5755,186 @@
       \endverb
       \verb{file}
       \verb /Users/jackgedge/Zotero/storage/8K38G7Q4/Lee et al. - 2007 - Foreign Objects in Korean Prisoners.pdf
+      \endverb
+    \endentry
+    \entry{Elghali_2016}{article}{}{}
+      \name{author}{8}{}{%
+        {{hash=dcd827753246c361b858b3cab8d7b6c1}{%
+           family={Elghali},
+           familyi={E\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod},
+           prefix={amine},
+           prefixi={a\bibinitperiod}}}%
+        {{hash=6101c66226cff91668d83a3fbae33ddb}{%
+           family={Ghrissi},
+           familyi={G\bibinitperiod},
+           given={Rafik},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a76482db61016e0c5d869cf99bf66e12}{%
+           family={Fadhl},
+           familyi={F\bibinitperiod},
+           given={Houssem},
+           giveni={H\bibinitperiod}}}%
+        {{hash=c05d78cf41f4ea76eb988c93d7c49646}{%
+           family={Mahjoub},
+           familyi={M\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7db4535d33feac3e62ce01b1e84ae9a1}{%
+           family={Jarrar},
+           familyi={J\bibinitperiod},
+           given={Mohamed\bibnamedelima Salah},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=4027b87c91171a7177eb19d9cddea5a9}{%
+           family={Jedidi},
+           familyi={J\bibinitperiod},
+           given={Maher},
+           giveni={M\bibinitperiod}}}%
+        {{hash=837d639ec534e5c65ba3031d1035622c}{%
+           family={Letaief},
+           familyi={L\bibinitperiod},
+           given={Rached},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b81ad297549382b1a49aaeeed881a39f}{%
+           family={Hamila},
+           familyi={H\bibinitperiod},
+           given={Fehmi},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{afe07a4078001da6a2327bc20af2b258}
+      \strng{fullhash}{92701d1bfe8cdc46ff02cf1b3c3d49de}
+      \strng{fullhashraw}{92701d1bfe8cdc46ff02cf1b3c3d49de}
+      \strng{bibnamehash}{afe07a4078001da6a2327bc20af2b258}
+      \strng{authorbibnamehash}{afe07a4078001da6a2327bc20af2b258}
+      \strng{authornamehash}{afe07a4078001da6a2327bc20af2b258}
+      \strng{authorfullhash}{92701d1bfe8cdc46ff02cf1b3c3d49de}
+      \strng{authorfullhashraw}{92701d1bfe8cdc46ff02cf1b3c3d49de}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Ingestion of sharp objects is a rare event. We report our experience in the care of prisoners who ingested razor blades and the in-time evolution of our management. This is a descriptive study including all detainees ingesting a razor blade, transferred from the prison to Farhat Hached University Hospital of Sousse, from January 1, 2014 to December 31, 2015. Thus, we counted 19 cases of swallowed razor blades in 16 prisoners; indeed, 1 prisoner ingested a razor blade three times and another had ingested a blade twice. Our study includes 19 episodes of swallowed razor blades. In 2 cases, these events were secondary to suicide attempts. In the other cases, it was an expression of discontent and rejection of the situation in the prison. Three patients had a psychiatric history. The mean age of the patients is 24 years. The initial clinical examination had not objectified signs of gastrointestinal perforation. Thoraco-abdomino-pelvic computed tomography scans allowed specifying the blade location in all cases. It also objectified a pneumo-mediastinum in 2 cases. The blade location was esophageal in 1 case, gastric in 6 cases, and in the small bowel in the other cases. The first 4 patients had surgical removal of the blade. In subsequent cases, surgical abstention was the rule, and spontaneous blade expulsion was observed. The average time of expulsion was 4 days. In our experience, surgical removal of sharp foreign bodies should not be performed systematically without complications.}
+      \field{issn}{0020-8868}
+      \field{journaltitle}{International Surgery}
+      \field{month}{11}
+      \field{number}{1-3}
+      \field{title}{The Management of Voluntary Ingestion of Razor Blades by Inmates}
+      \field{urlday}{14}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{volume}{105}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{129\bibrangedash 133}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.9738/INTSURG-D-16-00204.1
+      \endverb
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/AD2DGZGV/Elghali et al. - 2016 - The Management of Voluntary Ingestion of Razor Bla.pdf;/Users/jackgedge/Zotero/storage/T3U8MHWX/The-Management-of-Voluntary-Ingestion-of-Razor.html
+      \endverb
+    \endentry
+    \entry{Lee_2012l}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=47927a0703200d60735dea47c1c77b7e}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Jun\bibnamedelima Hyung},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=09fe4ebcdc39d7fb6b1833f8d6d31679}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Hyun\bibnamedelima Cheol},
+           giveni={H\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=c6c36f9595e0b65ea08ac0da8690aa1c}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Dal\bibnamedelima Mo},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=7a4a8c4b0cbad1600b6260dbaf63530f}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Sang\bibnamedelima Won},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=fd41a3d63e7d9526dbf7d892aa039bdf}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Wook},
+           giveni={W\bibinitperiod}}}%
+        {{hash=6e04a9b23109c435e81e5e79cfb2ae79}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Seong\bibnamedelima Jin},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=70d911a78a60ca3a2ca111090cb54338}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Hyoung\bibnamedelima Jung},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{da1a530b073898cf5cad26a6f6f35a91}
+      \strng{fullhash}{d285fa59a7df2d400e29c5215862cf53}
+      \strng{fullhashraw}{d285fa59a7df2d400e29c5215862cf53}
+      \strng{bibnamehash}{da1a530b073898cf5cad26a6f6f35a91}
+      \strng{authorbibnamehash}{da1a530b073898cf5cad26a6f6f35a91}
+      \strng{authornamehash}{da1a530b073898cf5cad26a6f6f35a91}
+      \strng{authorfullhash}{d285fa59a7df2d400e29c5215862cf53}
+      \strng{authorfullhashraw}{d285fa59a7df2d400e29c5215862cf53}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Foreign Bodies (Fbs) In The Gastrointestinal (Gi) Tract Can Show A Wide Range Of Clinical Manifestations Ranging From Spontaneous Evacuation To Severe Complication. Plain Radiography Is A Straightforward And Important Initial Imaging Modality In Cases Of Fb Ingestion Or Insertion And Is Also Helpful For Follow-Up Purposes. Careful Evaluations Of The Plain Radiographs Can Determine The Presence And Nature Of Fbs, And Help Predict Their Precise Locations And Facilitate Risk Assessment. In This Review, A Wide Variety Of Fbs In The Gi Tract Are Illustrated, And The Role Of Plain Radiography In Patient Management Is Discussed.}
+      \field{journaltitle}{Clinical Imaging}
+      \field{title}{What Is The Role Of Plain Radiography In Patients With Foreign Bodies In The Gastrointestinal Tract?}
+      \field{year}{2012}
+      \verb{doi}
+      \verb 10.1016/j.clinimag.2011.11.017
+      \endverb
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/IG3VHM9L/Lee et al. - 2012 - What Is The Role Of Plain Radiography In Patients .pdf
+      \endverb
+    \endentry
+    \entry{Sharma_2022e}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=0f4922ca46826cb2e5374c2b2c9e1d42}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2017427e31a13f45b4a728481afa32ba}{%
+           family={Riyaz},
+           familyi={R\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2da3959c9f1c27cc048522e731cf3de0}{%
+           family={Kilpatrick},
+           familyi={K\bibinitperiod},
+           given={Wj},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{406cf1f4473df98f777c46d453b39876}
+      \strng{fullhash}{406cf1f4473df98f777c46d453b39876}
+      \strng{fullhashraw}{406cf1f4473df98f777c46d453b39876}
+      \strng{bibnamehash}{406cf1f4473df98f777c46d453b39876}
+      \strng{authorbibnamehash}{406cf1f4473df98f777c46d453b39876}
+      \strng{authornamehash}{406cf1f4473df98f777c46d453b39876}
+      \strng{authorfullhash}{406cf1f4473df98f777c46d453b39876}
+      \strng{authorfullhashraw}{406cf1f4473df98f777c46d453b39876}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal Of The Academy Of Consultation-Liaison Psychiatry}
+      \field{title}{Multi-Disciplinary Approach To Managing Deliberate Foreign Body Ingestion On The Medical Floor}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.1016/j.jaclp.2022.10.025
+      \endverb
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/MUGIPTP8/Sharma et al. - 2022 - Multi-Disciplinary Approach To Managing Deliberate.pdf
       \endverb
     \endentry
     \entry{Microsoft_2025}{misc}{}{}
