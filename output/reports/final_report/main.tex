@@ -61,15 +61,6 @@ and Giles Cattermole
 \input{sections/03-rationale.tex}
 \input{sections/04-objectives.tex}
 
-% Methods section
-\section*{Methods}
-\input{sections/05-eligibility_criteria.tex}
-\input{sections/06-information_sources.tex}
-\input{sections/07-search_strategy.tex}       
-\input{sections/08-selection_process.tex}
-\input{sections/09-data_collection_process.tex}
-\input{sections/10-data_items.tex}
-\input{sections/11-risk_of_bias_assessment.tex}
 
 % PRISMA Diagram
 \begin{figure*}[t]
@@ -79,25 +70,64 @@ and Giles Cattermole
 \label{fig:prisma}
 \end{figure*}
 
+% Methods section
+\section*{Methods}
+\input{sections/05-eligibility_criteria.tex}
+
+
+
+\input{sections/06-information_sources.tex}
+\input{sections/07-search_strategy.tex} 
+
+
+
+\input{sections/08-selection_process.tex}
+\input{sections/09-data_collection_process.tex}
+\input{sections/10-data_items.tex}
+\input{sections/11-risk_of_bias_assessment.tex}
+
+
+
 \input{sections/12-effects_measures.tex}
+
+
+\input{tables/case_data_grouped_summary_wide.tex}
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=\columnwidth]{figures/case_country_plot.png}
+\caption{Heat map of cases per country.}
+\label{fig:country_heat_map}
+\end{figure}
 
 \section*{Results}
 
 % Case data characteristics
-\input{tables/case_data_grouped_summary_wide.tex}
-\input{tables/aggregate_series_data_long_table.tex}
 
+
+\input{tables/series_data_table.tex}
 \input{sections/16-study_selection.tex}
+
+\input{tables/univariate_results_table.tex}
 \input{sections/17-risk_of_bias_in_studies.tex}
+
+
 \input{sections/18-study_characteristics.tex}
 
-\input{tables/chi2_results_grouped_wide_table.tex}
+
+\input{tables/country_table.tex}
+
+\input{tables/univariate_meta_regression.tex}
 \input{sections/19-results_of_individual_studies.tex}
 
 
-\input{tables/logistic_regression_wide_table.tex}
 
-\input{tables/series_meta_regression_wide_table.tex}
+\begin{figure*}[!t]
+\centering
+\includegraphics[width=0.95\linewidth]{figures/nested_univariate_subgroup_plots.png}
+\caption{Nested bar plots showing percentage differences in population characteristics between key subgroups and the comparison group. Each subplot visualises the relative increase or decrease of specific variables within a given subgroup, highlighting significant deviations (\( p < 0.05 \)) from the broader case report population.}
+\label{fig:nested_subgroup_plots}
+\end{figure*}
 \input{sections/20-synthesis_results.tex}
 
 
@@ -105,20 +135,28 @@ and Giles Cattermole
 \input{sections/21-reporting_of_bias.tex}
 \input{sections/22-certainty_of_evidence.tex}
 
+
 \begin{figure}[t]
 \centering
-\includegraphics[width=\columnwidth]{figures/meta_summary_plot.png}
-\caption{Case series meta-analysis of pooled outcome proportions.}
-\label{fig:meta}
+\includegraphics[width=\columnwidth]{figures/reml_meta_summary_plot.png}
+\caption{Meta-analyses of proportions using random-effects models with restricted maximum likelihood (REML) estimation and Hartung-Knapp (HK) adjustments for confidence intervals.}
+\label{fig:reml_meta}
 \end{figure}
+
+% \begin{figure}[b]
+%\centering
+%\includegraphics[width=\textwidth]{figures/series_pies.png}
+%\caption{Pie charts showing distribution of variables for all ingestions.}
+%\label{fig:variable_pie_charts}
+%\end{figure}
+
 
 \section*{Discussion}
 \input{sections/23-discussion.tex}
 
 
+
 \input{sections/27-data_code_other_materials.tex}
-
-
 
 \printbibliography
 
@@ -130,13 +168,10 @@ and Giles Cattermole
 \input{sections/appendix_b.tex}
 
 \input{sections/appendix_c.tex}
+
 \input{sections/appendix_d.tex}
 %\input{sections/appendix_e.tex}
 \input{sections/appendix_f.tex}
-
-\clearpage
-\twocolumn
-\section{Appendix D}
 \input{sections/s1-risk_of_bias_supplement.tex}
 
 \end{document}

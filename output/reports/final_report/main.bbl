@@ -3234,6 +3234,7 @@
       \strng{authornamehash}{b581e201b8b81d86846708f2ccb251c7}
       \strng{authorfullhash}{92c0cd9bef907ff226d3443783690193}
       \strng{authorfullhashraw}{92c0cd9bef907ff226d3443783690193}
+      \field{extraname}{1}
       \field{sortinit}{9}
       \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
@@ -5618,6 +5619,84 @@
       \verb /Users/jackgedge/Zotero/storage/UMM7IGIC/Fj Buils - 2024 - Repeated Behavior Of Deliberate Foreign Body Inges.pdf
       \endverb
     \endentry
+    \entry{Elghali_2016}{article}{}{}
+      \name{author}{8}{}{%
+        {{hash=dcd827753246c361b858b3cab8d7b6c1}{%
+           family={Elghali},
+           familyi={E\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod},
+           prefix={amine},
+           prefixi={a\bibinitperiod}}}%
+        {{hash=6101c66226cff91668d83a3fbae33ddb}{%
+           family={Ghrissi},
+           familyi={G\bibinitperiod},
+           given={Rafik},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a76482db61016e0c5d869cf99bf66e12}{%
+           family={Fadhl},
+           familyi={F\bibinitperiod},
+           given={Houssem},
+           giveni={H\bibinitperiod}}}%
+        {{hash=c05d78cf41f4ea76eb988c93d7c49646}{%
+           family={Mahjoub},
+           familyi={M\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7db4535d33feac3e62ce01b1e84ae9a1}{%
+           family={Jarrar},
+           familyi={J\bibinitperiod},
+           given={Mohamed\bibnamedelima Salah},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=4027b87c91171a7177eb19d9cddea5a9}{%
+           family={Jedidi},
+           familyi={J\bibinitperiod},
+           given={Maher},
+           giveni={M\bibinitperiod}}}%
+        {{hash=837d639ec534e5c65ba3031d1035622c}{%
+           family={Letaief},
+           familyi={L\bibinitperiod},
+           given={Rached},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b81ad297549382b1a49aaeeed881a39f}{%
+           family={Hamila},
+           familyi={H\bibinitperiod},
+           given={Fehmi},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{afe07a4078001da6a2327bc20af2b258}
+      \strng{fullhash}{92701d1bfe8cdc46ff02cf1b3c3d49de}
+      \strng{fullhashraw}{92701d1bfe8cdc46ff02cf1b3c3d49de}
+      \strng{bibnamehash}{afe07a4078001da6a2327bc20af2b258}
+      \strng{authorbibnamehash}{afe07a4078001da6a2327bc20af2b258}
+      \strng{authornamehash}{afe07a4078001da6a2327bc20af2b258}
+      \strng{authorfullhash}{92701d1bfe8cdc46ff02cf1b3c3d49de}
+      \strng{authorfullhashraw}{92701d1bfe8cdc46ff02cf1b3c3d49de}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Ingestion of sharp objects is a rare event. We report our experience in the care of prisoners who ingested razor blades and the in-time evolution of our management. This is a descriptive study including all detainees ingesting a razor blade, transferred from the prison to Farhat Hached University Hospital of Sousse, from January 1, 2014 to December 31, 2015. Thus, we counted 19 cases of swallowed razor blades in 16 prisoners; indeed, 1 prisoner ingested a razor blade three times and another had ingested a blade twice. Our study includes 19 episodes of swallowed razor blades. In 2 cases, these events were secondary to suicide attempts. In the other cases, it was an expression of discontent and rejection of the situation in the prison. Three patients had a psychiatric history. The mean age of the patients is 24 years. The initial clinical examination had not objectified signs of gastrointestinal perforation. Thoraco-abdomino-pelvic computed tomography scans allowed specifying the blade location in all cases. It also objectified a pneumo-mediastinum in 2 cases. The blade location was esophageal in 1 case, gastric in 6 cases, and in the small bowel in the other cases. The first 4 patients had surgical removal of the blade. In subsequent cases, surgical abstention was the rule, and spontaneous blade expulsion was observed. The average time of expulsion was 4 days. In our experience, surgical removal of sharp foreign bodies should not be performed systematically without complications.}
+      \field{issn}{0020-8868}
+      \field{journaltitle}{International Surgery}
+      \field{month}{11}
+      \field{number}{1-3}
+      \field{title}{The Management of Voluntary Ingestion of Razor Blades by Inmates}
+      \field{urlday}{14}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{volume}{105}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{129\bibrangedash 133}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.9738/INTSURG-D-16-00204.1
+      \endverb
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/AD2DGZGV/Elghali et al. - 2016 - The Management of Voluntary Ingestion of Razor Bla.pdf;/Users/jackgedge/Zotero/storage/T3U8MHWX/The-Management-of-Voluntary-Ingestion-of-Razor.html
+      \endverb
+    \endentry
     \entry{Karp_1991b}{article}{}{}
       \name{author}{3}{}{%
         {{hash=3f2bca3e8427dae1d5f5be052a163118}{%
@@ -5757,84 +5836,6 @@
       \verb /Users/jackgedge/Zotero/storage/8K38G7Q4/Lee et al. - 2007 - Foreign Objects in Korean Prisoners.pdf
       \endverb
     \endentry
-    \entry{Elghali_2016}{article}{}{}
-      \name{author}{8}{}{%
-        {{hash=dcd827753246c361b858b3cab8d7b6c1}{%
-           family={Elghali},
-           familyi={E\bibinitperiod},
-           given={Mohamed},
-           giveni={M\bibinitperiod},
-           prefix={amine},
-           prefixi={a\bibinitperiod}}}%
-        {{hash=6101c66226cff91668d83a3fbae33ddb}{%
-           family={Ghrissi},
-           familyi={G\bibinitperiod},
-           given={Rafik},
-           giveni={R\bibinitperiod}}}%
-        {{hash=a76482db61016e0c5d869cf99bf66e12}{%
-           family={Fadhl},
-           familyi={F\bibinitperiod},
-           given={Houssem},
-           giveni={H\bibinitperiod}}}%
-        {{hash=c05d78cf41f4ea76eb988c93d7c49646}{%
-           family={Mahjoub},
-           familyi={M\bibinitperiod},
-           given={Mohamed},
-           giveni={M\bibinitperiod}}}%
-        {{hash=7db4535d33feac3e62ce01b1e84ae9a1}{%
-           family={Jarrar},
-           familyi={J\bibinitperiod},
-           given={Mohamed\bibnamedelima Salah},
-           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=4027b87c91171a7177eb19d9cddea5a9}{%
-           family={Jedidi},
-           familyi={J\bibinitperiod},
-           given={Maher},
-           giveni={M\bibinitperiod}}}%
-        {{hash=837d639ec534e5c65ba3031d1035622c}{%
-           family={Letaief},
-           familyi={L\bibinitperiod},
-           given={Rached},
-           giveni={R\bibinitperiod}}}%
-        {{hash=b81ad297549382b1a49aaeeed881a39f}{%
-           family={Hamila},
-           familyi={H\bibinitperiod},
-           given={Fehmi},
-           giveni={F\bibinitperiod}}}%
-      }
-      \strng{namehash}{afe07a4078001da6a2327bc20af2b258}
-      \strng{fullhash}{92701d1bfe8cdc46ff02cf1b3c3d49de}
-      \strng{fullhashraw}{92701d1bfe8cdc46ff02cf1b3c3d49de}
-      \strng{bibnamehash}{afe07a4078001da6a2327bc20af2b258}
-      \strng{authorbibnamehash}{afe07a4078001da6a2327bc20af2b258}
-      \strng{authornamehash}{afe07a4078001da6a2327bc20af2b258}
-      \strng{authorfullhash}{92701d1bfe8cdc46ff02cf1b3c3d49de}
-      \strng{authorfullhashraw}{92701d1bfe8cdc46ff02cf1b3c3d49de}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Ingestion of sharp objects is a rare event. We report our experience in the care of prisoners who ingested razor blades and the in-time evolution of our management. This is a descriptive study including all detainees ingesting a razor blade, transferred from the prison to Farhat Hached University Hospital of Sousse, from January 1, 2014 to December 31, 2015. Thus, we counted 19 cases of swallowed razor blades in 16 prisoners; indeed, 1 prisoner ingested a razor blade three times and another had ingested a blade twice. Our study includes 19 episodes of swallowed razor blades. In 2 cases, these events were secondary to suicide attempts. In the other cases, it was an expression of discontent and rejection of the situation in the prison. Three patients had a psychiatric history. The mean age of the patients is 24 years. The initial clinical examination had not objectified signs of gastrointestinal perforation. Thoraco-abdomino-pelvic computed tomography scans allowed specifying the blade location in all cases. It also objectified a pneumo-mediastinum in 2 cases. The blade location was esophageal in 1 case, gastric in 6 cases, and in the small bowel in the other cases. The first 4 patients had surgical removal of the blade. In subsequent cases, surgical abstention was the rule, and spontaneous blade expulsion was observed. The average time of expulsion was 4 days. In our experience, surgical removal of sharp foreign bodies should not be performed systematically without complications.}
-      \field{issn}{0020-8868}
-      \field{journaltitle}{International Surgery}
-      \field{month}{11}
-      \field{number}{1-3}
-      \field{title}{The Management of Voluntary Ingestion of Razor Blades by Inmates}
-      \field{urlday}{14}
-      \field{urlmonth}{4}
-      \field{urlyear}{2025}
-      \field{volume}{105}
-      \field{year}{2016}
-      \field{urldateera}{ce}
-      \field{pages}{129\bibrangedash 133}
-      \range{pages}{5}
-      \verb{doi}
-      \verb 10.9738/INTSURG-D-16-00204.1
-      \endverb
-      \verb{file}
-      \verb /Users/jackgedge/Zotero/storage/AD2DGZGV/Elghali et al. - 2016 - The Management of Voluntary Ingestion of Razor Bla.pdf;/Users/jackgedge/Zotero/storage/T3U8MHWX/The-Management-of-Voluntary-Ingestion-of-Razor.html
-      \endverb
-    \endentry
     \entry{Lee_2012l}{article}{}{}
       \name{author}{7}{}{%
         {{hash=47927a0703200d60735dea47c1c77b7e}{%
@@ -5937,6 +5938,155 @@
       \verb /Users/jackgedge/Zotero/storage/MUGIPTP8/Sharma et al. - 2022 - Multi-Disciplinary Approach To Managing Deliberate.pdf
       \endverb
     \endentry
+    \entry{Tanriver-Ayder_2021}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=24e2f24d692bb8da0cd7424da16ce8aa}{%
+           family={{Tanriver-Ayder}},
+           familyi={T\bibinitperiod},
+           given={Ezgi},
+           giveni={E\bibinitperiod}}}%
+        {{hash=6bf697c383883b8011c62dad1b536be6}{%
+           family={Faes},
+           familyi={F\bibinitperiod},
+           given={Christel},
+           giveni={C\bibinitperiod}}}%
+        {{hash=32e26b469c55632661266a1fafcb51d7}{%
+           family={{van de Casteele}},
+           familyi={v\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+        {{hash=860e741195013497ae1b23f4368f6a79}{%
+           family={McCann},
+           familyi={M\bibinitperiod},
+           given={Sarah\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=26014f78834388ec04d768949c77aba3}{%
+           family={Macleod},
+           familyi={M\bibinitperiod},
+           given={Malcolm\bibnamedelima R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{55e89e4471656ef14582177993693377}
+      \strng{fullhash}{58e40819fc4d21391ca50b299bf4d0d4}
+      \strng{fullhashraw}{58e40819fc4d21391ca50b299bf4d0d4}
+      \strng{bibnamehash}{55e89e4471656ef14582177993693377}
+      \strng{authorbibnamehash}{55e89e4471656ef14582177993693377}
+      \strng{authornamehash}{55e89e4471656ef14582177993693377}
+      \strng{authorfullhash}{58e40819fc4d21391ca50b299bf4d0d4}
+      \strng{authorfullhashraw}{58e40819fc4d21391ca50b299bf4d0d4}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{BACKGROUND: Meta-analysis of preclinical data is used to evaluate the consistency of findings and to inform the design and conduct of future studies. Unlike clinical meta-analysis, preclinical data often involve many heterogeneous studies reporting outcomes from a small number of animals. Here, we review the methodological challenges in preclinical meta-analysis in estimating and explaining heterogeneity in treatment effects. METHODS: Assuming aggregate-level data, we focus on two topics: (1) estimation of heterogeneity using commonly used methods in preclinical meta-analysis: method of moments (DerSimonian and Laird; DL), maximum likelihood (restricted maximum likelihood; REML) and Bayesian approach; (2) comparison of univariate versus multivariable meta-regression for adjusting estimated treatment effects for heterogeneity. Using data from a systematic review on the efficacy of interleukin-1 receptor antagonist in animals with stroke, we compare these methods, and explore the impact of multiple covariates on the treatment effects. RESULTS: We observed that the three methods for estimating heterogeneity yielded similar estimates for the overall effect, but different estimates for between-study variability. The proportion of heterogeneity explained by a covariate is estimated larger using REML and the Bayesian method as compared with DL. Multivariable meta-regression explains more heterogeneity than univariate meta-regression. CONCLUSIONS: Our findings highlight the importance of careful selection of the estimation method and the use of multivariable meta-regression to explain heterogeneity. There was no difference between REML and the Bayesian method and both methods are recommended over DL. Multiple meta-regression is worthwhile to explain heterogeneity by more than one variable, reducing more variability than any univariate models and increasing the explained proportion of heterogeneity.}
+      \field{issn}{2398-8703}
+      \field{journaltitle}{BMJ open science}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{shorttitle}{Comparison of commonly used methods in random effects meta-analysis}
+      \field{title}{Comparison of commonly used methods in random effects meta-analysis: application to preclinical data in drug discovery research}
+      \field{volume}{5}
+      \field{year}{2021}
+      \field{pages}{e100074}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1136/bmjos-2020-100074
+      \endverb
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/PBKIUWNV/Tanriver-Ayder et al. - 2021 - Comparison of commonly used methods in random effe.pdf
+      \endverb
+      \keyw{aggregate data meta-analysis,Bayesian analysis,between-study heterogeneity,meta-regression,preclinical animal studies}
+    \endentry
+    \entry{Ken_1993}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=c8bdd8bfe7e7d6df7ac0f90b1dc1a441}{%
+           family={Ken},
+           familyi={K\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+        {{hash=83d3b7bf2281be7fceb9e0b4a8ad1f24}{%
+           family={Sunichi},
+           familyi={S\bibinitperiod},
+           given={Y},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=e9579147e51dd3e06082baaebc5bd8c9}{%
+           family={Toshiro},
+           familyi={T\bibinitperiod},
+           given={U},
+           giveni={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{422cdb4e88c85cb46e5d0940c26a7369}
+      \strng{fullhash}{422cdb4e88c85cb46e5d0940c26a7369}
+      \strng{fullhashraw}{422cdb4e88c85cb46e5d0940c26a7369}
+      \strng{bibnamehash}{422cdb4e88c85cb46e5d0940c26a7369}
+      \strng{authorbibnamehash}{422cdb4e88c85cb46e5d0940c26a7369}
+      \strng{authornamehash}{422cdb4e88c85cb46e5d0940c26a7369}
+      \strng{authorfullhash}{422cdb4e88c85cb46e5d0940c26a7369}
+      \strng{authorfullhashraw}{422cdb4e88c85cb46e5d0940c26a7369}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Although Foreign Bodies Of The Gastrointestinal Tract Are Common In Children, They Are Rare In The Adult. Complications Of The Foreign Bodies Are Well Recognized To Be A Cause Of ...}
+      \field{journaltitle}{Chinese Medical ...}
+      \field{title}{Endoscopic Removal Of Foreign Bodies In The Mentally And Physically Handicapped}
+      \field{year}{1993}
+      \verb{doi}
+      \verb 10.5555/cmj.0366-6999.106.10.p788.01
+      \endverb
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/CHCM8D5V/T Ken - 1993 - Endoscopic Removal Of Foreign Bodies In The Mental.pdf
+      \endverb
+      \keyw{include}
+    \endentry
+    \entry{Gardner_2017}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=541b1c230a3998bc96f6566beaa618b1}{%
+           family={Gardner},
+           familyi={G\bibinitperiod},
+           given={A.W.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ce899f71d900dffc52154e7e049254e9}{%
+           family={Radwan},
+           familyi={R\bibinitperiod},
+           given={R.W.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=41ec28c93a78e69607a389d76082435d}{%
+           family={Allison},
+           familyi={A\bibinitperiod},
+           given={M.C.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=86d4409489d8b91ea4de50b9897a5847}{%
+           family={Codd},
+           familyi={C\bibinitperiod},
+           given={R.J.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{720b59acee26bb9520e53fe7d67d08fa}
+      \strng{fullhash}{98f67664fc376024fa5a382b585d01d2}
+      \strng{fullhashraw}{98f67664fc376024fa5a382b585d01d2}
+      \strng{bibnamehash}{720b59acee26bb9520e53fe7d67d08fa}
+      \strng{authorbibnamehash}{720b59acee26bb9520e53fe7d67d08fa}
+      \strng{authornamehash}{720b59acee26bb9520e53fe7d67d08fa}
+      \strng{authorfullhash}{98f67664fc376024fa5a382b585d01d2}
+      \strng{authorfullhashraw}{98f67664fc376024fa5a382b585d01d2}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Intentional ingestion of a foreign body in adults is a rare clinical presentation. This case is one of a 27-year-old Sudanese man who presented having swallowed a ballpoint pen intentionally. Clinical examination and plain chest radiograph exhibited no signs indicative of perforation with only a raised C reactive protein identified on blood tests. Subsequent gastroscopy revealed that the pen had simultaneously perforated the duodenum at both D1 and D3 requiring removal via a laparotomy. The patient fully recovered and was discharged 2 weeks postoperatively following psychiatric input. {©} 2017 BMJ Publishing Group Ltd (unless otherwise stated in the text of the article). All rights reserved. No commercial use is permitted unless otherwise expressly granted.}
+      \field{issn}{1757790X (ISSN)}
+      \field{journaltitle}{BMJ Case Reports}
+      \field{langid}{english}
+      \field{title}{Double duodenal perforation following foreign body ingestion}
+      \field{volume}{2017}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1136/bcr-2017-223182
+      \endverb
+      \keyw{abdominal pain,abdominal radiography,abdominal tenderness,adult,Adult,Article,asylum seeker,case report,clinical article,complication,Diagnosis Differential,diagnostic imaging,diet supplementation,differential diagnosis,Duodenal Ulcer,duodenum perforation,duodenum ulcer,Foreign Bodies,foreign body,gastrointestinal surgery,gastroscopy,general surgery,human,Humans,Intestinal Perforation,intestine perforation,jejunostomy,laparotomy,Laparotomy,male,Male,priority journal,Tomography X-Ray Computed,vomiting,x-ray computed tomography}
+    \endentry
     \entry{Microsoft_2025}{misc}{}{}
       \name{author}{1}{}{%
         {{hash=140864078aeca1c7c35b4beb33c53c34}{%
@@ -5951,8 +6101,8 @@
       \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
       \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
       \strng{authorfullhashraw}{140864078aeca1c7c35b4beb33c53c34}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{Microsoft Corporation}
@@ -6047,8 +6197,8 @@
       \strng{authornamehash}{48035973e2ebb91d3445f30ca56d312f}
       \strng{authorfullhash}{eef24eff11c9932feb677555213bd2dd}
       \strng{authorfullhashraw}{eef24eff11c9932feb677555213bd2dd}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{series}{Positioning and Power in Academic Publishing: Players, Agents and Agendas}
@@ -6071,8 +6221,8 @@
       \strng{authornamehash}{5d77435450d10a850a5b58577b9a456b}
       \strng{authorfullhash}{5d77435450d10a850a5b58577b9a456b}
       \strng{authorfullhashraw}{5d77435450d10a850a5b58577b9a456b}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{LaTeX Project Team}
@@ -6093,8 +6243,8 @@
       \strng{authornamehash}{d850c852b9f625e446a32cef4a26cb3c}
       \strng{authorfullhash}{d850c852b9f625e446a32cef4a26cb3c}
       \strng{authorfullhashraw}{d850c852b9f625e446a32cef4a26cb3c}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Pandas is a powerful data structures for data analysis, time series, and statistics.}
@@ -6206,8 +6356,8 @@
       \strng{authornamehash}{9ec95d747bac3417f92265a9a44f8bb4}
       \strng{authorfullhash}{490c08d091505100c571bcba89f8c65d}
       \strng{authorfullhashraw}{490c08d091505100c571bcba89f8c65d}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Scikit-learn is a Python module integrating a wide range of state-of-the-art machine learning algorithms for medium-scale supervised and unsupervised problems. This package focuses on bringing machine learning to non-specialists using a general-purpose high-level language. Emphasis is put on ease of use, performance, documentation, and API consistency. It has minimal dependencies and is distributed under the simplified BSD license, encouraging its use in both academic and commercial settings. Source code, binaries, and documentation can be downloaded from http://scikit-learn.sourceforge.net.}
@@ -6244,8 +6394,8 @@
       \strng{authornamehash}{0c809239417dcb9aef9b906eff53933d}
       \strng{authorfullhash}{0c809239417dcb9aef9b906eff53933d}
       \strng{authorfullhashraw}{0c809239417dcb9aef9b906eff53933d}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Waskom, M. L., (2021). seaborn: statistical data visualization. Journal of Open Source Software, 6(60), 3021, https://doi.org/10.21105/joss.03021}
@@ -6271,6 +6421,55 @@
       \verb /Users/jackgedge/Zotero/storage/Q6XVATW3/Waskom - 2021 - seaborn statistical data visualization.pdf
       \endverb
     \endentry
+    \entry{Hunter_2007a}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=a2f53dcc6bb05a06b8ad94176f80fe26}{%
+           family={Hunter},
+           familyi={H\bibinitperiod},
+           given={John\bibnamedelima D},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \strng{fullhash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \strng{fullhashraw}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \strng{bibnamehash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \strng{authorbibnamehash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \strng{authornamehash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \strng{authorfullhash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \strng{authorfullhashraw}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computing in Science \& Engineering}
+      \field{number}{3}
+      \field{title}{Matplotlib: A 2D graphics environment}
+      \field{volume}{9}
+      \field{year}{2007}
+      \field{pages}{90\bibrangedash 95}
+      \range{pages}{6}
+    \endentry
+    \entry{MetOffice_2010}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=2af6bec02d53ad4cb88c7b85a5878ec8}{%
+           family={{Met Office}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2af6bec02d53ad4cb88c7b85a5878ec8}
+      \strng{fullhash}{2af6bec02d53ad4cb88c7b85a5878ec8}
+      \strng{fullhashraw}{2af6bec02d53ad4cb88c7b85a5878ec8}
+      \strng{bibnamehash}{2af6bec02d53ad4cb88c7b85a5878ec8}
+      \strng{authorbibnamehash}{2af6bec02d53ad4cb88c7b85a5878ec8}
+      \strng{authornamehash}{2af6bec02d53ad4cb88c7b85a5878ec8}
+      \strng{authorfullhash}{2af6bec02d53ad4cb88c7b85a5878ec8}
+      \strng{authorfullhashraw}{2af6bec02d53ad4cb88c7b85a5878ec8}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cartopy: a cartographic Python library with a Matplotlib interface}
+      \field{year}{2010}
+    \endentry
     \entry{AmericanPsychiatricAssociation_2013}{book}{}{}
       \name{author}{1}{}{%
         {{hash=ce2c470a69e9b189664512d02dc6f03c}{%
@@ -6285,8 +6484,8 @@
       \strng{authornamehash}{ce2c470a69e9b189664512d02dc6f03c}
       \strng{authorfullhash}{ce2c470a69e9b189664512d02dc6f03c}
       \strng{authorfullhashraw}{ce2c470a69e9b189664512d02dc6f03c}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Diagnostic and statistical manual of mental disorders (5th ed.)}
@@ -6309,8 +6508,8 @@
       \strng{authornamehash}{5a754ce56fd47c3989762d2d550dde51}
       \strng{authorfullhash}{5a754ce56fd47c3989762d2d550dde51}
       \strng{authorfullhashraw}{5a754ce56fd47c3989762d2d550dde51}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
@@ -6354,8 +6553,8 @@
       \strng{authornamehash}{bd99f91f04b58e3b1ddfdc756fda9da6}
       \strng{authorfullhash}{bd99f91f04b58e3b1ddfdc756fda9da6}
       \strng{authorfullhashraw}{bd99f91f04b58e3b1ddfdc756fda9da6}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The Guiding Principles define displacement as the movement of persons forced or obliged to flee due to conflict, violence, disasters, or rights violations.}
@@ -6388,8 +6587,8 @@
       \strng{authornamehash}{1caa6750fcd92675f4b217addf3d35f7}
       \strng{authorfullhash}{1caa6750fcd92675f4b217addf3d35f7}
       \strng{authorfullhashraw}{1caa6750fcd92675f4b217addf3d35f7}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{An asylum-seeker is someone who is seeking international protection. Learn more about asylum-seekers and how UNHCR protects them.}
