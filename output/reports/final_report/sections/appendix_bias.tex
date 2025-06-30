@@ -1,0 +1,27 @@
+\onecolumn
+\section{Computational Risk of Bias Assessment}
+\subsubsection*{Case Reports}
+For case reports, the \textit{JBI Checklist for Case Reports}~\cite{Moola_2020} was used. This tool assesses eight domains of reporting quality, including whether patient demographics were clearly described, a timeline of clinical history was provided, the presenting condition and diagnostic assessment were outlined, and whether the intervention, post-intervention condition, and any adverse events were reported. The final domain evaluates whether the case provides meaningful takeaway lessons.
+
+In addition to manual JBI appraisal, a logic-based validation filter was applied to all case reports using \textit{Python Pandas}~\cite{ThePandasDevelopmentTeam_2020}. This secondary filter assessed whether key variables --- specifically, outcomes, object characteristics, and motivation --- were completely unreported. For each domain, a binary flag was generated:
+
+\begin{itemize}
+\item \textit{Outcome\_Unknown} was marked \texttt{1} if all outcome-related fields were either missing or marked as unknown.
+\item \textit{Object\_Unknown} was marked \texttt{1} if all object-related fields (excluding \textit{Object\_Other\_Long}) were missing or unknown.
+\item \textit{Motivation\_Unknown} was predefined in the dataset and indicated absence of motivational information.
+\end{itemize}
+
+If any of these flags were triggered, the corresponding JBI item most affected by the missing domain was marked as not reported (e.g., \textit{Post\_Intervention\_Condition\_Described} or \textit{History\_Timeline} set to \texttt{N}). Finally, an \textit{Overall\_Appraisal} score of \textit{Exclude} was assigned, indicating high risk of bias and exclusion from analysis. This ensured that only case reports with sufficient information to meaningfully contribute to the review question were retained.\\
+
+\subsubsection*{Case Series}
+For case series, the \textit{JBI Checklist for Case Series}~\cite{Moola_2020} was applied. The JBI Checklist for Case Series assesses 10 domains of methodological and reporting quality. These include whether the case series defined clear inclusion criteria, applied valid and consistent methods to identify the condition, and included participants consecutively and completely. The checklist also evaluates whether participant demographics and clinical information were clearly reported, whether outcomes or follow-up results were adequately described, and whether the study setting was detailed. Finally, it considers whether the statistical analysis used was appropriate for the data presented.
+
+In addition to manual JBI appraisal, a logic-based exclusion filter was applied using \textit{Pandas}~\cite{ThePandasDevelopmentTeam_2020}. This filter assessed whether key variables --- specifically, motivation, object characteristics, and outcomes --- were unreported for the entire study population. For each of these domains, a derived rate variable was calculated:
+
+\begin{itemize}
+\item \textit{Outcome\_Unknown\_Rate} was marked as \texttt{1} if all outcome-related fields were missing or marked as unknown (i.e. the entire population had an had an unknown outcome).
+\item \textit{Motivation\_Unknown\_Rate} indicated whether motivation was absent or only partially reported across cases within the study.
+\item \textit{Object\_Unknown\_Rate} was derived if all object-related fields were missing or unknown.
+\end{itemize}
+
+If any of these indicators were flagged, the corresponding JBI checklist item (e.g., \textit{Clear\_Outcome\_Followup\_Reported}, \textit{Clear\_Demographic\_Reporting}, or \textit{Clear\_Clinical\_Info\_Reporting}) was marked as \texttt{N}, and the study received an \textit{Overall\_Appraisal} of \texttt{Exclude}. This logic-based validation ensured that case series lacking essential variables could be systematically excluded from the final analysis, maintaining consistency with the review question and minimising risk of bias in the dataset.\\

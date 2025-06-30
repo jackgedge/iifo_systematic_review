@@ -5619,84 +5619,6 @@
       \verb /Users/jackgedge/Zotero/storage/UMM7IGIC/Fj Buils - 2024 - Repeated Behavior Of Deliberate Foreign Body Inges.pdf
       \endverb
     \endentry
-    \entry{Elghali_2016}{article}{}{}
-      \name{author}{8}{}{%
-        {{hash=dcd827753246c361b858b3cab8d7b6c1}{%
-           family={Elghali},
-           familyi={E\bibinitperiod},
-           given={Mohamed},
-           giveni={M\bibinitperiod},
-           prefix={amine},
-           prefixi={a\bibinitperiod}}}%
-        {{hash=6101c66226cff91668d83a3fbae33ddb}{%
-           family={Ghrissi},
-           familyi={G\bibinitperiod},
-           given={Rafik},
-           giveni={R\bibinitperiod}}}%
-        {{hash=a76482db61016e0c5d869cf99bf66e12}{%
-           family={Fadhl},
-           familyi={F\bibinitperiod},
-           given={Houssem},
-           giveni={H\bibinitperiod}}}%
-        {{hash=c05d78cf41f4ea76eb988c93d7c49646}{%
-           family={Mahjoub},
-           familyi={M\bibinitperiod},
-           given={Mohamed},
-           giveni={M\bibinitperiod}}}%
-        {{hash=7db4535d33feac3e62ce01b1e84ae9a1}{%
-           family={Jarrar},
-           familyi={J\bibinitperiod},
-           given={Mohamed\bibnamedelima Salah},
-           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=4027b87c91171a7177eb19d9cddea5a9}{%
-           family={Jedidi},
-           familyi={J\bibinitperiod},
-           given={Maher},
-           giveni={M\bibinitperiod}}}%
-        {{hash=837d639ec534e5c65ba3031d1035622c}{%
-           family={Letaief},
-           familyi={L\bibinitperiod},
-           given={Rached},
-           giveni={R\bibinitperiod}}}%
-        {{hash=b81ad297549382b1a49aaeeed881a39f}{%
-           family={Hamila},
-           familyi={H\bibinitperiod},
-           given={Fehmi},
-           giveni={F\bibinitperiod}}}%
-      }
-      \strng{namehash}{afe07a4078001da6a2327bc20af2b258}
-      \strng{fullhash}{92701d1bfe8cdc46ff02cf1b3c3d49de}
-      \strng{fullhashraw}{92701d1bfe8cdc46ff02cf1b3c3d49de}
-      \strng{bibnamehash}{afe07a4078001da6a2327bc20af2b258}
-      \strng{authorbibnamehash}{afe07a4078001da6a2327bc20af2b258}
-      \strng{authornamehash}{afe07a4078001da6a2327bc20af2b258}
-      \strng{authorfullhash}{92701d1bfe8cdc46ff02cf1b3c3d49de}
-      \strng{authorfullhashraw}{92701d1bfe8cdc46ff02cf1b3c3d49de}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Ingestion of sharp objects is a rare event. We report our experience in the care of prisoners who ingested razor blades and the in-time evolution of our management. This is a descriptive study including all detainees ingesting a razor blade, transferred from the prison to Farhat Hached University Hospital of Sousse, from January 1, 2014 to December 31, 2015. Thus, we counted 19 cases of swallowed razor blades in 16 prisoners; indeed, 1 prisoner ingested a razor blade three times and another had ingested a blade twice. Our study includes 19 episodes of swallowed razor blades. In 2 cases, these events were secondary to suicide attempts. In the other cases, it was an expression of discontent and rejection of the situation in the prison. Three patients had a psychiatric history. The mean age of the patients is 24 years. The initial clinical examination had not objectified signs of gastrointestinal perforation. Thoraco-abdomino-pelvic computed tomography scans allowed specifying the blade location in all cases. It also objectified a pneumo-mediastinum in 2 cases. The blade location was esophageal in 1 case, gastric in 6 cases, and in the small bowel in the other cases. The first 4 patients had surgical removal of the blade. In subsequent cases, surgical abstention was the rule, and spontaneous blade expulsion was observed. The average time of expulsion was 4 days. In our experience, surgical removal of sharp foreign bodies should not be performed systematically without complications.}
-      \field{issn}{0020-8868}
-      \field{journaltitle}{International Surgery}
-      \field{month}{11}
-      \field{number}{1-3}
-      \field{title}{The Management of Voluntary Ingestion of Razor Blades by Inmates}
-      \field{urlday}{14}
-      \field{urlmonth}{4}
-      \field{urlyear}{2025}
-      \field{volume}{105}
-      \field{year}{2016}
-      \field{urldateera}{ce}
-      \field{pages}{129\bibrangedash 133}
-      \range{pages}{5}
-      \verb{doi}
-      \verb 10.9738/INTSURG-D-16-00204.1
-      \endverb
-      \verb{file}
-      \verb /Users/jackgedge/Zotero/storage/AD2DGZGV/Elghali et al. - 2016 - The Management of Voluntary Ingestion of Razor Bla.pdf;/Users/jackgedge/Zotero/storage/T3U8MHWX/The-Management-of-Voluntary-Ingestion-of-Razor.html
-      \endverb
-    \endentry
     \entry{Karp_1991b}{article}{}{}
       \name{author}{3}{}{%
         {{hash=3f2bca3e8427dae1d5f5be052a163118}{%
@@ -5836,6 +5758,84 @@
       \verb /Users/jackgedge/Zotero/storage/8K38G7Q4/Lee et al. - 2007 - Foreign Objects in Korean Prisoners.pdf
       \endverb
     \endentry
+    \entry{Elghali_2016}{article}{}{}
+      \name{author}{8}{}{%
+        {{hash=dcd827753246c361b858b3cab8d7b6c1}{%
+           family={Elghali},
+           familyi={E\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod},
+           prefix={amine},
+           prefixi={a\bibinitperiod}}}%
+        {{hash=6101c66226cff91668d83a3fbae33ddb}{%
+           family={Ghrissi},
+           familyi={G\bibinitperiod},
+           given={Rafik},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a76482db61016e0c5d869cf99bf66e12}{%
+           family={Fadhl},
+           familyi={F\bibinitperiod},
+           given={Houssem},
+           giveni={H\bibinitperiod}}}%
+        {{hash=c05d78cf41f4ea76eb988c93d7c49646}{%
+           family={Mahjoub},
+           familyi={M\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7db4535d33feac3e62ce01b1e84ae9a1}{%
+           family={Jarrar},
+           familyi={J\bibinitperiod},
+           given={Mohamed\bibnamedelima Salah},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=4027b87c91171a7177eb19d9cddea5a9}{%
+           family={Jedidi},
+           familyi={J\bibinitperiod},
+           given={Maher},
+           giveni={M\bibinitperiod}}}%
+        {{hash=837d639ec534e5c65ba3031d1035622c}{%
+           family={Letaief},
+           familyi={L\bibinitperiod},
+           given={Rached},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b81ad297549382b1a49aaeeed881a39f}{%
+           family={Hamila},
+           familyi={H\bibinitperiod},
+           given={Fehmi},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{afe07a4078001da6a2327bc20af2b258}
+      \strng{fullhash}{92701d1bfe8cdc46ff02cf1b3c3d49de}
+      \strng{fullhashraw}{92701d1bfe8cdc46ff02cf1b3c3d49de}
+      \strng{bibnamehash}{afe07a4078001da6a2327bc20af2b258}
+      \strng{authorbibnamehash}{afe07a4078001da6a2327bc20af2b258}
+      \strng{authornamehash}{afe07a4078001da6a2327bc20af2b258}
+      \strng{authorfullhash}{92701d1bfe8cdc46ff02cf1b3c3d49de}
+      \strng{authorfullhashraw}{92701d1bfe8cdc46ff02cf1b3c3d49de}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Ingestion of sharp objects is a rare event. We report our experience in the care of prisoners who ingested razor blades and the in-time evolution of our management. This is a descriptive study including all detainees ingesting a razor blade, transferred from the prison to Farhat Hached University Hospital of Sousse, from January 1, 2014 to December 31, 2015. Thus, we counted 19 cases of swallowed razor blades in 16 prisoners; indeed, 1 prisoner ingested a razor blade three times and another had ingested a blade twice. Our study includes 19 episodes of swallowed razor blades. In 2 cases, these events were secondary to suicide attempts. In the other cases, it was an expression of discontent and rejection of the situation in the prison. Three patients had a psychiatric history. The mean age of the patients is 24 years. The initial clinical examination had not objectified signs of gastrointestinal perforation. Thoraco-abdomino-pelvic computed tomography scans allowed specifying the blade location in all cases. It also objectified a pneumo-mediastinum in 2 cases. The blade location was esophageal in 1 case, gastric in 6 cases, and in the small bowel in the other cases. The first 4 patients had surgical removal of the blade. In subsequent cases, surgical abstention was the rule, and spontaneous blade expulsion was observed. The average time of expulsion was 4 days. In our experience, surgical removal of sharp foreign bodies should not be performed systematically without complications.}
+      \field{issn}{0020-8868}
+      \field{journaltitle}{International Surgery}
+      \field{month}{11}
+      \field{number}{1-3}
+      \field{title}{The Management of Voluntary Ingestion of Razor Blades by Inmates}
+      \field{urlday}{14}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{volume}{105}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{129\bibrangedash 133}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.9738/INTSURG-D-16-00204.1
+      \endverb
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/AD2DGZGV/Elghali et al. - 2016 - The Management of Voluntary Ingestion of Razor Bla.pdf;/Users/jackgedge/Zotero/storage/T3U8MHWX/The-Management-of-Voluntary-Ingestion-of-Razor.html
+      \endverb
+    \endentry
     \entry{Lee_2012l}{article}{}{}
       \name{author}{7}{}{%
         {{hash=47927a0703200d60735dea47c1c77b7e}{%
@@ -5938,64 +5938,111 @@
       \verb /Users/jackgedge/Zotero/storage/MUGIPTP8/Sharma et al. - 2022 - Multi-Disciplinary Approach To Managing Deliberate.pdf
       \endverb
     \endentry
-    \entry{Tanriver-Ayder_2021}{article}{}{}
+    \entry{Afonso_2024}{article}{}{}
       \name{author}{5}{}{%
-        {{hash=24e2f24d692bb8da0cd7424da16ce8aa}{%
-           family={{Tanriver-Ayder}},
-           familyi={T\bibinitperiod},
-           given={Ezgi},
-           giveni={E\bibinitperiod}}}%
-        {{hash=6bf697c383883b8011c62dad1b536be6}{%
-           family={Faes},
-           familyi={F\bibinitperiod},
-           given={Christel},
-           giveni={C\bibinitperiod}}}%
-        {{hash=32e26b469c55632661266a1fafcb51d7}{%
-           family={{van de Casteele}},
-           familyi={v\bibinitperiod},
-           given={Tom},
-           giveni={T\bibinitperiod}}}%
-        {{hash=860e741195013497ae1b23f4368f6a79}{%
-           family={McCann},
-           familyi={M\bibinitperiod},
-           given={Sarah\bibnamedelima K.},
-           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=26014f78834388ec04d768949c77aba3}{%
-           family={Macleod},
-           familyi={M\bibinitperiod},
-           given={Malcolm\bibnamedelima R.},
-           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=0d9fcbead6b8929937e7706c61e3a25d}{%
+           family={Afonso},
+           familyi={A\bibinitperiod},
+           given={José},
+           giveni={J\bibinitperiod}}}%
+        {{hash=63ac4c7a0646447cc669b9b82ac8fcad}{%
+           family={{Ramirez-Campillo}},
+           familyi={R\bibinitperiod},
+           given={Rodrigo},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b61a1adb257931652091d1e4a1abfe44}{%
+           family={Clemente},
+           familyi={C\bibinitperiod},
+           given={Filipe\bibnamedelima Manuel},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=62a1b1e12e9d056671e3af3a2d7a5011}{%
+           family={Büttner},
+           familyi={B\bibinitperiod},
+           given={Fionn\bibnamedelima Cléirigh},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=923488f89ecd581ee9cb096cc72456a3}{%
+           family={Andrade},
+           familyi={A\bibinitperiod},
+           given={Renato},
+           giveni={R\bibinitperiod}}}%
       }
-      \strng{namehash}{55e89e4471656ef14582177993693377}
-      \strng{fullhash}{58e40819fc4d21391ca50b299bf4d0d4}
-      \strng{fullhashraw}{58e40819fc4d21391ca50b299bf4d0d4}
-      \strng{bibnamehash}{55e89e4471656ef14582177993693377}
-      \strng{authorbibnamehash}{55e89e4471656ef14582177993693377}
-      \strng{authornamehash}{55e89e4471656ef14582177993693377}
-      \strng{authorfullhash}{58e40819fc4d21391ca50b299bf4d0d4}
-      \strng{authorfullhashraw}{58e40819fc4d21391ca50b299bf4d0d4}
+      \strng{namehash}{00b128f21d58b973354da5d73da8906a}
+      \strng{fullhash}{fb9b4a8291736994c485446a453a689f}
+      \strng{fullhashraw}{fb9b4a8291736994c485446a453a689f}
+      \strng{bibnamehash}{00b128f21d58b973354da5d73da8906a}
+      \strng{authorbibnamehash}{00b128f21d58b973354da5d73da8906a}
+      \strng{authornamehash}{00b128f21d58b973354da5d73da8906a}
+      \strng{authorfullhash}{fb9b4a8291736994c485446a453a689f}
+      \strng{authorfullhashraw}{fb9b4a8291736994c485446a453a689f}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{BACKGROUND: Meta-analysis of preclinical data is used to evaluate the consistency of findings and to inform the design and conduct of future studies. Unlike clinical meta-analysis, preclinical data often involve many heterogeneous studies reporting outcomes from a small number of animals. Here, we review the methodological challenges in preclinical meta-analysis in estimating and explaining heterogeneity in treatment effects. METHODS: Assuming aggregate-level data, we focus on two topics: (1) estimation of heterogeneity using commonly used methods in preclinical meta-analysis: method of moments (DerSimonian and Laird; DL), maximum likelihood (restricted maximum likelihood; REML) and Bayesian approach; (2) comparison of univariate versus multivariable meta-regression for adjusting estimated treatment effects for heterogeneity. Using data from a systematic review on the efficacy of interleukin-1 receptor antagonist in animals with stroke, we compare these methods, and explore the impact of multiple covariates on the treatment effects. RESULTS: We observed that the three methods for estimating heterogeneity yielded similar estimates for the overall effect, but different estimates for between-study variability. The proportion of heterogeneity explained by a covariate is estimated larger using REML and the Bayesian method as compared with DL. Multivariable meta-regression explains more heterogeneity than univariate meta-regression. CONCLUSIONS: Our findings highlight the importance of careful selection of the estimation method and the use of multivariable meta-regression to explain heterogeneity. There was no difference between REML and the Bayesian method and both methods are recommended over DL. Multiple meta-regression is worthwhile to explain heterogeneity by more than one variable, reducing more variability than any univariate models and increasing the explained proportion of heterogeneity.}
-      \field{issn}{2398-8703}
-      \field{journaltitle}{BMJ open science}
-      \field{langid}{english}
-      \field{number}{1}
-      \field{shorttitle}{Comparison of commonly used methods in random effects meta-analysis}
-      \field{title}{Comparison of commonly used methods in random effects meta-analysis: application to preclinical data in drug discovery research}
-      \field{volume}{5}
-      \field{year}{2021}
-      \field{pages}{e100074}
-      \range{pages}{-1}
+      \field{abstract}{Publication bias refers to a systematic deviation from the truth in the results of a meta-analysis due to the higher likelihood for published studies to be included in meta-analyses than unpublished studies. Publication bias can lead to misleading recommendations for decision and policy making. In this education review, we introduce, explain, and provide solutions to the pervasive misuses and misinterpretations of publication bias that afflict evidence syntheses in sport and exercise medicine, with a focus on the commonly used funnel-plot based methods. Publication bias is more routinely assessed by visually inspecting funnel plot asymmetry, although it has been consistently deemed unreliable, leading to the development of statistical tests to assess publication bias. However, most statistical tests of publication bias (i) cannot rule out alternative explanations for funnel plot asymmetry (e.g., between-study heterogeneity, choice of metric, chance) and (ii) are grossly underpowered, even when using an arbitrary minimum threshold of ten or more studies. We performed a cross-sectional meta-research investigation of how publication bias was assessed in systematic reviews with meta-analyses published in the top two sport and exercise medicine journals throughout 2021. This analysis highlights that publication bias is frequently misused and misinterpreted, even in top tier journals. Because of conceptual and methodological problems when assessing and interpreting publication bias, preventive strategies (e.g., pre-registration, registered reports, disclosing protocol deviations, and reporting all study findings regardless of direction or magnitude) offer the best and most efficient solution to mitigate the misuse and misinterpretation of publication bias. Because true publication bias is very difficult to determine, we recommend that future publications use the term ``risk of publication bias''.}
+      \field{issn}{0112-1642}
+      \field{journaltitle}{Sports Medicine (Auckland, N.z.)}
+      \field{number}{2}
+      \field{shorttitle}{The Perils of Misinterpreting and Misusing ``Publication Bias'' in Meta-analyses}
+      \field{title}{The Perils of Misinterpreting and Misusing ``Publication Bias'' in Meta-analyses: An Education Review on Funnel Plot-Based Methods}
+      \field{urlday}{30}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{54}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \field{pages}{257\bibrangedash 269}
+      \range{pages}{13}
       \verb{doi}
-      \verb 10.1136/bmjos-2020-100074
+      \verb 10.1007/s40279-023-01927-9
       \endverb
       \verb{file}
-      \verb /Users/jackgedge/Zotero/storage/PBKIUWNV/Tanriver-Ayder et al. - 2021 - Comparison of commonly used methods in random effe.pdf
+      \verb /Users/jackgedge/Zotero/storage/WKVQW8JC/Afonso et al. - 2024 - The Perils of Misinterpreting and Misusing “Public.pdf
       \endverb
-      \keyw{aggregate data meta-analysis,Bayesian analysis,between-study heterogeneity,meta-regression,preclinical animal studies}
+    \endentry
+    \entry{Sterne_2017}{incollection}{}{}
+      \name{author}{4}{}{%
+        {{hash=c7477cc07e208bcb2206627530db584d}{%
+           family={Sterne},
+           familyi={S\bibinitperiod},
+           given={J\bibnamedelima A\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=7a1a4e3a6832732db8ffb58909bbba3b}{%
+           family={Egger},
+           familyi={E\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d3757b349c93f70789d0f56a858bde64}{%
+           family={Moher},
+           familyi={M\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=2bf943b62c4f9243c9b8029d97340c54}{%
+           family={Boutron},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cochrane}%
+      }
+      \strng{namehash}{76bc270c76cecc8332065c96106222f1}
+      \strng{fullhash}{e58cc28d421bac0370801fa23f7196b5}
+      \strng{fullhashraw}{e58cc28d421bac0370801fa23f7196b5}
+      \strng{bibnamehash}{76bc270c76cecc8332065c96106222f1}
+      \strng{authorbibnamehash}{76bc270c76cecc8332065c96106222f1}
+      \strng{authornamehash}{76bc270c76cecc8332065c96106222f1}
+      \strng{authorfullhash}{e58cc28d421bac0370801fa23f7196b5}
+      \strng{authorfullhashraw}{e58cc28d421bac0370801fa23f7196b5}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Chapter\_10\_Handbook\_5\_2\_10.pdf}
+      \field{title}{Cochrane Handbook for Systematic Reviews of Interventions}
+      \field{urlday}{30}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{5.2.0}
+      \field{year}{2017}
+      \field{urldateera}{ce}
     \endentry
     \entry{Ken_1993}{article}{}{}
       \name{author}{3}{}{%
@@ -6603,6 +6650,65 @@
       \verb{file}
       \verb /Users/jackgedge/Zotero/storage/M4NK9C52/asylum-seekers.html
       \endverb
+    \endentry
+    \entry{Tanriver-Ayder_2021}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=24e2f24d692bb8da0cd7424da16ce8aa}{%
+           family={{Tanriver-Ayder}},
+           familyi={T\bibinitperiod},
+           given={Ezgi},
+           giveni={E\bibinitperiod}}}%
+        {{hash=6bf697c383883b8011c62dad1b536be6}{%
+           family={Faes},
+           familyi={F\bibinitperiod},
+           given={Christel},
+           giveni={C\bibinitperiod}}}%
+        {{hash=32e26b469c55632661266a1fafcb51d7}{%
+           family={{van de Casteele}},
+           familyi={v\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+        {{hash=860e741195013497ae1b23f4368f6a79}{%
+           family={McCann},
+           familyi={M\bibinitperiod},
+           given={Sarah\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=26014f78834388ec04d768949c77aba3}{%
+           family={Macleod},
+           familyi={M\bibinitperiod},
+           given={Malcolm\bibnamedelima R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{55e89e4471656ef14582177993693377}
+      \strng{fullhash}{58e40819fc4d21391ca50b299bf4d0d4}
+      \strng{fullhashraw}{58e40819fc4d21391ca50b299bf4d0d4}
+      \strng{bibnamehash}{55e89e4471656ef14582177993693377}
+      \strng{authorbibnamehash}{55e89e4471656ef14582177993693377}
+      \strng{authornamehash}{55e89e4471656ef14582177993693377}
+      \strng{authorfullhash}{58e40819fc4d21391ca50b299bf4d0d4}
+      \strng{authorfullhashraw}{58e40819fc4d21391ca50b299bf4d0d4}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{BACKGROUND: Meta-analysis of preclinical data is used to evaluate the consistency of findings and to inform the design and conduct of future studies. Unlike clinical meta-analysis, preclinical data often involve many heterogeneous studies reporting outcomes from a small number of animals. Here, we review the methodological challenges in preclinical meta-analysis in estimating and explaining heterogeneity in treatment effects. METHODS: Assuming aggregate-level data, we focus on two topics: (1) estimation of heterogeneity using commonly used methods in preclinical meta-analysis: method of moments (DerSimonian and Laird; DL), maximum likelihood (restricted maximum likelihood; REML) and Bayesian approach; (2) comparison of univariate versus multivariable meta-regression for adjusting estimated treatment effects for heterogeneity. Using data from a systematic review on the efficacy of interleukin-1 receptor antagonist in animals with stroke, we compare these methods, and explore the impact of multiple covariates on the treatment effects. RESULTS: We observed that the three methods for estimating heterogeneity yielded similar estimates for the overall effect, but different estimates for between-study variability. The proportion of heterogeneity explained by a covariate is estimated larger using REML and the Bayesian method as compared with DL. Multivariable meta-regression explains more heterogeneity than univariate meta-regression. CONCLUSIONS: Our findings highlight the importance of careful selection of the estimation method and the use of multivariable meta-regression to explain heterogeneity. There was no difference between REML and the Bayesian method and both methods are recommended over DL. Multiple meta-regression is worthwhile to explain heterogeneity by more than one variable, reducing more variability than any univariate models and increasing the explained proportion of heterogeneity.}
+      \field{issn}{2398-8703}
+      \field{journaltitle}{BMJ open science}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{shorttitle}{Comparison of commonly used methods in random effects meta-analysis}
+      \field{title}{Comparison of commonly used methods in random effects meta-analysis: application to preclinical data in drug discovery research}
+      \field{volume}{5}
+      \field{year}{2021}
+      \field{pages}{e100074}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1136/bmjos-2020-100074
+      \endverb
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/PBKIUWNV/Tanriver-Ayder et al. - 2021 - Comparison of commonly used methods in random effe.pdf
+      \endverb
+      \keyw{aggregate data meta-analysis,Bayesian analysis,between-study heterogeneity,meta-regression,preclinical animal studies}
     \endentry
   \enddatalist
 \endrefsection

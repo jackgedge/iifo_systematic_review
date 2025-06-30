@@ -77,16 +77,15 @@ except ImportError:
     raise ImportError(f"Unable to import 'helpers' from {SCRIPTS_DIR}. Ensure the directory is correct.")
 
 # Pre-format matplotlib plots
-rcParams['font.family'] = 'sans-serif'
-rcParams['font.sans-serif'] = ['Helvetica Neue']
-rcParams['text.color'] = '#404040'
-rcParams['axes.labelcolor'] = '#404040'
-rcParams['xtick.color'] = '#404040'
-rcParams['ytick.color'] = '#404040'
-rcParams['axes.edgecolor'] = '#404040'  # Color of the axes edges
+rcParams['font.family'] = 'Times New Roman'
+rcParams['text.color'] = '#000000'
+rcParams['axes.labelcolor'] = '#000000'
+rcParams['xtick.color'] = "#000000"
+rcParams['ytick.color'] = '#000000'
+rcParams['axes.edgecolor'] = '#000000'  # Color of the axes edges
 rcParams['grid.color'] = '#404040'      # Color of the gridlines
-rcParams['axes.titlecolor'] = '#404040' # Color of the axes title (optional)
-rcParams['figure.figsize'] = [10, 6]  # Width, Height in inches
+rcParams['axes.titlecolor'] = '#000000' # Color of the axes title (optional)
+rcParams['figure.figsize'] = [12, 8]  # Width, Height in inches
 rcParams['figure.dpi'] = 500
 
 # Print confirmation

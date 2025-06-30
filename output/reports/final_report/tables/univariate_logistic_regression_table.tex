@@ -1,0 +1,53 @@
+\begin{table}[htbp]
+\caption{Grouped case-level univariate logistic regression results.}
+\label{tab:univariate_logistic_regression}
+\centering
+\begin{adjustbox}{width=\textwidth}
+\renewcommand{\arraystretch}{1.2}
+\small
+\begin{tabularx}{\textwidth}{p{4cm}>{\centering\arraybackslash}X>{\centering\arraybackslash}X>{\centering\arraybackslash}X>{\centering\arraybackslash}X>{\centering\arraybackslash}X}
+\toprule
+\textbf{Variable} & \textbf{Conservative} & \textbf{Endoscopy} & \textbf{Surgery} & \textbf{Death} & \textbf{Complication} \\
+\midrule
+
+\multicolumn{6}{l}{\textit{Gender}} \\
+\hspace{1em}Male & 0.23 [0.04, 1.30] (p=0.097) & 1.42 [0.54, 3.72] (p=0.471) & 0.93 [0.36, 2.46] (p=0.891) & --- & 1.41 [0.52, 3.81] (p=0.497) \\
+\hspace{1em}Female & 4.57 [0.82, 25.41] (p=0.083) & 0.78 [0.30, 2.03] (p=0.607) & 0.97 [0.37, 2.57] (p=0.956) & --- & 0.84 [0.31, 2.28] (p=0.733) \\
+\hspace{1em}Unknown & --- & --- & --- & --- & --- \\
+
+\multicolumn{6}{l}{\textit{Age Group}} \\
+\hspace{1em}\textless{}18 & 1.96 [0.34, 11.45] (p=0.453) & 0.33 [0.08, 1.33] (p=0.120) & 2.45 [0.61, 9.84] (p=0.206) & --- & 1.84 [0.46, 7.44] (p=0.391) \\
+\hspace{1em}18--25 & 1.22 [0.22, 6.94] (p=0.819) & \textbf{0.29 [0.08, 0.98] (p=0.046)*} & 2.80 [0.82, 9.62] (p=0.102) & --- & 1.41 [0.44, 4.56] (p=0.565) \\
+\hspace{1em}26--40 & 0.28 [0.03, 2.51] (p=0.258) & 2.25 [0.84, 6.04] (p=0.109) & 0.93 [0.34, 2.51] (p=0.888) & --- & 0.83 [0.30, 2.31] (p=0.726) \\
+\hspace{1em}41--60 & 2.49 [0.42, 14.83] (p=0.317) & 2.70 [0.71, 10.22] (p=0.144) & \textbf{0.18 [0.04, 0.76] (p=0.020)*} & --- & 0.54 [0.15, 2.00] (p=0.359) \\
+\hspace{1em}60+ & --- & 0.65 [0.06, 7.51] (p=0.730) & 1.29 [0.11, 14.88] (p=0.841) & --- & 1.00 [0.09, 11.61] (p=1.000) \\
+\hspace{1em}Unknown & --- & --- & --- & --- & 0.49 [0.03, 8.18] (p=0.619) \\
+
+\multicolumn{6}{l}{\textit{Demographic}} \\
+\hspace{1em}Detained Person & --- & 0.93 [0.27, 3.28] (p=0.915) & 0.87 [0.25, 3.07] (p=0.829) & --- & 0.65 [0.18, 2.31] (p=0.504) \\
+\hspace{1em}Psychiatric Inpatient & --- & 0.42 [0.04, 4.27] (p=0.465) & 1.98 [0.20, 20.00] (p=0.564) & --- & 0.15 [0.01, 1.52] (p=0.108) \\
+\hspace{1em}Displaced Person & --- & --- & 0.63 [0.04, 10.46] (p=0.746) & --- & 0.49 [0.03, 8.18] (p=0.619) \\
+\hspace{1em}Under Influence of Alcohol & --- & 0.65 [0.06, 7.51] (p=0.730) & 1.29 [0.11, 14.88] (p=0.841) & --- & --- \\
+\hspace{1em}Psychiatric History & 1.37 [0.28, 6.64] (p=0.692) & 1.12 [0.44, 2.85] (p=0.812) & 1.00 [0.39, 2.58] (p=1.000) & 1.00 [0.06, 16.63] (p=1.000) & 0.60 [0.22, 1.63] (p=0.319) \\
+\hspace{1em}Severely Disabled & --- & 3.75 [0.68, 20.80] (p=0.131) & 0.83 [0.17, 4.04] (p=0.821) & --- & 1.28 [0.23, 7.13] (p=0.779) \\
+\hspace{1em}Previous Ingestor & 2.30 [0.46, 11.37] (p=0.308) & 0.95 [0.33, 2.74] (p=0.922) & 0.62 [0.21, 1.79] (p=0.379) & 2.89 [0.17, 48.62] (p=0.461) & 0.59 [0.20, 1.76] (p=0.347) \\
+
+\multicolumn{6}{l}{\textit{Motivation}} \\
+\hspace{1em}Intent to harm & --- & 0.42 [0.14, 1.24] (p=0.116) & \textbf{5.77 [1.51, 22.03] (p=0.010)*} & --- & 0.74 [0.26, 2.15] (p=0.583) \\
+\hspace{1em}Protest & --- & 0.33 [0.06, 1.74] (p=0.193) & 6.00 [0.71, 50.89] (p=0.100) & --- & 4.60 [0.54, 39.14] (p=0.162) \\
+\hspace{1em}Psychiatric & 7.93 [0.90, 69.66] (p=0.062) & 1.36 [0.53, 3.48] (p=0.517) & 0.52 [0.20, 1.36] (p=0.181) & --- & 0.66 [0.25, 1.76] (p=0.405) \\
+\hspace{1em}Psychosocial & 1.33 [0.23, 7.58] (p=0.746) & 0.90 [0.30, 2.72] (p=0.858) & 0.64 [0.21, 1.93] (p=0.431) & --- & 0.89 [0.28, 2.80] (p=0.844) \\
+\hspace{1em}Other & 1.19 [0.13, 11.18] (p=0.881) & 3.04 [0.70, 13.29] (p=0.140) & \textbf{0.14 [0.03, 0.75] (p=0.021)*} & 7.75 [0.44, 136.41] (p=0.162) & 0.58 [0.14, 2.40] (p=0.453) \\
+
+\multicolumn{6}{l}{\textit{Object}} \\
+\hspace{1em}Button Battery & --- & --- & --- & --- & --- \\
+\hspace{1em}Magnet & --- & 1.07 [0.26, 4.35] (p=0.928) & 2.46 [0.47, 12.80] (p=0.285) & --- & --- \\
+\hspace{1em}Long (\textgreater{}5cm) & 0.47 [0.08, 2.58] (p=0.383) & 0.84 [0.33, 2.14] (p=0.710) & 2.31 [0.86, 6.22] (p=0.097) & 1.26 [0.08, 20.93] (p=0.873) & 2.00 [0.72, 5.55] (p=0.183) \\
+\hspace{1em}Large (\textgreater{}2.5cm) Diameter & 0.27 [0.05, 1.31] (p=0.104) & 1.33 [0.47, 3.77] (p=0.586) & 1.67 [0.59, 4.67] (p=0.332) & --- & 1.00 [0.34, 2.94] (p=1.000) \\
+\hspace{1em}Sharp & 1.56 [0.32, 7.51] (p=0.582) & \textbf{0.34 [0.13, 0.90] (p=0.029)*} & 2.16 [0.82, 5.72] (p=0.121) & 1.12 [0.07, 18.65] (p=0.936) & 1.09 [0.41, 2.90] (p=0.867) \\
+\hspace{1em}Multiple & 4.26 [0.48, 37.48] (p=0.191) & 0.50 [0.19, 1.30] (p=0.153) & 1.03 [0.39, 2.71] (p=0.956) & --- & 2.60 [0.95, 7.13] (p=0.063) \\
+\multicolumn{6}{l}{\small OR: Odds Ratio; CI: Confidence Interval; p: p-value. * indicates $p < 0.05$. Bold = statistically significant. --- = missing or unstable estimate.} \\\\
+\bottomrule
+\end{tabularx}
+\end{adjustbox}
+\end{table}
