@@ -1,0 +1,78 @@
+% Define document class
+\documentclass[twocolumn,10pt]{IEEEtran}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage{array}
+\usepackage[T1]{fontenc}
+\usepackage{ragged2e}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{caption}
+\captionsetup{hypcap=false}
+\usepackage{amsmath}
+\usepackage{geometry}
+\usepackage{longtable}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{placeins}
+\usepackage{multicol}
+\usepackage{titling}
+\usepackage{tabularx}
+\usepackage{csquotes}
+\usepackage{times}
+\usepackage{pdflscape}
+\usepackage{adjustbox}
+\usepackage{booktabs}
+\usepackage{hyperref} % should already be loaded if using biblatex
+\hypersetup{breaklinks=true} % important
+\Urlmuskip=0mu plus 1mu % makes breaking more flexible
+\usepackage{textcomp}  % <---- ADD THIS
+\usepackage[backend=biber, style=numeric-comp, sorting=none]{biblatex}
+\addbibresource{MSc.bib}
+\hbadness=10000 % suppress hbox warnings
+
+\geometry{margin=0.5in}
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{A systematic review and meta-analysis of outcomes following intentional foreign object ingestion.}
+\lhead{Does motivation matter?}
+\rfoot{\thepage}
+
+% Title
+\title{\textbf{Does motivation matter? A systematic review and meta-analysis of outcomes following intentional foreign object ingestion.}}
+
+% Author
+\author{
+Jack Galbraith-Edge,
+Mark Stanton,
+and Giles Cattermole
+\thanks{Jack Galbraith-Edge and Giles Cattermole are with Queen Mary, University of London, London, United Kingdom (e-mail: ha201591@qmul.ac.uk; g.cattermole@qmul.ac.uk).}
+\thanks{Mark Stanton is a Critical Care Paramedic, Johannesburg, South Africa (e-mail: trauma.1@mweb.co.za).}
+}
+\date{\today}
+
+\begin{document}
+% Title
+\maketitle
+
+% Abstract
+\input{sections/abstract.tex}
+
+% Introduction
+\input{sections/intro.tex}
+
+% Methods
+\input{sections/methods.tex}
+
+% Results
+\input{sections/results.tex}
+
+% Bibliography
+\printbibliography
+
+% Appendices
+\appendices
+\input{sections/appendix.tex}
+
+\end{document}

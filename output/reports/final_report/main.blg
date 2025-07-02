@@ -1,15 +1,5 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'main.blg'
-[37] biber-darwin:340> INFO - === Mon Jun 30, 2025, 20:05:46
-[48] Biber.pm:420> INFO - Reading 'main.bcf'
-[549] Biber.pm:994> INFO - Found 130 citekeys in bib section 0
-[557] Biber.pm:4463> INFO - Processing section 0
-[562] Biber.pm:4654> INFO - Looking for bibtex file 'IIFO.bib' for section 0
-[677] bibtex.pm:1713> INFO - LaTeX decoding ...
-[1639] bibtex.pm:1519> INFO - Found BibTeX data source 'IIFO.bib'
-[2214] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2214] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2214] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
-[2214] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[2258] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[2304] bbl.pm:779> INFO - Output to main.bbl
+[36] biber-darwin:340> INFO - === Wed Jul  2, 2025, 13:18:59
+[125] Utils.pm:410> ERROR - Cannot find 'main.bcf'!
+[125] Biber.pm:136> INFO - ERRORS: 1

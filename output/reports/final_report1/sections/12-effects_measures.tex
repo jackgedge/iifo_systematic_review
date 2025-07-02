@@ -1,0 +1,10 @@
+\subsection*{Effects Measures}
+For case reports, univariate associations between binary predictors and binary outcomes were assessed using unadjusted odds ratios (ORs) with 95\% confidence intervals (CIs), calculated via chi-square or Fisher’s exact tests~\cite{Machin_2008}. Fisher’s exact test was used when any expected cell count was below 5; otherwise, the chi-square test was applied.
+
+Univariate logistic regression was subsequently performed to identify independent predictors. Adjusted odds ratios (aORs) and 95\% CIs were estimated from models including age, gender, motivation, and object characteristics. Although the number of cases was anticipated to be insufficient for multivariate analysis, multivariate logistic regression was attempted to confirm this limitation.
+
+For case series, individual case reports were aggregated to produce series-level data. Meta-analyses of proportions were conducted using random-effects models with restricted maximum likelihood (REML) estimation and Hartung--Knapp (HK) adjustment, suitable for small study numbers. DerSimonian--Laird (DL) estimates were also calculated for comparison. Univariate meta-regression was used to assess associations between study-level predictors and pooled outcome rates using inverse-variance weighted models. Due to limited sample size, multivariate meta-regression was not conducted.
+
+Where significant associations were identified, subgroup analyses were conducted using Fisher’s exact or chi-square tests, depending on sample size. These analyses were initially descriptive and explored further in the discussion.
+
+All analyses were performed using the \textit{statsmodels}~\cite{Seabold_2010} package in \textit{Python}~\cite{PythonSoftwareFoundation_2025}. 
