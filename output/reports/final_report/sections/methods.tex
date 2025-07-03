@@ -48,7 +48,7 @@ All identified articles were collated and duplicate articles were identified and
 
 \subsection{Data Extraction}
 
-Data were initially extracted by a single reviewer (JGE) into \textit{Microsoft Excel} \cite{MicrosoftCorporation_2025} and processed in \textit{Python}~\cite{PythonSoftwareFoundation} using \textit{Pandas}~\cite{ThePandasDevelopmentTeam}. This process is outlined in Appendix~\ref{appendix:data_extraction}. 
+Data were initially extracted by a single reviewer (JGE) into \textit{Microsoft Excel} \cite{MicrosoftCorporation_2025} and processed in \textit{Python}~\cite{PythonSoftwareFoundation_2025} using \textit{Pandas}~\cite{ThePandasDevelopmentTeam_2020}. This process is outlined in Appendix~\ref{appendix:data_extraction}. 
 
 Data was first extracted from case reports. Predictors were grouped into four subgroups: gender; age group; demographic characteristics, motivation; object characteristics. These are shortened hereafter to: gender, age group, demographic and motivation. Outcome data were extracted for rates of endoscopy, surgery, conservative management, mortality, and complications. All outcomes were binary and coded per event, rather than per individual. Predictor variables and outcome variables were not mutually exclusive, nor were outcomes. For example, patients, or ingestors -- hereafter referred to as the latter -- could have multiple outcomes (e.g. endoscopy and surgery) and multiple predictors from each group (e.g. intent-to-harm and other, and detained and displaced person).
 
@@ -58,9 +58,10 @@ Full definitions of all variables (predictors and outcomes) are provided in Appe
 
 \subsection{Risk of Bias Assessment}
 
-Risk of bias was assessed manually for all included studies by a single reviewer (JGE), using the \textit{Joanna Briggs Institute (JBI) Critical Appraisal Checklists for Case Reports and Case Series}~\cite{Moola_2020}. Studies were first classified as either case reports or case series based on the level of granularity in the data. Each study was then evaluated using the corresponding JBI tool. A novel computational risk of bias filter was then applied in \textit{Pandas} \cite{ThePandasDevelopmentTeam}. That process is outlined in Appendix~\ref{appendix:bias}
+Risk of bias was assessed manually for all included studies by a single reviewer (JGE), using the \textit{Joanna Briggs Institute (JBI) Critical Appraisal Checklists for Case Reports and Case Series}~\cite{Moola_2020}. Studies were first classified as either case reports or case series based on the level of granularity in the data. Each study was then evaluated using the corresponding JBI tool. A novel computational risk of bias filter was then applied in \textit{Pandas} \cite{ThePandasDevelopmentTeam_2020}. That process is outlined in Appendix~\ref{appendix:bias}
 
 \subsection{Synthesis Methods}
+
 Associations between binary predictors and outcomes were assessed using univariate logistic regression, reporting odds ratios (ORs), 95\% confidence intervals, and p-values. Where appropriate, chi-squared ($\chi^2$) tests were also used to evaluate differences in outcome proportions between groups \cite{Machin_2008}. 
 
 Multivariable logistic regression was not performed due to the limited sample size, high collinearity between predictors (e.g., overlapping motivations), and the exploratory nature of the analysis. 
