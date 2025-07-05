@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.31)  3 JUL 2025 01:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.31)  5 JUL 2025 04:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -835,24 +835,24 @@ Package csquotes Info: ... none found.
  (./final.aux)
 \openout1 = `final.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
 
 -- Lines per column: 60 (approximate, difference = 2.7pt).
 (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -916,13 +916,14 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 55.
+Package hyperref Info: Link coloring OFF on input line 74.
+(./final.out) (./final.out)
 \@outlinefile=\write4
 \openout4 = `final.out'.
 
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
-(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -932,136 +933,112 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'final.bbl' found.
- (./final.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                PythonSoftwareFoundation
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                ThePandasDevelopmentTeam
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
-Package biblatex Info: Reference section=0 on input line 55.
-Package biblatex Info: Reference segment=0 on input line 55.
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 57.
+ (./final.bbl)
+Package biblatex Info: Reference section=0 on input line 74.
+Package biblatex Info: Reference segment=0 on input line 74.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 76.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) (./sections/abstract.tex) (./sections/intro.tex
+) (./sections/abstract.tex
 
-) (./sections/methods.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+<figures/case_country_plot.png, id=207, 662.7159pt x 348.3414pt>
+File: figures/case_country_plot.png Graphic file (type png)
+<use figures/case_country_plot.png>
+Package pdftex.def Info: figures/case_country_plot.png  used on input line 28.
+(pdftex.def)             Requested size: 265.0125pt x 139.3022pt.
+) (./sections/abbreviations.tex
 
 [1{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 
-]
+ <./figures/case_country_plot.png>]) (./sections/intro.tex) (./sections/methods.tex
 
-LaTeX Warning: Reference `tab:inclusion-criteria-intro' on page 2 undefined on input line 41.
+
+Package caption Warning: \label without proper reference on input line 7.
+See the caption package documentation for explanation.
 
 
 LaTeX Warning: Reference `tab:inclusion-criteria' on page 2 undefined on input line 41.
 
 
+Package caption Warning: \label without proper reference on input line 93.
+See the caption package documentation for explanation.
+
+
 LaTeX Warning: Reference `tab:exclusion-criteria' on page 2 undefined on input line 41.
 
 
-LaTeX Warning: Reference `fig:prisma' on page 2 undefined on input line 41.
-
-
-LaTeX Warning: Reference `appendix:search-strategy' on page 2 undefined on input line 45.
-
-
-LaTeX Warning: Reference `appendix:data_extraction' on page 2 undefined on input line 51.
-
-
-
-
-LaTeX Warning: Reference `appendix:data_extraction' on page 2 undefined on input line 57.
-
-
-LaTeX Warning: Reference `appendix:bias' on page 2 undefined on input line 61.
-
-) (./sections/results.tex
-<figures/prisma_diagram.png, id=85, 844.8363pt x 597.6729pt>
-File: figures/prisma_diagram.png Graphic file (type png)
-<use figures/prisma_diagram.png>
-Package pdftex.def Info: figures/prisma_diagram.png  used on input line 8.
-(pdftex.def)             Requested size: 542.02501pt x 383.4578pt.
- (./sections/screening_process.tex
 
 [2]
-
-LaTeX Warning: Reference `fig:prisma' on page 3 undefined on input line 13.
-
-)
-
-(./sections/risk_of_bias_results.tex
-
-[3 <./figures/prisma_diagram.png>]) (./sections/study_characteristics.tex
-./sections/study_characteristics.tex:21: Missing $ inserted.
-<inserted text> 
-                $
-l.21 ef{tab:case_
-                 summary}
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./sections/study_characteristics.tex:21: Extra }, or forgotten $.
-l.21 ef{tab:case_summary}
-                         
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./sections/study_characteristics.tex:22: Missing $ inserted.
-<inserted text> 
-                $
-l.22 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-(./tables/case_report_table.tex)
+<figures/prisma_diagram.png, id=306, 844.8363pt x 597.6729pt>
+File: figures/prisma_diagram.png Graphic file (type png)
+<use figures/prisma_diagram.png>
+Package pdftex.def Info: figures/prisma_diagram.png  used on input line 62.
+(pdftex.def)             Requested size: 542.02501pt x 383.4578pt.
 
 
-LaTeX Warning: Reference `tab:series_results' on page 4 undefined on input line 41.
+) (./sections/results.tex (./sections/risk_of_bias_results.tex
 
-(./tables/case_series_table.tex
+[3]) (./tables/case_report_table.tex
+
+LaTeX Warning: Citation '' on page 4 undefined on input line 58.
+
+) (./sections/study_characteristics.tex
+
+
+
+[4 <./figures/prisma_diagram.png>]) (./tables/country_table.tex
+Overfull \hbox (54.72905pt too wide) in alignment at lines 51--51
+[][][][][]
+ []
+
+) (./tables/case_series_table.tex
 Overfull \hbox (12.00002pt too wide) in alignment at lines 51--51
 [][][][][] 
  []
 
-)))
-Overfull \hbox (24.12442pt too wide) in paragraph at lines 73--73
-\T1/ptm/m/n/10 https://www.globaldetentionproject.org/countries/europe/united-
- []
+) (./sections/study_characteristics.tex
 
-
-
-[4]
-
-
+) (./sections/synthesis.tex (./tables/univ_results_table.tex)
 
 [5]
 
+LaTeX Warning: Reference `tab:ma_series_only' on page 6 undefined on input line 25.
 
+
+LaTeX Warning: Reference `tab:ma_all' on page 6 undefined on input line 33.
+
+
+
+(./tables/meta_regression_table.tex
+Overfull \hbox (12.00002pt too wide) in alignment at lines 32--32
+[][] 
+ []
+
+)) (./sections/discussion.tex
 
 [6]
+<figures/ma_series_only_plot.png, id=1958, 539.8569pt x 451.97658pt>
+File: figures/ma_series_only_plot.png Graphic file (type png)
+<use figures/ma_series_only_plot.png>
+Package pdftex.def Info: figures/ma_series_only_plot.png  used on input line 19.
+(pdftex.def)             Requested size: 265.0125pt x 221.87735pt.
 
 
+<figures/ma_all_plot.png, id=1967, 536.53249pt x 451.97658pt>
+File: figures/ma_all_plot.png Graphic file (type png)
+<use figures/ma_all_plot.png>
+Package pdftex.def Info: figures/ma_all_plot.png  used on input line 48.
+(pdftex.def)             Requested size: 265.0125pt x 223.25667pt.
 
-[7]
+
+[7 <./figures/ma_series_only_plot.png> <./figures/ma_all_plot.png>]) (./sections/data.tex)
+<figures/case_subgroup_analysis.png, id=1995, 234.73296pt x 583.36343pt>
+File: figures/case_subgroup_analysis.png Graphic file (type png)
+<use figures/case_subgroup_analysis.png>
+Package pdftex.def Info: figures/case_subgroup_analysis.png  used on input line 32.
+(pdftex.def)             Requested size: 265.0125pt x 658.65001pt.
+)
 
 
 
@@ -1069,55 +1046,97 @@ Overfull \hbox (24.12442pt too wide) in paragraph at lines 73--73
 
 
 
-[9] (./sections/appendix.tex
+[9
 
-
-
-[10
-
-]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 7.
-
-
-Overfull \hbox (1.86566pt too wide) in paragraph at lines 55--61
-[]|[]| 
- []
+ <./figures/case_subgroup_analysis.png>] [10]
 
 
 
 [11
 
+
+] [12] [13]
+
+
+
+[14
+
+
+]
+Overfull \hbox (24.12442pt too wide) in paragraph at lines 97--97
+\T1/ptm/m/n/10 https://www.globaldetentionproject.org/countries/europe/united-
+ []
+
+
+
+
+
+[15
+
+
+
 ]
 
-[12]
 
-[13]
-
-[14]
-
-[15]
 
 [16]
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 533.
+
+
+
+[17]
+
+
+
+[18] (./sections/appendix.tex
+
+
+
+[19
+
+]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 125.
+
+
+Overfull \hbox (1.86566pt too wide) in paragraph at lines 173--179
+[]|[]| 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[20
+
+]
+
+[21]
+
+[22]
+
+[23]
+
+[24]
+
+[25]
+
+[26] (./sections/screening_process.tex)
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 656.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
 
-(./sections/screening_process.tex
 
-[17
 
-]
+[27
 
-LaTeX Warning: Reference `fig:prisma' on page 18 undefined on input line 13.
-
-))
+])
 
 
 
-[18
+[28
 
 ] (./final.aux)
  ***********
@@ -1131,46 +1150,31 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-
-Package rerunfilecheck Warning: File `final.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `final.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  C8A1A5CB87CC1EBBA726CA5C5138A01E;4224.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                final
-(biblatex)                and rerun LaTeX afterwards.
-
+Package rerunfilecheck Info: File `final.out' has not changed.
+(rerunfilecheck)             Checksum: 876478CB3E082CAC188A640AFFBD016B;8133.
 Package logreq Info: Writing requests to 'final.run.xml'.
 \openout1 = `final.run.xml'.
 
- )
-(\end occurred inside a group at level 1)
-
-### simple group (level 1) entered at line 21 ({)
-### bottom level 
+ ) 
 Here is how much of TeX's memory you used:
- 23234 strings out of 473190
- 424389 string characters out of 5715800
- 1353682 words of memory out of 5000000
- 45962 multiletter control sequences out of 15000+600000
- 673443 words of font info for 153 fonts, out of 8000000 for 9000
+ 23465 strings out of 473190
+ 430135 string characters out of 5715800
+ 1430557 words of memory out of 5000000
+ 46112 multiletter control sequences out of 15000+600000
+ 674579 words of font info for 154 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,16n,81p,7332b,2111s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,17n,81p,7332b,2086s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist, replaced by a fixed one
 
 
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on final.pdf (18 pages, 1289982 bytes).
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on final.pdf (28 pages, 4309645 bytes).
 PDF statistics:
- 1591 PDF objects out of 1728 (max. 8388607)
- 944 compressed objects within 10 object streams
- 202 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2311 PDF objects out of 2487 (max. 8388607)
+ 1253 compressed objects within 13 object streams
+ 257 named destinations out of 1000 (max. 500000)
+ 426 words of extra memory for PDF output out of 10000 (max. 10000000)
 

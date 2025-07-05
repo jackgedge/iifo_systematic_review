@@ -1,8 +1,8 @@
-This study was conducted according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines \cite{Page_2021}. Ethical approval was not required as all analysis was based on published data. Eligibility criteria were structured using the PICOS (Population, Intervention, Comparator, Outcome, Studies) framework.
+Ethical approval was not required as all analysis was based on published data. Eligibility criteria were structured using the PICOS (Population, Intervention, Comparator, Outcome, Studies) framework.
 
 \subsection{Eligibility Criteria}
 
-\begin{table}[H]
+\begin{table}[tb]
 \renewcommand{\arraystretch}{1.05}
 \centering
 \begin{tabular}{p{3.0cm} p{5.0cm}}
@@ -50,11 +50,19 @@ All identified articles were collated and duplicate articles were identified and
 
 Data were initially extracted by a single reviewer (JGE) into \textit{Microsoft Excel} \cite{MicrosoftCorporation_2025} and processed in \textit{Python}~\cite{PythonSoftwareFoundation_2025} using \textit{Pandas}~\cite{ThePandasDevelopmentTeam_2020}. This process is outlined in Appendix~\ref{appendix:data_extraction}. 
 
-Data was first extracted from case reports. Predictors were grouped into four subgroups: gender; age group; demographic characteristics, motivation; object characteristics. These are shortened hereafter to: gender, age group, demographic and motivation. Outcome data were extracted for rates of endoscopy, surgery, conservative management, mortality, and complications. All outcomes were binary and coded per event, rather than per individual. Predictor variables and outcome variables were not mutually exclusive, nor were outcomes. For example, patients, or ingestors -- hereafter referred to as the latter -- could have multiple outcomes (e.g. endoscopy and surgery) and multiple predictors from each group (e.g. intent-to-harm and other, and detained and displaced person).
+Data was first extracted from case reports. Predictors were grouped into five subgroups: gender; age group; demographic characteristics, motivation; object characteristics. These are shortened hereafter to: gender, age, demographic, object and motivation. Ages were grouped into age groups based on clinical relevance. Outcome data were extracted for rates of endoscopy, surgery, conservative management, mortality, and complications. All outcomes were binary and coded per event, rather than per individual. Predictor variables and outcome variables were not mutually exclusive, nor were outcomes. For example, patients, or ingestors -- hereafter referred to as the latter -- could have multiple outcomes (e.g. endoscopy and surgery) and multiple predictors from each group (e.g. intent-to-harm and other, and detained and displaced person).
 
 After case report data extraction, data was collapsed and aggregated to form a \enquote{series}. This data was used as a template for case series data extraction to homogenise data and reduce heterogeneity. 
 
 Full definitions of all variables (predictors and outcomes) are provided in Appendix~\ref{appendix:data_extraction}. The full dataset of extracted \href{https://github.com/jackgedge/iifo_systematic_review/blob/main/input/processed_data/final_report/case_data_export.csv}{case-level} and \href{https://github.com/jackgedge/iifo_systematic_review/blob/main/input/processed_data/final_report/aggregate_series_data_export.csv}{series-level} data (including bias assesments), is available on \href{https://github.com/jackgedge/iifo_systematic_review/blob/main/input/processed_data/final_report/}{Github}.
+
+% PRISMA Diagram
+\begin{figure*}[t]
+\centering
+\includegraphics[width=\textwidth]{figures/prisma_diagram.png}
+\caption{PRISMA flow diagram summarising the study selection process.}
+\label{fig:prisma}
+\end{figure*}
 
 \subsection{Risk of Bias Assessment}
 
@@ -62,13 +70,24 @@ Risk of bias was assessed manually for all included studies by a single reviewer
 
 \subsection{Synthesis Methods}
 
-Associations between binary predictors and outcomes were assessed using univariate logistic regression, reporting odds ratios (ORs), 95\% confidence intervals, and p-values. Where appropriate, chi-squared ($\chi^2$) tests were also used to evaluate differences in outcome proportions between groups \cite{Machin_2008}. 
+For case-level associations between binary predictors and outcomes were assessed using $\chi^2$ Test and Fisher's Exact Test, reporting odds ratios (ORs), 95\% confidence intervals, and p-values. Where appropriate, further $\chi^2$ tests were also used to evaluate differences in outcome proportions between groups \cite{Machin_2008}. 
+
+Univariate logistic regression was considered but ultimately not used, as the primary aim was to explore associations without assuming a specific functional relationship between predictors and outcomes. Given the binary nature of most predictors and the categorical outcomes, chi-squared tests offered a more transparent and assumption-light approach. This choice also avoided complications from sparse data and convergence issues that can arise with logistic models in small exploratory datasets.
 
 Multivariable logistic regression was not performed due to the limited sample size, high collinearity between predictors (e.g., overlapping motivations), and the exploratory nature of the analysis. 
 
 For series-level data, univariate meta-regression will be conducted to assess associations between binary series-level predictors and pooled outcome proportions, where sufficient data are available. Each predictor will be entered separately to account for incomplete reporting across studies and to avoid overfitting. Effect estimates will be reported as odds ratios (ORs) with 95\% confidence intervals, using a random-effects model with restricted maximum likelihood (REML) estimation \cite{Tanriver-Ayder_2021}.
 
+Initially, a meta-analysis of outcome proportions was conducted using a random-effects model to estimate pooled outcome rates across included studies. The random-effects approach was chosen due to the anticipated heterogeneity in study populations, motivations, and object types.
+
+Restricted Maximum Likelihood (REML) estimation was used to compute between-study variance ($\tau^2$), while Hartung–Knapp adjustments were applied to produce more accurate confidence intervals, particularly in the presence of small sample sizes.
+
+Heterogeneity was quantified using the $I^2$ statistic, which describes the percentage of total variation across studies that is due to true between-study differences rather than chance. $I^2$ values above 50\% were interpreted as moderate-to-high heterogeneity, suggesting that the underlying true effect varied substantially across studies. In such cases, pooled estimates were interpreted cautiously and subgroup analysis was used to explore possible modifiers.
+
+Heterogeneity between studies was quantified using the $I^2$ statistic, which represents the proportion of total variation in effect estimates attributable to between-study heterogeneity rather than chance. Following the Cochrane Handbook’s guidelines, $I^2$ values were interpreted as follows: 0--40\% may not be important; 30--60\% may indicate moderate heterogeneity; 50--90\% may represent substantial heterogeneity; and 75--100\% may reflect considerable heterogeneity \cite{Sterne_2017}. These thresholds are intended as general guidance rather than strict rules and were interpreted in the context of the number of studies, consistency of effect sizes, and confidence interval overlap.
+
+First, meta-analysis was undertaken on case series alone, and then on case series with pooled case report data. This method was given in anticipation of the case reports introducing heterogeneity into the case series meta-analysis.
+
 Due to the inclusion of primarily case reports and small case series, formal assessment of reporting bias (e.g., via funnel plots or statistical tests for asymmetry) was not feasible. 
 
 Confidence in the body of evidence was not formally graded but was considered low to very low due to reliance on uncontrolled observational designs, small sample sizes, and incomplete reporting.
-

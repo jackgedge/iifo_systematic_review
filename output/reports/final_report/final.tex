@@ -24,11 +24,30 @@
 \usepackage{pdflscape}
 \usepackage{adjustbox}
 \usepackage{booktabs}
-\usepackage{hyperref} % should already be loaded if using biblatex
-\hypersetup{breaklinks=true} % important
-\Urlmuskip=0mu plus 1mu % makes breaking more flexible
-\usepackage{textcomp}  % <---- ADD THIS
-\usepackage[backend=biber, style=numeric-comp, sorting=none]{biblatex}
+\usepackage{hyperref} 
+\hypersetup{breaklinks=true} 
+\Urlmuskip=0mu plus 1mu 
+\usepackage{textcomp}  
+
+% Format bibliography
+\usepackage[backend=biber, style=numeric-comp, sorting=none, maxnames=99, giveninits=true]{biblatex}
+\AtEveryBibitem{%
+  \clearlist{language}%
+  \ifentrytype{article}{\clearfield{issn}}{}%
+  \clearfield{doi}%
+  \clearfield{url}%
+  \clearfield{note}%
+  \clearfield{urldate}%
+}
+\AtEveryBibitem{%
+  \ifthenelse{\value{listcount}>1}
+    {\renewcommand*{\multinamedelim}{\addcomma\space}}{}%
+  \ifthenelse{\value{liststop}>2}
+    {\renewcommand*{\finalnamedelim}{\addcomma\space and\space}}{}%
+}
+\DeclareNameAlias{sortname}{family-given}
+\DeclareNameAlias{default}{family-given}
+\setcounter{maxnames}{99}  % Show all authors
 \addbibresource{MSc.bib}
 \hbadness=10000 % suppress hbox warnings
 
@@ -59,6 +78,9 @@ and Giles Cattermole
 % Abstract
 \input{sections/abstract.tex}
 
+
+\input{sections/abbreviations.tex}
+
 % Introduction
 \input{sections/intro.tex}
 
@@ -67,6 +89,8 @@ and Giles Cattermole
 
 % Results
 \input{sections/results.tex}
+
+\FloatBarrier
 
 % Bibliography
 \printbibliography
