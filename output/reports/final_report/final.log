@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.31)  5 JUL 2025 04:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.31)  5 JUL 2025 04:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -979,34 +979,46 @@ Package pdftex.def Info: figures/prisma_diagram.png  used on input line 62.
 
 ) (./sections/results.tex (./sections/risk_of_bias_results.tex
 
-[3]) (./tables/case_report_table.tex
-
-LaTeX Warning: Citation '' on page 4 undefined on input line 58.
-
-) (./sections/study_characteristics.tex
+[3]) (./tables/case_report_table.tex) (./sections/study_characteristics.tex
 
 
 
-[4 <./figures/prisma_diagram.png>]) (./tables/country_table.tex
-Overfull \hbox (54.72905pt too wide) in alignment at lines 51--51
-[][][][][]
- []
+[4 <./figures/prisma_diagram.png>]
 
-) (./tables/case_series_table.tex
+
+
+[5]) (./tables/country_table.tex) (./tables/case_series_table.tex
 Overfull \hbox (12.00002pt too wide) in alignment at lines 51--51
 [][][][][] 
  []
 
 ) (./sections/study_characteristics.tex
 
-) (./sections/synthesis.tex (./tables/univ_results_table.tex)
+) (./sections/synthesis.tex
 
-[5]
+[6] (./tables/univ_results_table.tex)
+Underfull \vbox (badness 1590) has occurred while \output is active []
 
-LaTeX Warning: Reference `tab:ma_series_only' on page 6 undefined on input line 25.
 
 
-LaTeX Warning: Reference `tab:ma_all' on page 6 undefined on input line 33.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+
+[8]
+
+LaTeX Warning: Reference `tab:ma_series_only' on page 9 undefined on input line 25.
+
+
+LaTeX Warning: Reference `tab:ma_all' on page 9 undefined on input line 33.
 
 
 
@@ -1017,23 +1029,23 @@ Overfull \hbox (12.00002pt too wide) in alignment at lines 32--32
 
 )) (./sections/discussion.tex
 
-[6]
-<figures/ma_series_only_plot.png, id=1958, 539.8569pt x 451.97658pt>
+[9]
+<figures/ma_series_only_plot.png, id=1944, 539.8569pt x 451.97658pt>
 File: figures/ma_series_only_plot.png Graphic file (type png)
 <use figures/ma_series_only_plot.png>
 Package pdftex.def Info: figures/ma_series_only_plot.png  used on input line 19.
 (pdftex.def)             Requested size: 265.0125pt x 221.87735pt.
 
 
-<figures/ma_all_plot.png, id=1967, 536.53249pt x 451.97658pt>
+<figures/ma_all_plot.png, id=1953, 536.53249pt x 451.97658pt>
 File: figures/ma_all_plot.png Graphic file (type png)
 <use figures/ma_all_plot.png>
 Package pdftex.def Info: figures/ma_all_plot.png  used on input line 48.
 (pdftex.def)             Requested size: 265.0125pt x 223.25667pt.
 
 
-[7 <./figures/ma_series_only_plot.png> <./figures/ma_all_plot.png>]) (./sections/data.tex)
-<figures/case_subgroup_analysis.png, id=1995, 234.73296pt x 583.36343pt>
+[10 <./figures/ma_series_only_plot.png> <./figures/ma_all_plot.png>]) (./sections/data.tex)
+<figures/case_subgroup_analysis.png, id=1977, 234.73296pt x 583.36343pt>
 File: figures/case_subgroup_analysis.png Graphic file (type png)
 <use figures/case_subgroup_analysis.png>
 Package pdftex.def Info: figures/case_subgroup_analysis.png  used on input line 32.
@@ -1042,27 +1054,13 @@ Package pdftex.def Info: figures/case_subgroup_analysis.png  used on input line 
 
 
 
-[8]
+[11]
 
 
 
-[9
+[12
 
- <./figures/case_subgroup_analysis.png>] [10]
-
-
-
-[11
-
-
-] [12] [13]
-
-
-
-[14
-
-
-]
+ <./figures/case_subgroup_analysis.png>]
 Overfull \hbox (24.12442pt too wide) in paragraph at lines 97--97
 \T1/ptm/m/n/10 https://www.globaldetentionproject.org/countries/europe/united-
  []
@@ -1071,27 +1069,25 @@ Overfull \hbox (24.12442pt too wide) in paragraph at lines 97--97
 
 
 
-[15
-
-
+[13
 
 ]
 
 
 
-[16]
+[14]
 
 
 
-[17]
+[15]
 
 
 
-[18] (./sections/appendix.tex
+[16] (./sections/appendix.tex
 
 
 
-[19
+[17
 
 ]
 
@@ -1108,9 +1104,13 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[20
+[18
 
 ]
+
+[19]
+
+[20]
 
 [21]
 
@@ -1118,11 +1118,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [23]
 
-[24]
-
-[25]
-
-[26] (./sections/screening_process.tex)
+[24] (./sections/screening_process.tex)
 LaTeX Font Info:    Trying to load font information for T1+pcr on input line 656.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
@@ -1130,13 +1126,13 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 
 
 
-[27
+[25
 
 ])
 
 
 
-[28
+[26
 
 ] (./final.aux)
  ***********
@@ -1147,9 +1143,6 @@ L3 programming layer <2025-01-18>
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `final.out' has not changed.
 (rerunfilecheck)             Checksum: 876478CB3E082CAC188A640AFFBD016B;8133.
 Package logreq Info: Writing requests to 'final.run.xml'.
@@ -1157,9 +1150,9 @@ Package logreq Info: Writing requests to 'final.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23465 strings out of 473190
- 430135 string characters out of 5715800
- 1430557 words of memory out of 5000000
+ 23463 strings out of 473190
+ 430121 string characters out of 5715800
+ 1379321 words of memory out of 5000000
  46112 multiletter control sequences out of 15000+600000
  674579 words of font info for 154 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1171,10 +1164,10 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on final.pdf (28 pages, 4309645 bytes).
+Output written on final.pdf (26 pages, 4309297 bytes).
 PDF statistics:
- 2311 PDF objects out of 2487 (max. 8388607)
- 1253 compressed objects within 13 object streams
- 257 named destinations out of 1000 (max. 500000)
+ 2238 PDF objects out of 2487 (max. 8388607)
+ 1247 compressed objects within 13 object streams
+ 255 named destinations out of 1000 (max. 500000)
  426 words of extra memory for PDF output out of 10000 (max. 10000000)
 
