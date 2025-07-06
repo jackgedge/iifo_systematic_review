@@ -29,37 +29,25 @@
 \Urlmuskip=0mu plus 1mu 
 \usepackage{textcomp}  
 
-% Format bibliography
 \usepackage[backend=biber, style=numeric-comp, sorting=none, maxnames=99, giveninits=true]{biblatex}
-\AtEveryBibitem{%
-  \clearlist{language}%
-  \ifentrytype{article}{\clearfield{issn}}{}%
-  \clearfield{doi}%
-  \clearfield{url}%
-  \clearfield{note}%
-  \clearfield{urldate}%
-}
-\AtEveryBibitem{%
-  \ifthenelse{\value{listcount}>1}
-    {\renewcommand*{\multinamedelim}{\addcomma\space}}{}%
-  \ifthenelse{\value{liststop}>2}
-    {\renewcommand*{\finalnamedelim}{\addcomma\space and\space}}{}%
-}
+
+% Author name format: Family, Given Initial
 \DeclareNameAlias{sortname}{family-given}
 \DeclareNameAlias{default}{family-given}
-\setcounter{maxnames}{99}  % Show all authors
+\setcounter{maxnames}{99}
+
 \addbibresource{MSc.bib}
-\hbadness=10000 % suppress hbox warnings
+\hbadness=10000  % suppress hbox warnings
 
 \geometry{margin=0.5in}
 \pagestyle{fancy}
 \fancyhf{}
-\rhead{A systematic review and meta-analysis of outcomes following intentional foreign object ingestion.}
+\rhead{A systematic review and meta-analysis of outcomes following intentional ingestion of foreign objects.}
 \lhead{Does motivation matter?}
 \rfoot{\thepage}
 
 % Title
-\title{\textbf{Does motivation matter? A systematic review and meta-analysis of outcomes following intentional foreign object ingestion.}}
+\title{\textbf{Does motivation matter? A systematic review and meta-analysis of outcomes following intentional ingestion of foreign objects.}}
 
 % Author
 \author{
@@ -73,12 +61,34 @@ and Giles Cattermole
 
 \begin{document}
 % Title
-\maketitle
+
+\begin{titlepage}
+    \vspace*{\fill}
+    \centering
+    {\LARGE\bfseries
+    Does Motivation Matter?\\[1em]
+    A systematic review and meta-analysis of outcomes following intentional ingestion of foreign objects.\\[2em]}
+    \large
+    Jack Galbraith-Edge\\
+    190662350\\
+    Queen Mary, University of London\\
+    MSc Emergency \& Resuscitation Medicine\\
+    July 2025\\
+    Paper Word Count: 3538\\
+    Supplement Word Count: 1412\\
+    \vspace*{\fill}
+\end{titlepage}
+\clearpage
+
+\onecolumn
+\tableofcontents
+\clearpage
+\twocolumn
 
 % Abstract
 \input{sections/abstract.tex}
 
-
+% Abbreviation
 \input{sections/abbreviations.tex}
 
 % Introduction
@@ -95,6 +105,7 @@ and Giles Cattermole
 % Bibliography
 \printbibliography
 
+\clearpage
 % Appendices
 \appendices
 \input{sections/appendix.tex}
