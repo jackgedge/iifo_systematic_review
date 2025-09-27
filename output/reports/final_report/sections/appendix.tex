@@ -305,6 +305,8 @@ Interventions &
     \end{table}
 
 \begin{table}[!htbp]
+    \caption{Concepts with associated keywords and Web of Science fields used in the search strategy.}
+    \label{tab:wos_search_terms}
     \centering
     \begin{tabular}{p{3.5cm} p{6cm} p{4.5cm}}
     \toprule
@@ -363,8 +365,6 @@ Interventions &
     
     \bottomrule
     \end{tabular}
-    \caption{Concepts with associated keywords and Web of Science fields used in the search strategy.}
-    \label{tab:wos_search_terms}
     \end{table}
 
 
@@ -584,6 +584,8 @@ AND\\
 ALL (\enquote{endoscopy} OR \enquote{surgery} OR \enquote{conservative} OR \enquote{treatment} OR \enquote{drug} OR \enquote{therapy} OR \enquote{surg*} OR \enquote{endoscop*} OR \enquote{EGD} OR \enquote{Esophagogastroduodenoscopy} OR \enquote{Oesophagogastroduodenoscopy} OR \enquote{manag*})
 \end{quote}
 
+\clearpage
+
 \subsubsection{PsycINFO Query}
 \textbf{Link:} \url{https://search-ebscohost-com.ezproxy.library.qmul.ac.uk/login.aspx?direct=true&db=psyh&bquery=(foreign+obj*+OR+foreign+bod*)+AND+(DE+%26quot%3bNonsuicidal+Self-Injury%26quot%3b+OR+automutilation+OR+intent*+OR+deliberate*+OR+purpose*+OR+self+injur*+OR+self+harm*)+AND+(DE+%26quot%3bIngestion%26quot%3b+OR+ingest*+OR+swallow*)+AND+(DE+%26quot%3bSurgery%26quot%3b+OR+endoscop*+OR+conservative+treatment+OR+drug+therapy+surg*+OR+endoscop*+OR+egd+OR+esophagogastroduodenoscopy+OR+oesophagogastroduodenoscopy+OR+manag*)&type=0&searchMode=Standard&site=ehost-live}
 \begin{quote}
@@ -609,7 +611,6 @@ AND\\
 
 \FloatBarrier
 \newpage
-\twocolumn
 
 \subsection{Screening Process}
 \label{appendix:screening_results}
@@ -618,9 +619,7 @@ AND\\
 \subsection{Data Extraction}
 \label{appendix:data_extraction}
 
-\subsubsection{Variables}
-
-\begin{table*}[h]
+\begin{table}[htbp]
 \caption{Variables used for case report data extraction. Aggregates of which where used to create Variable\_Rate and Variable\_Cases.}
 \label{tab:variables_table}
 \centering
@@ -654,9 +653,10 @@ Outcome\_Complication & 'Y' if any complication directly related to ingestion or
 Outcome\_Unknown & Where no outcome identified; 'N' if outcome identified; 'UK' if Unknown. \\
 \bottomrule
 \end{tabular}
-\end{table*}
+\end{table}
 
 \subsubsection{Definitions}
+Full variable definitions are shown in \ref{tab:variables_table}.
 
 For the purposes of this study, \enquote{surgery} was defined as \enquote{any operative intervention performed in a sterile operating theatre under general or regional anaesthesia, involving incision or surgical access to body cavities (including laparotomy, laparoscopy, thoracotomy, or cervical exploration) for the purpose of removing an ingested object or managing complications of ingestion}. Procedures performed \enquote{solely via flexible or rigid endoscopy through natural orifices} were categorised as \enquote{endoscopy} and not considered surgical interventions.
 

@@ -42,13 +42,12 @@
 \contentsline {subsubsection}{\numberline {\mbox {A-B}3}CENTRAL (Cochrane) Query (All Fields)}{22}{subsubsection.Appendix.A.2.3}%
 \contentsline {subsubsection}{\numberline {\mbox {A-B}4}Web of Science Query}{22}{subsubsection.Appendix.A.2.4}%
 \contentsline {subsubsection}{\numberline {\mbox {A-B}5}Scopus Query}{22}{subsubsection.Appendix.A.2.5}%
-\contentsline {subsubsection}{\numberline {\mbox {A-B}6}PsycINFO Query}{22}{subsubsection.Appendix.A.2.6}%
+\contentsline {subsubsection}{\numberline {\mbox {A-B}6}PsycINFO Query}{23}{subsubsection.Appendix.A.2.6}%
 \contentsline {subsection}{\numberline {\mbox {A-C}}Grey Literature}{23}{subsection.Appendix.A.3}%
 \contentsline {subsection}{\numberline {\mbox {A-D}}Screening Process}{24}{subsection.Appendix.A.4}%
 \contentsline {subsection}{\numberline {\mbox {A-E}}Data Extraction}{24}{subsection.Appendix.A.5}%
-\contentsline {subsubsection}{\numberline {\mbox {A-E}1}Variables}{24}{table.16}%
-\contentsline {subsubsection}{\numberline {\mbox {A-E}2}Definitions}{24}{subsubsection.Appendix.A.5.2}%
-\contentsline {subsubsection}{\numberline {\mbox {A-E}3}Process}{24}{subsubsection.Appendix.A.5.3}%
-\contentsline {subsection}{\numberline {\mbox {A-F}}Computational Risk of Bias Assessment}{24}{subsection.Appendix.A.6}%
-\contentsline {subsubsection}{\numberline {\mbox {A-F}1}Case Reports}{24}{subsubsection.Appendix.A.6.1}%
-\contentsline {subsubsection}{\numberline {\mbox {A-F}2}Case Series}{24}{subsubsection.Appendix.A.6.2}%
+\contentsline {subsubsection}{\numberline {\mbox {A-E}1}Definitions}{24}{subsubsection.Appendix.A.5.1}%
+\contentsline {subsubsection}{\numberline {\mbox {A-E}2}Process}{25}{subsubsection.Appendix.A.5.2}%
+\contentsline {subsection}{\numberline {\mbox {A-F}}Computational Risk of Bias Assessment}{25}{subsection.Appendix.A.6}%
+\contentsline {subsubsection}{\numberline {\mbox {A-F}1}Case Reports}{25}{subsubsection.Appendix.A.6.1}%
+\contentsline {subsubsection}{\numberline {\mbox {A-F}2}Case Series}{25}{subsubsection.Appendix.A.6.2}%
