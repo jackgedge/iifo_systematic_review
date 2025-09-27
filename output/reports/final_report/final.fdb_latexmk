@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber final"] 1758969424.22902 "final.bcf" "final.bbl" "final" 1758970635.67097 0
+["biber final"] 1758969424.22902 "final.bcf" "final.bbl" "final" 1758970743.4394 0
   "MSc.bib" 1758969248.75549 3066767 ca9f4314802606d6c3c2ea6c96b7ee56 ""
-  "final.bcf" 1758970635.57593 193388 63d645da91121d151ac9011b32735b78 "pdflatex"
+  "final.bcf" 1758970743.34337 193388 63d645da91121d151ac9011b32735b78 "pdflatex"
   (generated)
   "final.bbl"
   "final.blg"
   (rewritten before read)
-["pdflatex"] 1758970625.36369 "/Users/jackgedge/Projects/iifo_systematic_review/output/reports/final_report/final.tex" "final.pdf" "final" 1758970635.67143 0
+["pdflatex"] 1758970733.48648 "/Users/jackgedge/Projects/iifo_systematic_review/output/reports/final_report/final.tex" "final.pdf" "final" 1758970743.43984 0
   "/Users/jackgedge/Projects/iifo_systematic_review/output/reports/final_report/final.tex" 1758966682.34838 2672 351b2b2b48e5ce3367bbf8c339c6a57c ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -163,12 +163,12 @@
   "figures/ma_all_plot.png" 1758964776.9114 1136219 028a2981b432c4e3b6cd3b8cc9cd0397 ""
   "figures/ma_series_only_plot.png" 1758964776.91723 910497 3fc55369940fc1ac20c7f4c3ec801d97 ""
   "figures/prisma_diagram.png" 1758964776.93306 1469239 2acbf58994dc50328f36fea6f57355ea ""
-  "final.aux" 1758970635.45662 106358 ba1af35a4dd2df3d5266953223302af8 "pdflatex"
+  "final.aux" 1758970743.22758 106358 ba1af35a4dd2df3d5266953223302af8 "pdflatex"
   "final.bbl" 1758969472.84402 383182 1bcb11251b4181d5c6c9b9ffeff2aadc "biber final"
-  "final.out" 1758970635.5732 8760 79c9e2178f3c9eab6edbd0604406ca8a "pdflatex"
-  "final.run.xml" 1758970635.57712 2346 c4eb83a19b879407a998f33c0930eddb "pdflatex"
+  "final.out" 1758970743.34028 8760 79c9e2178f3c9eab6edbd0604406ca8a "pdflatex"
+  "final.run.xml" 1758970743.34438 2346 c4eb83a19b879407a998f33c0930eddb "pdflatex"
   "final.tex" 1758966682.34838 2672 351b2b2b48e5ce3367bbf8c339c6a57c ""
-  "final.toc" 1758970635.57724 5337 951e60ff79e0d16b7137701d89a24636 "pdflatex"
+  "final.toc" 1758970743.34448 5337 951e60ff79e0d16b7137701d89a24636 "pdflatex"
   "sections/abbreviations.tex" 1758970312.81189 658 c85659aca770dffb327fb1d1007c6e64 ""
   "sections/abstract.tex" 1758964776.95861 2720 1214f87bd6ab508e33db27e9ce3f62b3 ""
   "sections/appendix.tex" 1758964776.95873 26978 b8ad7b39cec7b5bf077d6eea9b2c5f33 ""
@@ -180,7 +180,7 @@
   "sections/risk_of_bias_results.tex" 1758964776.95959 9401 3edfc83d92ba28e2aafd1af2fbae8399 ""
   "sections/screening_process.tex" 1758970465.73463 1560 3ce227a291e26c2410478f80daf231dc ""
   "sections/study_characteristics.tex" 1758964776.95976 4173 9862d6662e6ee1ea26c4252a410cbb23 ""
-  "sections/synthesis.tex" 1758964776.95987 7594 818b91cb8dcddf869261c95cf147e68c ""
+  "sections/synthesis.tex" 1758970732.96887 7595 559f9cf9e6bf5a3a57136260007d15bc ""
   "tables/case_report_table.tex" 1758964776.96007 8835 29600254fb34ee12fa313fded9dd7528 ""
   "tables/case_series_table.tex" 1758964776.96016 2888 94c0ff8b3f8d9b9c1d545c56f31659b8 ""
   "tables/country_table.tex" 1758964776.96025 2641 deb3b840d182b6db5e55f40e6cb67b43 ""
