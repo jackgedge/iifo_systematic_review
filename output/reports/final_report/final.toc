@@ -1,0 +1,54 @@
+\contentsline {section}{\numberline {I}Abstract}{2}{section.1}%
+\contentsline {subsection}{\numberline {\mbox {I-A}}Background}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {\mbox {I-B}}Objectives}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {\mbox {I-C}}Methods}{2}{subsection.1.3}%
+\contentsline {subsection}{\numberline {\mbox {I-D}}Results}{2}{subsection.1.4}%
+\contentsline {subsection}{\numberline {\mbox {I-E}}Conclusion}{2}{subsection.1.5}%
+\contentsline {subsection}{\numberline {\mbox {I-F}}Abbreviations}{2}{subsection.1.6}%
+\contentsline {subsection}{\numberline {\mbox {I-G}}Symbols}{2}{subsection.1.7}%
+\contentsline {section}{\numberline {II}Introduction}{2}{section.2}%
+\contentsline {subsection}{\numberline {\mbox {II-A}}Rationale}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {\mbox {II-B}}Objectives}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {\mbox {II-C}}Eligibility Criteria}{3}{subsection.2.3}%
+\contentsline {subsection}{\numberline {\mbox {II-D}}Information Sources}{3}{subsection.2.4}%
+\contentsline {subsection}{\numberline {\mbox {II-E}}Data Extraction}{3}{subsection.2.5}%
+\contentsline {subsection}{\numberline {\mbox {II-F}}Risk of Bias Assessment}{3}{subsection.2.6}%
+\contentsline {subsection}{\numberline {\mbox {II-G}}Synthesis Methods}{4}{subsection.2.7}%
+\contentsline {section}{\numberline {III}Results}{5}{section.3}%
+\contentsline {subsection}{\numberline {\mbox {III-A}}Study Selection}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {\mbox {III-B}}Risk of Bias}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {\mbox {III-C}}Study Characteristics}{5}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {\mbox {III-C}1}Case Reports}{5}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {\mbox {III-C}2}Case Series}{5}{subsubsection.3.3.2}%
+\contentsline {subsection}{\numberline {\mbox {III-D}}Synthesis}{7}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {\mbox {III-D}1}Univariate Association Testing}{7}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {\mbox {III-D}2}Meta-Analysis of Proportions}{7}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {\mbox {III-D}3}Meta-Regression}{8}{subsubsection.3.4.3}%
+\contentsline {subsection}{\numberline {\mbox {III-E}}Discussion}{10}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {\mbox {III-E}1}Intention is poorly reported}{10}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {\mbox {III-E}2}Protest motivation, and intent-to-harm in detention, could modulate outcomes}{10}{subsubsection.3.5.2}%
+\contentsline {subsubsection}{\numberline {\mbox {III-E}3}Middle-age with differing motivations - reduced surgery but increased mortality}{10}{subsubsection.3.5.3}%
+\contentsline {subsection}{\numberline {\mbox {III-F}}Limitations}{10}{subsection.3.6}%
+\contentsline {subsubsection}{\numberline {\mbox {III-F}1}Publication bias, extraordinary cases and countertransference anger}{10}{subsubsection.3.6.1}%
+\contentsline {subsubsection}{\numberline {\mbox {III-F}2}Selection Bias}{11}{subsubsection.3.6.2}%
+\contentsline {subsubsection}{\numberline {\mbox {III-F}3}Unmeasured confounding}{11}{subsubsection.3.6.3}%
+\contentsline {subsubsection}{\numberline {\mbox {III-F}4}Information Bias}{11}{subsubsection.3.6.4}%
+\contentsline {subsection}{\numberline {\mbox {III-G}}Conclusion}{11}{subsection.3.7}%
+\contentsline {section}{Appendix\nobreakspace A: Methods}{18}{section*.7}%
+\contentsline {subsection}{\numberline {\mbox {A-A}}Eligibility Criteria}{18}{subsection.Appendix.A.1}%
+\contentsline {subsection}{\numberline {\mbox {A-B}}Search Strategy}{19}{subsection.Appendix.A.2}%
+\contentsline {subsubsection}{\numberline {\mbox {A-B}1}PubMed Query}{22}{subsubsection.Appendix.A.2.1}%
+\contentsline {subsubsection}{\numberline {\mbox {A-B}2}Embase Query (All Fields)}{22}{subsubsection.Appendix.A.2.2}%
+\contentsline {subsubsection}{\numberline {\mbox {A-B}3}CENTRAL (Cochrane) Query (All Fields)}{22}{subsubsection.Appendix.A.2.3}%
+\contentsline {subsubsection}{\numberline {\mbox {A-B}4}Web of Science Query}{22}{subsubsection.Appendix.A.2.4}%
+\contentsline {subsubsection}{\numberline {\mbox {A-B}5}Scopus Query}{22}{subsubsection.Appendix.A.2.5}%
+\contentsline {subsubsection}{\numberline {\mbox {A-B}6}PsycINFO Query}{22}{subsubsection.Appendix.A.2.6}%
+\contentsline {subsection}{\numberline {\mbox {A-C}}Grey Literature}{23}{subsection.Appendix.A.3}%
+\contentsline {subsection}{\numberline {\mbox {A-D}}Screening Process}{24}{subsection.Appendix.A.4}%
+\contentsline {subsection}{\numberline {\mbox {A-E}}Data Extraction}{24}{subsection.Appendix.A.5}%
+\contentsline {subsubsection}{\numberline {\mbox {A-E}1}Variables}{24}{table.16}%
+\contentsline {subsubsection}{\numberline {\mbox {A-E}2}Definitions}{24}{subsubsection.Appendix.A.5.2}%
+\contentsline {subsubsection}{\numberline {\mbox {A-E}3}Process}{24}{subsubsection.Appendix.A.5.3}%
+\contentsline {subsection}{\numberline {\mbox {A-F}}Computational Risk of Bias Assessment}{24}{subsection.Appendix.A.6}%
+\contentsline {subsubsection}{\numberline {\mbox {A-F}1}Case Reports}{24}{subsubsection.Appendix.A.6.1}%
+\contentsline {subsubsection}{\numberline {\mbox {A-F}2}Case Series}{24}{subsubsection.Appendix.A.6.2}%
