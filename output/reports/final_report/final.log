@@ -1,10 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.31)  27 SEP 2025 10:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.31)  27 SEP 2025 11:45
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/jackgedge/Projects/iifo_systematic_review/output/reports/final_report/final.tex
-(/Users/jackgedge/Projects/iifo_systematic_review/output/reports/final_report/final.tex
+**final.tex
+(./final.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/ieeetran/IEEEtran.cls
@@ -18,7 +17,8 @@ Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
 \@IEEEtrantmpcountB=\count197
 \@IEEEtrantmpcountC=\count198
 \@IEEEtrantmptoksA=\toks17
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 503.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 5
+03.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
@@ -33,42 +33,52 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
 \IEEEquantizedlength=\dimen148
 \IEEEquantizedlengthdiff=\dimen149
 \IEEEquantizedtextheightdiff=\dimen150
@@ -107,7 +117,8 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks18
 \inpenc@posthook=\toks19
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/tools/array.sty
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/array.sty
 Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
 \col@sep=\dimen165
 \ar@mcellbox=\box54
@@ -116,12 +127,16 @@ Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
 \extratabsurround=\skip52
 \backup@length=\skip53
 \ar@cellbox=\box55
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 116.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1ptm.fd
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 11
+6.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
-)) (/usr/local/texlive/2025/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/ragged2e/ragged2e.sty
 Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \CenteringLeftskip=\skip54
 \RaggedLeftLeftskip=\skip55
@@ -137,34 +152,43 @@ Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \RaggedLeftParindent=\skip65
 \RaggedRightParindent=\skip66
 \JustifyingParindent=\skip67
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks21
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
- (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen167
 \Gin@req@width=\dimen168
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/float/float.sty
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count277
 \float@exts=\toks22
 \float@box=\box56
 \@float@everytoks=\toks23
 \@floatcapt=\box57
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/caption/caption.sty
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
- (/usr/local/texlive/2025/texmf-dist/tex/latex/caption/caption3.sty
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen169
 \captionmargin=\dimen170
@@ -176,7 +200,17 @@ Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@hangindent=\dimen176
 Package caption Info: Unknown document class (or package),
 (caption)             standard defaults will be used.
-Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEtablestring \footnotesize \bgroup \par \centering \@IEEEtabletopskipstrut {\normalfont \footnotesize #1}\\{\normalfont \footnotesize \scshape #2}\par \addvspace {0.5\baselineskip }\egroup \@IEEEtablecaptionsepspace \else \@IEEEfigurecaptionsepspace \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspace \nobreakspace #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspace \nobreakspace }\parbox [t]{\hsize }{\normalfont \footnotesize \noindent \unhbox \@tempboxa #2}\else \ifCLASSOPTIONconference \hbox to\hsize {\normalfont \footnotesize \hfil \box \@tempboxa \hfil }\else \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \hfil }\fi \fi \fi  on input line 1175.
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEta
+blestring \footnotesize \bgroup \par \centering \@IEEEtabletopskipstrut {\norma
+lfont \footnotesize #1}\\{\normalfont \footnotesize \scshape #2}\par \addvspace
+ {0.5\baselineskip }\egroup \@IEEEtablecaptionsepspace \else \@IEEEfigurecaptio
+nsepspace \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspac
+e \nobreakspace #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbox {\nor
+malfont \footnotesize {#1.}\nobreakspace \nobreakspace }\parbox [t]{\hsize }{\n
+ormalfont \footnotesize \noindent \unhbox \@tempboxa #2}\else \ifCLASSOPTIONcon
+ference \hbox to\hsize {\normalfont \footnotesize \hfil \box \@tempboxa \hfil }
+\else \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \hfil }\fi \fi 
+\fi  on input line 1175.
 )
 
 Package caption Warning: Unknown document class (or package),
@@ -193,14 +227,17 @@ Package: amsmath 2024/11/05 v2.17t AMS math features
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
- (/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks24
 \ex@=\dimen177
-)) (/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen178
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count280
@@ -250,11 +287,14 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \mathdisplay@stack=\toks28
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
 \Gm@cnth=\count292
@@ -269,7 +309,8 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layouthoffset=\dimen192
 \Gm@layoutvoffset=\dimen193
 \Gm@dimlist=\toks29
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/tools/longtable.sty
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
 \LTleft=\skip71
 \LTright=\skip72
@@ -287,54 +328,73 @@ Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
 \c@LT@tables=\count298
 \c@LT@chunks=\count299
 \LT@p@ftn=\toks30
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
- (/usr/local/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-) (/usr/local/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (/usr/local/texlive/2025/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
- (/usr/local/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-) (/usr/local/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (/usr/local/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)) (/usr/local/texlive/2025/texmf-dist/tex/latex/hycolor/hycolor.sty
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/nameref.sty
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
- (/usr/local/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (/usr/local/texlive/2025/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
  (/usr/local/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count300
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count301
-) (/usr/local/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
 )
 \@linkdim=\dimen195
 \Hy@linkcounter=\count302
 \Hy@pagecounter=\count303
- (/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/pd1enc.def
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (/usr/local/texlive/2025/texmf-dist/tex/generic/intcalc/intcalc.sty
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count304
- (/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/puenc.def
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -347,16 +407,20 @@ Package hyperref Info: Backreferencing OFF on input line 4177.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4424.
 \c@Hy@tempcnt=\count305
- (/usr/local/texlive/2025/texmf-dist/tex/latex/url/url.sty
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4763.
 \XeTeXLinkMargin=\dimen196
- (/usr/local/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (/usr/local/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
 ))
 \Fld@menulength=\count306
 \Field@Width=\dimen197
@@ -368,7 +432,8 @@ Package hyperref Info: backreferencing OFF on input line 6057.
 Package hyperref Info: Link coloring OFF on input line 6062.
 Package hyperref Info: Link coloring with OCG OFF on input line 6067.
 Package hyperref Info: PDF/A mode OFF on input line 6072.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
@@ -377,24 +442,31 @@ package with kernel methods
 \c@Hfootnote=\count309
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hpdftex.def
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
- (/usr/local/texlive/2025/texmf-dist/tex/latex/base/atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
 with kernel methods
 )
 \Fld@listcount=\count310
 \c@bookmark@seq@number=\count311
- (/usr/local/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
- (/usr/local/texlive/2025/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
 )
 \Hy@SectionHShift=\skip75
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
 \f@nch@headwidth=\skip76
 \f@nch@offset@elh=\skip77
 \f@nch@offset@erh=\skip78
@@ -410,14 +482,17 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@widthC=\skip88
 \f@nch@widthR=\skip89
 \@temptokenb=\toks31
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/placeins/placeins.sty
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/tools/multicol.sty
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
 \c@tracingmulticols=\count312
 
 
-Package multicol Warning: May not work with the twocolumn option on input line 140.
+Package multicol Warning: May not work with the twocolumn option on input line 
+140.
 
 \mult@box=\box65
 \multicol@leftmargin=\dimen199
@@ -490,7 +565,8 @@ Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmarkwidth=\skip92
 \thanksmargin=\skip93
 \droptitle=\skip94
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/tools/tabularx.sty
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@col@width=\dimen264
 \TX@old@table=\dimen265
@@ -499,7 +575,8 @@ Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@delta=\dimen268
 \TX@cols=\count322
 \TX@ftn=\toks32
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.sty
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
 \csq@reset=\count323
 \csq@gtype=\count324
@@ -508,38 +585,53 @@ Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
 \csq@maxlvl=\count327
 \csq@tshold=\count328
 \csq@ltx@everypar=\toks33
- (/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.def
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.cfg
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
-)) (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/times.sty
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/times.sty
 Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
- (/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
-Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.st
+y
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
  (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-)) (/usr/local/texlive/2025/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/adjustbox/adjustbox.sty
 Package: adjustbox 2025/02/26 v1.3c Adjusting TeX boxes (trim, clip, ...)
- (/usr/local/texlive/2025/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
- (/usr/local/texlive/2025/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2025/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks34
 \XKV@tempa@toks=\toks35
 )
 \XKV@depth=\count329
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)) (/usr/local/texlive/2025/texmf-dist/tex/latex/adjustbox/adjcalc.sty
-Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/adjustbox/trimclip.sty
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/adjustbox/trimclip.sty
 Package: trimclip 2025/02/21 v1.2a Trim and clip general TeX material
- (/usr/local/texlive/2025/texmf-dist/tex/latex/collectbox/collectbox.sty
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/collectbox/collectbox.sty
 Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
 \collectedbox=\box111
 )
@@ -548,7 +640,8 @@ Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
 \tc@urx=\dimen271
 \tc@ury=\dimen272
 Package trimclip Info: Using driver 'tc-pdftex.def'.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
 File: tc-pdftex.def 2025/02/26 v2.3 Clipping driver for pdftex
 ))
 \adjbox@Width=\dimen273
@@ -559,16 +652,19 @@ File: tc-pdftex.def 2025/02/26 v2.3 Clipping driver for pdftex
 \adjbox@pheight=\dimen278
 \adjbox@pdepth=\dimen279
 \adjbox@ptotalheight=\dimen280
- (/usr/local/texlive/2025/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
 Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
 \c@checkoddpage=\count330
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/varwidth/varwidth.sty
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box112
 \sift@deathcycles=\count331
 \@vwid@loff=\dimen281
 \@vwid@roff=\dimen282
-)) (/usr/local/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen283
 \lightrulewidth=\dimen284
@@ -589,16 +685,21 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisrulewidth=\dimen295
 )
 Package hyperref Info: Option `breaklinks' set `true' on input line 28.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/base/textcomp.sty
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.sty
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
- (/usr/local/texlive/2025/texmf-dist/tex/latex/logreq/logreq.sty
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count336
- (/usr/local/texlive/2025/texmf-dist/tex/latex/logreq/logreq.def
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-)) (/usr/local/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
 \c@tabx@nest=\count337
@@ -660,7 +761,8 @@ Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 \c@mincompwidth=\count382
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/blx-dm.def
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/blx-dm.def
 File: blx-dm.def 2024/03/21 v3.20 biblatex datamodel (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
@@ -751,12 +853,14 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \localshorteditorwidth=\skip116
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/blx-compat.def
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/blx-compat.def
 File: blx-compat.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.def
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
 \c@textcitecount=\count451
 \c@textcitetotal=\count452
@@ -774,22 +878,26 @@ File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.bbx' found.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
 File: numeric-comp.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
 File: numeric.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count460
 \c@bbx:relatedtotal=\count461
 )))
 Package biblatex Info: Trying to load citation style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.cbx' found.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
 File: numeric-comp.cbx 2024/03/21 v3.20 biblatex citation style (PK/MW)
 \c@cbx@tempcnta=\count462
 \c@cbx@tempcntb=\count463
@@ -809,14 +917,17 @@ Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.cfg
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
- (/usr/local/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2025-01-18 L3 programming layer (loader) 
- (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count466
 \l__pdf_internal_box=\box113
@@ -825,14 +936,17 @@ Package biblatex Info: ... and expl3
 (biblatex)             2025-01-18 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/local/texlive/2025/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2024-08-16 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
 ))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
- (./final.aux)
+
+(./final.aux)
 \openout1 = `final.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
@@ -870,14 +984,18 @@ LaTeX Font Info:    ... okay on input line 62.
 \everyMPtoPDFconversion=\toks37
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/caption/ltcaption.sty
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/caption/ltcaption.sty
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
@@ -923,7 +1041,8 @@ Package hyperref Info: Link coloring OFF on input line 62.
 
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -933,7 +1052,8 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'final.bbl' found.
- (./final.bbl)
+
+(./final.bbl)
 Package biblatex Info: Reference section=0 on input line 62.
 Package biblatex Info: Reference segment=0 on input line 62.
 
@@ -941,7 +1061,8 @@ Package biblatex Info: Reference segment=0 on input line 62.
 [0
 
 
-{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}] (./final.toc)
+{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
+al/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}] (./final.toc)
 \tf@toc=\write5
 \openout5 = `final.toc'.
 
@@ -953,3964 +1074,202 @@ Package biblatex Info: Reference segment=0 on input line 62.
 
 ] (./sections/abstract.tex (./sections/data.tex
 
-LaTeX Warning: Citation 'PythonSoftwareFoundation_2025' on page 2 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Microsoft_2025' on page 2 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Kluyver_2016' on page 2 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Lamport_1984' on page 2 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'ThePandasDevelopmentTeam_2020' on page 2 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Pedregosa_2011' on page 2 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Seabold_2010' on page 2 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Waskom_2021' on page 2 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Hunter_2007a' on page 2 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'MetOffice_2010' on page 2 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Shen_2022' on page 2 undefined on input line 2.
-
-
-
 )) (./sections/abbreviations.tex) (./sections/intro.tex
-
-LaTeX Warning: Citation 'UNHCR_2022' on page 2 undefined on input line 4.
-
-
-LaTeX Warning: Citation 'UNHCR_2010' on page 2 undefined on input line 4.
-
-
-LaTeX Warning: Citation 'AmnestyInternational_2024' on page 2 undefined on input line 4.
-
-
-LaTeX Warning: Citation 'Athwal_2015' on page 2 undefined on input line 4.
-
-
-LaTeX Warning: Citation 'Sundvall_2015' on page 2 undefined on input line 4.
-
-
-LaTeX Warning: Citation 'Nickerson_2019' on page 2 undefined on input line 4.
-
-
-LaTeX Warning: Citation 'Bevione_2024' on page 2 undefined on input line 4.
-
-
-LaTeX Warning: Citation 'vonWerthern_2018' on page 2 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Hedrick_2019' on page 2 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'GlobalDetentionProject_2024' on page 2 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Davidson_2016' on page 2 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Hedrick_2019' on page 2 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ajdacic-Gross_2008' on page 2 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Becq_2021' on page 2 undefined on input line 8.
-
-
-LaTeX Warning: Citation 'Ikenberry_2011' on page 2 undefined on input line 8.
-
-
-LaTeX Warning: Citation 'Birk_2016' on page 2 undefined on input line 8.
-
-
-LaTeX Warning: Citation 'Vujkovic_2019' on page 2 undefined on input line 8.
-
-
-LaTeX Warning: Citation 'Hsieh_2020' on page 2 undefined on input line 10.
-
-
-LaTeX Warning: Citation 'Hsieh_2020' on page 2 undefined on input line 10.
-
-
-LaTeX Warning: Citation 'Palta_2009' on page 2 undefined on input line 10.
-
-
-LaTeX Warning: Citation 'Tromans_2019' on page 2 undefined on input line 10.
-
-
-LaTeX Warning: Citation 'Ikenberry_2011' on page 2 undefined on input line 12.
-
-
-LaTeX Warning: Citation 'Hunt_2007f' on page 2 undefined on input line 12.
-
-
-LaTeX Warning: Citation 'Udemgba_2021f' on page 2 undefined on input line 12.
-
-
-LaTeX Warning: Citation 'Zhao_2022e' on page 2 undefined on input line 12.
-
-
-LaTeX Warning: Citation 'Bozorgmehr_2022f' on page 2 undefined on input line 12.
-
-
 
 [2
 
 
-]
+]) (./sections/methods.tex
 
-LaTeX Warning: Citation 'Moehlau_1895' on page 3 undefined on input line 14.
-
-
-LaTeX Warning: Citation 'Saint_1929' on page 3 undefined on input line 14.
-
-
-LaTeX Warning: Citation 'Barros_1991' on page 3 undefined on input line 14.
-
-
-LaTeX Warning: Citation 'Lerche_1911' on page 3 undefined on input line 14.
-
-
-LaTeX Warning: Citation 'Jackson_1957' on page 3 undefined on input line 14.
-
-
-LaTeX Warning: Citation 'Ricote_1985' on page 3 undefined on input line 14.
-
-
-LaTeX Warning: Citation 'Chalk_1928' on page 3 undefined on input line 14.
-
-
-LaTeX Warning: Citation 'Ikenberry_2011' on page 3 undefined on input line 14.
-
-
-LaTeX Warning: Citation 'Puggioni_2014' on page 3 undefined on input line 16.
-
-
-LaTeX Warning: Citation 'Losanoff_1997e' on page 3 undefined on input line 16.
-
-
-LaTeX Warning: Citation 'Gitlin_2007' on page 3 undefined on input line 16.
-
-
-LaTeX Warning: Citation 'Poynter_2011' on page 3 undefined on input line 16.
-
-
-LaTeX Warning: Citation 'Tromans_2019' on page 3 undefined on input line 16.
-
-
-LaTeX Warning: Citation 'Al-Faham_2020b' on page 3 undefined on input line 16.
-
-
-LaTeX Warning: Citation 'Pantazopoulos_2022' on page 3 undefined on input line 16.
-
-
-LaTeX Warning: Citation 'Aitchison_2024' on page 3 undefined on input line 16.
-
-
-LaTeX Warning: Citation 'Losanoff_1997e' on page 3 undefined on input line 16.
-
-
-LaTeX Warning: Citation 'Gitlin_2007' on page 3 undefined on input line 16.
-
-
-LaTeX Warning: Citation 'Jaini_2023' on page 3 undefined on input line 16.
-
-
-LaTeX Warning: Citation 'Bhugra_2010' on page 3 undefined on input line 18.
-
-
-LaTeX Warning: Citation 'Haase_2022' on page 3 undefined on input line 18.
-
-
-LaTeX Warning: Citation 'Hedrick_2023a' on page 3 undefined on input line 18.
-
-
-LaTeX Warning: Citation 'Ataya_2013' on page 3 undefined on input line 18.
-
-
-LaTeX Warning: Citation 'Albeldawi_2014' on page 3 undefined on input line 18.
-
-) (./sections/methods.tex
-
-
-LaTeX Warning: Citation 'Machin_2008' on page 3 undefined on input line 47.
-
-
-LaTeX Warning: Citation 'MicrosoftCorporation_2025' on page 3 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'PythonSoftwareFoundation_2025' on page 3 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'ThePandasDevelopmentTeam_2020' on page 3 undefined on input line 51.
-
-
-
-[3]
-<figures/prisma_diagram.png, id=323, 844.8363pt x 597.6729pt>
+<figures/prisma_diagram.png, id=393, 844.8363pt x 597.6729pt>
 File: figures/prisma_diagram.png Graphic file (type png)
 <use figures/prisma_diagram.png>
 Package pdftex.def Info: figures/prisma_diagram.png  used on input line 62.
 (pdftex.def)             Requested size: 542.02501pt x 383.4578pt.
 
 
-LaTeX Warning: Citation 'Moola_2020' on page 4 undefined on input line 69.
+[3]
 
 
-LaTeX Warning: Citation 'ThePandasDevelopmentTeam_2020' on page 4 undefined on input line 69.
 
-
-LaTeX Warning: Citation 'Machin_2008' on page 4 undefined on input line 73.
-
-
-LaTeX Warning: Citation 'Tanriver-Ayder_2021' on page 4 undefined on input line 79.
-
-
-LaTeX Warning: Citation 'Sterne_2017' on page 4 undefined on input line 85.
-
-
-
-) (./sections/results.tex (./sections/risk_of_bias_results.tex
-
-LaTeX Warning: Citation 'Akay_2015f' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Al-Faham_2020k' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'AlShaaibi_2021b' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Alao_2006i' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Ali_2017' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Ali_2020f' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Ali_2022g' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Apikotoa_2022f' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Ataya_2013' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Atayan_2016' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Beecroft_1998' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Benoist_2019e' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Berry_2021e' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Bhasin_2014' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Bhattacharjee_2008' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Bhumi_2024f' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'CamachoDorado_2018' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Cauchi_2002' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Chang_2017f' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Cox_2007' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Csaky_1998e' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'DelgadoSalazar_2020c' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'DivsalarP._2023a' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Emamhadi_2018' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Farhadi_2024h' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Fry_2010' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Gardner_2017h' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Goldman_1998f' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Guinan_2019f' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Hardy_2023g' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Jehangir_2019h' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Jin_2023' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Kar_2015' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Kariholu_2008' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Kerestes_2019' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Kobiela_2015' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Kumar_2001' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Kumar_2019f' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Lee_2012l' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Li_2013' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Liu_2005' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Losanoff_1996' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Losanoff_1997e' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Mesfin_2022a' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Misra_2013' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Naji_2012f' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Ohno_2005' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Peixoto_2017f' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Qureshi_2016' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Riva_2018j' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Sakellaridis_2008f' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Sharma_2022e' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Sobnach_2011f' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Sultan_2024f' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Tammana_2012j' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Tanrikulu_2015e' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Tay_2004' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Thapa_2019f' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Trgo_2012f' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Tupesis_2004f' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Wadhwa_2015e' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Wildhaber_2005' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Wnęk_2015f' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Yasin_2009' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Yildiz_2016e' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'fjbuilsRepeatedBehaviorDeliberate2024' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'teWildt_2010' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Moola_2020' on page 4 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Lee_2012l' on page 4 undefined on input line 4.
-
-
-LaTeX Warning: Citation 'Lee_2012l' on page 4 undefined on input line 4.
-
-
-LaTeX Warning: Citation 'Sharma_2022e' on page 4 undefined on input line 4.
-
-
-LaTeX Warning: Citation 'Lee_2012l' on page 4 undefined on input line 4.
-
-
-LaTeX Warning: Citation 'Lee_2012l' on page 4 undefined on input line 4.
-
-
-LaTeX Warning: Citation 'Lee_2012l' on page 4 undefined on input line 4.
-
-
-LaTeX Warning: Citation 'Lee_2012l' on page 4 undefined on input line 4.
-
-
-LaTeX Warning: Citation 'Sharma_2022e' on page 4 undefined on input line 4.
-
-
-LaTeX Warning: Citation 'Akay_2015f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Al-Faham_2020k' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'AlShaaibi_2021b' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Alao_2006i' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ali_2017' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ali_2020f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ali_2022g' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Apikotoa_2022f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ataya_2013' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Atayan_2016' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Beecroft_1998' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Benoist_2019e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Berry_2021e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Bhasin_2014' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Bhattacharjee_2008' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Bhumi_2024f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'CamachoDorado_2018' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Cauchi_2002' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Chang_2017f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Cox_2007' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Csaky_1998e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'DelgadoSalazar_2020c' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'DivsalarP._2023a' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Emamhadi_2018' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Farhadi_2024h' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Fry_2010' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Gardner_2017h' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Goldman_1998f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Guinan_2019f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Hardy_2023g' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Jehangir_2019h' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Jin_2023' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kar_2015' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kariholu_2008' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kerestes_2019' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kobiela_2015' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kumar_2001' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kumar_2019f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Li_2013' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Liu_2005' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Losanoff_1996' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Losanoff_1997e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Mesfin_2022a' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Misra_2013' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Naji_2012f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ohno_2005' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Peixoto_2017f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Qureshi_2016' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Riva_2018j' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Sakellaridis_2008f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Sobnach_2011f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Sultan_2024f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Tammana_2012j' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Tanrikulu_2015e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Tay_2004' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Thapa_2019f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Trgo_2012f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Wadhwa_2015e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Wildhaber_2005' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Wnęk_2015f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Yasin_2009' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Yildiz_2016e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'fjbuilsRepeatedBehaviorDeliberate2024' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'teWildt_2010' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Akay_2015f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Al-Faham_2020k' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'AlShaaibi_2021b' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Alao_2006i' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ali_2017' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ali_2020f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ali_2022g' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Apikotoa_2022f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ataya_2013' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Atayan_2016' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Beecroft_1998' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Benoist_2019e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Berry_2021e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Bhasin_2014' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Bhattacharjee_2008' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Bhumi_2024f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Cauchi_2002' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Chang_2017f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Cox_2007' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Csaky_1998e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'DelgadoSalazar_2020c' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'DivsalarP._2023a' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Emamhadi_2018' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Farhadi_2024h' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Fry_2010' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Gardner_2017h' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Goldman_1998f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Guinan_2019f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Hardy_2023g' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Jehangir_2019h' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Jin_2023' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kar_2015' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kariholu_2008' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kerestes_2019' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kobiela_2015' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kumar_2001' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kumar_2019f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Li_2013' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Liu_2005' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Losanoff_1996' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Losanoff_1997e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Mesfin_2022a' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Misra_2013' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Naji_2012f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ohno_2005' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Peixoto_2017f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Qureshi_2016' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Riva_2018j' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Sakellaridis_2008f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Sobnach_2011f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Sultan_2024f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Tammana_2012j' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Tanrikulu_2015e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Tay_2004' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Thapa_2019f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Trgo_2012f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Wadhwa_2015e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Wildhaber_2005' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Wnęk_2015f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Yasin_2009' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Yildiz_2016e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'fjbuilsRepeatedBehaviorDeliberate2024' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'teWildt_2010' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Akay_2015f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Al-Faham_2020k' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'AlShaaibi_2021b' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Alao_2006i' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ali_2017' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ali_2020f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ali_2022g' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Apikotoa_2022f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ataya_2013' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Atayan_2016' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Beecroft_1998' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Benoist_2019e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Berry_2021e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Bhasin_2014' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Bhattacharjee_2008' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Bhumi_2024f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'CamachoDorado_2018' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Cauchi_2002' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Chang_2017f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Cox_2007' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Csaky_1998e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'DelgadoSalazar_2020c' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'DivsalarP._2023a' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Emamhadi_2018' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Farhadi_2024h' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Fry_2010' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Gardner_2017h' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Goldman_1998f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Guinan_2019f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Hardy_2023g' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Jehangir_2019h' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Jin_2023' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kar_2015' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kariholu_2008' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kerestes_2019' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kobiela_2015' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kumar_2001' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Li_2013' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Losanoff_1996' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Losanoff_1997e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Mesfin_2022a' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Misra_2013' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Naji_2012f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ohno_2005' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Peixoto_2017f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Qureshi_2016' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Riva_2018j' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Sakellaridis_2008f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Sobnach_2011f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Sultan_2024f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Tammana_2012j' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Tanrikulu_2015e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Tay_2004' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Thapa_2019f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Trgo_2012f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Wadhwa_2015e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Wildhaber_2005' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Wnęk_2015f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Yasin_2009' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Yildiz_2016e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'fjbuilsRepeatedBehaviorDeliberate2024' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'teWildt_2010' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Akay_2015f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Al-Faham_2020k' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'AlShaaibi_2021b' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Alao_2006i' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ali_2017' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ali_2020f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ali_2022g' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Apikotoa_2022f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ataya_2013' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Atayan_2016' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Beecroft_1998' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Benoist_2019e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Berry_2021e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Bhasin_2014' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Bhattacharjee_2008' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Bhumi_2024f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Cauchi_2002' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Cox_2007' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Csaky_1998e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'DelgadoSalazar_2020c' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'DivsalarP._2023a' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Emamhadi_2018' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Farhadi_2024h' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Fry_2010' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Gardner_2017h' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Goldman_1998f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Guinan_2019f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Hardy_2023g' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Jehangir_2019h' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Jin_2023' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kar_2015' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kariholu_2008' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kerestes_2019' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kobiela_2015' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kumar_2001' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kumar_2019f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Li_2013' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Liu_2005' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Losanoff_1996' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Losanoff_1997e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Mesfin_2022a' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Misra_2013' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Naji_2012f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ohno_2005' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Peixoto_2017f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Qureshi_2016' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Riva_2018j' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Sakellaridis_2008f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Sobnach_2011f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Sultan_2024f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Tammana_2012j' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Tanrikulu_2015e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Tay_2004' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Thapa_2019f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Trgo_2012f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Wadhwa_2015e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Wildhaber_2005' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Wnęk_2015f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Yasin_2009' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Yildiz_2016e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'fjbuilsRepeatedBehaviorDeliberate2024' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'teWildt_2010' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Akay_2015f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Al-Faham_2020k' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'AlShaaibi_2021b' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Alao_2006i' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ali_2017' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ali_2020f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ali_2022g' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Apikotoa_2022f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ataya_2013' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Atayan_2016' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Beecroft_1998' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Berry_2021e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Bhasin_2014' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Bhattacharjee_2008' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Bhumi_2024f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'CamachoDorado_2018' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Cauchi_2002' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Chang_2017f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Cox_2007' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Csaky_1998e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'DelgadoSalazar_2020c' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'DivsalarP._2023a' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Emamhadi_2018' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Farhadi_2024h' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Fry_2010' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Gardner_2017h' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Goldman_1998f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Guinan_2019f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Hardy_2023g' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Jehangir_2019h' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Jin_2023' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kar_2015' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kariholu_2008' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kerestes_2019' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kobiela_2015' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kumar_2001' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kumar_2019f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Li_2013' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Liu_2005' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Losanoff_1996' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Mesfin_2022a' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Misra_2013' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Naji_2012f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ohno_2005' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Peixoto_2017f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Qureshi_2016' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Riva_2018j' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Sakellaridis_2008f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Sobnach_2011f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Sultan_2024f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Tammana_2012j' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Tanrikulu_2015e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Tay_2004' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Thapa_2019f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Trgo_2012f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Wadhwa_2015e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Wildhaber_2005' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Yasin_2009' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Yildiz_2016e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'fjbuilsRepeatedBehaviorDeliberate2024' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'teWildt_2010' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Akay_2015f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Al-Faham_2020k' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'AlShaaibi_2021b' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Alao_2006i' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ali_2017' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ali_2020f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ali_2022g' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Apikotoa_2022f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ataya_2013' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Atayan_2016' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Beecroft_1998' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Benoist_2019e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Berry_2021e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Bhasin_2014' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Bhattacharjee_2008' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Bhumi_2024f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'CamachoDorado_2018' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Cauchi_2002' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Chang_2017f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Cox_2007' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Csaky_1998e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'DelgadoSalazar_2020c' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Emamhadi_2018' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Farhadi_2024h' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Fry_2010' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Gardner_2017h' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Goldman_1998f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Guinan_2019f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Hardy_2023g' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Jehangir_2019h' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Jin_2023' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kar_2015' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kariholu_2008' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kerestes_2019' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kobiela_2015' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kumar_2001' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kumar_2019f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Li_2013' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Liu_2005' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Losanoff_1996' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Losanoff_1997e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Mesfin_2022a' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Misra_2013' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Naji_2012f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ohno_2005' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Peixoto_2017f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Qureshi_2016' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Riva_2018j' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Sakellaridis_2008f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Sobnach_2011f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Sultan_2024f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Tammana_2012j' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Tanrikulu_2015e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Tay_2004' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Thapa_2019f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Trgo_2012f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Wadhwa_2015e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Wildhaber_2005' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Wnęk_2015f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Yasin_2009' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Yildiz_2016e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'fjbuilsRepeatedBehaviorDeliberate2024' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'teWildt_2010' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ali_2017' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ali_2020f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Beecroft_1998' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Benoist_2019e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Berry_2021e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Bhasin_2014' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Bhattacharjee_2008' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Bhumi_2024f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Cauchi_2002' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Cox_2007' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Emamhadi_2018' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Fry_2010' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Gardner_2017h' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kar_2015' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kariholu_2008' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kobiela_2015' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kumar_2001' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Liu_2005' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Losanoff_1996' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Misra_2013' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Naji_2012f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ohno_2005' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Sultan_2024f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Tammana_2012j' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Tanrikulu_2015e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Tay_2004' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Thapa_2019f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Trgo_2012f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Wadhwa_2015e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Wildhaber_2005' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Wnęk_2015f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Yildiz_2016e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'fjbuilsRepeatedBehaviorDeliberate2024' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Akay_2015f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Al-Faham_2020k' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'AlShaaibi_2021b' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Alao_2006i' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ali_2017' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ali_2020f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ali_2022g' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Apikotoa_2022f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ataya_2013' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Atayan_2016' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Beecroft_1998' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Benoist_2019e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Berry_2021e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Bhasin_2014' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Bhattacharjee_2008' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Bhumi_2024f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Cauchi_2002' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Chang_2017f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Cox_2007' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Csaky_1998e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'DelgadoSalazar_2020c' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Emamhadi_2018' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Farhadi_2024h' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Fry_2010' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Gardner_2017h' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Goldman_1998f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Hardy_2023g' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Jehangir_2019h' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Jin_2023' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kar_2015' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kariholu_2008' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kerestes_2019' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kobiela_2015' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kumar_2001' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Kumar_2019f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Li_2013' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Liu_2005' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Losanoff_1996' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Losanoff_1997e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Mesfin_2022a' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Misra_2013' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Naji_2012f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Ohno_2005' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Peixoto_2017f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Qureshi_2016' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Riva_2018j' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Sakellaridis_2008f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Sobnach_2011f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Sultan_2024f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Tammana_2012j' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Tanrikulu_2015e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Tay_2004' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Thapa_2019f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Trgo_2012f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Wadhwa_2015e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Wildhaber_2005' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Wnęk_2015f' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Yasin_2009' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'Yildiz_2016e' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'fjbuilsRepeatedBehaviorDeliberate2024' on page 4 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'teWildt_2010' on page 4 undefined on input line 6.
-
-
-
-[4]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[5 <./figures/prisma_diagram.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-
-LaTeX Warning: Citation 'Elghali_2016' on page 6 undefined on input line 8.
-
-
-LaTeX Warning: Citation 'Karp_1991b' on page 6 undefined on input line 8.
-
-
-LaTeX Warning: Citation 'Lee_2007' on page 6 undefined on input line 8.
-
-
-LaTeX Warning: Citation 'Moola_2020' on page 6 undefined on input line 8.
-
-
-LaTeX Warning: Citation 'Elghali_2016' on page 6 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'Karp_1991b' on page 6 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'Lee_2007' on page 6 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'Elghali_2016' on page 6 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'Karp_1991b' on page 6 undefined on input line 9.
-
-) (./tables/case_report_table.tex
-
-LaTeX Warning: Citation 'Li_2013' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Liu_2005' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ohno_2005' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Alao_2006i' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ali_2022g' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Apikotoa_2022f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ataya_2013' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Benoist_2019e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Bhasin_2014' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Chang_2017f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Cox_2007' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'DelgadoSalazar_2020c' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Farhadi_2024h' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Fry_2010' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Gardner_2017h' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Guinan_2019f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Jin_2023' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kumar_2019f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Losanoff_1996' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Misra_2013' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Qureshi_2016' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Riva_2018j' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Sakellaridis_2008f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Tammana_2012j' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Trgo_2012f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Wnęk_2015f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Yildiz_2016e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'fjbuilsRepeatedBehaviorDeliberate2024' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Akay_2015f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ali_2017' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Atayan_2016' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Bhattacharjee_2008' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Csaky_1998e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kar_2015' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kariholu_2008' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kobiela_2015' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Losanoff_1996' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Losanoff_1997e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Mesfin_2022a' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Peixoto_2017f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Sobnach_2011f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Yasin_2009' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'AlShaaibi_2021b' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ali_2020f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Cauchi_2002' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'DivsalarP._2023a' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Goldman_1998f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Liu_2005' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Naji_2012f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ohno_2005' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Tanrikulu_2015e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Tay_2004' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Wildhaber_2005' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Al-Faham_2020k' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Bhumi_2024f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'CamachoDorado_2018' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Emamhadi_2018' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Hardy_2023g' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Jehangir_2019h' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kumar_2001' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Sultan_2024f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Thapa_2019f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Wadhwa_2015e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'teWildt_2010' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Beecroft_1998' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kerestes_2019' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Li_2013' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Akay_2015f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Al-Faham_2020k' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Alao_2006i' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ali_2017' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ali_2022g' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Apikotoa_2022f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Atayan_2016' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Benoist_2019e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Berry_2021e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Bhumi_2024f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'CamachoDorado_2018' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Csaky_1998e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Emamhadi_2018' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Farhadi_2024h' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Fry_2010' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Gardner_2017h' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Guinan_2019f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Jehangir_2019h' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Jin_2023' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kobiela_2015' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kumar_2001' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kumar_2019f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Liu_2005' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Losanoff_1996' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Losanoff_1997e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Mesfin_2022a' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Misra_2013' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Qureshi_2016' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Riva_2018j' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Sobnach_2011f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Tammana_2012j' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Tanrikulu_2015e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Tay_2004' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Thapa_2019f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Trgo_2012f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Wadhwa_2015e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Yasin_2009' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'teWildt_2010' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'AlShaaibi_2021b' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ali_2020f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ataya_2013' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Beecroft_1998' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Bhasin_2014' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Bhattacharjee_2008' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Cauchi_2002' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Chang_2017f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Cox_2007' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'DelgadoSalazar_2020c' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'DivsalarP._2023a' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Goldman_1998f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Hardy_2023g' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kar_2015' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kariholu_2008' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kerestes_2019' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Li_2013' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Naji_2012f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ohno_2005' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Peixoto_2017f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Sakellaridis_2008f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Sultan_2024f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Wildhaber_2005' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Wnęk_2015f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Yildiz_2016e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'fjbuilsRepeatedBehaviorDeliberate2024' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'AlShaaibi_2021b' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Alao_2006i' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ali_2020f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Apikotoa_2022f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ataya_2013' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Atayan_2016' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Beecroft_1998' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'CamachoDorado_2018' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Chang_2017f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'DelgadoSalazar_2020c' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'DivsalarP._2023a' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Farhadi_2024h' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Fry_2010' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Guinan_2019f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Hardy_2023g' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Jehangir_2019h' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Jin_2023' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kar_2015' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kerestes_2019' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kobiela_2015' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kumar_2001' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kumar_2019f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Liu_2005' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Mesfin_2022a' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Misra_2013' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ohno_2005' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Peixoto_2017f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Sakellaridis_2008f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Sultan_2024f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Tammana_2012j' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Tanrikulu_2015e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Yildiz_2016e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'fjbuilsRepeatedBehaviorDeliberate2024' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'teWildt_2010' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Alao_2006i' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Apikotoa_2022f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Berry_2021e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Bhattacharjee_2008' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Csaky_1998e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'DivsalarP._2023a' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Emamhadi_2018' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Guinan_2019f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Jehangir_2019h' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Jin_2023' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Liu_2005' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Sakellaridis_2008f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Tanrikulu_2015e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Thapa_2019f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Yildiz_2016e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'fjbuilsRepeatedBehaviorDeliberate2024' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'teWildt_2010' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Alao_2006i' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ali_2022g' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Apikotoa_2022f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Losanoff_1996' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Losanoff_1997e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Qureshi_2016' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Tammana_2012j' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Trgo_2012f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Atayan_2016' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kerestes_2019' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Liu_2005' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ohno_2005' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Peixoto_2017f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Yildiz_2016e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'teWildt_2010' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'DivsalarP._2023a' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'fjbuilsRepeatedBehaviorDeliberate2024' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'teWildt_2010' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Benoist_2019e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Csaky_1998e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Thapa_2019f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Akay_2015f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Gardner_2017h' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Al-Faham_2020k' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Alao_2006i' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ali_2020f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Apikotoa_2022f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ataya_2013' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Atayan_2016' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Bhasin_2014' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Bhattacharjee_2008' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'DelgadoSalazar_2020c' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'DivsalarP._2023a' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Emamhadi_2018' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Farhadi_2024h' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Guinan_2019f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Hardy_2023g' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Jehangir_2019h' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Jin_2023' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kar_2015' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kariholu_2008' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kerestes_2019' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kobiela_2015' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kumar_2001' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kumar_2019f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Li_2013' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Liu_2005' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Misra_2013' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ohno_2005' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Sakellaridis_2008f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Sultan_2024f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Tammana_2012j' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Tanrikulu_2015e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Yasin_2009' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'teWildt_2010' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Al-Faham_2020k' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'AlShaaibi_2021b' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Alao_2006i' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ali_2017' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'CamachoDorado_2018' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Chang_2017f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Cox_2007' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Csaky_1998e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Fry_2010' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Li_2013' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Losanoff_1996' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Losanoff_1997e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Mesfin_2022a' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Sakellaridis_2008f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Tammana_2012j' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Tanrikulu_2015e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'fjbuilsRepeatedBehaviorDeliberate2024' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Akay_2015f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Benoist_2019e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Bhattacharjee_2008' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Cauchi_2002' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Goldman_1998f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Hardy_2023g' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kobiela_2015' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Li_2013' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Naji_2012f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Qureshi_2016' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Riva_2018j' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Sobnach_2011f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Tay_2004' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Thapa_2019f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Wildhaber_2005' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Wnęk_2015f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ali_2020f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ali_2022g' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Emamhadi_2018' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Guinan_2019f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Peixoto_2017f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Sakellaridis_2008f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Trgo_2012f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Wadhwa_2015e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Yildiz_2016e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Bhumi_2024f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Gardner_2017h' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Losanoff_1996' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Losanoff_1997e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Akay_2015f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Al-Faham_2020k' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'AlShaaibi_2021b' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Alao_2006i' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ali_2017' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ali_2022g' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Apikotoa_2022f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Atayan_2016' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Berry_2021e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Bhasin_2014' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'CamachoDorado_2018' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Cauchi_2002' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Chang_2017f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Cox_2007' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Csaky_1998e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'DivsalarP._2023a' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Emamhadi_2018' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Gardner_2017h' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Guinan_2019f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Jehangir_2019h' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Jin_2023' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kariholu_2008' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kerestes_2019' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kobiela_2015' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kumar_2001' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kumar_2019f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Losanoff_1996' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Losanoff_1997e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Mesfin_2022a' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Misra_2013' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Naji_2012f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ohno_2005' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Peixoto_2017f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Qureshi_2016' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Riva_2018j' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Sakellaridis_2008f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Sultan_2024f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Tanrikulu_2015e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Thapa_2019f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Trgo_2012f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Wnęk_2015f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Yildiz_2016e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'fjbuilsRepeatedBehaviorDeliberate2024' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'teWildt_2010' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ali_2020f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Apikotoa_2022f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ataya_2013' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Atayan_2016' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Beecroft_1998' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Bhattacharjee_2008' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Bhumi_2024f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'CamachoDorado_2018' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Cauchi_2002' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Emamhadi_2018' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Farhadi_2024h' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Fry_2010' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Goldman_1998f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Guinan_2019f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Hardy_2023g' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Jehangir_2019h' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Jin_2023' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kar_2015' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kariholu_2008' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kobiela_2015' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kumar_2001' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kumar_2019f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Li_2013' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Liu_2005' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Losanoff_1996' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Mesfin_2022a' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Misra_2013' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Naji_2012f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ohno_2005' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Sobnach_2011f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Sultan_2024f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Tammana_2012j' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Tanrikulu_2015e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Tay_2004' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Thapa_2019f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Wadhwa_2015e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Wildhaber_2005' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Yasin_2009' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'fjbuilsRepeatedBehaviorDeliberate2024' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'teWildt_2010' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'AlShaaibi_2021b' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Alao_2006i' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Apikotoa_2022f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ataya_2013' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Benoist_2019e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Bhasin_2014' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Bhattacharjee_2008' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'CamachoDorado_2018' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Csaky_1998e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'DelgadoSalazar_2020c' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'DivsalarP._2023a' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Emamhadi_2018' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Farhadi_2024h' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Fry_2010' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Guinan_2019f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Hardy_2023g' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Jehangir_2019h' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Jin_2023' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kariholu_2008' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kobiela_2015' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kumar_2019f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Losanoff_1996' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Losanoff_1997e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Mesfin_2022a' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Misra_2013' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Sobnach_2011f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Yasin_2009' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'teWildt_2010' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Al-Faham_2020k' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'AlShaaibi_2021b' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ali_2017' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ali_2022g' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Atayan_2016' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Bhasin_2014' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'CamachoDorado_2018' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Chang_2017f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Cox_2007' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Csaky_1998e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'DivsalarP._2023a' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Emamhadi_2018' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Fry_2010' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Gardner_2017h' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Jin_2023' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kariholu_2008' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kerestes_2019' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kobiela_2015' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Kumar_2019f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Mesfin_2022a' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Misra_2013' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ohno_2005' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Qureshi_2016' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Sakellaridis_2008f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Sultan_2024f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Thapa_2019f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Trgo_2012f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Yasin_2009' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Yildiz_2016e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'teWildt_2010' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ali_2020f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Bhumi_2024f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Cauchi_2002' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Liu_2005' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Naji_2012f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Ohno_2005' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Tanrikulu_2015e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Tay_2004' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Wildhaber_2005' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Berry_2021e' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Bhumi_2024f' on page 6 undefined on input line 57.
-
-
-LaTeX Warning: Float too large for page by 678.75801pt on input line 59.
-
-)
-<figures/ma_all_plot.png, id=338, 536.53249pt x 453.1329pt>
+[4 <./figures/prisma_diagram.png>]) (./sections/results.tex
+(./sections/risk_of_bias_results.tex) (./tables/case_report_table.tex)
+<figures/ma_all_plot.png, id=1636, 536.53249pt x 453.1329pt>
 File: figures/ma_all_plot.png Graphic file (type png)
 <use figures/ma_all_plot.png>
 Package pdftex.def Info: figures/ma_all_plot.png  used on input line 16.
 (pdftex.def)             Requested size: 265.0125pt x 223.82785pt.
- (./sections/study_characteristics.tex
 
-LaTeX Warning: Citation 'Akay_2015f' on page 6 undefined on input line 3.
+(./sections/study_characteristics.tex
 
 
-LaTeX Warning: Citation 'Al-Faham_2020k' on page 6 undefined on input line 3.
 
+[5 <./figures/ma_all_plot.png>]
 
-LaTeX Warning: Citation 'AlShaaibi_2021b' on page 6 undefined on input line 3.
 
 
-LaTeX Warning: Citation 'Alao_2006i' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Ali_2017' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Ali_2020f' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Ali_2022g' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Apikotoa_2022f' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Ataya_2013' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Atayan_2016' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Beecroft_1998' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Benoist_2019e' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Berry_2021e' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Bhasin_2014' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Bhattacharjee_2008' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Bhumi_2024f' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'CamachoDorado_2018' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Cauchi_2002' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Chang_2017f' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Cox_2007' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Csaky_1998e' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'DelgadoSalazar_2020c' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'DivsalarP._2023a' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Emamhadi_2018' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Farhadi_2024h' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Fry_2010' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Gardner_2017h' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Goldman_1998f' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Guinan_2019f' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Hardy_2023g' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Jehangir_2019h' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Jin_2023' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Kar_2015' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Kariholu_2008' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Kerestes_2019' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Kobiela_2015' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Kumar_2001' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Kumar_2019f' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Li_2013' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Liu_2005' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Losanoff_1996' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Losanoff_1997e' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Mesfin_2022a' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Misra_2013' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Naji_2012f' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Ohno_2005' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Peixoto_2017f' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Qureshi_2016' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Riva_2018j' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Sakellaridis_2008f' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Sobnach_2011f' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Sultan_2024f' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Tammana_2012j' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Tanrikulu_2015e' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Tay_2004' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Thapa_2019f' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Trgo_2012f' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Wadhwa_2015e' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Wildhaber_2005' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Wnęk_2015f' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Yasin_2009' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Yildiz_2016e' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'fjbuilsRepeatedBehaviorDeliberate2024' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'teWildt_2010' on page 6 undefined on input line 3.
-
-
-
-[6]
-
-LaTeX Warning: Citation 'Elghali_2016' on page 7 undefined on input line 20.
-
-
-LaTeX Warning: Citation 'Karp_1991b' on page 7 undefined on input line 20.
-
-
-LaTeX Warning: Citation 'Lee_2007' on page 7 undefined on input line 20.
-
-
-LaTeX Warning: Citation 'Karp_1991b' on page 7 undefined on input line 20.
-
-
-LaTeX Warning: Citation 'Lee_2007' on page 7 undefined on input line 20.
-
-
-LaTeX Warning: Citation 'Elghali_2016' on page 7 undefined on input line 20.
-
-
-
-
-LaTeX Warning: Citation 'Karp_1991b' on page 7 undefined on input line 30.
-
-
-LaTeX Warning: Citation 'Lee_2007' on page 7 undefined on input line 32.
-
-
-LaTeX Warning: Citation 'Karp_1991b' on page 7 undefined on input line 32.
-
-) (./tables/country_table.tex
-
-LaTeX Warning: Citation 'Lee_2007' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Alao_2006i' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Ataya_2013' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Bhumi_2024f' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Fry_2010' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Guinan_2019f' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Hardy_2023g' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Jehangir_2019h' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Karp_1991b' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Kerestes_2019' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Kumar_2001' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Liu_2005' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Tammana_2012j' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Tay_2004' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (3.74516pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[], 
- []
-
-
-Overfull \hbox (3.29732pt too wide) in paragraph at lines 51--51
- []\T1/ptm/m/n/8 , 
- []
-
-
-Overfull \hbox (8.64108pt too wide) in paragraph at lines 51--51
- []\T1/ptm/m/n/8 , 
- []
-
-
-Overfull \hbox (11.31305pt too wide) in paragraph at lines 51--51
- []\T1/ptm/m/n/8 , 
- []
-
-
-Overfull \hbox (9.0812pt too wide) in paragraph at lines 51--51
- []\T1/ptm/m/n/8 , 
- []
-
-
-Overfull \hbox (17.40915pt too wide) in paragraph at lines 51--51
- []\T1/ptm/m/n/8 , 
- []
-
-
-Overfull \hbox (5.44917pt too wide) in paragraph at lines 51--51
- []\T1/ptm/m/n/8 , 
- []
-
-
-Overfull \hbox (11.833pt too wide) in paragraph at lines 51--51
- []\T1/ptm/m/n/8 , 
- []
-
-
-Overfull \hbox (7.62526pt too wide) in paragraph at lines 51--51
- []\T1/ptm/m/n/8 , 
- []
-
-
-Overfull \hbox (19.89723pt too wide) in paragraph at lines 51--51
- []\T1/ptm/m/n/8 , 
- []
-
-
-LaTeX Warning: Citation 'Elghali_2016' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (10.64098pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[]]| 
- []
-
-
-LaTeX Warning: Citation 'Beecroft_1998' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Berry_2021e' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Cauchi_2002' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Cox_2007' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Gardner_2017h' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Qureshi_2016' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (14.2491pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[], 
- []
-
-
-Overfull \hbox (6.40114pt too wide) in paragraph at lines 51--51
- []\T1/ptm/m/n/8 , 
- []
-
-
-Overfull \hbox (7.30513pt too wide) in paragraph at lines 51--51
- []\T1/ptm/m/n/8 , 
- []
-
-
-Overfull \hbox (17.08102pt too wide) in paragraph at lines 51--51
- []\T1/ptm/m/n/8 , 
- []
-
-
-Overfull \hbox (10.93698pt too wide) in paragraph at lines 51--51
- []\T1/ptm/m/n/8 ]| 
- []
-
-
-LaTeX Warning: Citation 'Bhasin_2014' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Bhattacharjee_2008' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Kar_2015' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Kariholu_2008' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Kumar_2019f' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Misra_2013' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Wadhwa_2015e' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (9.08904pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[], 
- []
-
-
-Overfull \hbox (31.28896pt too wide) in paragraph at lines 51--51
- []\T1/ptm/m/n/8 , 
- []
-
-
-Overfull \hbox (13.977pt too wide) in paragraph at lines 51--51
- []\T1/ptm/m/n/8 , 
- []
-
-
-Overfull \hbox (10.28923pt too wide) in paragraph at lines 51--51
- []\T1/ptm/m/n/8 , 
- []
-
-
-Overfull \hbox (3.29713pt too wide) in paragraph at lines 51--51
- []\T1/ptm/m/n/8 , 
- []
-
-
-Overfull \hbox (17.22525pt too wide) in paragraph at lines 51--51
- []\T1/ptm/m/n/8 ]| 
- []
-
-
-LaTeX Warning: Citation 'Losanoff_1996' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Losanoff_1997e' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (15.74509pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[], 
- []
-
-
-Overfull \hbox (17.29704pt too wide) in paragraph at lines 51--51
- []\T1/ptm/m/n/8 ]| 
- []
-
-
-LaTeX Warning: Citation 'DivsalarP._2023a' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Emamhadi_2018' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Farhadi_2024h' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (24.33705pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[], 
- []
-
-
-Overfull \hbox (20.64108pt too wide) in paragraph at lines 51--51
- []\T1/ptm/m/n/8 , 
- []
-
-
-Overfull \hbox (15.32907pt too wide) in paragraph at lines 51--51
- []\T1/ptm/m/n/8 ]| 
- []
-
-
-LaTeX Warning: Citation 'Akay_2015f' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Atayan_2016' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Tanrikulu_2015e' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Yildiz_2016e' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (6.40924pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[], 
- []
-
-
-Overfull \hbox (7.74527pt too wide) in paragraph at lines 51--51
- []\T1/ptm/m/n/8 , 
- []
-
-
-Overfull \hbox (20.80093pt too wide) in paragraph at lines 51--51
- []\T1/ptm/m/n/8 , 
- []
-
-
-Overfull \hbox (7.22495pt too wide) in paragraph at lines 51--51
- []\T1/ptm/m/n/8 ]| 
- []
-
-
-LaTeX Warning: Citation 'CamachoDorado_2018' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'fjbuilsRepeatedBehaviorDeliberate2024' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (43.73708pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[], 
- []
-
-
-Overfull \hbox (99.59201pt too wide) in paragraph at lines 51--51
- []\T1/ptm/m/n/8 ]| 
- []
-
-
-LaTeX Warning: Citation 'Kobiela_2015' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Wnęk_2015f' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (11.99303pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[], 
- []
-
-
-Overfull \hbox (14.19313pt too wide) in paragraph at lines 51--51
- []\T1/ptm/m/n/8 ]| 
- []
-
-
-LaTeX Warning: Citation 'Jin_2023' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Li_2013' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Yasin_2009' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (5.0651pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[]]| 
- []
-
-
-LaTeX Warning: Citation 'Wildhaber_2005' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (22.93698pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[]]| 
- []
-
-
-LaTeX Warning: Citation 'Chang_2017f' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (11.52116pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[]]| 
- []
-
-
-LaTeX Warning: Citation 'Sobnach_2011f' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (18.19305pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[]]| 
- []
-
-
-LaTeX Warning: Citation 'Sultan_2024f' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (11.08104pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[]]| 
- []
-
-
-LaTeX Warning: Citation 'Ali_2017' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Peixoto_2017f' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (14.01717pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[]]| 
- []
-
-
-LaTeX Warning: Citation 'Naji_2012f' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (3.51315pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[]]| 
- []
-
-
-LaTeX Warning: Citation 'Apikotoa_2022f' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (20.08914pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[]]| 
- []
-
-
-LaTeX Warning: Citation 'AlShaaibi_2021b' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (24.42487pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[]]| 
- []
-
-
-LaTeX Warning: Citation 'Benoist_2019e' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (15.07294pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[]]| 
- []
-
-
-LaTeX Warning: Citation 'Ali_2020f' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Ohno_2005' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (5.30515pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[]]| 
- []
-
-
-LaTeX Warning: Citation 'Riva_2018j' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (4.68921pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[]]| 
- []
-
-
-LaTeX Warning: Citation 'Goldman_1998f' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (20.85701pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[]]| 
- []
-
-
-LaTeX Warning: Citation 'Al-Faham_2020k' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (25.09705pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[]]| 
- []
-
-
-LaTeX Warning: Citation 'Csaky_1998e' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (10.9532pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[]]| 
- []
-
-
-LaTeX Warning: Citation 'Sakellaridis_2008f' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (29.22469pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[]]| 
- []
-
-
-LaTeX Warning: Citation 'teWildt_2010' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (11.81706pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[]]| 
- []
-
-
-LaTeX Warning: Citation 'Mesfin_2022a' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (13.29706pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[]]| 
- []
-
-
-LaTeX Warning: Citation 'Ali_2022g' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'DelgadoSalazar_2020c' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (43.51286pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[]]| 
- []
-
-
-LaTeX Warning: Citation 'Trgo_2012f' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (5.0652pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[]]| 
- []
-
-
-LaTeX Warning: Citation 'Thapa_2019f' on page 7 undefined on input line 51.
-
-
-Overfull \hbox (11.08113pt too wide) in paragraph at lines 51--51
- []|\T1/ptm/m/n/8 [[]]| 
- []
-
-) (./tables/case_series_table.tex
-
-LaTeX Warning: Citation 'Karp_1991b' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Lee_2007' on page 7 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Elghali_2016' on page 7 undefined on input line 51.
-
-
+[6]) (./tables/country_table.tex) (./tables/case_series_table.tex
 Overfull \hbox (12.00002pt too wide) in alignment at lines 51--51
 [][][][][] 
  []
 
 ) (./sections/synthesis.tex
 
-LaTeX Warning: Citation 'Kumar_2001' on page 7 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'Emamhadi_2018' on page 7 undefined on input line 9.
-
 (./tables/univ_results_table.tex)
 
-LaTeX Warning: Citation 'Emamhadi_2018' 
+[7]
+Underfull \vbox (badness 1590) has occurred while \output is active []
+
+
+
+
+
+[8]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[9] (./tables/meta_regression_table.tex
+Overfull \hbox (12.00002pt too wide) in alignment at lines 32--32
+[][] 
+ []
+
+)) (./sections/discussion.tex
+
+<figures/ma_series_only_plot.png, id=2050, 539.8569pt x 453.1329pt>
+File: figures/ma_series_only_plot.png Graphic file (type png)
+<use figures/ma_series_only_plot.png>
+Package pdftex.def Info: figures/ma_series_only_plot.png  used on input line 24
+.
+(pdftex.def)             Requested size: 265.0125pt x 222.44499pt.
+
+
+[10]
+
+)
+<figures/case_subgroup_analysis.png, id=2066, 234.73296pt x 583.36343pt>
+File: figures/case_subgroup_analysis.png Graphic file (type png)
+<use figures/case_subgroup_analysis.png>
+Package pdftex.def Info: figures/case_subgroup_analysis.png  used on input line
+ 34.
+(pdftex.def)             Requested size: 265.0125pt x 658.65001pt.
+)
+
+[11 <./figures/ma_series_only_plot.png>]
+
+
+
+[12 <./figures/case_subgroup_analysis.png>]
+Overfull \hbox (24.12442pt too wide) in paragraph at lines 108--108
+\T1/ptm/m/n/10 https://www.globaldetentionproject.org/countries/europe/united-
+ []
+
+
+
+
+
+[13]
+
+
+
+[14]
+
+
+
+[15]
+
+
+
+[16]
+
+
+
+[17] (./sections/appendix.tex
+
+[18
+
+
+]
+Overfull \hbox (1.86566pt too wide) in paragraph at lines 174--180
+[]|[]| 
+ []
+
+
+
+[19
+
+]
+
+[20]
+
+[21]
+
+[22
+
+]
+
+[23] (./sections/screening_process.tex)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 68
+0.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+
+[24
+
+])
+
+
+
+[25
+
+] (./final.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+Package rerunfilecheck Info: File `final.out' has not changed.
+(rerunfilecheck)             Checksum: 79C9E2178F3C9EAB6EDBD0604406CA8A;8760.
+Package logreq Info: Writing requests to 'final.run.xml'.
+\openout1 = `final.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 23740 strings out of 473190
+ 438875 string characters out of 5715800
+ 1428616 words of memory out of 5000000
+ 46410 multiletter control sequences out of 15000+600000
+ 669014 words of font info for 145 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,17n,81p,7245b,2088s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><
+/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></u
+sr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/lo
+cal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local
+/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/
+texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/te
+xlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texl
+ive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2025
+/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2025/texmf-dis
+t/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/t
+ype1/urw/times/utmr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/t
+imes/utmri8a.pfb>
+Output written on final.pdf (26 pages, 3614736 bytes).
+PDF statistics:
+ 2442 PDF objects out of 2487 (max. 8388607)
+ 1449 compressed objects within 15 object streams
+ 242 named destinations out of 1000 (max. 500000)
+ 453 words of extra memory for PDF output out of 10000 (max. 10000000)
+
