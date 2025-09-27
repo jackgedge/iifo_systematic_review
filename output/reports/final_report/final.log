@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.31)  27 SEP 2025 12:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.31)  27 SEP 2025 13:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -985,19 +985,25 @@ Package pdftex.def Info: figures/ma_all_plot.png  used on input line 16.
 
 
 
-[6]) (./tables/country_table.tex) (./tables/case_series_table.tex
+[6]
+<figures/case_country_plot.png, id=1744, 662.7159pt x 348.3414pt>
+File: figures/case_country_plot.png Graphic file (type png)
+<use figures/case_country_plot.png>
+Package pdftex.def Info: figures/case_country_plot.png  used on input line 38.
+(pdftex.def)             Requested size: 265.0125pt x 139.3022pt.
+) (./tables/country_table.tex) (./tables/case_series_table.tex
 Overfull \hbox (12.00002pt too wide) in alignment at lines 51--51
 [][][][][] 
  []
 
-) (./sections/synthesis.tex
+) (./sections/synthesis.tex (./tables/univ_results_table.tex)
 
-(./tables/univ_results_table.tex)
 
-[7]
+
+[7 <./figures/case_country_plot.png>]
+
+
 Underfull \vbox (badness 1590) has occurred while \output is active []
-
-
 
 
 
@@ -1011,31 +1017,35 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[9] (./tables/meta_regression_table.tex
+[9] (./tables/meta_regression_table_odds.tex
 Overfull \hbox (12.00002pt too wide) in alignment at lines 32--32
 [][] 
  []
 
 )) (./sections/discussion.tex
+Underfull \vbox (badness 2556) has occurred while \output is active []
 
-<figures/ma_series_only_plot.png, id=2050, 539.8569pt x 453.1329pt>
+
+
+
+
+[10]
+<figures/ma_series_only_plot.png, id=2059, 539.8569pt x 453.1329pt>
 File: figures/ma_series_only_plot.png Graphic file (type png)
 <use figures/ma_series_only_plot.png>
 Package pdftex.def Info: figures/ma_series_only_plot.png  used on input line 24.
 (pdftex.def)             Requested size: 265.0125pt x 222.44499pt.
 
 
-[10]
-
 )
-<figures/case_subgroup_analysis.png, id=2066, 234.73296pt x 583.36343pt>
+<figures/case_subgroup_analysis.png, id=2069, 234.73296pt x 583.36343pt>
 File: figures/case_subgroup_analysis.png Graphic file (type png)
 <use figures/case_subgroup_analysis.png>
 Package pdftex.def Info: figures/case_subgroup_analysis.png  used on input line 34.
 (pdftex.def)             Requested size: 265.0125pt x 658.65001pt.
-)
 
-[11 <./figures/ma_series_only_plot.png>]
+
+[11 <./figures/ma_series_only_plot.png>])
 
 
 
@@ -1119,18 +1129,18 @@ Package logreq Info: Writing requests to 'final.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23741 strings out of 473190
- 439104 string characters out of 5715800
- 1428616 words of memory out of 5000000
- 46410 multiletter control sequences out of 15000+600000
+ 23750 strings out of 473190
+ 439411 string characters out of 5715800
+ 1428671 words of memory out of 5000000
+ 46418 multiletter control sequences out of 15000+600000
  669014 words of font info for 145 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,17n,81p,7322b,2088s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on final.pdf (26 pages, 3614701 bytes).
+Output written on final.pdf (26 pages, 4342332 bytes).
 PDF statistics:
- 2442 PDF objects out of 2487 (max. 8388607)
- 1449 compressed objects within 15 object streams
- 242 named destinations out of 1000 (max. 500000)
- 453 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2445 PDF objects out of 2487 (max. 8388607)
+ 1450 compressed objects within 15 object streams
+ 243 named destinations out of 1000 (max. 500000)
+ 458 words of extra memory for PDF output out of 10000 (max. 10000000)
 

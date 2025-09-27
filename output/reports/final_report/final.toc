@@ -22,14 +22,14 @@
 \contentsline {subsubsection}{\numberline {\mbox {III-C}2}Case Series}{5}{subsubsection.3.3.2}%
 \contentsline {subsection}{\numberline {\mbox {III-D}}Synthesis}{7}{subsection.3.4}%
 \contentsline {subsubsection}{\numberline {\mbox {III-D}1}Univariate Association Testing}{7}{subsubsection.3.4.1}%
-\contentsline {subsubsection}{\numberline {\mbox {III-D}2}Meta-Analysis of Proportions}{7}{subsubsection.3.4.2}%
-\contentsline {subsubsection}{\numberline {\mbox {III-D}3}Meta-Regression}{8}{subsubsection.3.4.3}%
+\contentsline {subsubsection}{\numberline {\mbox {III-D}2}Meta-Analysis of Proportions}{8}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {\mbox {III-D}3}Meta-Regression}{10}{subsubsection.3.4.3}%
 \contentsline {subsection}{\numberline {\mbox {III-E}}Discussion}{10}{subsection.3.5}%
 \contentsline {subsubsection}{\numberline {\mbox {III-E}1}Intention is poorly reported}{10}{subsubsection.3.5.1}%
 \contentsline {subsubsection}{\numberline {\mbox {III-E}2}Protest motivation, and intent-to-harm in detention, could modulate outcomes}{10}{subsubsection.3.5.2}%
 \contentsline {subsubsection}{\numberline {\mbox {III-E}3}Middle-age with differing motivations - reduced surgery but increased mortality}{10}{subsubsection.3.5.3}%
-\contentsline {subsection}{\numberline {\mbox {III-F}}Limitations}{10}{subsection.3.6}%
-\contentsline {subsubsection}{\numberline {\mbox {III-F}1}Publication bias, extraordinary cases and countertransference anger}{10}{subsubsection.3.6.1}%
+\contentsline {subsection}{\numberline {\mbox {III-F}}Limitations}{11}{subsection.3.6}%
+\contentsline {subsubsection}{\numberline {\mbox {III-F}1}Publication bias, extraordinary cases and countertransference anger}{11}{subsubsection.3.6.1}%
 \contentsline {subsubsection}{\numberline {\mbox {III-F}2}Selection Bias}{11}{subsubsection.3.6.2}%
 \contentsline {subsubsection}{\numberline {\mbox {III-F}3}Unmeasured confounding}{11}{subsubsection.3.6.3}%
 \contentsline {subsubsection}{\numberline {\mbox {III-F}4}Information Bias}{11}{subsubsection.3.6.4}%
