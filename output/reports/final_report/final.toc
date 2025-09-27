@@ -4,8 +4,6 @@
 \contentsline {subsection}{\numberline {\mbox {I-C}}Methods}{2}{subsection.1.3}%
 \contentsline {subsection}{\numberline {\mbox {I-D}}Results}{2}{subsection.1.4}%
 \contentsline {subsection}{\numberline {\mbox {I-E}}Conclusion}{2}{subsection.1.5}%
-\contentsline {subsection}{\numberline {\mbox {I-F}}Abbreviations}{2}{subsection.1.6}%
-\contentsline {subsection}{\numberline {\mbox {I-G}}Symbols}{2}{subsection.1.7}%
 \contentsline {section}{\numberline {II}Introduction}{2}{section.2}%
 \contentsline {subsection}{\numberline {\mbox {II-A}}Rationale}{2}{subsection.2.1}%
 \contentsline {subsection}{\numberline {\mbox {II-B}}Objectives}{3}{subsection.2.2}%
@@ -34,7 +32,7 @@
 \contentsline {subsubsection}{\numberline {\mbox {III-F}3}Unmeasured confounding}{11}{subsubsection.3.6.3}%
 \contentsline {subsubsection}{\numberline {\mbox {III-F}4}Information Bias}{11}{subsubsection.3.6.4}%
 \contentsline {subsection}{\numberline {\mbox {III-G}}Conclusion}{11}{subsection.3.7}%
-\contentsline {section}{Appendix\nobreakspace A: Methods}{18}{section*.7}%
+\contentsline {section}{Appendix\nobreakspace A: Methods}{18}{section*.9}%
 \contentsline {subsection}{\numberline {\mbox {A-A}}Eligibility Criteria}{18}{subsection.Appendix.A.1}%
 \contentsline {subsection}{\numberline {\mbox {A-B}}Search Strategy}{19}{subsection.Appendix.A.2}%
 \contentsline {subsubsection}{\numberline {\mbox {A-B}1}PubMed Query}{22}{subsubsection.Appendix.A.2.1}%

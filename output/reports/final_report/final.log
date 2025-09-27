@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.31)  27 SEP 2025 14:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.31)  27 SEP 2025 15:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -960,7 +960,7 @@ Package biblatex Info: Reference segment=0 on input line 62.
 
 ]) (./sections/methods.tex
 
-<figures/prisma_diagram.png, id=390, 844.8363pt x 597.6729pt>
+<figures/prisma_diagram.png, id=382, 844.8363pt x 597.6729pt>
 File: figures/prisma_diagram.png Graphic file (type png)
 <use figures/prisma_diagram.png>
 Package pdftex.def Info: figures/prisma_diagram.png  used on input line 62.
@@ -972,7 +972,7 @@ Package pdftex.def Info: figures/prisma_diagram.png  used on input line 62.
 
 
 [4 <./figures/prisma_diagram.png>]) (./sections/results.tex (./sections/risk_of_bias_results.tex) (./tables/case_report_table.tex)
-<figures/ma_all_plot.png, id=1631, 536.53249pt x 453.1329pt>
+<figures/ma_all_plot.png, id=1623, 536.53249pt x 453.1329pt>
 File: figures/ma_all_plot.png Graphic file (type png)
 <use figures/ma_all_plot.png>
 Package pdftex.def Info: figures/ma_all_plot.png  used on input line 16.
@@ -986,7 +986,7 @@ Package pdftex.def Info: figures/ma_all_plot.png  used on input line 16.
 
 
 [6]
-<figures/case_country_plot.png, id=1739, 662.7159pt x 348.3414pt>
+<figures/case_country_plot.png, id=1731, 662.7159pt x 348.3414pt>
 File: figures/case_country_plot.png Graphic file (type png)
 <use figures/case_country_plot.png>
 Package pdftex.def Info: figures/case_country_plot.png  used on input line 38.
@@ -1030,7 +1030,7 @@ Underfull \vbox (badness 2556) has occurred while \output is active []
 
 
 [10]
-<figures/ma_series_only_plot.png, id=2054, 539.8569pt x 453.1329pt>
+<figures/ma_series_only_plot.png, id=2045, 539.8569pt x 453.1329pt>
 File: figures/ma_series_only_plot.png Graphic file (type png)
 <use figures/ma_series_only_plot.png>
 Package pdftex.def Info: figures/ma_series_only_plot.png  used on input line 24.
@@ -1038,7 +1038,7 @@ Package pdftex.def Info: figures/ma_series_only_plot.png  used on input line 24.
 
 
 )
-<figures/case_subgroup_analysis.png, id=2064, 234.73296pt x 583.36343pt>
+<figures/case_subgroup_analysis.png, id=2055, 234.73296pt x 583.36343pt>
 File: figures/case_subgroup_analysis.png Graphic file (type png)
 <use figures/case_subgroup_analysis.png>
 Package pdftex.def Info: figures/case_subgroup_analysis.png  used on input line 34.
@@ -1114,24 +1114,24 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `final.out' has not changed.
-(rerunfilecheck)             Checksum: 7C6A7AF1717BB901507EDCB5EA5933B0;8649.
+(rerunfilecheck)             Checksum: 29F9FBA65A601384E28F6C8A359FD9A1;8433.
 Package logreq Info: Writing requests to 'final.run.xml'.
 \openout1 = `final.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23748 strings out of 473190
- 439373 string characters out of 5715800
+ 23746 strings out of 473190
+ 439334 string characters out of 5715800
  1428671 words of memory out of 5000000
- 46417 multiletter control sequences out of 15000+600000
+ 46415 multiletter control sequences out of 15000+600000
  669014 words of font info for 145 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,17n,81p,7322b,2088s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on final.pdf (26 pages, 4341188 bytes).
+Output written on final.pdf (26 pages, 4340986 bytes).
 PDF statistics:
- 2441 PDF objects out of 2487 (max. 8388607)
- 1446 compressed objects within 15 object streams
+ 2433 PDF objects out of 2487 (max. 8388607)
+ 1438 compressed objects within 15 object streams
  242 named destinations out of 1000 (max. 500000)
- 450 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 434 words of extra memory for PDF output out of 10000 (max. 10000000)
 
