@@ -15,6 +15,10 @@
 	"python.autoComplete.extraPaths": [
 		"${workspaceFolder}",
 		"${workspaceFolder}/msc_code/notebooks"
+	],
+	"cSpell.words": [
+		"Blizard",
+		"Cattermole"
 	]
 	}
   }

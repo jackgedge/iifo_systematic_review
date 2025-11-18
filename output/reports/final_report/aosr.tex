@@ -1,0 +1,91 @@
+% Define document class
+\documentclass[journal,final,twocolumn,10pt]{IEEEtran}
+
+% Packages
+\usepackage{orcidlink}
+\usepackage[utf8]{inputenc}
+\usepackage{array}
+\usepackage[T1]{fontenc}
+\usepackage{ragged2e}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{caption}
+\captionsetup{hypcap=false}
+\usepackage{amsmath}
+\usepackage{geometry}
+\usepackage{longtable}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{placeins}
+\usepackage{multicol}
+\usepackage{titling}
+\usepackage{tabularx}
+\usepackage{csquotes}
+\usepackage{times}
+\usepackage{pdflscape}
+\usepackage{tcolorbox}
+\usepackage{adjustbox}
+\usepackage{booktabs}
+\usepackage{hyperref} 
+\hypersetup{breaklinks=true} 
+\Urlmuskip=0mu plus 1mu 
+\usepackage{textcomp}  
+\usepackage[backend=biber, style=numeric-comp, sorting=none, maxnames=99, giveninits=true]{biblatex}
+
+% Author name format: Family, Given Initial
+\DeclareNameAlias{sortname}{family-given}
+\DeclareNameAlias{default}{family-given}
+\setcounter{maxnames}{99}
+
+\addbibresource{MSc.bib}
+\hbadness=10000  % suppress hbox warnings
+
+\geometry{margin=0.5in}
+\pagestyle{fancy}
+\fancyhf{}
+
+% Title Page
+\input{sections/title.tex}
+
+% Abstract
+\input{sections/abstract_250.tex}
+
+% Highlights 
+\input{sections/highlights.tex}
+
+% Key Words
+\input{sections/key_words.tex}
+
+% TODO
+% Data Deposition 
+ 
+% Abbreviations
+\input{sections/abbreviations.tex}
+
+% Introduction
+\input{sections/intro.tex}
+
+% Methods
+\input{sections/methods.tex}
+
+% Results
+\input{sections/results.tex}
+
+% Funding Statement
+\input{sections/funding.tex}
+
+% Authors Disclosure
+\input{sections/disclosure.tex}
+
+% Data Availability
+\input{sections/data.tex}
+
+% Bibliography
+\printbibliography
+
+\clearpage
+% Appendices
+\appendices
+\input{sections/appendix.tex}
+
+\end{document}

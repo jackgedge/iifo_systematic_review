@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber final"] 1758976312.48482 "final.bcf" "final.bbl" "final" 1758981829.37007 0
+["biber final"] 1760783894.93576 "final.bcf" "final.bbl" "final" 1760791956.16845 0
   "MSc.bib" 1758969248.75549 3066767 ca9f4314802606d6c3c2ea6c96b7ee56 ""
-  "final.bcf" 1758981829.27463 193388 63d645da91121d151ac9011b32735b78 "pdflatex"
+  "final.bcf" 1760791956.07146 193388 63d645da91121d151ac9011b32735b78 "pdflatex"
   (generated)
   "final.bbl"
   "final.blg"
   (rewritten before read)
-["pdflatex"] 1758981818.59173 "/Users/jackgedge/Projects/iifo_systematic_review/output/reports/final_report/final.tex" "final.pdf" "final" 1758981829.37054 0
-  "/Users/jackgedge/Projects/iifo_systematic_review/output/reports/final_report/final.tex" 1758981818.36844 2675 70e5329a783f9870aef89a1233af29e5 ""
+["pdflatex"] 1760791945.32346 "/Users/jackgedge/Projects/iifo_systematic_review/output/reports/final_report/final.tex" "final.pdf" "final" 1760791956.16887 0
+  "/Users/jackgedge/Projects/iifo_systematic_review/output/reports/final_report/final.tex" 1760783864.51044 2738 a295e28850e449b7a9c5b58c9f0f5977 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/courier/pcrr8r.tfm" 1136768653 1292 bd42be2f344128bff6d35d98474adfe3 ""
@@ -164,19 +164,19 @@
   "figures/ma_all_plot.png" 1758973987.98239 1136219 028a2981b432c4e3b6cd3b8cc9cd0397 ""
   "figures/ma_series_only_plot.png" 1758973986.73583 910497 3fc55369940fc1ac20c7f4c3ec801d97 ""
   "figures/prisma_diagram.png" 1758973974.77971 1469239 2acbf58994dc50328f36fea6f57355ea ""
-  "final.aux" 1758981829.15597 106211 22c840f154607f328694cf91a0cb3986 "pdflatex"
-  "final.bbl" 1758976416.7263 383182 1bcb11251b4181d5c6c9b9ffeff2aadc "biber final"
-  "final.out" 1758981829.27132 8433 29f9fba65a601384e28f6c8a359fd9a1 "pdflatex"
-  "final.run.xml" 1758981829.27531 2346 c4eb83a19b879407a998f33c0930eddb "pdflatex"
-  "final.tex" 1758981818.36844 2675 70e5329a783f9870aef89a1233af29e5 ""
-  "final.toc" 1758981829.27538 5088 89d6554cb916b3475d9fe0f2e5b988d8 "pdflatex"
+  "final.aux" 1760791955.95441 106302 656319dd3fde6fc091b59c1ff95f0927 "pdflatex"
+  "final.bbl" 1760783900.87339 383182 1bcb11251b4181d5c6c9b9ffeff2aadc "biber final"
+  "final.out" 1760791956.06865 8512 b30cd8defe6d75ca0f93d313bc1f865e "pdflatex"
+  "final.run.xml" 1760791956.07255 2346 c4eb83a19b879407a998f33c0930eddb "pdflatex"
+  "final.tex" 1760783864.51044 2738 a295e28850e449b7a9c5b58c9f0f5977 ""
+  "final.toc" 1760791956.07263 5138 ca621e4814246fba349a45b1de8c3b1a "pdflatex"
   "sections/abbreviations.tex" 1758981488.52299 583 63b38b12543e4a8c7790477cdfe6f9bf ""
-  "sections/abstract.tex" 1758977885.95505 2651 f54be0bbf15f8403974b69e8bf3e8395 ""
+  "sections/abstract.tex" 1760783855.26397 2624 721ed6cf8dfb2679086c158bbaeccf15 ""
   "sections/appendix.tex" 1758978945.11778 27019 391be1bee4fa3138e4c10656f927c887 ""
   "sections/data.tex" 1758964776.95892 879 f68a5be3968a9e5b8234588ff9e84da7 ""
   "sections/discussion.tex" 1758964776.95909 9939 835817975c19ab39602fec4dacfec21b ""
-  "sections/intro.tex" 1758970959.9444 3970 4dce582656a54ce085872acb2ffaebc5 ""
-  "sections/methods.tex" 1758970625.1394 9087 9937c522e80cdc1b2b2a52629dde6ef9 ""
+  "sections/intro.tex" 1760791945.09791 3987 0e31292927059afc253fdce7fd5c94fc ""
+  "sections/methods.tex" 1758982195.45858 9106 09e40f0841eef7dc5316aec65884cd33 ""
   "sections/results.tex" 1758964776.95943 1326 fc515663e3f5cd93cd4433e88b3d6f60 ""
   "sections/risk_of_bias_results.tex" 1758973977.76236 9401 3edfc83d92ba28e2aafd1af2fbae8399 ""
   "sections/screening_process.tex" 1758973973.93913 1560 8e5dde8fcee3111ad38d88cc1b538c43 ""

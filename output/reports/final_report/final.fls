@@ -348,8 +348,12 @@ INPUT sections/abbreviations.tex
 INPUT ./sections/intro.tex
 INPUT ./sections/intro.tex
 INPUT sections/intro.tex
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/vf/adobe/times/ptmri8t.vf
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT ./sections/methods.tex
 INPUT ./sections/methods.tex
 INPUT sections/methods.tex
