@@ -1,0 +1,93 @@
+\section{Methods}
+
+\noindent Ethical approval was not required as all analysis was based on published data. Eligibility criteria were structured using the PICOS (Population, Intervention, Comparator, Outcome, Studies) framework.
+
+\subsection{Eligibility Criteria}
+
+\begin{table}[tb]
+\renewcommand{\arraystretch}{1.05}
+\centering
+\begin{tabular}{p{3.0cm} p{5.0cm}}
+\toprule
+\textbf{Category} & \textbf{Details} \\
+\midrule
+
+Population & Any human; any age group. \\
+\midrule
+
+Interventions or exposures & Non-accidental ingestion of a true foreign body (non-nutritive items). \\
+\midrule
+
+Comparators / Control group & 
+Demographics: \newline
+Gender, age, detained person, psychiatric inpatient, displaced person, under influence of alcohol, psychiatric history, severely disabled, previous ingestion. \newline
+Motivation: \newline
+Intent to harm, psychiatric, psychosocial, protest, other. \newline
+Object characteristics: \newline
+Button battery, magnet, long ($>$5 cm), large diameter ($>$2.5 cm), multiple, blunt objects, sharp-pointed objects. \\
+\midrule
+
+Outcomes of interest & Endoscopic intervention, surgical intervention, conservative management, complication rates, mortality. \\
+\midrule
+
+Setting & Any setting. \\
+\midrule
+
+Study designs & Any design. \\
+\bottomrule
+\end{tabular}
+\caption{Inclusion criteria structured using the PICOS framework.}
+\label{tab:inclusion-criteria-intro}
+\end{table}
+
+\noindent A full list of eligibility criteria is shown in Table~\ref{tab:inclusion-criteria-intro}. This is reproduced in a larger format for clarity in Appendix~\ref{appendix:eligibility-criteria} in Table~\ref{tab:inclusion-criteria}. A full list of exclusion criteria is available in Table~\ref{tab:exclusion-criteria} in Appendix~\ref{appendix:eligibility-criteria} and in the PRISMA diagram shown in Figure~\ref{fig:prisma}.
+
+\subsection{Information Sources}
+
+\noindent Relevant articles were identified through a systematic search of PubMed, Web of Science, Embase, Scopus, PsycINFO, CENTRAL and Google Scholar during January 2025, with the assistance of a librarian. Included articles then had their bibliography's searched by the primary author (JGE) on 14th May 2025 to identify any potential additional literature not uncovered in the primary search. The search was conducted using keywords and MeSH terms based on the concepts underpinning this review. The search queries, keywords and MeSH terms used can be found in Appendix~\ref{appendix:search-strategy}. 
+
+All identified articles were collated and duplicate articles were identified and removed. Remaining articles underwent independent title and abstract screening conducted by the first author (JGE). A randomly selected 10\% sample of these articles underwent independent screening by a second reviewer (MS). Any discrepancies identified between these two reviewers were resolved by a third reviewer (GC). Inter-reviewer agreement was calculated using Cohen's kappa \cite{Machin_2008}. Remaining articles proceeded to full text review, where the same independent screening process was repeated on full text articles.
+
+\subsection{Data Extraction}
+
+\noindent Data were extracted by a single reviewer (JGE) into \textit{Microsoft Excel} \cite{MicrosoftCorporation_2025} and processed in \textit{Python}~\cite{PythonSoftwareFoundation_2025} using \textit{Pandas}~\cite{ThePandasDevelopmentTeam_2020}. This process is outlined in Appendix~\ref{appendix:data_extraction}. 
+
+Data was first extracted from case reports. Predictors were grouped into five subgroups: gender; age group; demographic characteristics, motivation; object characteristics. Ages were grouped into age groups based on clinical relevance. Outcome data were extracted for rates of endoscopy, surgery, conservative management, mortality, and complications. All outcomes were binary and coded per event, rather than per individual. Predictor variables and outcome variables were not mutually exclusive, nor were outcomes. For example, patients, or ingesters -- hereafter referred to as the latter -- could have multiple outcomes (e.g. endoscopy and surgery) and multiple predictors from each group (e.g. intent-to-harm and psychiatric, and detained and displaced person).
+
+After case report data extraction, data was collapsed and aggregated to form a series. This data was used as a template for case series data extraction to homogenise data and reduce heterogeneity. 
+
+Full definitions of all variables (predictors and outcomes) are provided in Appendix~\ref{appendix:data_extraction}. The full dataset of extracted \href{https://github.com/jackgedge/iifo_systematic_review/blob/main/input/processed_data/final_report/case_data_export.csv}{case-level} and \href{https://github.com/jackgedge/iifo_systematic_review/blob/main/input/processed_data/final_report/aggregate_series_data_export.csv}{series-level} data (including bias assesments), is available on \href{https://github.com/jackgedge/iifo_systematic_review/blob/main/input/processed_data/final_report/}{Github} and \href{https://qmro.qmul.ac.uk/xmlui/handle/123456789/113411/}{online}.
+
+% PRISMA Diagram
+\begin{figure*}[t]
+\centering
+\includegraphics[width=\textwidth]{figures/prisma_diagram.jpeg}
+\caption{PRISMA flow diagram summarising the study selection process.}
+\label{fig:prisma}
+\end{figure*}
+
+\subsection{Risk of Bias Assessment}
+
+\noindent Risk of bias was assessed manually for all included studies by a single reviewer (JGE), using the \textit{Joanna Briggs Institute (JBI) Critical Appraisal Checklists for Case Reports and Case Series}~\cite{Moola_2020}. Studies were first classified as either case reports or case series based on the level of granularity in the data. Each study was then evaluated using the corresponding JBI tool. A novel computational risk of bias filter was then applied in \textit{Pandas} \cite{ThePandasDevelopmentTeam_2020}. That process is outlined in Appendix~\ref{appendix:bias}
+
+\subsection{Synthesis Methods}
+
+\noindent For case-level associations between binary predictors and outcomes were assessed using $\chi^2$ Test and Fisher's exact test, reporting odds ratios (ORs), 95\% confidence intervals, and p-values. Where appropriate, further $\chi^2$ tests were also used to evaluate differences in outcome proportions between groups \cite{Machin_2008}. 
+
+Univariate logistic regression was considered but ultimately not used, as the primary aim was to explore associations without assuming a specific functional relationship between predictors and outcomes. Given the binary nature of most predictors and the categorical outcomes, $\chi^2$ tests offered a more transparent and assumption-light approach. This choice also avoided complications from sparse data and convergence issues that can arise with logistic models in small exploratory datasets.
+
+Multivariate logistic regression was not performed due to the limited sample size, high co-linearity between predictors (e.g. overlapping motivations), and the exploratory nature of the analysis. 
+
+For series-level data, univariate meta-regression will be conducted to assess associations between binary series-level predictors and pooled outcome proportions, where sufficient data are available. Each predictor will be entered separately to account for incomplete reporting across studies and to avoid over-fitting. Effect estimates were reported as odds ratios (ORs) with REML estimation \cite{Tanriver-Ayder_2021}.
+
+Initially, a meta-analysis of outcome proportions was conducted using a random-effects model to estimate pooled outcome rates across included studies. The random-effects approach was chosen due to the anticipated heterogeneity in study populations, motivations, and object types to analyse the effect of pooling case reports.
+
+REML estimation was used to compute between-study variance ($\tau^2$), while HK adjustments were applied to produce more accurate confidence intervals, particularly in the presence of small sample sizes.
+
+Heterogeneity was quantified using the $I^2$ statistic, which describes the percentage of total variation across studies that is due to true between-study differences rather than chance. Following the Cochrane Handbook’s guidelines, $I^2$ values were interpreted as follows: 0--40\% may not be important; 30--60\% may indicate moderate heterogeneity; 50--90\% may represent substantial heterogeneity; and 75--100\% may reflect considerable heterogeneity \cite{Sterne_2017}. These thresholds are intended as general guidance rather than strict rules and were interpreted in the context of the number of studies, consistency of effect sizes, and confidence interval overlap.
+
+First, meta-analysis was undertaken on case series alone, and then on case series with pooled case report data. This method was given in anticipation of the case reports introducing heterogeneity into the case series meta-analysis.
+
+Due to the inclusion of primarily case reports and small case series, formal assessment of reporting bias (e.g., via funnel plots or statistical tests for asymmetry) was not feasible. 
+
+Confidence in the body of evidence was not formally graded but was considered low to very low due to reliance on uncontrolled observational designs, small sample sizes, and incomplete reporting.
