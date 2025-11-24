@@ -1,0 +1,58 @@
+% Define document class
+\documentclass[journal,final,twocolumn,10pt]{IEEEtran}
+
+% Packages
+\usepackage{orcidlink}
+\usepackage[utf8]{inputenc}
+\usepackage{array}
+\usepackage[T1]{fontenc}
+\usepackage{ragged2e}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{caption}
+\captionsetup{hypcap=false}
+\usepackage{amsmath}
+\usepackage{geometry}
+\usepackage{longtable}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{placeins}
+\usepackage{multicol}
+\usepackage{titling}
+\usepackage{tabularx}
+\usepackage{csquotes}
+\usepackage{times}
+\usepackage{pdflscape}
+\usepackage{tcolorbox}
+\usepackage{adjustbox}
+\usepackage{booktabs}
+\usepackage{hyperref} 
+\usepackage{xr} % Reference supplement
+\externaldocument{manuscript} % Reference supplement
+\hypersetup{breaklinks=true} 
+\Urlmuskip=0mu plus 1mu 
+\usepackage{textcomp}  
+\usepackage[backend=biber, style=numeric-comp, sorting=none, maxnames=99, giveninits=true]{biblatex}
+
+% Author name format: Family, Given Initial
+\DeclareNameAlias{sortname}{family-given}
+\DeclareNameAlias{default}{family-given}
+\setcounter{maxnames}{99}
+
+\addbibresource{bibliography.bib}
+\hbadness=10000  % suppress hbox warnings
+
+\geometry{margin=0.5in}
+\pagestyle{fancy}
+\fancyhf{}
+
+\title{Supplementary Material}
+\date{} 
+
+\begin{document}
+
+% Appendices
+\appendices
+\input{sections/appendix.tex}
+
+\end{document}
