@@ -1,0 +1,244 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{AmericanPsychiatricAssociation_2013}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=ce2c470a69e9b189664512d02dc6f03c}{%
+           family={{American Psychiatric Association}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ce2c470a69e9b189664512d02dc6f03c}
+      \strng{fullhash}{ce2c470a69e9b189664512d02dc6f03c}
+      \strng{fullhashraw}{ce2c470a69e9b189664512d02dc6f03c}
+      \strng{bibnamehash}{ce2c470a69e9b189664512d02dc6f03c}
+      \strng{authorbibnamehash}{ce2c470a69e9b189664512d02dc6f03c}
+      \strng{authornamehash}{ce2c470a69e9b189664512d02dc6f03c}
+      \strng{authorfullhash}{ce2c470a69e9b189664512d02dc6f03c}
+      \strng{authorfullhashraw}{ce2c470a69e9b189664512d02dc6f03c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Diagnostic and statistical manual of mental disorders (5th ed.)}
+      \field{year}{2013}
+      \keyw{msc}
+    \endentry
+    \entry{UNGeneralAssembly_1967}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=5a754ce56fd47c3989762d2d550dde51}{%
+           family={{UN General Assembly}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {United Nations}%
+      }
+      \strng{namehash}{5a754ce56fd47c3989762d2d550dde51}
+      \strng{fullhash}{5a754ce56fd47c3989762d2d550dde51}
+      \strng{fullhashraw}{5a754ce56fd47c3989762d2d550dde51}
+      \strng{bibnamehash}{5a754ce56fd47c3989762d2d550dde51}
+      \strng{authorbibnamehash}{5a754ce56fd47c3989762d2d550dde51}
+      \strng{authornamehash}{5a754ce56fd47c3989762d2d550dde51}
+      \strng{authorfullhash}{5a754ce56fd47c3989762d2d550dde51}
+      \strng{authorfullhashraw}{5a754ce56fd47c3989762d2d550dde51}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{title}{Protocol Relating to the Status of Refugees}
+      \field{urlday}{27}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{year}{1967}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/KYTX5C99/3b66c2aa10.pdf
+      \endverb
+      \keyw{msc}
+    \endentry
+    \entry{Deng_1998}{report}{}{}
+      \name{author}{3}{}{%
+        {{hash=77b6b118813e6da91216ff739c1ecba3}{%
+           family={Deng},
+           familyi={D\bibinitperiod},
+           given={Francis\bibnamedelima Mading},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=0c6242377b9a6739008f273c7c576a5a}{%
+           family={Persons},
+           familyi={P\bibinitperiod},
+           given={UN\bibnamedelima Representative\bibnamedelimb of\bibnamedelimb the\bibnamedelimb Secretary-General\bibnamedelimb on\bibnamedelimb Internally\bibnamedelima Displaced},
+           giveni={U\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim S\bibinithyphendelim G\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=ecfe6a3895cd5ebcbcf8590fd05ef803}{%
+           family={Affairs},
+           familyi={A\bibinitperiod},
+           given={UN\bibnamedelima Office\bibnamedelimb for\bibnamedelimb the\bibnamedelimb Coordination\bibnamedelimb of\bibnamedelima Humanitarian},
+           giveni={U\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim f\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {United Nations Commission on Human Rights}%
+      }
+      \strng{namehash}{bd99f91f04b58e3b1ddfdc756fda9da6}
+      \strng{fullhash}{bd99f91f04b58e3b1ddfdc756fda9da6}
+      \strng{fullhashraw}{bd99f91f04b58e3b1ddfdc756fda9da6}
+      \strng{bibnamehash}{bd99f91f04b58e3b1ddfdc756fda9da6}
+      \strng{authorbibnamehash}{bd99f91f04b58e3b1ddfdc756fda9da6}
+      \strng{authornamehash}{bd99f91f04b58e3b1ddfdc756fda9da6}
+      \strng{authorfullhash}{bd99f91f04b58e3b1ddfdc756fda9da6}
+      \strng{authorfullhashraw}{bd99f91f04b58e3b1ddfdc756fda9da6}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Guiding Principles define displacement as the movement of persons forced or obliged to flee due to conflict, violence, disasters, or rights violations.}
+      \field{annotation}{Definition quoted by IOM; adapted from the Guiding Principles on Internal Displacement.}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{UN Doc E/CN.4/1998/53/Add.2}
+      \field{title}{Guiding Principles on Internal Displacement}
+      \field{type}{techreport}
+      \field{urlday}{31}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
+      \field{year}{1998}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/NVDK52XE/guiding_principles_on_internal_displacement_english.pdf;/Users/jackgedge/Zotero/storage/W4DCR2BH/Deng et al. - 2004 - Guiding Principles on Internal Displacement.pdf
+      \endverb
+      \keyw{msc}
+    \endentry
+    \entry{UnitedNationsHighCommissionerforRefugees_2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=1caa6750fcd92675f4b217addf3d35f7}{%
+           family={{United Nations High Commissioner for Refugees}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{1caa6750fcd92675f4b217addf3d35f7}
+      \strng{fullhash}{1caa6750fcd92675f4b217addf3d35f7}
+      \strng{fullhashraw}{1caa6750fcd92675f4b217addf3d35f7}
+      \strng{bibnamehash}{1caa6750fcd92675f4b217addf3d35f7}
+      \strng{authorbibnamehash}{1caa6750fcd92675f4b217addf3d35f7}
+      \strng{authornamehash}{1caa6750fcd92675f4b217addf3d35f7}
+      \strng{authorfullhash}{1caa6750fcd92675f4b217addf3d35f7}
+      \strng{authorfullhashraw}{1caa6750fcd92675f4b217addf3d35f7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{An asylum-seeker is someone who is seeking international protection. Learn more about asylum-seekers and how UNHCR protects them.}
+      \field{howpublished}{https://www.unhcr.org/us/about-unhcr/who-we-protect/asylum-seekers}
+      \field{langid}{american}
+      \field{title}{Asylum-seekers}
+      \field{urlday}{27}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/M4NK9C52/asylum-seekers.html
+      \endverb
+      \keyw{msc}
+    \endentry
+    \entry{MicrosoftCorporation_2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=b9a8b868588ad4bc6b36c29936e26423}{%
+           family={{Microsoft Corporation}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b9a8b868588ad4bc6b36c29936e26423}
+      \strng{fullhash}{b9a8b868588ad4bc6b36c29936e26423}
+      \strng{fullhashraw}{b9a8b868588ad4bc6b36c29936e26423}
+      \strng{bibnamehash}{b9a8b868588ad4bc6b36c29936e26423}
+      \strng{authorbibnamehash}{b9a8b868588ad4bc6b36c29936e26423}
+      \strng{authornamehash}{b9a8b868588ad4bc6b36c29936e26423}
+      \strng{authorfullhash}{b9a8b868588ad4bc6b36c29936e26423}
+      \strng{authorfullhashraw}{b9a8b868588ad4bc6b36c29936e26423}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Microsoft Excel}
+      \field{year}{2025}
+      \keyw{msc}
+    \endentry
+    \entry{PythonSoftwareFoundation_2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=c7b5508dc5e59a2846d22617276cc27c}{%
+           family={{Python Software Foundation}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{c7b5508dc5e59a2846d22617276cc27c}
+      \strng{fullhash}{c7b5508dc5e59a2846d22617276cc27c}
+      \strng{fullhashraw}{c7b5508dc5e59a2846d22617276cc27c}
+      \strng{bibnamehash}{c7b5508dc5e59a2846d22617276cc27c}
+      \strng{authorbibnamehash}{c7b5508dc5e59a2846d22617276cc27c}
+      \strng{authornamehash}{c7b5508dc5e59a2846d22617276cc27c}
+      \strng{authorfullhash}{c7b5508dc5e59a2846d22617276cc27c}
+      \strng{authorfullhashraw}{c7b5508dc5e59a2846d22617276cc27c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{title}{Python}
+      \field{year}{2025}
+      \keyw{msc}
+    \endentry
+    \entry{ThePandasDevelopmentTeam_2020}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=d850c852b9f625e446a32cef4a26cb3c}{%
+           family={{The Pandas Development Team}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{d850c852b9f625e446a32cef4a26cb3c}
+      \strng{fullhash}{d850c852b9f625e446a32cef4a26cb3c}
+      \strng{fullhashraw}{d850c852b9f625e446a32cef4a26cb3c}
+      \strng{bibnamehash}{d850c852b9f625e446a32cef4a26cb3c}
+      \strng{authorbibnamehash}{d850c852b9f625e446a32cef4a26cb3c}
+      \strng{authornamehash}{d850c852b9f625e446a32cef4a26cb3c}
+      \strng{authorfullhash}{d850c852b9f625e446a32cef4a26cb3c}
+      \strng{authorfullhashraw}{d850c852b9f625e446a32cef4a26cb3c}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Pandas is a powerful data structures for data analysis, time series, and statistics.}
+      \field{howpublished}{Zenodo}
+      \field{month}{3}
+      \field{shorttitle}{pandas-dev/pandas}
+      \field{title}{pandas-dev/pandas: Pandas}
+      \field{urlday}{3}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.5281/zenodo.13819579
+      \endverb
+      \verb{file}
+      \verb /Users/jackgedge/Zotero/storage/YD5VSWTZ/13819579.html
+      \endverb
+      \keyw{data science,msc,python}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
