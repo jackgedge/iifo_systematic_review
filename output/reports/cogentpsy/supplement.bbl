@@ -76,34 +76,24 @@
       \keyw{msc}
     \endentry
     \entry{Deng_1998}{report}{}{}
-      \name{author}{3}{}{%
+      \name{author}{1}{}{%
         {{hash=77b6b118813e6da91216ff739c1ecba3}{%
            family={Deng},
            familyi={D\bibinitperiod},
            given={Francis\bibnamedelima Mading},
            giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=0c6242377b9a6739008f273c7c576a5a}{%
-           family={Persons},
-           familyi={P\bibinitperiod},
-           given={UN\bibnamedelima Representative\bibnamedelimb of\bibnamedelimb the\bibnamedelimb Secretary-General\bibnamedelimb on\bibnamedelimb Internally\bibnamedelima Displaced},
-           giveni={U\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim S\bibinithyphendelim G\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=ecfe6a3895cd5ebcbcf8590fd05ef803}{%
-           family={Affairs},
-           familyi={A\bibinitperiod},
-           given={UN\bibnamedelima Office\bibnamedelimb for\bibnamedelimb the\bibnamedelimb Coordination\bibnamedelimb of\bibnamedelima Humanitarian},
-           giveni={U\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim f\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
       }
       \list{institution}{1}{%
         {United Nations Commission on Human Rights}%
       }
-      \strng{namehash}{bd99f91f04b58e3b1ddfdc756fda9da6}
-      \strng{fullhash}{bd99f91f04b58e3b1ddfdc756fda9da6}
-      \strng{fullhashraw}{bd99f91f04b58e3b1ddfdc756fda9da6}
-      \strng{bibnamehash}{bd99f91f04b58e3b1ddfdc756fda9da6}
-      \strng{authorbibnamehash}{bd99f91f04b58e3b1ddfdc756fda9da6}
-      \strng{authornamehash}{bd99f91f04b58e3b1ddfdc756fda9da6}
-      \strng{authorfullhash}{bd99f91f04b58e3b1ddfdc756fda9da6}
-      \strng{authorfullhashraw}{bd99f91f04b58e3b1ddfdc756fda9da6}
+      \strng{namehash}{77b6b118813e6da91216ff739c1ecba3}
+      \strng{fullhash}{77b6b118813e6da91216ff739c1ecba3}
+      \strng{fullhashraw}{77b6b118813e6da91216ff739c1ecba3}
+      \strng{bibnamehash}{77b6b118813e6da91216ff739c1ecba3}
+      \strng{authorbibnamehash}{77b6b118813e6da91216ff739c1ecba3}
+      \strng{authornamehash}{77b6b118813e6da91216ff739c1ecba3}
+      \strng{authorfullhash}{77b6b118813e6da91216ff739c1ecba3}
+      \strng{authorfullhashraw}{77b6b118813e6da91216ff739c1ecba3}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
@@ -114,7 +104,6 @@
       \field{month}{2}
       \field{number}{UN Doc E/CN.4/1998/53/Add.2}
       \field{title}{Guiding Principles on Internal Displacement}
-      \field{type}{techreport}
       \field{urlday}{31}
       \field{urlmonth}{3}
       \field{urlyear}{2025}

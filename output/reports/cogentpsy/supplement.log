@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.12.4)  9 DEC 2025 14:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.12.4)  9 DEC 2025 15:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -22,6 +22,7 @@ LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 5
 (/usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
+** ATTENTION: Single column mode is not typically used with IEEE publications.
 -- Using 8.5in x 11in (letter) paper.
 -- Using PDF output.
 \@IEEEnormalsizeunitybaselineskip=\dimen144
@@ -776,11 +777,6 @@ Package: placeins 2005/04/18  v 2.2
 (/usr/share/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
 \c@tracingmulticols=\count336
-
-
-Package multicol Warning: May not work with the twocolumn option on input line 
-140.
-
 \mult@box=\box76
 \multicol@leftmargin=\dimen309
 \c@unbalance=\count337
@@ -847,7 +843,8 @@ Package multicol Warning: May not work with the twocolumn option on input line
 \mult@nat@firstbox=\box120
 \colbreak@box=\box121
 \mc@col@check@num=\count345
-) (/usr/share/texmf-dist/tex/latex/titling/titling.sty
+)
+(/usr/share/texmf-dist/tex/latex/titling/titling.sty
 Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmarkwidth=\skip93
 \thanksmargin=\skip94
@@ -1269,27 +1266,27 @@ Package csquotes Info: ... none found.
 (./supplement.aux)
 \openout1 = `supplement.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
 
 -- Lines per column: 60 (approximate, difference = 2.7pt).
-Package hyperref Info: Link coloring OFF on input line 52.
+Package hyperref Info: Link coloring OFF on input line 53.
 (./supplement.out) (./supplement.out)
 \@outlinefile=\write5
 \openout5 = `supplement.out'.
@@ -1353,7 +1350,7 @@ Package caption Info: End \AtBeginDocument code.
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
-* \@twocolumntrue
+* \@twocolumnfalse
 * \@twosidefalse
 * \@mparswitchfalse
 * \@reversemarginfalse
@@ -1372,25 +1369,22 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'supplement.bbl' found.
  (./supplement.bbl)
-Package biblatex Info: Reference section=0 on input line 52.
-Package biblatex Info: Reference segment=0 on input line 52.
+Package biblatex Info: Reference section=0 on input line 53.
+Package biblatex Info: Reference segment=0 on input line 53.
 
-(./sections/appendix.tex (./supplement.toc)
+(./supplement.toc)
 \tf@toc=\write6
 \openout6 = `supplement.toc'.
 
 
 
-[1
-
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts
-/enc/dvips/base/8r.enc}]
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fon
+ts/enc/dvips/base/8r.enc}] (./sections/appendix.tex
 
 [2
 
 ]
-Overfull \hbox (1.86566pt too wide) in paragraph at lines 177--183
+Overfull \hbox (1.86566pt too wide) in paragraph at lines 172--178
 []|[]| 
  []
 
@@ -1403,27 +1397,48 @@ Overfull \hbox (1.86566pt too wide) in paragraph at lines 177--183
 [4]
 
 [5]
+Overfull \hbox (40.95717pt too wide) in paragraph at lines 563--564
+ \T1/ptm/m/it/10 4) Web of Sci-ence Query: [][][] \T1/ptm/b/n/10 Link: []$\T1/p
+tm/m/n/10 https : / / www . webofscience . com / wos / woscc / summary / 4da44d
+48-[]3e09-[]4a94-[]a3bd-[]^^[8139e94859-[]01387ccd63 /
+ []
+
+
 
 [6
 
 ]
+Overfull \hbox (1.18965pt too wide) in paragraph at lines 588--589
+\T1/ptm/m/n/10 (foreign + obj* + OR + foreign + bod* ) +AND + (DE + %26quot % 3
+bNonsuicidal + Self-[]Injury % 26quot % 3b + OR + automutilation + OR + intent*
+ +
+ []
+
+
 
 [7
 
 ] (./sections/screening_process.tex)
 
 [8]
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 68
-3.
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 67
+8.
  (/usr/share/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
+Overfull \hbox (78.07764pt too wide) in paragraph at lines 696--697
+[]\T1/ptm/m/n/10 If any of these in-di-ca-tors were flagged, the cor-re-spond-i
+ng JBI check-list item (e.g., \T1/ptm/m/it/10 Clear_Outcome_Followup_Reported\T
+1/ptm/m/n/10 , \T1/ptm/m/it/10 Clear_Demographic_Reporting\T1/ptm/m/n/10 ,
+ []
+
+
 
 [9]
 <figures/prisma_checklist_0.jpg, id=183, 795.72281pt x 615.0478pt>
 File: figures/prisma_checklist_0.jpg Graphic file (type jpg)
 <use figures/prisma_checklist_0.jpg>
-Package pdftex.def Info: figures/prisma_checklist_0.jpg  used on input line 711
+Package pdftex.def Info: figures/prisma_checklist_0.jpg  used on input line 706
 .
 (pdftex.def)             Requested size: 542.02501pt x 418.96838pt.
 
@@ -1435,7 +1450,7 @@ Package pdftex.def Info: figures/prisma_checklist_0.jpg  used on input line 711
 <figures/prisma_checklist_1.jpg, id=190, 795.72281pt x 615.0478pt>
 File: figures/prisma_checklist_1.jpg Graphic file (type jpg)
 <use figures/prisma_checklist_1.jpg>
-Package pdftex.def Info: figures/prisma_checklist_1.jpg  used on input line 721
+Package pdftex.def Info: figures/prisma_checklist_1.jpg  used on input line 716
 .
 (pdftex.def)             Requested size: 542.02501pt x 418.96838pt.
 
@@ -1447,7 +1462,7 @@ Package pdftex.def Info: figures/prisma_checklist_1.jpg  used on input line 721
 <figures/prisma_checklist_2.jpg, id=196, 795.72281pt x 615.0478pt>
 File: figures/prisma_checklist_2.jpg Graphic file (type jpg)
 <use figures/prisma_checklist_2.jpg>
-Package pdftex.def Info: figures/prisma_checklist_2.jpg  used on input line 732
+Package pdftex.def Info: figures/prisma_checklist_2.jpg  used on input line 727
 .
 (pdftex.def)             Requested size: 542.02501pt x 418.96838pt.
 
@@ -1455,11 +1470,27 @@ Package pdftex.def Info: figures/prisma_checklist_2.jpg  used on input line 732
 [12
 
 
- <./figures/prisma_checklist_2.jpg>]) (./supplement.aux)
+ <./figures/prisma_checklist_2.jpg>])
+Overfull \hbox (1.31337pt too wide) in paragraph at lines 72--72
+[]\T1/ptm/m/n/10 United Na-tions High Com-mis-sioner for Refugees. \T1/ptm/m/it
+/10 Asylum-seekers\T1/ptm/m/n/10 . https://www.unhcr.org/us/about-unhcr/who-we-
+protect/asylum-
+ []
+
+
+
+[13
+
+
+] (./supplement.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `supplement.out' has not changed.
 (rerunfilecheck)             Checksum: D14F026AEA3EE98501DCBDF0EB97EF20;3089.
 Package logreq Info: Writing requests to 'supplement.run.xml'.
@@ -1467,51 +1498,23 @@ Package logreq Info: Writing requests to 'supplement.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35344 strings out of 475171
- 685241 string characters out of 5767095
- 1503791 words of memory out of 5000000
- 57758 multiletter control sequences out of 15000+600000
- 660139 words of font info for 134 fonts, out of 8000000 for 9000
+ 35365 strings out of 475171
+ 686167 string characters out of 5767095
+ 1504154 words of memory out of 5000000
+ 57776 multiletter control sequences out of 15000+600000
+ 661246 words of font info for 135 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 117i,17n,121p,1187b,1781s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{cite.0@ThePandasDevelopmentTeam_2020} has been refe
-renced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.0@PythonSoftwareFoundation_2025} has been refe
-renced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.0@MicrosoftCorporation_2025} has been referenc
-ed but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.0@UnitedNationsHighCommissionerforRefugees_202
-5} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.0@Deng_1998} has been referenced but does not 
-exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.0@UNGeneralAssembly_1967} has been referenced 
-but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.0@AmericanPsychiatricAssociation_2013} has bee
-n referenced but does not exist, replaced by a fixed one
-
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/urw/courie
-r/ucrr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/shar
-e/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type
-1/urw/times/utmri8a.pfb>
-Output written on supplement.pdf (12 pages, 855745 bytes).
+ 117i,17n,121p,1187b,1789s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/urw/cour
+ier/ucrr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/sh
+are/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/ty
+pe1/urw/times/utmri8a.pfb>
+Output written on supplement.pdf (13 pages, 858690 bytes).
 PDF statistics:
- 250 PDF objects out of 1000 (max. 8388607)
- 216 compressed objects within 3 object streams
- 56 named destinations out of 1000 (max. 500000)
+ 257 PDF objects out of 1000 (max. 8388607)
+ 222 compressed objects within 3 object streams
+ 58 named destinations out of 1000 (max. 500000)
  172 words of extra memory for PDF output out of 10000 (max. 10000000)
 
