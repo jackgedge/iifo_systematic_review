@@ -1,6 +1,6 @@
 # File Structure 
 
-aosr 
+cogentpsy 
 |
 |
 manuscript.tex - manuscript LaTeX source code.
