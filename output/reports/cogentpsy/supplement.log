@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.12.4)  9 DEC 2025 15:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.12.4)  9 DEC 2025 15:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1471,7 +1471,7 @@ Package pdftex.def Info: figures/prisma_checklist_2.jpg  used on input line 727
 
 
  <./figures/prisma_checklist_2.jpg>])
-Overfull \hbox (1.31337pt too wide) in paragraph at lines 72--72
+Overfull \hbox (1.31337pt too wide) in paragraph at lines 73--73
 []\T1/ptm/m/n/10 United Na-tions High Com-mis-sioner for Refugees. \T1/ptm/m/it
 /10 Asylum-seekers\T1/ptm/m/n/10 . https://www.unhcr.org/us/about-unhcr/who-we-
 protect/asylum-
@@ -1487,10 +1487,6 @@ protect/asylum-
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `supplement.out' has not changed.
 (rerunfilecheck)             Checksum: D14F026AEA3EE98501DCBDF0EB97EF20;3089.
 Package logreq Info: Writing requests to 'supplement.run.xml'.
@@ -1500,7 +1496,7 @@ Package logreq Info: Writing requests to 'supplement.run.xml'.
 Here is how much of TeX's memory you used:
  35365 strings out of 475171
  686167 string characters out of 5767095
- 1504154 words of memory out of 5000000
+ 1504156 words of memory out of 5000000
  57776 multiletter control sequences out of 15000+600000
  661246 words of font info for 135 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -1511,7 +1507,7 @@ exmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts
 ier/ucrr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/sh
 are/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/ty
 pe1/urw/times/utmri8a.pfb>
-Output written on supplement.pdf (13 pages, 858690 bytes).
+Output written on supplement.pdf (13 pages, 858707 bytes).
 PDF statistics:
  257 PDF objects out of 1000 (max. 8388607)
  222 compressed objects within 3 object streams
