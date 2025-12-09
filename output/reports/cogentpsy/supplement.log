@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.12.4)  9 DEC 2025 12:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.12.4)  9 DEC 2025 14:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1460,10 +1460,6 @@ Package pdftex.def Info: figures/prisma_checklist_2.jpg  used on input line 732
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `supplement.out' has not changed.
 (rerunfilecheck)             Checksum: D14F026AEA3EE98501DCBDF0EB97EF20;3089.
 Package logreq Info: Writing requests to 'supplement.run.xml'.
@@ -1471,10 +1467,10 @@ Package logreq Info: Writing requests to 'supplement.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35343 strings out of 475171
- 685234 string characters out of 5767095
+ 35344 strings out of 475171
+ 685241 string characters out of 5767095
  1503791 words of memory out of 5000000
- 57757 multiletter control sequences out of 15000+600000
+ 57758 multiletter control sequences out of 15000+600000
  660139 words of font info for 134 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  117i,17n,121p,1187b,1781s stack positions out of 10000i,1000n,20000p,200000b,200000s

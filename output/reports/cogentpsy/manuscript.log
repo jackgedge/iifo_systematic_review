@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.12.4)  9 DEC 2025 13:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.12.4)  9 DEC 2025 14:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -575,10 +575,13 @@ Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
 \extratabsurround=\skip54
 \backup@length=\skip55
 \ar@cellbox=\box66
-) (./credits.sty
+) (./styles/credits.sty
+
+LaTeX Warning: You have requested package `styles/credits',
+               but the package provides `credits'.
+
 Package: credits 2023/02/21 LaTeX package for contributor statements following 
 CRediT, the contributor roles taxonomy
-
 (/usr/share/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
@@ -797,6 +800,10 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@widthR=\skip90
 \@temptokenb=\toks43
 )
+(/usr/share/texmf-dist/tex/latex/refcheck/refcheck.sty
+Package: refcheck 2013/02/14 v1.9.1
+\btoks=\toks44
+)
 (/usr/share/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
 )
@@ -888,7 +895,7 @@ Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@target=\dimen321
 \TX@delta=\dimen322
 \TX@cols=\count352
-\TX@ftn=\toks44
+\TX@ftn=\toks45
 )
 (/usr/share/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
@@ -898,7 +905,7 @@ Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
 \csq@qlevel=\count356
 \csq@maxlvl=\count357
 \csq@tshold=\count358
-\csq@ltx@everypar=\toks45
+\csq@ltx@everypar=\toks46
 
 (/usr/share/texmf-dist/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
@@ -929,8 +936,8 @@ Package: tcolorbox 2024/10/22 version 6.4.1 text color boxes
 
 (/usr/share/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks46
-\verbatim@line=\toks47
+\every@verbatim=\toks47
+\verbatim@line=\toks48
 \verbatim@in@stream=\read3
 )
 (/usr/share/texmf-dist/tex/latex/environ/environ.sty
@@ -961,8 +968,8 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
 (/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks48
-\XKV@tempa@toks=\toks49
+\XKV@toks=\toks49
+\XKV@tempa@toks=\toks50
 )
 \XKV@depth=\count362
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
@@ -1327,12 +1334,12 @@ Package hyperref Info: Link coloring OFF on input line 17.
 \scratchbox=\box134
 \nofMPsegments=\count501
 \nofMParguments=\count502
-\everyMPshowfont=\toks50
+\everyMPshowfont=\toks51
 \MPscratchCnt=\count503
 \MPscratchDim=\dimen352
 \MPnumerator=\count504
 \makeMPintoPDFobject=\count505
-\everyMPtoPDFconversion=\toks51
+\everyMPtoPDFconversion=\toks52
 ) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1384,6 +1391,8 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+Package: `refcheck' v1.9.1 <2013/02/14>
+options: showrefs, showcites, msgs, chckunlbld
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 (/usr/share/texmf-dist/tex/latex/biblatex/lbx/english.lbx
@@ -1445,26 +1454,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-<figures/case_country_plot.jpeg, id=1523, 662.7159pt x 348.3414pt>
+<figures/case_country_plot.jpeg, id=1525, 662.7159pt x 348.3414pt>
 File: figures/case_country_plot.jpeg Graphic file (type jpg)
 <use figures/case_country_plot.jpeg>
-Package pdftex.def Info: figures/case_country_plot.jpeg  used on input line 38.
+Package pdftex.def Info: figures/case_country_plot.jpeg  used on input line 39.
 
 (pdftex.def)             Requested size: 265.0125pt x 139.3022pt.
-) (./tables/country_table.tex) (./tables/case_series_table.tex
+
+
+[5]) (./tables/country_table.tex) (./tables/case_series_table.tex
 Overfull \hbox (12.00002pt too wide) in alignment at lines 51--51
 [][][][][] 
  []
 
 ) (./sections/synthesis.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[5]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 (./tables/univ_results_table.tex)
 
@@ -1492,7 +1495,7 @@ Overfull \hbox (12.00002pt too wide) in alignment at lines 32--32
 
 )) (./sections/discussion.tex
 
-<figures/ma_series_only_plot.jpeg, id=1865, 539.97736pt x 453.01245pt>
+<figures/ma_series_only_plot.jpeg, id=1869, 539.97736pt x 453.01245pt>
 File: figures/ma_series_only_plot.jpeg Graphic file (type jpg)
 <use figures/ma_series_only_plot.jpeg>
 Package pdftex.def Info: figures/ma_series_only_plot.jpeg  used on input line 2
@@ -1503,7 +1506,7 @@ Package pdftex.def Info: figures/ma_series_only_plot.jpeg  used on input line 2
 [9]
 
 )
-<figures/case_subgroup_analysis.jpeg, id=1880, 234.6366pt x 583.2189pt>
+<figures/case_subgroup_analysis.jpeg, id=1884, 234.6366pt x 583.2189pt>
 File: figures/case_subgroup_analysis.jpeg Graphic file (type jpg)
 <use figures/case_subgroup_analysis.jpeg>
 Package pdftex.def Info: figures/case_subgroup_analysis.jpeg  used on input lin
@@ -1545,10 +1548,6 @@ Overfull \hbox (24.12442pt too wide) in paragraph at lines 97--97
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `manuscript.out' has not changed.
 (rerunfilecheck)             Checksum: 37D014386A56828F62BD427A4B0B0464;4757.
 Package logreq Info: Writing requests to 'manuscript.run.xml'.
@@ -1556,10 +1555,10 @@ Package logreq Info: Writing requests to 'manuscript.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37691 strings out of 475171
- 748596 string characters out of 5767095
- 1711841 words of memory out of 5000000
- 59875 multiletter control sequences out of 15000+600000
+ 37835 strings out of 475171
+ 751069 string characters out of 5767095
+ 1709250 words of memory out of 5000000
+ 60014 multiletter control sequences out of 15000+600000
  676751 words of font info for 152 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  117i,13n,121p,7250b,2089s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1573,10 +1572,10 @@ onts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/urw/
 times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr
 /share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts
 /type1/urw/times/utmri8a.pfb>
-Output written on manuscript.pdf (16 pages, 11199124 bytes).
+Output written on manuscript.pdf (16 pages, 11199358 bytes).
 PDF statistics:
- 2199 PDF objects out of 2487 (max. 8388607)
- 1225 compressed objects within 13 object streams
+ 2203 PDF objects out of 2487 (max. 8388607)
+ 1229 compressed objects within 13 object streams
  198 named destinations out of 1000 (max. 500000)
  254 words of extra memory for PDF output out of 10000 (max. 10000000)
 

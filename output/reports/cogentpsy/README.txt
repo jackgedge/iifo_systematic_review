@@ -2,9 +2,10 @@
 
 cogentpsy 
 |
-|
 manuscript.tex - manuscript LaTeX source code.
 manuscript.pdf - manuscript in PDF format.
+prisma_checklist.odt - PRISMA Checklist in ODT Format.
+prisma_checklist.pdf - PRISMA Checklist in PDF format.
 supplement.tex - supplementary material LaTeX source code.
 supplement.pdf - supplementary material in PDF format.
 |
@@ -13,9 +14,7 @@ bibliography.bib - bibliography.
 |
 ...other auxiliary files from pdf generation
 |
-|
 |----figures - figures in the journals desired format.
 |----sections - LaTeX source code of sections used in manuscript.tex.
+|----styles - Custom styles required for LaTeX compilation.
 |----tables - LaTeX source code of tables used in manuscript.tex.
-
-
