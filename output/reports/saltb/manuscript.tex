@@ -1,0 +1,103 @@
+% Define document class
+\documentclass[journal,final,twocolumn,10pt]{IEEEtran}
+
+% Packages
+\usepackage{orcidlink} % For ORCID IDs
+\usepackage[utf8]{inputenc}
+\usepackage{array}
+\usepackage{styles/credits}
+\usepackage[T1]{fontenc}
+\usepackage{ragged2e}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{caption}
+\captionsetup{hypcap=false}
+\usepackage{amsmath}
+\usepackage{geometry}
+\usepackage{longtable}
+\usepackage{fancyhdr}
+\usepackage{refcheck}\setonmsgs\norefnames\nocitenames   % To ensure all figures are referenced
+\usepackage{placeins}
+\usepackage{multicol}
+\usepackage{titling}
+\usepackage{tabularx}
+\usepackage{csquotes}
+\usepackage{times}
+\usepackage{pdflscape}
+\usepackage{tcolorbox}
+\usepackage{adjustbox}
+\usepackage{booktabs}
+\usepackage{hyperref} 
+\hypersetup{breaklinks=true} 
+\Urlmuskip=0mu plus 1mu 
+\usepackage{textcomp}  
+
+
+%% Supplementary Material
+\usepackage{xr} % Reference supplement
+\externaldocument{supplement} % Reference supplement
+
+
+% Bibliography
+\usepackage[backend=biber, style=numeric-comp, sorting=none, maxnames=99, giveninits=true]{biblatex}
+\addbibresource{bibliography.bib}
+
+% Author name format: Family, Given Initial
+\DeclareNameAlias{sortname}{family-given}
+\DeclareNameAlias{default}{family-given}
+\setcounter{maxnames}{99}
+
+\hbadness=10000  % suppress hbox warnings
+
+% Geometry and styling
+\geometry{margin=0.5in}
+\pagestyle{fancy}
+\fancyhf{}
+
+% Title Page
+\input{sections/title.tex}
+
+% Abstract
+\input{sections/abstract.tex}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\columnwidth]{figures/case_country_plot.jpeg}
+\caption{Heat map of all cases per country.}
+\label{fig:country_plot}
+\end{figure}
+
+% Highlights 
+\input{sections/highlights.tex}
+
+% Key Words
+\input{sections/key_words.tex}
+
+% Author Contibutions
+\input{sections/author_contributions.tex}
+
+% Abbreviations
+\input{sections/abbreviations.tex}
+
+% Introduction
+\input{sections/intro.tex}
+
+% Methods
+\input{sections/methods.tex}
+
+% Results
+\input{sections/results.tex}
+
+% Funding Statement
+\input{sections/funding.tex}
+
+% Authors Disclosure
+\input{sections/disclosure.tex}
+
+% Data Availability
+\input{sections/data.tex}
+
+% Bibliography
+\printbibliography
+
+\end{document}

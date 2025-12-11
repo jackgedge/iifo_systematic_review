@@ -1,0 +1,5 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'supplement..blg'
+[68] biber:342> INFO - === Thu Dec 11, 2025, 11:42:54
+[89] Utils.pm:479> ERROR - Cannot find 'supplement..bcf'!
+[89] Biber.pm:137> INFO - ERRORS: 1

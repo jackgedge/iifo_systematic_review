@@ -1,0 +1,18 @@
+\contentsline {section}{Appendix\nobreakspace A: Methods}{2}{section*.2}%
+\contentsline {subsection}{\numberline {\mbox {A-A}}Eligibility Criteria}{2}{subsection.Appendix.A.1}%
+\contentsline {subsection}{\numberline {\mbox {A-B}}Search Strategy}{3}{subsection.Appendix.A.2}%
+\contentsline {subsubsection}{\numberline {\mbox {A-B}1}PubMed Query}{6}{subsubsection.Appendix.A.2.1}%
+\contentsline {subsubsection}{\numberline {\mbox {A-B}2}Embase Query (All Fields)}{6}{subsubsection.Appendix.A.2.2}%
+\contentsline {subsubsection}{\numberline {\mbox {A-B}3}CENTRAL (Cochrane) Query (All Fields)}{6}{subsubsection.Appendix.A.2.3}%
+\contentsline {subsubsection}{\numberline {\mbox {A-B}4}Web of Science Query}{6}{subsubsection.Appendix.A.2.4}%
+\contentsline {subsubsection}{\numberline {\mbox {A-B}5}Scopus Query}{6}{subsubsection.Appendix.A.2.5}%
+\contentsline {subsubsection}{\numberline {\mbox {A-B}6}PsycINFO Query}{7}{subsubsection.Appendix.A.2.6}%
+\contentsline {subsection}{\numberline {\mbox {A-C}}Grey Literature}{7}{subsection.Appendix.A.3}%
+\contentsline {subsection}{\numberline {\mbox {A-D}}Screening Process}{8}{subsection.Appendix.A.4}%
+\contentsline {subsection}{\numberline {\mbox {A-E}}Data Extraction}{8}{subsection.Appendix.A.5}%
+\contentsline {subsubsection}{\numberline {\mbox {A-E}1}Definitions}{8}{subsubsection.Appendix.A.5.1}%
+\contentsline {subsubsection}{\numberline {\mbox {A-E}2}Process}{9}{subsubsection.Appendix.A.5.2}%
+\contentsline {subsection}{\numberline {\mbox {A-F}}Computational Risk of Bias Assessment}{9}{subsection.Appendix.A.6}%
+\contentsline {subsubsection}{\numberline {\mbox {A-F}1}Case Reports}{9}{subsubsection.Appendix.A.6.1}%
+\contentsline {subsubsection}{\numberline {\mbox {A-F}2}Case Series}{9}{subsubsection.Appendix.A.6.2}%
+\contentsline {section}{Appendix\nobreakspace B: PRISMA Checklist}{10}{section*.4}%
