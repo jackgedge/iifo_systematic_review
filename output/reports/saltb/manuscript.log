@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.12.4)  11 DEC 2025 12:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.12.11)  11 DEC 2025 12:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1412,51 +1412,48 @@ Package biblatex Info: Reference segment=0 on input line 17.
 
 Package hyperref Warning: Ignoring empty anchor on input line 30.
 
-) (./sections/abstract.tex
-
-)
+) (./sections/abstract.tex)
 <figures/case_country_plot.jpeg, id=141, 662.7159pt x 348.3414pt>
 File: figures/case_country_plot.jpeg Graphic file (type jpg)
 <use figures/case_country_plot.jpeg>
 Package pdftex.def Info: figures/case_country_plot.jpeg  used on input line 65.
 
 (pdftex.def)             Requested size: 265.0125pt x 139.3022pt.
- (./sections/highlights.tex) (./sections/key_words.tex)
-(./sections/author_contributions.tex) (./sections/abbreviations.tex
+ (./sections/highlights.tex)
+(./sections/key_words.tex) (./sections/author_contributions.tex
+
+) (./sections/abbreviations.tex) (./sections/intro.tex
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fon
 ts/enc/dvips/base/8r.enc}
 
 
  <./figures/case_country_plot.jpeg>])
-(./sections/intro.tex)
-
 (./sections/methods.tex
 
+
+
 [2]
-<figures/prisma_diagram.jpeg, id=252, 844.8363pt x 597.6729pt>
+<figures/prisma_diagram.jpeg, id=260, 844.8363pt x 597.6729pt>
 File: figures/prisma_diagram.jpeg Graphic file (type jpg)
 <use figures/prisma_diagram.jpeg>
 Package pdftex.def Info: figures/prisma_diagram.jpeg  used on input line 67.
 (pdftex.def)             Requested size: 542.02501pt x 383.4578pt.
 
 
-) (./sections/results.tex (./sections/risk_of_bias_results.tex
+) (./sections/results.tex (./sections/risk_of_bias_results.tex)
 
-[3])
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-(./tables/case_report_table.tex)
-<figures/ma_all_plot.jpeg, id=1479, 536.60475pt x 453.01245pt>
+[3] (./tables/case_report_table.tex)
+<figures/ma_all_plot.jpeg, id=1521, 536.60475pt x 453.01245pt>
 File: figures/ma_all_plot.jpeg Graphic file (type jpg)
 <use figures/ma_all_plot.jpeg>
 Package pdftex.def Info: figures/ma_all_plot.jpeg  used on input line 16.
 (pdftex.def)             Requested size: 265.0125pt x 223.72687pt.
  (./sections/study_characteristics.tex
 
-[4 <./figures/prisma_diagram.jpeg>]
+
+
+[4 <./figures/prisma_diagram.jpeg> <./figures/ma_all_plot.jpeg>]
 
 
 
@@ -1465,14 +1462,14 @@ Overfull \hbox (12.00002pt too wide) in alignment at lines 51--51
 [][][][][] 
  []
 
-) (./sections/synthesis.tex
-Underfull \vbox (badness 1460) has occurred while \output is active []
+) (./sections/synthesis.tex (./tables/univ_results_table.tex)
 
 
 
+[6]
+Underfull \vbox (badness 1590) has occurred while \output is active []
 
 
-[6 <./figures/ma_all_plot.jpeg>] (./tables/univ_results_table.tex)
 
 
 
@@ -1486,17 +1483,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[8]
-
-(./tables/meta_regression.tex
+[8] (./tables/meta_regression.tex
 Overfull \hbox (12.00002pt too wide) in alignment at lines 32--32
 [][] 
  []
 
 )) (./sections/discussion.tex
 
+
+
 [9]
-<figures/ma_series_only_plot.jpeg, id=1899, 539.97736pt x 453.01245pt>
+<figures/ma_series_only_plot.jpeg, id=1913, 539.97736pt x 453.01245pt>
 File: figures/ma_series_only_plot.jpeg Graphic file (type jpg)
 <use figures/ma_series_only_plot.jpeg>
 Package pdftex.def Info: figures/ma_series_only_plot.jpeg  used on input line 2
@@ -1507,7 +1504,7 @@ Package pdftex.def Info: figures/ma_series_only_plot.jpeg  used on input line 2
 
 
 [10 <./figures/ma_series_only_plot.jpeg>])
-<figures/case_subgroup_analysis.jpeg, id=1916, 234.6366pt x 583.2189pt>
+<figures/case_subgroup_analysis.jpeg, id=1936, 234.6366pt x 583.2189pt>
 File: figures/case_subgroup_analysis.jpeg Graphic file (type jpg)
 <use figures/case_subgroup_analysis.jpeg>
 Package pdftex.def Info: figures/case_subgroup_analysis.jpeg  used on input lin
@@ -1543,45 +1540,133 @@ Overfull \hbox (24.12442pt too wide) in paragraph at lines 102--102
 
 
 
-[16]
-
-
-
-[17
-
-] (./manuscript.aux)
+[16] (./manuscript.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-Package rerunfilecheck Info: File `manuscript.out' has not changed.
-(rerunfilecheck)             Checksum: D776411719DFA965E71B122EA6AFF0A2;5351.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `manuscript.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `manuscript.out':
+(rerunfilecheck)             Before: D776411719DFA965E71B122EA6AFF0A2;5351
+(rerunfilecheck)             After:  8F27008E5D951B8CB1B1517F73EEF0E1;5128.
 Package logreq Info: Writing requests to 'manuscript.run.xml'.
 \openout1 = `manuscript.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37768 strings out of 475171
- 749400 string characters out of 5767095
- 1690296 words of memory out of 5000000
+ 37787 strings out of 475171
+ 749720 string characters out of 5767094
+ 1704010 words of memory out of 5000000
  59945 multiletter control sequences out of 15000+600000
  675644 words of font info for 151 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  117i,13n,121p,7250b,2089s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/font
-s/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/shar
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/urw/
-times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr
-/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts
-/type1/urw/times/utmri8a.pfb>
-Output written on manuscript.pdf (17 pages, 11198763 bytes).
+
+pdfTeX warning (dest): name{subsection.4.7} has been referenced but does not ex
+ist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsubsection.4.6.4} has been referenced but does n
+ot exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsubsection.4.6.3} has been referenced but does n
+ot exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsubsection.4.6.2} has been referenced but does n
+ot exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsubsection.4.6.1} has been referenced but does n
+ot exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.4.6} has been referenced but does not ex
+ist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsubsection.4.5.3} has been referenced but does n
+ot exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsubsection.4.5.2} has been referenced but does n
+ot exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsubsection.4.5.1} has been referenced but does n
+ot exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.4.5} has been referenced but does not ex
+ist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsubsection.4.4.3} has been referenced but does n
+ot exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsubsection.4.4.2} has been referenced but does n
+ot exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsubsection.4.4.1} has been referenced but does n
+ot exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.4.4} has been referenced but does not ex
+ist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.4.3} has been referenced but does not ex
+ist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.4.2} has been referenced but does not ex
+ist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.4.1} has been referenced but does not ex
+ist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.4} has been referenced but does not exist, 
+replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.1.5} has been referenced but does not ex
+ist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.1.4} has been referenced but does not ex
+ist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.1.3} has been referenced but does not ex
+ist, replaced by a fixed one
+
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.
+pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/urw/ti
+mes/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/s
+hare/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/t
+ype1/urw/times/utmri8a.pfb>
+Output written on manuscript.pdf (16 pages, 11197794 bytes).
 PDF statistics:
- 2231 PDF objects out of 2487 (max. 8388607)
- 1256 compressed objects within 13 object streams
- 204 named destinations out of 1000 (max. 500000)
+ 2254 PDF objects out of 2487 (max. 8388607)
+ 1280 compressed objects within 13 object streams
+ 223 named destinations out of 1000 (max. 500000)
  302 words of extra memory for PDF output out of 10000 (max. 10000000)
 

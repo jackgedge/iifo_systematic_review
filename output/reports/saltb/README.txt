@@ -1,4 +1,7 @@
-# File Structure 
+## Compliation 
+This review was compiled using LaTeX and is best view in PDF format. The manuscript submitted in .docx format was compiled from LaTeX, so some features, such as section and figure referencing, do not work. Files for PDF LaTeX compilation are provided in saltb.zip and the structure and contents are outline below.
+
+## File Structure 
 
 saltb 
 |
