@@ -1,0 +1,72 @@
+% Define document class
+\documentclass[sn-basic, Numbered]{sn-jnl}
+
+% Spring nature specific packages
+\usepackage{graphicx}
+\usepackage{amsfonts}
+\usepackage{textcomp}
+\usepackage{algorithm}
+\usepackage{listings}
+\usepackage{multirow}
+\usepackage{mathrsfs}
+\usepackage{manyfoot}
+\usepackage{xcolor}
+\usepackage{url}
+\usepackage{amsmath}
+\usepackage{rotating}
+\usepackage{booktabs}
+\usepackage{algorithmicx}
+\usepackage{amssymb}
+\usepackage{appendix}
+\usepackage{etoolbox}
+\usepackage{algpseudocode}
+% Springer nature add ons
+\usepackage{geometry}
+%\usepackage{breakurl}
+%\usepackage{apacite}
+\usepackage{natbib}
+\usepackage{hypcap}
+\usepackage{wrapfig}
+\usepackage{hyperref}
+\usepackage{amsthm}
+
+% Specific Packages added by me
+% \usepackage{orcidlink}
+
+\begin{document}
+
+% Title Page
+\input{sections/front_matter.tex}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\columnwidth]{figures/case_country_plot.jpeg}
+\caption{Heat map of all cases per country.}
+\label{fig:country_plot}
+\end{figure}
+
+% Introduction
+\input{sections/intro.tex}
+
+% Methods
+\input{sections/methods.tex}
+
+% Results
+\input{sections/results.tex}
+
+% Funding Statement
+\input{sections/funding.tex}
+
+% Authors Disclosure
+\input{sections/disclosure.tex}
+
+% Data Availability
+\input{sections/data.tex}
+
+% Appendix
+\input{sections/appendix.tex}
+
+% Bibliography
+\bibliography{bibliography}
+
+\end{document}

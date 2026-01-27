@@ -21,3 +21,9 @@ dependencies:
       - openpyxl
       - Jinja2
       - xlrd
+      - pandoc=2.11
+      - pandoc-fignos
+      - pandoc-eqnos
+      - pandoc-tablenos
+      - pandoc-secnos
+      - pandoc-tex-numbering

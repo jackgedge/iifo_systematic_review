@@ -1,0 +1,66 @@
+2026-01-27 12:22:15,050 INFO Starting pandoc-tex-numbering
+2026-01-27 12:22:15,100 WARNING The number-theorems is enabled but no theorem names are provided. The numbering of theorems will be disabled.
+2026-01-27 12:22:15,100 INFO Initial numbering: {'sec': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'apx': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'eq': 0, 'tab': 0, 'fig': 0, 'subfig': 0, 'thm': {}}
+2026-01-27 12:22:15,147 WARNING Reference not found: appendix:eligibility-criteria
+2026-01-27 12:22:15,147 WARNING Reference not found: tab:inclusion-criteria
+2026-01-27 12:22:15,147 WARNING Reference not found: tab:exclusion-criteria
+2026-01-27 12:22:15,147 WARNING Reference not found: appendix:eligibility-criteria
+2026-01-27 12:22:15,147 WARNING Reference not found: fig:prisma
+2026-01-27 12:22:15,147 WARNING Reference not found: appendix:search-strategy
+2026-01-27 12:22:15,148 WARNING Reference not found: appendix:data_extraction
+2026-01-27 12:22:15,148 WARNING Reference not found: appendix:data_extraction
+2026-01-27 12:22:15,149 WARNING Reference not found: appendix:bias
+2026-01-27 12:22:15,150 WARNING Reference not found: fig:prisma
+2026-01-27 12:22:15,150 WARNING Reference not found: appendix:screening_results
+2026-01-27 12:22:15,159 WARNING Reference not found: tab:case_summary
+2026-01-27 12:22:15,160 WARNING Reference not found: tab:series_results
+2026-01-27 12:22:15,160 WARNING Reference not found: fig:country_plot
+2026-01-27 12:22:15,164 WARNING Reference not found: tab:univariate_results
+2026-01-27 12:22:15,167 WARNING Reference not found: fig:case_subgroup_plot
+2026-01-27 12:22:15,167 WARNING Reference not found: fig:ma_series_only
+2026-01-27 12:22:15,168 WARNING Reference not found: fig:ma_all
+2026-01-27 12:22:15,174 INFO Finished pandoc-tex-numbering
+2026-01-27 12:22:42,799 INFO Starting pandoc-tex-numbering
+2026-01-27 12:22:42,855 WARNING The number-theorems is enabled but no theorem names are provided. The numbering of theorems will be disabled.
+2026-01-27 12:22:42,855 INFO Initial numbering: {'sec': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'apx': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'eq': 0, 'tab': 0, 'fig': 0, 'subfig': 0, 'thm': {}}
+2026-01-27 12:22:42,893 WARNING Reference not found: appendix:eligibility-criteria
+2026-01-27 12:22:42,894 WARNING Reference not found: tab:inclusion-criteria
+2026-01-27 12:22:42,894 WARNING Reference not found: tab:exclusion-criteria
+2026-01-27 12:22:42,894 WARNING Reference not found: appendix:eligibility-criteria
+2026-01-27 12:22:42,894 WARNING Reference not found: fig:prisma
+2026-01-27 12:22:42,894 WARNING Reference not found: appendix:search-strategy
+2026-01-27 12:22:42,894 WARNING Reference not found: appendix:data_extraction
+2026-01-27 12:22:42,895 WARNING Reference not found: appendix:data_extraction
+2026-01-27 12:22:42,895 WARNING Reference not found: appendix:bias
+2026-01-27 12:22:42,896 WARNING Reference not found: fig:prisma
+2026-01-27 12:22:42,896 WARNING Reference not found: appendix:screening_results
+2026-01-27 12:22:42,905 WARNING Reference not found: tab:case_summary
+2026-01-27 12:22:42,906 WARNING Reference not found: tab:series_results
+2026-01-27 12:22:42,906 WARNING Reference not found: fig:country_plot
+2026-01-27 12:22:42,910 WARNING Reference not found: tab:univariate_results
+2026-01-27 12:22:42,913 WARNING Reference not found: fig:case_subgroup_plot
+2026-01-27 12:22:42,913 WARNING Reference not found: fig:ma_series_only
+2026-01-27 12:22:42,914 WARNING Reference not found: fig:ma_all
+2026-01-27 12:22:42,920 INFO Finished pandoc-tex-numbering
+2026-01-27 12:23:49,983 INFO Starting pandoc-tex-numbering
+2026-01-27 12:23:50,034 WARNING The number-theorems is enabled but no theorem names are provided. The numbering of theorems will be disabled.
+2026-01-27 12:23:50,034 INFO Initial numbering: {'sec': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'apx': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'eq': 0, 'tab': 0, 'fig': 0, 'subfig': 0, 'thm': {}}
+2026-01-27 12:23:50,083 WARNING Reference not found: appendix:eligibility-criteria
+2026-01-27 12:23:50,083 WARNING Reference not found: tab:inclusion-criteria
+2026-01-27 12:23:50,083 WARNING Reference not found: tab:exclusion-criteria
+2026-01-27 12:23:50,083 WARNING Reference not found: appendix:eligibility-criteria
+2026-01-27 12:23:50,083 WARNING Reference not found: fig:prisma
+2026-01-27 12:23:50,083 WARNING Reference not found: appendix:search-strategy
+2026-01-27 12:23:50,083 WARNING Reference not found: appendix:data_extraction
+2026-01-27 12:23:50,084 WARNING Reference not found: appendix:data_extraction
+2026-01-27 12:23:50,084 WARNING Reference not found: appendix:bias
+2026-01-27 12:23:50,085 WARNING Reference not found: fig:prisma
+2026-01-27 12:23:50,085 WARNING Reference not found: appendix:screening_results
+2026-01-27 12:23:50,094 WARNING Reference not found: tab:case_summary
+2026-01-27 12:23:50,095 WARNING Reference not found: tab:series_results
+2026-01-27 12:23:50,095 WARNING Reference not found: fig:country_plot
+2026-01-27 12:23:50,099 WARNING Reference not found: tab:univariate_results
+2026-01-27 12:23:50,102 WARNING Reference not found: fig:case_subgroup_plot
+2026-01-27 12:23:50,102 WARNING Reference not found: fig:ma_series_only
+2026-01-27 12:23:50,102 WARNING Reference not found: fig:ma_all
+2026-01-27 12:23:50,108 INFO Finished pandoc-tex-numbering
