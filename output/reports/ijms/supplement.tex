@@ -35,38 +35,26 @@
 
 % Specific Packages added by me
 % \usepackage{orcidlink}
-\usepackage{xr} % Reference supplement
-\externaldocument{supplement} % Reference supplement
+\usepackage{xr} % Reference manuscript
+\externaldocument{manuscript} % Reference manuscript
+
+% Front matter, as required by journal
+\title[Does Motivation Matter?]{Does Motivation Matter? A Systematic Review and Meta-Analysis of Outcomes Following Intentional Ingestion of Foreign Objects}
+\subtitle{Supplementary Material} % Subtitle specifying supplentary status
+
+\author*[1]{\fnm{Jack} \sur{Galbraith-Edge}}\email{j.m.galbraith-edge@smd20.qmul.ac.uk}
+\author[1]{\fnm{Giles} \sur{Cattermole}}\email{g.cattermole@qmul.ac.uk}
+
+\affil*[1]{\orgdiv{Blizzard Institute, Faculty of Medicine and Dentistry}, \orgname{Queen Mary, University of London}, \orgaddress{\street{4 Newark Street}, \city{London}, \postcode{E1 2AT}, \country{United Kingdom}}}
 
 \begin{document}
+\maketitle
 
-% Title Page
-\input{sections/front_matter.tex}
 \clearpage
-
-% Introduction
-\input{sections/intro.tex}
-
-% Methods
-\input{sections/methods.tex}
-
-% Results
-\input{sections/results.tex}
-
-% Funding Statement
-\input{sections/funding.tex}
-
-% Authors Disclosure
-\input{sections/disclosure.tex}
-
-% Data Availability
-\input{sections/data.tex}
-
-% Author Contributions
-\input{sections/author_contributions.tex}
+% Appendix
+\input{sections/appendix.tex}
 
 % Bibliography
-
 \clearpage
 \bibliography{bibliography_issn}
 

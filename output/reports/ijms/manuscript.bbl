@@ -1,4 +1,4 @@
-\begin{thebibliography}{134}
+\begin{thebibliography}{130}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{{#1}}
 \providecommand{\urlprefix}{URL }
@@ -54,12 +54,6 @@ Ali A, Mahgoub AM, Emad S, et~al (2022) Endoscopic retrieval of an ingested
 Ali SM (2017) Duodenal perforation by swallowed toothbrush: Case report and
   review of literature. Open Access J Surg 4(2).
   \doi{10.19080/OAJS.2017.04.555632}
-
-\bibitem[{{American Psychiatric
-  Association}(2013)}]{AmericanPsychiatricAssociation_2013}
-{American Psychiatric Association} (2013) Diagnostic and statistical manual of
-  mental disorders (5th ed.).
-  \urlprefix\url{https://psychiatryonline.org/doi/book/10.1176/appi.books.9780890425787}
 
 \bibitem[{{Amnesty International}(2024)}]{AmnestyInternational_2024}
 {Amnesty International} (2024) Refugees, asylum seekers and migrants.
@@ -193,20 +187,15 @@ Davidson H, Doherty B (2016) Iranian refugee critically ill after setting
   himself on fire on nauru during un visit.
   \urlprefix\url{https://www.theguardian.com/australia-news/2016/apr/27/iranian-asylum-seeker-severely-burnt-after-setting-himself-on-fire-on-nauru}
 
-\bibitem[{Deng(1998)}]{Deng_1998}
-Deng FM (1998) Guiding Principles on Internal Displacement. UN Doc
-  E/CN.4/1998/53/Add.2, United Nations,
-  \urlprefix\url{https://digitallibrary.un.org/record/535577?v=pdf}
-
 \bibitem[{Divsalar et~al.(2023)Divsalar, Hosseini~Mousa, and
   Hayatbakhsh~Abbasi}]{DivsalarP._2023a}
 Divsalar P, Hosseini~Mousa S, Hayatbakhsh~Abbasi M (2023) Repeated intentional
   swallowing of foreign objects by an adolescent girl (case report). Int J High
   Risk Behav Addict \doi{10.5812/ijhrba-134720}
 
-\bibitem[{amine Elghali et~al.(2016)amine Elghali, Ghrissi, Fadhl, Mahjoub,
-  Jarrar, Jedidi, Letaief, and Hamila}]{Elghali_2016}
-amine Elghali M, Ghrissi R, Fadhl H, et~al (2016) The management of voluntary
+\bibitem[{Elghali et~al.(2016)Elghali, Ghrissi, Fadhl, Mahjoub, Jarrar, Jedidi,
+  Letaief, and Hamila}]{Elghali_2016}
+Elghali MA, Ghrissi R, Fadhl H, et~al (2016) The management of voluntary
   ingestion of razor blades by inmates. Int Surg 105(1-3):129--133.
   \doi{10.9738/INTSURG-D-16-00204.1}
 
@@ -435,13 +424,14 @@ Mesfin T, Tekalegn Y, Aman M, et~al (2022) Ingestion of metallic materials
 {Met Office} (2010) Cartopy: a cartographic python library with a matplotlib
   interface. \urlprefix\url{https://cartopy.readthedocs.io/stable/}
 
-\bibitem[{{Microsoft Corporation}(????)}]{Microsoft_2025}
-{Microsoft Corporation} (????) Visual studio code.
-  \urlprefix\url{https://code.visualstudio.com/}
-
-\bibitem[{{Microsoft Corporation}(2025)}]{MicrosoftCorporation_2025}
-{Microsoft Corporation} (2025) Microsoft excel.
+\bibitem[{{Microsoft
+  Corporation}(2025{\natexlab{a}})}]{MicrosoftCorporation_2025}
+{Microsoft Corporation} (2025{\natexlab{a}}) Microsoft excel.
   \urlprefix\url{https://www.microsoft.com/excel}
+
+\bibitem[{{Microsoft Corporation}(2025{\natexlab{b}})}]{Microsoft_2025}
+{Microsoft Corporation} (2025{\natexlab{b}}) Visual studio code.
+  \urlprefix\url{https://code.visualstudio.com/}
 
 \bibitem[{Misra et~al.(2013)Misra, Jain, Ahmad, Kumar, and
   Kishore}]{Misra_2013}
@@ -657,24 +647,14 @@ Tupesis JP, Kaminski A, Patel H, et~al (2004) A penny for your thoughts: small
 Udemgba C, Missov E, Percy R, et~al (2021) A case report of an unusual left
   atrial mass. Eur Heart J Case Rep 5(1):ytaa500. \doi{10.1093/ehjcr/ytaa500}
 
-\bibitem[{{UN General Assembly}(1967)}]{UNGeneralAssembly_1967}
-{UN General Assembly} (1967) Protocol relating to the status of refugees.
-  \urlprefix\url{https://www.ohchr.org/en/instruments-mechanisms/instruments/protocol-relating-status-refugees}
-
 \bibitem[{{United Nations}(1951)}]{UNHCR_2010}
 {United Nations} (1951) The 1951 refugee convention and 1967 protocol relating
   to the status of refugees.
   \urlprefix\url{https://www.unhcr.org/media/convention-and-protocol-relating-status-refugees}
 
-\bibitem[{{United Nations High Commissioner for
-  Refugees}(2025)}]{UnitedNationsHighCommissionerforRefugees_2025}
-{United Nations High Commissioner for Refugees} (2025) Asylum-seekers.
-  https://www.unhcr.org/us/about-unhcr/who-we-protect/asylum-seekers
-
-\bibitem[{{United Nations High Commissioner for Refugees
-  (UNHCR)}(2022)}]{UNHCR_2022}
-{United Nations High Commissioner for Refugees (UNHCR)} (2022) A record 100
-  million people forcibly displaced worldwide.
+\bibitem[{{United Nations High Commissioner for Refugees}(2022)}]{UNHCR_2022}
+{United Nations High Commissioner for Refugees} (2022) A record 100 million
+  people forcibly displaced worldwide.
   \urlprefix\url{https://news.un.org/en/story/2022/05/1118772}, accessed on 29
   October 2024
 
@@ -687,11 +667,12 @@ Udemgba C, Missov E, Percy R, et~al (2021) A case report of an unusual left
 \bibitem[{Vujkovic(2019)}]{Vujkovic_2019}
 Vujkovic M (2019) The suffering of omid: How a burns victim died despite
   injuries that were 'very survivable'. ABC News
+  \urlprefix\url{https://au.headtopics.com/news/the-suffering-of-omid-how-a-burns-victim-died-despite-injuries-that-were-very-survivable-4487685}
 
 \bibitem[{Wadhwa et~al.(2015)Wadhwa, Madhavan, Augustine, Shenoy, and
   Mirza}]{Wadhwa_2015e}
 Wadhwa C, Madhavan S, Augustine AJ, et~al (2015) The “mule” with golden
-  eggs: Retrieval of unusual foreign body. Journal Of Digestive Endoscopy
+  eggs: Retrieval of unusual foreign body. J Dig Endosc
   \doi{10.4103/0976-5042.159247}
 
 \bibitem[{Waskom(2021)}]{Waskom_2021}
@@ -701,29 +682,28 @@ Waskom ML (2021) seaborn: statistical data visualization. Journal of Open
 \bibitem[{Wildhaber et~al.(2005)Wildhaber, Le~Coultre, and
   Genin}]{Wildhaber_2005}
 Wildhaber BE, Le~Coultre C, Genin B (2005) Ingestion of magnets: innocent in
-  solitude, harmful in groups. Journal of Pediatric Surgery 40(10):e33--35.
+  solitude, harmful in groups. J Pediatr Surg 40(10):e33--35.
   \doi{10.1016/j.jpedsurg.2005.06.022}
 
 \bibitem[{Wnek et~al.(2015)Wnek, Lozynska-Nelke, and Karon}]{Wnęk_2015f}
 Wnek B, Lozynska-Nelke A, Karon J (2015) Foreign body in the gastrointestinal
   tract leading to small bowel obstruction--case report and literature review.
-  Polski przeglad chirurgiczny 86(12):594--597. \doi{10.1515/pjs-2015-0006}
+  Pol Prz Chir 86(12):594--597. \doi{10.1515/pjs-2015-0006}
 
 \bibitem[{Yasin et~al.(2009)Yasin, Malik, Malik, and Rathore}]{Yasin_2009}
 Yasin MA, Malik GN, Malik SA, et~al (2009) Metal in stomach: a rare cause of
-  gastric bezoar. BMJ Case Reports 2009:bcr06.2008.0278.
+  gastric bezoar. BMJ Case Rep 2009:bcr06.2008.0278.
   \doi{10.1136/bcr.06.2008.0278}
 
 \bibitem[{Y{\i}ld{\i}z et~al.(2016)Y{\i}ld{\i}z, Koca, Av{\c s}ar, and
   Barut}]{Yildiz_2016e}
 Y{\i}ld{\i}z {\.I}, Koca YS, Av{\c s}ar G, et~al (2016) Tendency to ingest
   foreign bodies in mentally retarded patients: A case with ileal perforation
-  caused by the ingestion of a teaspoon. Case reports in surgery 2016:8075432.
+  caused by the ingestion of a teaspoon. Case Rep Surg 2016:8075432.
   \doi{10.1155/2016/8075432}
 
 \bibitem[{Zhao et~al.(2022)Zhao, Zhao, Wang, Liu, Qi, Li, and Zuo}]{Zhao_2022e}
 Zhao G, Zhao S, Wang S, et~al (2022) Unexpected death from hepatic abscess 16
-  months after toothbrush ingestion. Journal Of Forensic Sciences
-  \doi{10.1111/1556-4029.15079}
+  months after toothbrush ingestion. J Forens Sci \doi{10.1111/1556-4029.15079}
 
 \end{thebibliography}

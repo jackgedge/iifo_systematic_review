@@ -1,6 +1,6 @@
 This is BibTeX, Version 0.99d (TeX Live 2026/dev/Arch Linux)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: manuscript.aux
+The top-level auxiliary file: supplement.aux
 The style file: sn-basic.bst
 Database file #1: bibliography_issn.bib
 Reallocated buffer (elt_size=1) to 40000 items from 20000.
@@ -41,44 +41,46 @@ Reallocated name_tok (elt_size=8) to 140000 items from 120000.
 Reallocated name_sep_char (elt_size=1) to 140000 items from 120000.
 sn-basic.bst [2024/07/19 v1.1 bibliography style]
 Reallocated wiz_functions (elt_size=8) to 6000 items from 3000.
-You've used 130 entries,
+Warning--missing publisher in AmericanPsychiatricAssociation_2013
+You've used 7 entries,
             3567 wiz_defined-function locations,
-            1761 strings with 49601 characters,
-and the built_in function-call counts, 105339 in all, are:
-= -- 9700
-> -- 5072
-< -- 47
-+ -- 1963
-- -- 1522
-* -- 9149
-:= -- 15772
-add.period$ -- 229
-call.type$ -- 130
-change.case$ -- 1216
-chr.to.int$ -- 135
-cite$ -- 130
-duplicate$ -- 7318
-empty$ -- 7999
-format.name$ -- 1906
-if$ -- 21786
-int.to.chr$ -- 2
+            761 strings with 6432 characters,
+and the built_in function-call counts, 2593 in all, are:
+= -- 221
+> -- 70
+< -- 7
++ -- 28
+- -- 21
+* -- 150
+:= -- 470
+add.period$ -- 7
+call.type$ -- 7
+change.case$ -- 40
+chr.to.int$ -- 7
+cite$ -- 8
+duplicate$ -- 199
+empty$ -- 221
+format.name$ -- 28
+if$ -- 510
+int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 959
-newline$ -- 399
-num.names$ -- 520
-pop$ -- 2784
+missing$ -- 33
+newline$ -- 30
+num.names$ -- 28
+pop$ -- 86
 preamble$ -- 1
-purify$ -- 1083
+purify$ -- 35
 quote$ -- 0
-skip$ -- 2589
+skip$ -- 89
 stack$ -- 0
-substring$ -- 7120
-swap$ -- 2453
-text.length$ -- 4
+substring$ -- 77
+swap$ -- 57
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 1158
-warning$ -- 0
-while$ -- 662
+type$ -- 57
+warning$ -- 1
+while$ -- 21
 width$ -- 0
-write$ -- 1529
+write$ -- 81
+(There was 1 warning)
