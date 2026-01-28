@@ -1,4 +1,4 @@
-\begin{thebibliography}{130}
+\begin{thebibliography}{134}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{{#1}}
 \providecommand{\urlprefix}{URL }
@@ -54,6 +54,12 @@ Ali A, Mahgoub AM, Emad S, et~al (2022) Endoscopic retrieval of an ingested
 Ali SM (2017) Duodenal perforation by swallowed toothbrush: Case report and
   review of literature. Open Access J Surg 4(2).
   \doi{10.19080/OAJS.2017.04.555632}
+
+\bibitem[{{American Psychiatric
+  Association}(2013)}]{AmericanPsychiatricAssociation_2013}
+{American Psychiatric Association} (2013) Diagnostic and statistical manual of
+  mental disorders (5th ed.).
+  \urlprefix\url{https://psychiatryonline.org/doi/book/10.1176/appi.books.9780890425787}
 
 \bibitem[{{Amnesty International}(2024)}]{AmnestyInternational_2024}
 {Amnesty International} (2024) Refugees, asylum seekers and migrants.
@@ -186,6 +192,11 @@ Cs{\'a}ky G, Szederk{\'e}nyi I, Botos A, et~al (1998) Laparoscopic removal of a
 Davidson H, Doherty B (2016) Iranian refugee critically ill after setting
   himself on fire on nauru during un visit.
   \urlprefix\url{https://www.theguardian.com/australia-news/2016/apr/27/iranian-asylum-seeker-severely-burnt-after-setting-himself-on-fire-on-nauru}
+
+\bibitem[{Deng(1998)}]{Deng_1998}
+Deng FM (1998) Guiding Principles on Internal Displacement. UN Doc
+  E/CN.4/1998/53/Add.2, United Nations,
+  \urlprefix\url{https://digitallibrary.un.org/record/535577?v=pdf}
 
 \bibitem[{Divsalar et~al.(2023)Divsalar, Hosseini~Mousa, and
   Hayatbakhsh~Abbasi}]{DivsalarP._2023a}
@@ -647,6 +658,10 @@ Tupesis JP, Kaminski A, Patel H, et~al (2004) A penny for your thoughts: small
 Udemgba C, Missov E, Percy R, et~al (2021) A case report of an unusual left
   atrial mass. Eur Heart J Case Rep 5(1):ytaa500. \doi{10.1093/ehjcr/ytaa500}
 
+\bibitem[{{UN General Assembly}(1967)}]{UNGeneralAssembly_1967}
+{UN General Assembly} (1967) Protocol relating to the status of refugees.
+  \urlprefix\url{https://www.ohchr.org/en/instruments-mechanisms/instruments/protocol-relating-status-refugees}
+
 \bibitem[{{United Nations}(1951)}]{UNHCR_2010}
 {United Nations} (1951) The 1951 refugee convention and 1967 protocol relating
   to the status of refugees.
@@ -657,6 +672,11 @@ Udemgba C, Missov E, Percy R, et~al (2021) A case report of an unusual left
   people forcibly displaced worldwide.
   \urlprefix\url{https://news.un.org/en/story/2022/05/1118772}, accessed on 29
   October 2024
+
+\bibitem[{{United Nations High Commissioner for
+  Refugees}(2025)}]{UnitedNationsHighCommissionerforRefugees_2025}
+{United Nations High Commissioner for Refugees} (2025) Asylum-seekers.
+  \urlprefix\url{https://www.unhcr.org/us/about-unhcr/who-we-protect/asylum-seekers}
 
 \bibitem[{{von Werthern} et~al.(2018){von Werthern}, Robjant, Chui, Schon,
   Ottisova, Mason, and Katona}]{vonWerthern_2018}

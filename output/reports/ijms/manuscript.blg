@@ -41,44 +41,46 @@ Reallocated name_tok (elt_size=8) to 140000 items from 120000.
 Reallocated name_sep_char (elt_size=1) to 140000 items from 120000.
 sn-basic.bst [2024/07/19 v1.1 bibliography style]
 Reallocated wiz_functions (elt_size=8) to 6000 items from 3000.
-You've used 130 entries,
+Warning--missing publisher in AmericanPsychiatricAssociation_2013
+You've used 134 entries,
             3567 wiz_defined-function locations,
-            1761 strings with 49601 characters,
-and the built_in function-call counts, 105339 in all, are:
-= -- 9700
-> -- 5072
-< -- 47
-+ -- 1963
-- -- 1522
-* -- 9149
-:= -- 15772
-add.period$ -- 229
-call.type$ -- 130
-change.case$ -- 1216
-chr.to.int$ -- 135
-cite$ -- 130
-duplicate$ -- 7318
-empty$ -- 7999
-format.name$ -- 1906
-if$ -- 21786
+            1783 strings with 50381 characters,
+and the built_in function-call counts, 106828 in all, are:
+= -- 9824
+> -- 5112
+< -- 51
++ -- 1979
+- -- 1534
+* -- 9235
+:= -- 16038
+add.period$ -- 233
+call.type$ -- 134
+change.case$ -- 1238
+chr.to.int$ -- 139
+cite$ -- 135
+duplicate$ -- 7434
+empty$ -- 8133
+format.name$ -- 1922
+if$ -- 22085
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 959
-newline$ -- 399
-num.names$ -- 520
-pop$ -- 2784
+missing$ -- 980
+newline$ -- 411
+num.names$ -- 536
+pop$ -- 2837
 preamble$ -- 1
-purify$ -- 1083
+purify$ -- 1103
 quote$ -- 0
-skip$ -- 2589
+skip$ -- 2642
 stack$ -- 0
-substring$ -- 7120
-swap$ -- 2453
+substring$ -- 7164
+swap$ -- 2486
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 1158
-warning$ -- 0
-while$ -- 662
+type$ -- 1188
+warning$ -- 1
+while$ -- 674
 width$ -- 0
-write$ -- 1529
+write$ -- 1571
+(There was 1 warning)

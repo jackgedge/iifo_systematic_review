@@ -7,7 +7,7 @@ ijms
 |
 abstract.tex - abstract LaTeX source code.
 manuscript.tex - manuscript LaTeX source code.
-manuscript.pdf - manuscript (with abstract) in PDF format.
+manuscript.pdf - manuscript (with abstract and supplment) in PDF format.
 supplement.tex - supplement LaTeX source code.
 supplement.pdf - supplement in PDF format.
 |
@@ -19,5 +19,6 @@ sn-* - Springer Nature LaTeX template files.
 |
 bibliography_issn.bib - bibliography with issn journal abbreviations.
 bibliography_long.bib - bibliography with long format journal titles.
+manuscript.bbl - formatted bibtex bibliography for LaTeX compilation.
 |
 ...other auxiliary files from LaTeX compilation pdf generation.

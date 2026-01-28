@@ -1,5 +1,5 @@
 % Define document class
-\documentclass[sn-basic, Numbered]{sn-jnl}
+\documentclass[pdflatex,sn-basic,Numbered]{sn-jnl}
 
 % Spring nature specific packages
 \usepackage{graphicx}
@@ -25,18 +25,13 @@
 \usepackage{geometry}
 %\usepackage{breakurl}
 %\usepackage{apacite}
-\usepackage{natbib}
+%\usepackage{natbib}
 \usepackage{hypcap}
 \usepackage{wrapfig}
 \usepackage{hyperref}
 \usepackage{amsthm}
 
 \geometry{a4paper, margin=2cm} % Set margins
-
-% Specific Packages added by me
-% \usepackage{orcidlink}
-\usepackage{xr} % Reference supplement
-\externaldocument{supplement} % Reference supplement
 
 \begin{document}
 
@@ -375,6 +370,10 @@ The data and code used in this systematic review are available on \href{https://
 % Author Contributions
 \section*{Author Contributions}
 Conceptualisation: JGE, GC; Data curation: JGE; Formal analysis: JGE; Funding acquisition: JGE; Investigation: JGE; Methodology: JGE, GC; Project administration: JGE; Resources: JGE; Software: JGE; Supervision: GC; Validation: JGE, GC; Visualization: JGE; Writing – original draft: JGE; Writing – review \& editing: JGE, GC.
+
+% Supplement 
+\clearpage
+\input{supplement.tex}
 
 % Bibliography
 \clearpage
