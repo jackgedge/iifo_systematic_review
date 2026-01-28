@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2026.1.6)  28 JAN 2026 16:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2026.1.6)  28 JAN 2026 17:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -705,21 +705,21 @@ Package hyperref Info: Link coloring ON on input line 41.
 \openout3 = `manuscript.out'.
 
 \c@lstlisting=\count343
- (./sections/front_matter.tex
-LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 20.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 20.
+ (./abstract.tex)
+LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 55.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 55.
 
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 55.
 
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 20
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 55
 .
 
 (/usr/share/texmf-dist/tex/latex/jknapltx/ursfs.fd
@@ -727,36 +727,36 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <8.43146> not available
-(Font)              size <8> substituted on input line 20.
+(Font)              size <8> substituted on input line 55.
 
-LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 20
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 55
 .
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <5.52061> not available
-(Font)              size <6> substituted on input line 20.
+(Font)              size <6> substituted on input line 55.
 
-LaTeX Font Info:    Calculating math sizes for size <9.03374> on input line 20.
+LaTeX Font Info:    Calculating math sizes for size <9.03374> on input line 55.
 
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <4.51686> not available
-(Font)              size <5> substituted on input line 20.
+(Font)              size <5> substituted on input line 55.
 
-LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 20
+LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 55
 .
-)
+
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./sections/intro.tex
-Underfull \hbox (badness 1308) in paragraph at lines 14--15
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 1308) in paragraph at lines 72--73
 []\OT1/cmr/m/n/10 While tech-niques for for-eign body removal have advanced|fro
 m early gas-tro-tomy to mod-ern
  []
 
-) (./sections/methods.tex (./tables/picos_table.tex
+(./tab_picos.tex
 LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 3.
 
 
@@ -783,21 +783,21 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.40 M
-      ultivariate logistic regression was not performed due to the limited s...
-]) (./sections/results.tex
-<figures/prisma_diagram.jpeg, id=268, 844.8363pt x 597.6729pt>
-File: figures/prisma_diagram.jpeg Graphic file (type jpg)
-<use figures/prisma_diagram.jpeg>
-Package pdftex.def Info: figures/prisma_diagram.jpeg  used on input line 8.
+l.124 M
+       ultivariate logistic regression was not performed due to the limited ...
+]
+<fig_prisma_diagram.jpeg, id=268, 844.8363pt x 597.6729pt>
+File: fig_prisma_diagram.jpeg Graphic file (type jpg)
+<use fig_prisma_diagram.jpeg>
+Package pdftex.def Info: fig_prisma_diagram.jpeg  used on input line 148.
 (pdftex.def)             Requested size: 466.62523pt x 330.11642pt.
- (./sections/risk_of_bias_results.tex
+
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [4])
-(./tables/case_report_table.tex
+ [4]
+(./tab_case_report.tex
 LaTeX Font Info:    Trying to load font information for OML+cmr on input line 2
 1.
  (/usr/share/texmf-dist/tex/latex/base/omlcmr.fd
@@ -813,9 +813,9 @@ Overfull \hbox (36.61884pt too wide) in paragraph at lines 1--57
 
 LaTeX Warning: Float too large for page by 24.52914pt on input line 57.
 
-) (./sections/study_characteristics.tex
+)
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.03749> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 13.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 182.
 
 
 
@@ -826,9 +826,9 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.15 C
-      omplication rates were high (66\%), as were rates of endoscopy and sur...
- <./figures/prisma_diagram.jpeg>]
+l.184 C
+       omplication rates were high (66\%), as were rates of endoscopy and su...
+ <./fig_prisma_diagram.jpeg>]
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -838,25 +838,24 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.15 C
-      omplication rates were high (66\%), as were rates of endoscopy and sur...
-])
-<figures/case_country_plot.jpeg, id=1285, 662.7159pt x 348.3414pt>
-File: figures/case_country_plot.jpeg Graphic file (type jpg)
-<use figures/case_country_plot.jpeg>
-Package pdftex.def Info: figures/case_country_plot.jpeg  used on input line 25.
-
+l.184 C
+       omplication rates were high (66\%), as were rates of endoscopy and su...
+]
+<fig_case_country_plot.jpeg, id=1285, 662.7159pt x 348.3414pt>
+File: fig_case_country_plot.jpeg Graphic file (type jpg)
+<use fig_case_country_plot.jpeg>
+Package pdftex.def Info: fig_case_country_plot.jpeg  used on input line 208.
 (pdftex.def)             Requested size: 466.62523pt x 245.27774pt.
- (./tables/country_table.tex
+ (./tab_country.tex
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./tables/case_series_table.tex
+) (./tab_case_series.tex
 Overfull \hbox (12.00002pt too wide) in paragraph at lines 1--51
  [] 
  []
 
-) (./sections/synthesis.tex
+)
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -866,8 +865,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.8 
-     <./figures/case_country_plot.jpeg>] (./tables/univ_results_table.tex
+l.224 
+       <./fig_case_country_plot.jpeg>] (./tab_univ_results.tex
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 [] \OT1/cmr/m/n/9 Child/Ado-les-cent
  []
@@ -912,8 +911,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.23 A
-      lthough no statistically significant demographic differences were obse...
+l.239 A
+       lthough no statistically significant demographic differences were obs...
 ]
 
 
@@ -924,8 +923,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.4}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.23 A
-      lthough no statistically significant demographic differences were obse...
+l.239 A
+       lthough no statistically significant demographic differences were obs...
 ]
 
 
@@ -936,19 +935,18 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.5}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.23 A
-      lthough no statistically significant demographic differences were obse...
+l.239 A
+       lthough no statistically significant demographic differences were obs...
 ]
-<figures/ma_all_plot.jpeg, id=1387, 536.60475pt x 453.01245pt>
-File: figures/ma_all_plot.jpeg Graphic file (type jpg)
-<use figures/ma_all_plot.jpeg>
-Package pdftex.def Info: figures/ma_all_plot.jpeg  used on input line 51.
+<fig_ma_all_plot.jpeg, id=1387, 536.60475pt x 453.01245pt>
+File: fig_ma_all_plot.jpeg Graphic file (type jpg)
+<use fig_ma_all_plot.jpeg>
+Package pdftex.def Info: fig_ma_all_plot.jpeg  used on input line 267.
 (pdftex.def)             Requested size: 466.62523pt x 393.93793pt.
-<figures/ma_series_only_plot.jpeg, id=1388, 539.97736pt x 453.01245pt>
-File: figures/ma_series_only_plot.jpeg Graphic file (type jpg)
-<use figures/ma_series_only_plot.jpeg>
-Package pdftex.def Info: figures/ma_series_only_plot.jpeg  used on input line 5
-8.
+<fig_ma_series_only_plot.jpeg, id=1388, 539.97736pt x 453.01245pt>
+File: fig_ma_series_only_plot.jpeg Graphic file (type jpg)
+<use fig_ma_series_only_plot.jpeg>
+Package pdftex.def Info: fig_ma_series_only_plot.jpeg  used on input line 274.
 (pdftex.def)             Requested size: 466.62523pt x 391.47711pt.
 
 
@@ -956,12 +954,12 @@ Package pdftex.def Info: figures/ma_series_only_plot.jpeg  used on input line 5
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11]
-(./tables/meta_regression.tex
+(./tab_meta_regression.tex
 Overfull \hbox (12.00002pt too wide) in paragraph at lines 1--32
  [] 
  []
 
-)) (./sections/discussion.tex
+)
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -971,9 +969,9 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.11 I
-      n the largest series ($n = 52$) \cite{Lee_2007}, protest motivation wa...
- <./figures/ma_all_plot.jpeg>]
+l.309 I
+       n the largest series ($n = 52$) \cite{Lee_2007}, protest motivation w...
+ <./fig_ma_all_plot.jpeg>]
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -983,33 +981,32 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.11 I
-      n the largest series ($n = 52$) \cite{Lee_2007}, protest motivation wa...
+l.309 I
+       n the largest series ($n = 52$) \cite{Lee_2007}, protest motivation w...
 
 pdfTeX warning (ext4): destination with the same identifier (name{table.6}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.11 I
-      n the largest series ($n = 52$) \cite{Lee_2007}, protest motivation wa...
- <./figures/ma_series_only_plot.jpeg>]
+l.309 I
+       n the largest series ($n = 52$) \cite{Lee_2007}, protest motivation w...
+ <./fig_ma_series_only_plot.jpeg>]
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14])
-<figures/case_subgroup_analysis.jpeg, id=1432, 234.6366pt x 583.2189pt>
-File: figures/case_subgroup_analysis.jpeg Graphic file (type jpg)
-<use figures/case_subgroup_analysis.jpeg>
-Package pdftex.def Info: figures/case_subgroup_analysis.jpeg  used on input lin
-e 40.
+ [14]
+<fig_case_subgroup_analysis.jpeg, id=1432, 234.6366pt x 583.2189pt>
+File: fig_case_subgroup_analysis.jpeg Graphic file (type jpg)
+<use fig_case_subgroup_analysis.jpeg>
+Package pdftex.def Info: fig_case_subgroup_analysis.jpeg  used on input line 35
+5.
 (pdftex.def)             Requested size: 264.77823pt x 658.13977pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./sections/funding.tex) (./sections/disclosure.tex) (./sections/data.tex)
-(./sections/author_contributions.tex)
+
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1024,8 +1021,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.70 \clearpage
-                <./figures/case_subgroup_analysis.jpeg>] (./manuscript.bbl
+l.380 \clearpage
+                 <./fig_case_subgroup_analysis.jpeg>] (./manuscript.bbl
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1142,13 +1139,13 @@ Package rerunfilecheck Info: File `manuscript.out' has not changed.
 (rerunfilecheck)             Checksum: 40967D0C8FADD41D5AD4B634A83CE54A;4730.
  ) 
 Here is how much of TeX's memory you used:
- 15695 strings out of 475171
- 243503 string characters out of 5767096
- 751729 words of memory out of 5000000
- 38157 multiletter control sequences out of 15000+600000
+ 15626 strings out of 475171
+ 241292 string characters out of 5767096
+ 752150 words of memory out of 5000000
+ 38124 multiletter control sequences out of 15000+600000
  593148 words of font info for 170 fonts, out of 8000000 for 9000
  24 hyphenation exceptions out of 8191
- 90i,15n,93p,7207b,816s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,15n,93p,7136b,816s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></usr/share
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/publ

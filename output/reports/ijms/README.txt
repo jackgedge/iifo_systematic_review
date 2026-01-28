@@ -1,24 +1,23 @@
 ## Compliation 
-This review was compiled using LaTeX and is best view in PDF format. The manuscript submitted in .docx format was compiled from LaTeX, so some features, such as section and figure referencing, do not work. Files for PDF LaTeX compilation are provided in saltb.zip and the structure and contents are outline below.
+This review was compiled using LaTeX and is best viewed in PDF format. 
 
 ## File Structure 
 
 ijms
 |
+abstract.tex - abstract LaTeX source code.
 manuscript.tex - manuscript LaTeX source code.
-manuscript.pdf - manuscript in PDF format.
-prisma_checklist.odt - PRISMA Checklist in ODT Format.
-prisma_checklist.pdf - PRISMA Checklist in PDF format.
-supplement.tex - supplementary material LaTeX source code.
-supplement.pdf - supplementary material in PDF format.
+manuscript.pdf - manuscript (with abstract) in PDF format.
+supplement.tex - supplement LaTeX source code.
+supplement.pdf - supplement in PDF format.
 |
-taylor-and-francis-vancouver-national-library-of-medicine.csl - for reference styling with pandoc to .docx/.odt format.
-bibliography.bib - bibliography.
+fig_* - figures.
+tab_* - tables.
+doc_1456706_11845_IJMS Authorship Form_signedjg.pdf - signed authorship form.
+doc_coi_disclosure_signedjg - signed conflicts of interest disclosure.
+sn-* - Springer Nature LaTeX template files.
 |
-...other auxiliary files from pdf generation
+bibliography_issn.bib - bibliography with issn journal abbreviations.
+bibliography_long.bib - bibliography with long format journal titles.
 |
-|----docs - additional documents required for journal submission.
-|----figures - figures in the journals desired format.
-|----sections - LaTeX source code of sections used in manuscript.tex.
-|----styles - Custom styles required for LaTeX compilation.
-|----tables - LaTeX source code of tables used in manuscript.tex.
+...other auxiliary files from LaTeX compilation pdf generation.
